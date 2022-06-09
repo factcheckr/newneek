@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/</id>
     <title>뉴닉 ─ 전체</title>
-    <updated>2022-06-09T00:31:32.701Z</updated>
+    <updated>2022-06-09T02:52:41.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -24,7 +24,7 @@
         <link href="https://newneek.co/post/JTyhHy"/>
         <updated>2022-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[*이 콘텐츠는 Salesforce로부터 광고비를 받아 제작되었습니다.&nbsp;
-$%name%$ 뉴니커, 혹시 ‘가심비’나 ‘가잼비’라는 말 들어본 적 있나요? ‘가격 대비 성능’을 뜻하는 ‘가성비’와 달리 ‘가심비’는 마음(心)을, ‘가잼비’는 재미를 중요하게 여기는 태도를 가리켜요. 사람들이 제품이나 서비스를 평가하는 기준도 좀 달라진 것. 그래서 요즘은 일할 때도 고객 마음 읽기가 중요하다고.
+뉴니커, 혹시 ‘가심비’나 ‘가잼비’라는 말 들어본 적 있나요? ‘가격 대비 성능’을 뜻하는 ‘가성비’와 달리 ‘가심비’는 마음(心)을, ‘가잼비’는 재미를 중요하게 여기는 태도를 가리켜요. 사람들이 제품이나 서비스를 평가하는 기준도 좀 달라진 것. 그래서 요즘은 일할 때도 고객 마음 읽기가 중요하다고.
 (고객 마음) 모르는데 어떻게 해요
 괜찮아요. 이렇게 기업이 고객과 찰떡궁합으로 일하는 걸 CRM(Customer Relationship Management, 고객 관계 관리)이라고 하는데, CRM을 도와주는 세일즈포스(Salesforce) 같은 회사가 있거든요. 그런데 이번에 세일즈포스가 고객 마음을 척척 읽을 수 있는 팁을 전해준다고 해서, 소식 가져왔어요.
 
