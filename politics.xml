@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2022-06-21T20:04:11.830Z</updated>
+    <updated>2022-06-21T21:03:32.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 공공기관 경영평가]]></title>
+        <id>https://newneek.co/post/7CgYIV</id>
+        <link href="https://newneek.co/post/7CgYIV"/>
+        <updated>2022-06-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[어제(21일), 우리나라 공공기관 130개가 지난해&nbsp;경영 상황에 대한 성적표를 받았어요. 공공기관운영위원회(공운위)가 매년 각 기관에 매기는 6단계(S·A·B·C·D·E) 등급 평가 결과가 나온 건데요. 눈에 띄는 성적표 몇 장 자세히 들여다보면:
+
+
+S등급 한국동서발전:&nbsp;안전사고를 잘 예방하고, 경영도 윤리적으로 하고, 설비도 안정적으로 운영해서 최고 등급을 받았어요. 공공기관 평가에서 S등급을 받은 곳이 나온 건 10년 만이라고.
+
+
+E등급 한국해양교통안전공단:&nbsp;가장 낮은 등급을 받아 기관장이 자리에서 물러나는 게 좋겠다는 얘기가 나왔어요.
+
+
+C등급 한국전력공사와 자회사:&nbsp;주머니 사정이 너무 좋지 않으니 임원들이 받은 보너스를 반납하면 좋겠다는 얘기가 나왔어요.
+
+
+130장의 성적표 싹 모아놓고 살펴보면 높은 등급(S·A·B)과 낮은 등급(D·E)을 받은 기관 수·비율 등이 지난해와 비슷하다고. 이에 윤석열 대통령은 공공기관에&nbsp;과감한 변화가 필요하다고 꼬집었어요: “국민의 믿음 얻을 수 있는 기관으로 변해야 해.”&nbsp;&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[입법 공백 장기화]]></title>
         <id>https://newneek.co/post/HwvENa</id>
@@ -361,13 +380,5 @@
 아래 링크를 눌러 어떤 부분이 좋았는지, 어떤 부분은 아쉬웠는지 알려주세요.
 다음번 피자스테이션 준비하는 데 참고할게요!
 피드백 남기러 가기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수사를 수사하는 특검팀 출동]]></title>
-        <id>https://newneek.co/post/Oe8iC0</id>
-        <link href="https://newneek.co/post/Oe8iC0"/>
-        <updated>2022-06-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지난해 6월, 공군에서는&nbsp;성폭력과 조직적인 2차 가해로 부사관이 목숨을 잃었는데요. 성폭력 가해자에게는 징역 9년형이라는 벌이 내려졌지만, 이 사건을 덮고 넘어가려고 한 혐의를 받는 공군 수사 담당자와 공군 검찰 지휘부는 법정에 서지 않았어요. 국방부 검찰단이 증거가 충분하지 않다며 재판에 넘기지 않았기 때문(=불기소 처분).
-특히 군사 검찰이 같은 군사 검찰을 수사하는 건&nbsp;폐쇄성 때문에 문제가 많다는 비판이 자주 나왔는데요. 이런 한계를 극복하고, 눈치보지 말고 수사하라고 특별검사(특검)를 임명한 거예요. 어제(7일),&nbsp;‘고 이예람 중사 특검법’을&nbsp;통해 임명된 안미영 특별검사팀이 공식적으로 수사 활동을 시작했고요. 특검팀은 고인과 같은&nbsp;피해자가 다시 발생하지 않도록&nbsp;군에서 2차 가해나 사건을 덮으려는 시도는 없었는지, 이전의 수사가 부실하지는 않았는지 등을 더 살펴볼 예정이에요.]]></content>
     </entry>
 </feed>
