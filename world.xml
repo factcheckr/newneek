@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2022-07-30T23:05:03.372Z</updated>
+    <updated>2022-07-31T00:32:27.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -92,7 +92,7 @@
         <id>https://newneek.co/post/ojowv2</id>
         <link href="https://newneek.co/post/ojowv2"/>
         <updated>2022-07-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/image/article/thumbnail/ojowv2" alt=""></figure><div class="card-body"><h3 class="card-title">우간다 '이예진' 뉴니커</h3><time class="card-date">2022/07/29</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/image/article/thumbnail/ojowv2" alt=""></figure><div class="card-body"><h3 class="card-title">우간다 '이예진' 뉴니커</h3><time class="card-date">2022/07/29</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국-중국 사이에서 반도체 눈치 싸움]]></title>
