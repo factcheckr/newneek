@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/</id>
     <title>뉴닉 ─ 전체</title>
-    <updated>2022-08-11T11:03:34.018Z</updated>
+    <updated>2022-08-11T12:12:40.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -64,7 +64,7 @@ A. 앱에서 “닷생 살자!”라고 말을 걸거나 텍스트로 입력하�
 나도 에이닷&nbsp;이벤트 참여할래!]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[긴장한 물가에 느슨함을 주는 쌀값]]></title>
+        <title type="html"><![CDATA[쌀값만 혼자서 계속 떨어지는 이유]]></title>
         <id>https://newneek.co/post/ldS9c7</id>
         <link href="https://newneek.co/post/ldS9c7"/>
         <updated>2022-08-11T00:00:00.000Z</updated>
