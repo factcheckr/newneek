@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/labor</id>
     <title>뉴닉 ─ 노동</title>
-    <updated>2022-11-27T05:03:48.238Z</updated>
+    <updated>2022-11-27T06:07:02.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -33,7 +33,8 @@
         <id>https://newneek.co/post/1DXj4K</id>
         <link href="https://newneek.co/post/1DXj4K"/>
         <updated>2022-11-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[슬랙만 잘 써도 일잘러 될 수 있다고?
+        <content type="html"><![CDATA[*이 콘텐츠는 Slack으로부터 광고비를 받아 제작되었습니다.
+슬랙만 잘 써도 일잘러 될 수 있다고?
 뉴니커, 요즘 일 잘하기로 소문난 회사의 공통점이 뭔지 알아요? 협업툴의 끝판왕으로 불리는 메신저 서비스인 슬랙(Slack)을 쓴다는 점이에요. 다른 메신저보다 훨씬 쉽고, 재밌고, 체계적으로 회사 내 커뮤니케이션을 할 수 있게 돕는 슬랙 덕분에 업무 능률이 팍팍 올라가기 때문.
 에이~ 과장이 좀 심한 것 같은데
 과장이 아니에요. 전 세계에서 이름 좀 날린다는 기업 대부분이 슬랙을 괜히 쓰는 게 아니거든요. 하나씩 살펴보면:
