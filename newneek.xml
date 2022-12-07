@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/</id>
     <title>뉴닉 ─ 전체</title>
-    <updated>2022-12-06T23:02:53.463Z</updated>
+    <updated>2022-12-07T00:29:16.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -106,8 +106,7 @@
 생각이 달라졌거나 더 고민하게 된 부분이 있나요?
 아래 링크를 눌러 뉴니커의 최종 의견도 보내고,
 피자스테이션에 대한 피드백도 들려주세요!
-내 최종 의견은...
-&nbsp;]]></content>
+내 최종 의견은...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화물연대 파업과 정부 대응]]></title>
