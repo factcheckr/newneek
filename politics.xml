@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-01-03T19:03:11.201Z</updated>
+    <updated>2023-01-03T20:04:07.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[“1등만 뽑지 않는 중·대선거구제 하자!”]]></title>
+        <id>https://newneek.co/post/fqJ7Ds</id>
+        <link href="https://newneek.co/post/fqJ7Ds"/>
+        <updated>2023-01-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0-1.png" alt=""></figure><div class="card-body"><h3 class="card-title">“1등만 뽑지 않는 중·대선거구제 하자!”</h3><time class="card-date">2023/01/04</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트럭에서 시작된 불, 터널을 태웠다고?]]></title>
         <id>https://newneek.co/post/Gvcelm</id>
@@ -194,13 +201,5 @@
         <link href="https://newneek.co/post/oBUEXc"/>
         <updated>2022-11-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8F%E1%85%B1%E1%84%8C%E1%85%B3-3.png" alt=""></figure><div class="card-body"><h3 class="card-title">당장 일하지 않으면 처벌한다고?</h3><time class="card-date">2022/11/30</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해킹으로 범죄자 잡기?]]></title>
-        <id>https://newneek.co/post/jBZMoq</id>
-        <link href="https://newneek.co/post/jBZMoq"/>
-        <updated>2022-11-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아동·청소년 대상 디지털 성범죄를 막기 위해 ‘온라인 수색’을 도입해야 한다는 말이 나왔어요 💻. 2021년 9월에는 아동·청소년 대상 디지털 성범죄에 대해서만 잠입수사가 가능해졌어요 🚨. 하지만 이렇게 잠입수사를 해서 디지털 성범죄자를 잡으려면, 범죄자에게 접근해서 범죄자가 성착취물을 파는 등의 행위를 하도록 만들어야 하는데요. 범죄자와 연락이 닿지 않거나, 사라져버리면 수사를 이어가기 어렵다는 한계가 있었어요. 이 때문에 피해자가 늘어나도, 증거를 확보하기는 쉽지 않았고요.
-이런 한계를 해결하기 위해 범죄자의 컴퓨터를 해킹해서 증거를 얻는 온라인 수색을&nbsp;도입해야 한다는 말이 나온 거예요. 범죄자의 컴퓨터를 직접 들여다보면 증거를 확보하기도, 범죄자를 잡기도 쉬워지기 때문. 하지만 온라인 수색이 기본권을 침해한다는 지적이 나와요. 자칫하면 수사와 관련 없는 개인정보까지도 수집할 수 있다는 것 💽. 이에 전문가들은 기본권 침해가 일어나지 않으면서 온라인 수색을 할 수 있도록 엄격한 수사 기준 등을 마련해야 한다고 말해요.]]></content>
     </entry>
 </feed>
