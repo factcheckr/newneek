@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/</id>
     <title>뉴닉 ─ 전체</title>
-    <updated>2023-01-09T00:28:50.900Z</updated>
+    <updated>2023-01-09T02:10:06.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://newneek.co/post/8nUTnM</id>
         <link href="https://newneek.co/post/8nUTnM"/>
         <updated>2023-01-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230109_%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">재선거만 15번, 새로운 미국 No.3  🇺🇸</h3><time class="card-date">2023/01/09</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230109_%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">재선거만 15번, 새로운 미국 No.3  🇺🇸</h3><time class="card-date">2023/01/09</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북한에서 넘어온 무인기 논란 ☁️]]></title>
