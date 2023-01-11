@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2023-01-11T19:03:27.168Z</updated>
+    <updated>2023-01-11T20:03:01.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오른 대출금리, 내려가는 예금금리]]></title>
+        <id>https://newneek.co/post/RgcflY</id>
+        <link href="https://newneek.co/post/RgcflY"/>
+        <updated>2023-01-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">오른 대출금리, 내려가는 예금금리</h3><time class="card-date">2023/01/12</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국과 아르헨티나의 통화스와프]]></title>
+        <id>https://newneek.co/post/UGYtc3</id>
+        <link href="https://newneek.co/post/UGYtc3"/>
+        <updated>2023-01-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2.png" alt=""></figure><div class="card-body"><h3 class="card-title">중국과 아르헨티나의 통화스와프</h3><time class="card-date">2023/01/12</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘사적 제재’ 피자가 도착했습니다!]]></title>
         <id>https://newneek.co/post/9JQI3E</id>
@@ -294,19 +308,5 @@
         <link href="https://newneek.co/post/ZwccgX"/>
         <updated>2023-01-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230109_%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">북한에서 넘어온 무인기 논란 ☁️</h3><time class="card-date">2023/01/09</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍕사랑과 정의의 이름으로 용서하지 않..아도 돼?]]></title>
-        <id>https://newneek.co/post/t9lCfp</id>
-        <link href="https://newneek.co/post/t9lCfp"/>
-        <updated>2023-01-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230109_%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕사랑과 정의의 이름으로 용서하지 않..아도 돼?</h3><time class="card-date">2023/01/09</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 구역 빌라에서 제일 악명 높은 왕 👑]]></title>
-        <id>https://newneek.co/post/XOR2jB</id>
-        <link href="https://newneek.co/post/XOR2jB"/>
-        <updated>2023-01-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">이 구역 빌라에서 제일 악명 높은 왕 👑</h3><time class="card-date">2023/01/06</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
