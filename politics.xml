@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-01-15T19:03:15.154Z</updated>
+    <updated>2023-01-15T20:03:03.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10·29 참사 특별수사 종결]]></title>
+        <id>https://newneek.co/post/7JOOQl</id>
+        <link href="https://newneek.co/post/7JOOQl"/>
+        <updated>2023-01-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2QwUEHz.png" alt=""></figure><div class="card-body"><h3 class="card-title">10·29 참사 특별수사 종결</h3><time class="card-date">2023/01/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘사적 제재’ 피자가 도착했습니다!]]></title>
         <id>https://newneek.co/post/9JQI3E</id>
@@ -209,12 +216,5 @@
         <link href="https://newneek.co/post/Y2suz9"/>
         <updated>2022-12-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_chuWpc5.png" alt=""></figure><div class="card-body"><h3 class="card-title">꼬리에 꼬리를 무는 건강보험 이야기</h3><time class="card-date">2022/12/21</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야당 혼자 시작한 10·29 참사 국정조사]]></title>
-        <id>https://newneek.co/post/xLVXXc</id>
-        <link href="https://newneek.co/post/xLVXXc"/>
-        <updated>2022-12-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%80%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A11.png" alt=""></figure><div class="card-body"><h3 class="card-title">야당 혼자 시작한 10·29 참사 국정조사</h3><time class="card-date">2022/12/20</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
