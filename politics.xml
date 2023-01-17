@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-01-17T19:03:22.424Z</updated>
+    <updated>2023-01-17T20:03:55.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[쌍방울 회장 수사에 왜 이재명이 나와?]]></title>
+        <id>https://newneek.co/post/t1b05f</id>
+        <link href="https://newneek.co/post/t1b05f"/>
+        <updated>2023-01-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_hzeWhne.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">쌍방울 회장 수사에 왜 이재명이 나와?</h3><time class="card-date">2023/01/18</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강제동원 문제, 이게 ‘해법’?]]></title>
         <id>https://newneek.co/post/rJcWDJ</id>
@@ -209,12 +216,5 @@
         <link href="https://newneek.co/post/YX8rHU"/>
         <updated>2022-12-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%86%E1%85%A1%E1%86%AF%E1%84%8F%E1%85%B1%E1%84%8C%E1%85%B3_9.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">오답노트 📝 | 연말 특집 뉴닉 퀴즈 정답과 해설 총정리!</h3><time class="card-date">2022/12/26</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년 국민의힘 리더 뽑는 법은?]]></title>
-        <id>https://newneek.co/post/BAyBvE</id>
-        <link href="https://newneek.co/post/BAyBvE"/>
-        <updated>2022-12-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%80%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A12_taS7Ho2.png" alt=""></figure><div class="card-body"><h3 class="card-title">내년 국민의힘 리더 뽑는 법은?</h3><time class="card-date">2022/12/22</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
