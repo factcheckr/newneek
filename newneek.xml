@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/</id>
     <title>뉴닉 ─ 전체</title>
-    <updated>2023-01-18T23:03:40.778Z</updated>
+    <updated>2023-01-19T00:30:54.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -148,7 +148,7 @@
         <id>https://newneek.co/post/63LJPP</id>
         <link href="https://newneek.co/post/63LJPP"/>
         <updated>2023-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한국-UAE 정상회담, 무슨 얘기 나왔대?</h3><time class="card-date">2023/01/17</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한국-UAE 정상회담, 무슨 얘기 나왔대?</h3><time class="card-date">2023/01/17</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 야, 너두 포토샵 할 수 있어]]></title>
@@ -182,7 +182,7 @@ MZ세대가 창업을 꿈꾸는 이유는 크게 세 가지로 나눌 수 있어
         <id>https://newneek.co/post/rJcWDJ</id>
         <link href="https://newneek.co/post/rJcWDJ"/>
         <updated>2023-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_jtraWow.png" alt=""></figure><div class="card-body"><h3 class="card-title">강제동원 문제, 이게 ‘해법’?</h3><time class="card-date">2023/01/17</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_jtraWow.png" alt=""></figure><div class="card-body"><h3 class="card-title">강제동원 문제, 이게 ‘해법’?</h3><time class="card-date">2023/01/17</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 미국·일본 정상회담]]></title>
