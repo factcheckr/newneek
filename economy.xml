@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-01-24T19:03:20.645Z</updated>
+    <updated>2023-01-24T20:03:55.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[알쏭달쏭 금리 궁금증엔 뉴닉이 답]]></title>
+        <id>https://newneek.co/post/TmWYPN</id>
+        <link href="https://newneek.co/post/TmWYPN"/>
+        <updated>2023-01-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/C883A7E0-2CB1-4DCF-B6B2-ACE74134069E_1_201_a.jpeg" alt=""></figure><div class="card-body"><h3 class="card-title">알쏭달쏭 금리 궁금증엔 뉴닉이 답</h3><time class="card-date">2023/01/25</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[법정최고금리 논쟁: 줄일까 올릴까]]></title>
         <id>https://newneek.co/post/Mo6KKV</id>
@@ -101,12 +108,5 @@ MZ세대가 창업을 꿈꾸는 이유는 크게 세 가지로 나눌 수 있어
         <link href="https://newneek.co/post/teUqQh"/>
         <updated>2023-01-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0-2_93epgCz.png" alt=""></figure><div class="card-body"><h3 class="card-title">중국에서 미국 기업들 떠나는 이유 ✈️</h3><time class="card-date">2023/01/04</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오답노트 📝 | 연말 특집 뉴닉 퀴즈 정답과 해설 총정리!]]></title>
-        <id>https://newneek.co/post/YX8rHU</id>
-        <link href="https://newneek.co/post/YX8rHU"/>
-        <updated>2022-12-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%86%E1%85%A1%E1%86%AF%E1%84%8F%E1%85%B1%E1%84%8C%E1%85%B3_9.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">오답노트 📝 | 연말 특집 뉴닉 퀴즈 정답과 해설 총정리!</h3><time class="card-date">2022/12/26</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
