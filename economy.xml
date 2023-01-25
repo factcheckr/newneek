@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-01-25T19:03:53.216Z</updated>
+    <updated>2023-01-25T20:03:46.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정부가 공시가격 내리는 이유]]></title>
+        <id>https://newneek.co/post/BxEVpy</id>
+        <link href="https://newneek.co/post/BxEVpy"/>
+        <updated>2023-01-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_66tKC7N.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">정부가 공시가격 내리는 이유</h3><time class="card-date">2023/01/26</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세금, 이제 피할 수 없을 걸 💰]]></title>
+        <id>https://newneek.co/post/Mq0v5K</id>
+        <link href="https://newneek.co/post/Mq0v5K"/>
+        <updated>2023-01-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_5etnjoG.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">세금, 이제 피할 수 없을 걸 💰</h3><time class="card-date">2023/01/26</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알쏭달쏭 금리 궁금증엔 뉴닉이 답]]></title>
         <id>https://newneek.co/post/TmWYPN</id>
@@ -94,19 +108,5 @@ MZ세대가 창업을 꿈꾸는 이유는 크게 세 가지로 나눌 수 있어
         <link href="https://newneek.co/post/uUlpKa"/>
         <updated>2023-01-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 2022년, 어디에 가장 많은 시간을 썼나요?</h3><time class="card-date">2023/01/05</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부: 연금개혁 밑그림 그리실게요 💸]]></title>
-        <id>https://newneek.co/post/C9Gxjq</id>
-        <link href="https://newneek.co/post/C9Gxjq"/>
-        <updated>2023-01-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EA%B8%B4%EA%B0%80-2.png" alt=""></figure><div class="card-body"><h3 class="card-title">정부: 연금개혁 밑그림 그리실게요 💸</h3><time class="card-date">2023/01/05</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국에서 미국 기업들 떠나는 이유 ✈️]]></title>
-        <id>https://newneek.co/post/teUqQh</id>
-        <link href="https://newneek.co/post/teUqQh"/>
-        <updated>2023-01-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0-2_93epgCz.png" alt=""></figure><div class="card-body"><h3 class="card-title">중국에서 미국 기업들 떠나는 이유 ✈️</h3><time class="card-date">2023/01/04</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
