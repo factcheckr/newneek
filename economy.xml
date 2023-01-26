@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-01-26T19:03:41.502Z</updated>
+    <updated>2023-01-26T20:03:26.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[순환경제의 의미와 과제]]></title>
+        <id>https://newneek.co/post/Onw8Vx</id>
+        <link href="https://newneek.co/post/Onw8Vx"/>
+        <updated>2023-01-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_lsQZhQb.png" alt=""></figure><div class="card-body"><h3 class="card-title">순환경제의 의미와 과제</h3><time class="card-date">2023/01/27</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부가 공시가격 내리는 이유]]></title>
         <id>https://newneek.co/post/BxEVpy</id>
@@ -101,12 +108,5 @@ MZ세대가 창업을 꿈꾸는 이유는 크게 세 가지로 나눌 수 있어
         <link href="https://newneek.co/post/Fic4Ie"/>
         <updated>2023-01-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0.png" alt=""></figure><div class="card-body"><h3 class="card-title">부동산 규제 이전으로 돌아가요</h3><time class="card-date">2023/01/05</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 2022년, 어디에 가장 많은 시간을 썼나요?]]></title>
-        <id>https://newneek.co/post/uUlpKa</id>
-        <link href="https://newneek.co/post/uUlpKa"/>
-        <updated>2023-01-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 2022년, 어디에 가장 많은 시간을 썼나요?</h3><time class="card-date">2023/01/05</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
