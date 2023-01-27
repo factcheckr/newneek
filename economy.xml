@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-01-26T23:03:27.963Z</updated>
+    <updated>2023-01-27T00:32:18.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://newneek.co/post/TmWYPN</id>
         <link href="https://newneek.co/post/TmWYPN"/>
         <updated>2023-01-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/C883A7E0-2CB1-4DCF-B6B2-ACE74134069E_1_201_a.jpeg" alt=""></figure><div class="card-body"><h3 class="card-title">알쏭달쏭 금리 궁금증엔 뉴닉이 답</h3><time class="card-date">2023/01/25</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/C883A7E0-2CB1-4DCF-B6B2-ACE74134069E_1_201_a.jpeg" alt=""></figure><div class="card-body"><h3 class="card-title">알쏭달쏭 금리 궁금증엔 뉴닉이 답</h3><time class="card-date">2023/01/25</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[법정최고금리 논쟁: 줄일까 올릴까]]></title>
