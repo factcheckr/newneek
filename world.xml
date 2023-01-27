@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-01-27T03:05:48.366Z</updated>
+    <updated>2023-01-27T04:04:46.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://newneek.co/post/MwOPd2"/>
         <updated>2023-01-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023 다보스포럼 총정리 🌐</h3><time class="card-date">2023/01/25</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고)국제앰네스티 편지쓰기 캠페인 W4R: 샤흐네와즈 편]]></title>
+        <id>https://newneek.co/post/cdgs0b</id>
+        <link href="https://newneek.co/post/cdgs0b"/>
+        <updated>2023-01-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_D7nRRgy.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고)국제앰네스티 편지쓰기 캠페인 W4R: 샤흐네와즈 편</h3><time class="card-date">2023/01/19</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 미국·일본 정상회담]]></title>
@@ -111,12 +118,5 @@
         <link href="https://newneek.co/post/8CaLxw"/>
         <updated>2022-12-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%80%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A11_uyQ1KR4.png" alt=""></figure><div class="card-body"><h3 class="card-title">일본도 드디어 금리를 올린다?</h3><time class="card-date">2022/12/22</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 우크라이나 사태의 나비효과]]></title>
-        <id>https://newneek.co/post/tOLOF9</id>
-        <link href="https://newneek.co/post/tOLOF9"/>
-        <updated>2022-12-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 우크라이나 사태의 나비효과</h3><time class="card-date">2022/12/21</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
