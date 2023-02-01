@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-02-01T19:04:11.287Z</updated>
+    <updated>2023-02-01T20:04:04.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자·SK하이닉스 반도체 실적 악화]]></title>
+        <id>https://newneek.co/post/XnJPg7</id>
+        <link href="https://newneek.co/post/XnJPg7"/>
+        <updated>2023-02-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_jgIl3An.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">삼성전자·SK하이닉스 반도체 실적 악화</h3><time class="card-date">2023/02/02</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싸늘하다, 난방비 폭탄이 날아와 꽂힌다]]></title>
         <id>https://newneek.co/post/ZasjLw</id>
@@ -101,12 +108,5 @@ MZ세대가 창업을 꿈꾸는 이유는 크게 세 가지로 나눌 수 있어
         <link href="https://newneek.co/post/EGNUKP"/>
         <updated>2023-01-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_yKCQp07.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023 세계경제 전망: 경기침체</h3><time class="card-date">2023/01/13</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오른 대출금리, 내려가는 예금금리]]></title>
-        <id>https://newneek.co/post/RgcflY</id>
-        <link href="https://newneek.co/post/RgcflY"/>
-        <updated>2023-01-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">오른 대출금리, 내려가는 예금금리</h3><time class="card-date">2023/01/12</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
