@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/</id>
     <title>뉴닉 ─ 전체</title>
-    <updated>2023-02-01T03:19:04.866Z</updated>
+    <updated>2023-02-01T04:06:15.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -142,7 +142,7 @@
         <id>https://newneek.co/post/L6thMU</id>
         <link href="https://newneek.co/post/L6thMU"/>
         <updated>2023-01-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/10535_1675069658_bFjsMZf.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 클라우드 컴퓨팅이 핫하고 AWS가 편리해요</h3><time class="card-date">2023/01/31</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_CfyU9Iy.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 클라우드 컴퓨팅이 핫하고 AWS가 편리해요</h3><time class="card-date">2023/01/31</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[싸늘하다, 난방비 폭탄이 날아와 꽂힌다]]></title>
