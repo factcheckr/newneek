@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-02-02T19:02:55.172Z</updated>
+    <updated>2023-02-02T20:04:14.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 중국 경제 전망과 영향]]></title>
+        <id>https://newneek.co/post/qead1c</id>
+        <link href="https://newneek.co/post/qead1c"/>
+        <updated>2023-02-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_vsw9fGs.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023년 중국 경제 전망과 영향</h3><time class="card-date">2023/02/03</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자·SK하이닉스 반도체 실적 악화]]></title>
         <id>https://newneek.co/post/XnJPg7</id>
@@ -101,12 +108,5 @@ MZ세대가 창업을 꿈꾸는 이유는 크게 세 가지로 나눌 수 있어
 대박... 디자인도 직접 한 거래?
 그럼요! 컨셉에 진심인 20대 과일가게 사장 김도영 씨의 아이디어를 실현시켜준 도구, 바로 어도비 ‘포토샵’이에요. 김 씨는 디자인 작업을 포토샵으로 하는데요 🖥️. 포토샵에 관심 있던 뉴니커라면 지금 바로 아래 버튼을 눌러 김씨네 과일의 포토샵 비법을 배워봐요! (1) 포토샵 무료체험을 시작하고 (2) 실습 파일을 다운 받아 포토샵에서 작업한 다음 (3) 작업물을 만드는 과정을 캡쳐해 올리면 참여 끝! 참여만 해도 딸기 음료 기프티콘을 100% 주고, 추첨을 통해 50명에게는 품절대란으로 구하기 어렵다는 김씨네 과일 티셔츠를 준다고.&nbsp;
 나도 포토샵 써볼래]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 세계경제 전망: 경기침체]]></title>
-        <id>https://newneek.co/post/EGNUKP</id>
-        <link href="https://newneek.co/post/EGNUKP"/>
-        <updated>2023-01-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_yKCQp07.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023 세계경제 전망: 경기침체</h3><time class="card-date">2023/01/13</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>

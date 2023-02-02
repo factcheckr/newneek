@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2023-02-02T19:02:55.176Z</updated>
+    <updated>2023-02-02T20:04:14.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전 세계 이상기후와 기후위기]]></title>
+        <id>https://newneek.co/post/HsyxFq</id>
+        <link href="https://newneek.co/post/HsyxFq"/>
+        <updated>2023-02-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_uPCNJPZ.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">전 세계 이상기후와 기후위기</h3><time class="card-date">2023/02/03</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 중국 경제 전망과 영향]]></title>
+        <id>https://newneek.co/post/qead1c</id>
+        <link href="https://newneek.co/post/qead1c"/>
+        <updated>2023-02-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_vsw9fGs.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023년 중국 경제 전망과 영향</h3><time class="card-date">2023/02/03</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 카카오같이가치와 함께하는 모두의행동]]></title>
         <id>https://newneek.co/post/9LLwuj</id>
@@ -178,19 +192,5 @@
         <link href="https://newneek.co/post/6uOm9q"/>
         <updated>2023-01-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230130_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕보는 게 맞아, 안 보는 게 맞아?</h3><time class="card-date">2023/01/30</time><i class="card-category">노동</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제5차 국민연금 재정추계: 2055년에 고갈?]]></title>
-        <id>https://newneek.co/post/WCn1j2</id>
-        <link href="https://newneek.co/post/WCn1j2"/>
-        <updated>2023-01-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_FyhvEcp.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">제5차 국민연금 재정추계: 2055년에 고갈?</h3><time class="card-date">2023/01/30</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 부채한도 논쟁]]></title>
-        <id>https://newneek.co/post/th5gRT</id>
-        <link href="https://newneek.co/post/th5gRT"/>
-        <updated>2023-01-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_cFZTslp.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">미국 부채한도 논쟁</h3><time class="card-date">2023/01/30</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
