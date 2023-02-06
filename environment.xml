@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2023-02-06T19:05:53.150Z</updated>
+    <updated>2023-02-06T20:06:01.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) 기후솔루션 그린워싱 세탁기 #1]]></title>
+        <id>https://newneek.co/post/lfD14w</id>
+        <link href="https://newneek.co/post/lfD14w"/>
+        <updated>2023-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/1%ED%9A%8C%EC%B0%A8_%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 기후솔루션 그린워싱 세탁기 #1</h3><time class="card-date">2023/02/07</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전 세계 이상기후와 기후위기]]></title>
         <id>https://newneek.co/post/HsyxFq</id>
@@ -272,12 +279,5 @@ $%name%$ 뉴니커, 혹시 분리수거 할 때 PET병 뚜껑을 닫아서 버�
 또 모르지 내 마음이
 저 날씨처럼 바뀌었을지
 &nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 세계 기후 회의(COP27) 결과 총정리.txt]]></title>
-        <id>https://newneek.co/post/isM4lM</id>
-        <link href="https://newneek.co/post/isM4lM"/>
-        <updated>2022-11-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%92%E1%85%AA%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC-3.png" alt=""></figure><div class="card-body"><h3 class="card-title">전 세계 기후 회의(COP27) 결과 총정리.txt</h3><time class="card-date">2022/11/21</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
