@@ -2,9 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-02-09T19:03:45.113Z</updated>
+    <updated>2023-02-09T20:04:15.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[노인 지하철 무임승차와 적자]]></title>
+        <id>https://newneek.co/post/MFiiBc</id>
+        <link href="https://newneek.co/post/MFiiBc"/>
+        <updated>2023-02-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_8zQ1cqC.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">노인 지하철 무임승차와 적자</h3><time class="card-date">2023/02/10</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유럽연합 CSRD, ESG 공시 기준 강화]]></title>
+        <id>https://newneek.co/post/hNaxsH</id>
+        <link href="https://newneek.co/post/hNaxsH"/>
+        <updated>2023-02-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[전에는 환경이나 인권 문제가 있는 기업이 있으면, 사회적으로 비난받거나 불매 운동으로 매출이 주는 정도로 그쳤잖아요. 그런데 이제 이런 문제가 기업에 더 직접적인 피해를 줄 수 있어요. 수출길 자체가 막힐 수 있거든요. 바로 지난해 11월 말 유럽연합이 쏘아 올린 ESG 정책 때문.
+
+
+잠깐, ESG 뭐더라?: ESG는 환경(Environmental)·사회(Social)·지배구조(Governance)의 앞 글자를 딴 단어인데요. 기업이 계속 잘 굴러가려면 이런 것도 지켜야 한다(=지속가능한 기업 경영)는 3가지를 꼽은 거예요. 최근 몇 년간 핫해진 키워드고요.
+
+
+무슨 정책인데?
+“기업 ESG 말만 하기 금지! 전보다 더 구체적으로 정보 공개해(=공시*)”라고 딱 정한 법이에요. 전에는 ESG가 ‘하면 좋지’ 느낌이었다면, 이제는 ‘꼭 해야 하는’ 것으로 법이 땅땅 정해진 거예요.
+
+
+법안의 이름은 CSRD: 기업지속가능성보고지침(Corporate Sustainability Reporting Directive)이라는 뜻인데요. 기업들이 ESG에 관한 내용을 더 꼼꼼하게 검토해서 자세한 정보를 보고서로 알려야 한다는 내용이에요. 전에도 ESG 법이 있긴 했는데 이번 법에서는 전보다 알려야 하는 내용도 더 넓고 구체적이게, 적용되는 회사도 더 많게 바뀌었어요.
+
+
+*공시: 기업이 돈은 얼마나 어떻게 벌고 있는지, 기초체력은 튼튼한지 등 주요 정보를 이해관계자에게 공개하도록 하는 제도를 말해요. 투자자가 정확한 정보를 바탕으로 투자에 관한 판단을 내릴 수 있게 하려는 것.
+게다가 이번 법에는 ‘공급망 실사’에 관한 내용이 담겨 있어, 우리나라 여러 기업에 영향을 줄 것 같다고.
+공급망 실사? 그건 또 뭔데? 🤔
+회사가 제품을 만드는 과정에서 촘촘하게 연결된 관계(=공급망)에 환경·인권 등 문제가 없도록 꼼꼼히 살펴본다(=실사)는 뜻이에요. 예를 들면 A라는 큰 기업의 ESG를 볼 때 A 기업만 보는 게 아니라, A와 함께 일하는 B, C, D 같은 여러 회사에도 ESG 문제가 없는지 같이 보는 거예요. 이를 통해 ESG 상황을 A처럼 덩치 큰 기업뿐 아니라 B, C, D 등 자회사나 중소기업까지 싹 살피는 것.
+음... 나랑도 상관있으려나?
+그럴 수 있어요. 이 법은 공급망 실사를 통해 우리나라 기업에도 연결돼, 우리나라의 수출에도 영향을 주기 때문. A가 자체적으로 조사해보고 ‘ESG 조건이 나빠서 같이 일 못하겠는데?’ 싶으면 B, C, D와 거래를 끊을 수도 있거든요. 실제로 우리나라 시가총액 100대 기업 중 30% 넘는 곳이 이 법의 영향을 받을 거라는 분석도 있어요. 최근에 국내 300개 기업을 대상으로 ‘ESG 중 제일 중요한 문제는?’ 하고 묻자, 약 40%가 ‘공급망 실사’라고 답하기도 했다고.
+준비 잘 해야 하는 거 아냐?
+맞아요. 기업들도 맘이 급한데요. 특히 CSRD 법은 빠르면 2024년부터 적용될 수 있는데, 전년도와 비교 자료가 필요해서 당장 올해 2023년부터 준비해야 할 수도 있어요. 유럽뿐 아니라 미국도 ESG 관련 법을 만들려 하고 있고요. 이에 우리나라 기업이 글로벌 흐름에서 뒤쳐지지 않으려면 정부도 기업과 머리를 맞대고 고민해야 한다는 목소리도 있어요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세금 수입에 펑크난 이유]]></title>
         <id>https://newneek.co/post/OT1b2y</id>
@@ -74,19 +108,5 @@
         <link href="https://newneek.co/post/BxEVpy"/>
         <updated>2023-01-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_66tKC7N.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">정부가 공시가격 내리는 이유</h3><time class="card-date">2023/01/26</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세금, 이제 피할 수 없을 걸 💰]]></title>
-        <id>https://newneek.co/post/Mq0v5K</id>
-        <link href="https://newneek.co/post/Mq0v5K"/>
-        <updated>2023-01-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_5etnjoG.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">세금, 이제 피할 수 없을 걸 💰</h3><time class="card-date">2023/01/26</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알쏭달쏭 금리 궁금증엔 뉴닉이 답]]></title>
-        <id>https://newneek.co/post/TmWYPN</id>
-        <link href="https://newneek.co/post/TmWYPN"/>
-        <updated>2023-01-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/C883A7E0-2CB1-4DCF-B6B2-ACE74134069E_1_201_a.jpeg" alt=""></figure><div class="card-body"><h3 class="card-title">알쏭달쏭 금리 궁금증엔 뉴닉이 답</h3><time class="card-date">2023/01/25</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>

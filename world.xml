@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-02-09T19:03:45.134Z</updated>
+    <updated>2023-02-09T20:04:15.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) 유엔난민기구 튀르키예·시리아 대지진 긴급구호]]></title>
+        <id>https://newneek.co/post/U6KYpW</id>
+        <link href="https://newneek.co/post/U6KYpW"/>
+        <updated>2023-02-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/2%ED%9A%8C%EC%B0%A8_%EC%95%B1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 유엔난민기구 튀르키예·시리아 대지진 긴급구호</h3><time class="card-date">2023/02/10</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[튀르키예·시리아 대지진]]></title>
         <id>https://newneek.co/post/cjlBl1</id>
@@ -111,12 +118,5 @@
 
 
 변이 바이러스의 등장 🦠:&nbsp;코로나19의 새로운&nbsp;변이 바이러스 ‘XBB.1.5’까지 등장했는데요. 지금 당장은 미국에서 빠르게 퍼지고 있는데, 중국에서도 이 변이 바이러스가 유행하면&nbsp;상황이 더 심각해질 거라는 이야기가 나와요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재선거만 15번, 새로운 미국 No.3  🇺🇸]]></title>
-        <id>https://newneek.co/post/8nUTnM</id>
-        <link href="https://newneek.co/post/8nUTnM"/>
-        <updated>2023-01-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230109_%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">재선거만 15번, 새로운 미국 No.3  🇺🇸</h3><time class="card-date">2023/01/09</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
