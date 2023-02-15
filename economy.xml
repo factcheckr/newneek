@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-02-15T19:03:26.856Z</updated>
+    <updated>2023-02-15T20:07:06.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정부 외환시장 개방 결정]]></title>
+        <id>https://newneek.co/post/6t5T3J</id>
+        <link href="https://newneek.co/post/6t5T3J"/>
+        <updated>2023-02-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_F3r4YGm.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">정부 외환시장 개방 결정</h3><time class="card-date">2023/02/16</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부 토큰증권 제도화]]></title>
         <id>https://newneek.co/post/SBCIKl</id>
@@ -101,12 +108,5 @@
         <link href="https://newneek.co/post/XnJPg7"/>
         <updated>2023-02-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_jgIl3An.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">삼성전자·SK하이닉스 반도체 실적 악화</h3><time class="card-date">2023/02/02</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸늘하다, 난방비 폭탄이 날아와 꽂힌다]]></title>
-        <id>https://newneek.co/post/ZasjLw</id>
-        <link href="https://newneek.co/post/ZasjLw"/>
-        <updated>2023-01-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_OOpSwGB.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">싸늘하다, 난방비 폭탄이 날아와 꽂힌다</h3><time class="card-date">2023/01/31</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
