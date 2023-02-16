@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/</id>
     <title>뉴닉 ─ 전체</title>
-    <updated>2023-02-16T19:03:27.694Z</updated>
+    <updated>2023-02-16T20:03:46.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류]]></title>
+        <id>https://newneek.co/post/Eawrvz</id>
+        <link href="https://newneek.co/post/Eawrvz"/>
+        <updated>2023-02-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_LvgOUBr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류</h3><time class="card-date">2023/02/17</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부 13차 비상경제민생회의]]></title>
+        <id>https://newneek.co/post/jj0GaZ</id>
+        <link href="https://newneek.co/post/jj0GaZ"/>
+        <updated>2023-02-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_dPPwS2G.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">윤석열 정부 13차 비상경제민생회의</h3><time class="card-date">2023/02/17</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부 외환시장 개방 결정]]></title>
         <id>https://newneek.co/post/6t5T3J</id>
@@ -215,19 +229,5 @@ MZ세대 안에서도 “Z세대는 우리와 정말 다르다”, “알파 세
         <link href="https://newneek.co/post/C39zhC"/>
         <updated>2023-02-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_Ar6oXvf.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">전셋값 하락과 역월세 현상</h3><time class="card-date">2023/02/13</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍕“MZ세대는 말이야” MZ세대론, 어떻게 생각해?]]></title>
-        <id>https://newneek.co/post/IG1Ftx</id>
-        <link href="https://newneek.co/post/IG1Ftx"/>
-        <updated>2023-02-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230213_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕“MZ세대는 말이야” MZ세대론, 어떻게 생각해?</h3><time class="card-date">2023/02/13</time><i class="card-category">문화</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) AWS가 준비한 AI·ML 특집 온라인 컨퍼런스]]></title>
-        <id>https://newneek.co/post/Wx8Uit</id>
-        <link href="https://newneek.co/post/Wx8Uit"/>
-        <updated>2023-02-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1%EC%9A%A9.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) AWS가 준비한 AI·ML 특집 온라인 컨퍼런스</h3><time class="card-date">2023/02/13</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
