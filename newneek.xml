@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/</id>
     <title>뉴닉 ─ 전체</title>
-    <updated>2023-02-17T23:03:44.745Z</updated>
+    <updated>2023-02-18T00:32:05.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -24,21 +24,21 @@
         <id>https://newneek.co/post/6t5T3J</id>
         <link href="https://newneek.co/post/6t5T3J"/>
         <updated>2023-02-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_F3r4YGm.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">정부 외환시장 개방 결정</h3><time class="card-date">2023/02/16</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_F3r4YGm.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">정부 외환시장 개방 결정</h3><time class="card-date">2023/02/16</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[도이치모터스 주가조작 1심 판결]]></title>
         <id>https://newneek.co/post/tnCRm1</id>
         <link href="https://newneek.co/post/tnCRm1"/>
         <updated>2023-02-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_eJvMXi0.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">도이치모터스 주가조작 1심 판결</h3><time class="card-date">2023/02/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_eJvMXi0.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">도이치모터스 주가조작 1심 판결</h3><time class="card-date">2023/02/16</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 초록우산어린이재단 ‘나를 기록해주세요’ 캠페인]]></title>
         <id>https://newneek.co/post/uW19Y5</id>
         <link href="https://newneek.co/post/uW19Y5"/>
         <updated>2023-02-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_3.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 초록우산어린이재단 ‘나를 기록해주세요’ 캠페인</h3><time class="card-date">2023/02/16</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_3.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 초록우산어린이재단 ‘나를 기록해주세요’ 캠페인</h3><time class="card-date">2023/02/16</time><i class="card-category">인권</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유보통합 찬반 논란]]></title>
