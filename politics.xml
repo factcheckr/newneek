@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-02-19T19:03:25.156Z</updated>
+    <updated>2023-02-19T20:03:30.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 체포동의안 표결]]></title>
+        <id>https://newneek.co/post/lHVkzK</id>
+        <link href="https://newneek.co/post/lHVkzK"/>
+        <updated>2023-02-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_BWnfUKf.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">이재명 체포동의안 표결</h3><time class="card-date">2023/02/20</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도이치모터스 주가조작 1심 판결]]></title>
         <id>https://newneek.co/post/tnCRm1</id>
@@ -277,12 +284,5 @@
 
 
 국민의힘 🔴:&nbsp;“이재명이 성남시장일 때 있었던 개인적인 사건인데, 왜 당 전체가 나서서 감싸주는 거야? 그게 오히려 더 정치적이야.&nbsp;제대로 수사받아야 해.”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부가 공무원 연금 손보는 이유]]></title>
-        <id>https://newneek.co/post/yjeEx5</id>
-        <link href="https://newneek.co/post/yjeEx5"/>
-        <updated>2023-01-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%80%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A1_2.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">정부가 공무원 연금 손보는 이유</h3><time class="card-date">2023/01/11</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
