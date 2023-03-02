@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2023-03-02T19:03:30.923Z</updated>
+    <updated>2023-03-02T20:05:26.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 반도체 지원금과 한국 기업의 고민]]></title>
+        <id>https://newneek.co/post/0qrk8u</id>
+        <link href="https://newneek.co/post/0qrk8u"/>
+        <updated>2023-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_mZutCAp.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">미국 반도체 지원금과 한국 기업의 고민</h3><time class="card-date">2023/03/03</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시리아 지진 피해와 지원 부족]]></title>
+        <id>https://newneek.co/post/ErV2ns</id>
+        <link href="https://newneek.co/post/ErV2ns"/>
+        <updated>2023-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_63jiPwf.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">시리아 지진 피해와 지원 부족</h3><time class="card-date">2023/03/03</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 유엔난민기구(UNHCR) 우크라이나 긴급 구호 캠페인]]></title>
         <id>https://newneek.co/post/Bd3wVW</id>
@@ -288,19 +302,5 @@ VR을 경험할 때가 온 거야]]></content>
 1. IMF(국제통화기금)는 여러 나라의 통화 협력과 환율 안정을 위해 만들어졌어요. 달러가 부족한 나라에 달러를 급히 빌려주는 게 대표적이고요.
 2. OECD(경제협력개발기구)는 나라 간 경제 협력을 위해 만든 기구로, 우리나라를 비롯해 38개 나라가 가입되어 있어요. 처음에는 선진국 위주로 회원으로 받았는데, 요즘에는 꼭 그렇지도 않다고.
 3. WHO(세계보건기구)는 보건 분야의 국제적 협력을 위해 만들어진 유엔 기구예요. 코로나19 때 특히 뉴스에 많이 나왔고요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 초록우산어린이재단 한명의하루 두명의삶 캠페인]]></title>
-        <id>https://newneek.co/post/9IhQaY</id>
-        <link href="https://newneek.co/post/9IhQaY"/>
-        <updated>2023-02-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_odr7c74.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 초록우산어린이재단 한명의하루 두명의삶 캠페인</h3><time class="card-date">2023/02/24</time><i class="card-category">인권</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현장실습 고교생 문제]]></title>
-        <id>https://newneek.co/post/XwmfoF</id>
-        <link href="https://newneek.co/post/XwmfoF"/>
-        <updated>2023-02-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_Pky2DJO.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">현장실습 고교생 문제</h3><time class="card-date">2023/02/24</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
 </feed>
