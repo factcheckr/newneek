@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/</id>
     <title>뉴닉 ─ 전체</title>
-    <updated>2023-03-11T23:03:13.182Z</updated>
+    <updated>2023-03-12T00:32:37.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://newneek.co/post/gpYig2</id>
         <link href="https://newneek.co/post/gpYig2"/>
         <updated>2023-03-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_70uleHf.png" alt=""></figure><div class="card-body"><h3 class="card-title">국민의힘 지도부 선거 결과</h3><time class="card-date">2023/03/10</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_70uleHf.png" alt=""></figure><div class="card-body"><h3 class="card-title">국민의힘 지도부 선거 결과</h3><time class="card-date">2023/03/10</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마라도 길고양이 방출]]></title>
         <id>https://newneek.co/post/kp6MJv</id>
         <link href="https://newneek.co/post/kp6MJv"/>
         <updated>2023-03-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_s5vITGH.png" alt=""></figure><div class="card-body"><h3 class="card-title">마라도 길고양이 방출</h3><time class="card-date">2023/03/10</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_s5vITGH.png" alt=""></figure><div class="card-body"><h3 class="card-title">마라도 길고양이 방출</h3><time class="card-date">2023/03/10</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 전월세 세입자 팁]]></title>
