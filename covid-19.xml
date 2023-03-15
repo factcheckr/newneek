@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2023-03-15T19:03:26.265Z</updated>
+    <updated>2023-03-15T20:04:06.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[명품, 너무 사고 싶었어 ↗]]></title>
+        <id>https://newneek.co/post/UBRfkf</id>
+        <link href="https://newneek.co/post/UBRfkf"/>
+        <updated>2023-03-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_Mv94X2E.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">명품, 너무 사고 싶었어 ↗</h3><time class="card-date">2023/03/16</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 만든 쿠키 애플이 막았지]]></title>
+        <id>https://newneek.co/post/vqMP2C</id>
+        <link href="https://newneek.co/post/vqMP2C"/>
+        <updated>2023-03-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Y5hqmCi.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">내가 만든 쿠키 애플이 막았지</h3><time class="card-date">2023/03/16</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 시리아 내전 12년]]></title>
         <id>https://newneek.co/post/KakHr5</id>
@@ -215,19 +229,5 @@ PPT 제작은 이렇게: 자료를 시각화하면서 핵심을 잘 찾아 강�
         <link href="https://newneek.co/post/tUSAJq"/>
         <updated>2023-03-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230313_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕“누구 조장하실 분...?”</h3><time class="card-date">2023/03/13</time><i class="card-category">라이프</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민의힘 지도부 선거 결과]]></title>
-        <id>https://newneek.co/post/gpYig2</id>
-        <link href="https://newneek.co/post/gpYig2"/>
-        <updated>2023-03-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_70uleHf.png" alt=""></figure><div class="card-body"><h3 class="card-title">국민의힘 지도부 선거 결과</h3><time class="card-date">2023/03/10</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마라도 길고양이 방출]]></title>
-        <id>https://newneek.co/post/kp6MJv</id>
-        <link href="https://newneek.co/post/kp6MJv"/>
-        <updated>2023-03-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_s5vITGH.png" alt=""></figure><div class="card-body"><h3 class="card-title">마라도 길고양이 방출</h3><time class="card-date">2023/03/10</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
