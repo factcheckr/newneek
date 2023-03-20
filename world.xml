@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-03-20T19:03:19.149Z</updated>
+    <updated>2023-03-20T20:04:44.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[크레디트스위스 파산 위기, 구사일생]]></title>
+        <id>https://newneek.co/post/cn4G0z</id>
+        <link href="https://newneek.co/post/cn4G0z"/>
+        <updated>2023-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JYQNLni.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">크레디트스위스 파산 위기, 구사일생</h3><time class="card-date">2023/03/21</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘자유의 방패 연합연습’이 뭔데 그래?]]></title>
         <id>https://newneek.co/post/OlfJww</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/cHmRqE"/>
         <updated>2023-02-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_zIKyeKw.png" alt=""></figure><div class="card-body"><h3 class="card-title">탈세계화와 우리나라 경제 (1)</h3><time class="card-date">2023/02/13</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 유엔난민기구 튀르키예·시리아 대지진 긴급구호]]></title>
-        <id>https://newneek.co/post/U6KYpW</id>
-        <link href="https://newneek.co/post/U6KYpW"/>
-        <updated>2023-02-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/2%ED%9A%8C%EC%B0%A8_%EC%95%B1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 유엔난민기구 튀르키예·시리아 대지진 긴급구호</h3><time class="card-date">2023/02/10</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
