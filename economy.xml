@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-03-21T19:03:37.655Z</updated>
+    <updated>2023-03-21T20:03:38.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[로봇 테마주 열풍, 히트다 히트!]]></title>
+        <id>https://newneek.co/post/zIed3X</id>
+        <link href="https://newneek.co/post/zIed3X"/>
+        <updated>2023-03-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_NdH8DhW.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">로봇 테마주 열풍, 히트다 히트!</h3><time class="card-date">2023/03/22</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크레디트스위스 파산 위기, 구사일생]]></title>
         <id>https://newneek.co/post/cn4G0z</id>
@@ -231,12 +238,5 @@
         <link href="https://newneek.co/post/gs5S0o"/>
         <updated>2023-02-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_7dTYah2.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한전 적자와 전기요금 인상</h3><time class="card-date">2023/02/27</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지역 대학 신입생 부족]]></title>
-        <id>https://newneek.co/post/lh3cGd</id>
-        <link href="https://newneek.co/post/lh3cGd"/>
-        <updated>2023-02-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_pA5oUli.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">지역 대학 신입생 부족</h3><time class="card-date">2023/02/23</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>

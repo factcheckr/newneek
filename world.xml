@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-03-21T19:03:37.650Z</updated>
+    <updated>2023-03-21T20:03:38.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이스라엘 사법개혁과 반정부 시위]]></title>
+        <id>https://newneek.co/post/1XKE3a</id>
+        <link href="https://newneek.co/post/1XKE3a"/>
+        <updated>2023-03-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_m74adHh.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">이스라엘 사법개혁과 반정부 시위</h3><time class="card-date">2023/03/22</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크레디트스위스 파산 위기, 구사일생]]></title>
         <id>https://newneek.co/post/cn4G0z</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/Y0lrVt"/>
         <updated>2023-02-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_FAg16nW.png" alt=""></figure><div class="card-body"><h3 class="card-title">탈세계화와 우리나라 경제 (2)</h3><time class="card-date">2023/02/14</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈세계화와 우리나라 경제 (1)]]></title>
-        <id>https://newneek.co/post/cHmRqE</id>
-        <link href="https://newneek.co/post/cHmRqE"/>
-        <updated>2023-02-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_zIKyeKw.png" alt=""></figure><div class="card-body"><h3 class="card-title">탈세계화와 우리나라 경제 (1)</h3><time class="card-date">2023/02/13</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
