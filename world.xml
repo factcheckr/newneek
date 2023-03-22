@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-03-22T19:03:35.198Z</updated>
+    <updated>2023-03-22T20:03:55.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[중국-러시아 정상회담: “나도 쟤 싫어”]]></title>
+        <id>https://newneek.co/post/g0GLgm</id>
+        <link href="https://newneek.co/post/g0GLgm"/>
+        <updated>2023-03-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_yoTtPRR.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">중국-러시아 정상회담: “나도 쟤 싫어”</h3><time class="card-date">2023/03/23</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프랑스 연금개혁안 의회 통과]]></title>
+        <id>https://newneek.co/post/Fkyl8J</id>
+        <link href="https://newneek.co/post/Fkyl8J"/>
+        <updated>2023-03-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_jPlrzGX.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">프랑스 연금개혁안 의회 통과</h3><time class="card-date">2023/03/23</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘 사법개혁과 반정부 시위]]></title>
         <id>https://newneek.co/post/1XKE3a</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/L0iXRb"/>
         <updated>2023-02-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_yiJXZRq.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">북한 ICBM·SRBM 발사</h3><time class="card-date">2023/02/21</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류]]></title>
-        <id>https://newneek.co/post/Eawrvz</id>
-        <link href="https://newneek.co/post/Eawrvz"/>
-        <updated>2023-02-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_LvgOUBr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류</h3><time class="card-date">2023/02/17</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈세계화와 우리나라 경제 (2)]]></title>
-        <id>https://newneek.co/post/Y0lrVt</id>
-        <link href="https://newneek.co/post/Y0lrVt"/>
-        <updated>2023-02-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_FAg16nW.png" alt=""></figure><div class="card-body"><h3 class="card-title">탈세계화와 우리나라 경제 (2)</h3><time class="card-date">2023/02/14</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
