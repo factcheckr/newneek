@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-03-23T19:03:29.698Z</updated>
+    <updated>2023-03-23T20:03:39.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유럽연합 핵심원자재법과 영향]]></title>
+        <id>https://newneek.co/post/ogDmNe</id>
+        <link href="https://newneek.co/post/ogDmNe"/>
+        <updated>2023-03-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_k0rLWhS.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">유럽연합 핵심원자재법과 영향</h3><time class="card-date">2023/03/24</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로봇 테마주 열풍, 히트다 히트!]]></title>
         <id>https://newneek.co/post/zIed3X</id>
@@ -231,12 +238,5 @@
 1. IMF(국제통화기금)는 여러 나라의 통화 협력과 환율 안정을 위해 만들어졌어요. 달러가 부족한 나라에 달러를 급히 빌려주는 게 대표적이고요.
 2. OECD(경제협력개발기구)는 나라 간 경제 협력을 위해 만든 기구로, 우리나라를 비롯해 38개 나라가 가입되어 있어요. 처음에는 선진국 위주로 회원으로 받았는데, 요즘에는 꼭 그렇지도 않다고.
 3. WHO(세계보건기구)는 보건 분야의 국제적 협력을 위해 만들어진 유엔 기구예요. 코로나19 때 특히 뉴스에 많이 나왔고요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한전 적자와 전기요금 인상]]></title>
-        <id>https://newneek.co/post/gs5S0o</id>
-        <link href="https://newneek.co/post/gs5S0o"/>
-        <updated>2023-02-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_7dTYah2.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한전 적자와 전기요금 인상</h3><time class="card-date">2023/02/27</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
