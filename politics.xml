@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-03-26T19:03:35.032Z</updated>
+    <updated>2023-03-26T20:03:16.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰 수사권 축소법 결정_최최종]]></title>
+        <id>https://newneek.co/post/Nek0Xm</id>
+        <link href="https://newneek.co/post/Nek0Xm"/>
+        <updated>2023-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_aOWej2L.png" alt=""></figure><div class="card-body"><h3 class="card-title">검찰 수사권 축소법 결정_최최종</h3><time class="card-date">2023/03/27</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한일 정상회담: 우리 정부가 준 것과 얻은 것]]></title>
         <id>https://newneek.co/post/zHRW51</id>
@@ -149,12 +156,5 @@
 아래 링크를 눌러 뉴니커의 최종 의견도 보내고,
 피자스테이션에 대한 피드백도 들려주세요!
 내 최종 결론은 말야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민의힘 친윤·나경원 갈등]]></title>
-        <id>https://newneek.co/post/aYQRC4</id>
-        <link href="https://newneek.co/post/aYQRC4"/>
-        <updated>2023-01-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_vr85eXz.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">국민의힘 친윤·나경원 갈등</h3><time class="card-date">2023/01/19</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
