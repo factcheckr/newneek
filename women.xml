@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2023-03-29T19:03:29.980Z</updated>
+    <updated>2023-03-29T20:03:51.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[북한 전술핵탄두 공개: 작지만 위험하다]]></title>
+        <id>https://newneek.co/post/TDOD2Y</id>
+        <link href="https://newneek.co/post/TDOD2Y"/>
+        <updated>2023-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_OxF40gz.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">북한 전술핵탄두 공개: 작지만 위험하다</h3><time class="card-date">2023/03/30</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부: 저출생 대책 새로 짜봤습니다]]></title>
+        <id>https://newneek.co/post/eFO5Ie</id>
+        <link href="https://newneek.co/post/eFO5Ie"/>
+        <updated>2023-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_NU00ypl.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">정부: 저출생 대책 새로 짜봤습니다</h3><time class="card-date">2023/03/30</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘교권 강화’ 피자가 도착했습니다!]]></title>
         <id>https://newneek.co/post/TqFIYQ</id>
@@ -217,19 +231,5 @@
         <link href="https://newneek.co/post/mCCfrk"/>
         <updated>2023-03-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_s7PIjol.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">새로고침 노동자협의회 모집 중... 1/9999 ⏳</h3><time class="card-date">2023/03/24</time><i class="card-category">노동</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽연합 핵심원자재법과 영향]]></title>
-        <id>https://newneek.co/post/ogDmNe</id>
-        <link href="https://newneek.co/post/ogDmNe"/>
-        <updated>2023-03-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_k0rLWhS.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">유럽연합 핵심원자재법과 영향</h3><time class="card-date">2023/03/24</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 올티장인 LG 올레드 TV]]></title>
-        <id>https://newneek.co/post/6atQEe</id>
-        <link href="https://newneek.co/post/6atQEe"/>
-        <updated>2023-03-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_6.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 올티장인 LG 올레드 TV</h3><time class="card-date">2023/03/23</time><i class="card-category">라이프</i></div></div>]]></content>
     </entry>
 </feed>
