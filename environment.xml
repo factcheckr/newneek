@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2023-03-30T19:03:26.390Z</updated>
+    <updated>2023-03-30T20:03:46.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이대공원 얼룩말 탈출과 동물원]]></title>
+        <id>https://newneek.co/post/SKqn5x</id>
+        <link href="https://newneek.co/post/SKqn5x"/>
+        <updated>2023-03-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_J1I3u89.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">어린이대공원 얼룩말 탈출과 동물원</h3><time class="card-date">2023/03/31</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 그린피스 꿀벌을 지켜줘]]></title>
         <id>https://newneek.co/post/gnkON4</id>
@@ -243,12 +250,5 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
 걱정 마요! 비영리 단체 기후솔루션이 그린워싱 세탁기의 정체를 함께 파헤쳐줄 테니까요. 기후솔루션은 팩트와 데이터를 바탕으로 기후위기에 대응할 방법을 연구하고, 여러 분야에 걸쳐 기후위기에 실질적인 솔루션을 내고 있어요. 석탄 발전이 늘어나지 않게 새로운 석탄 발전소가 세워지는 걸 막고, 재생에너지가 늘어날 수 있는 방법을 연구해 보고서를 내고, 기후위기의 심각성을 몸소 느낄 수 있게 예술 콘텐츠를 만들기도 했다고. 이번 ‘그린워싱 세탁기’ 캠페인도 뉴니커에게 그린워싱과 기후위기 문제를 알리기 위한 거고요.
 ‘그린워싱 세탁기, 가만둘 수 없지!’ 생각했다면?
 그린워싱 세탁기, 드루와 드루와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 세계 이상기후와 기후위기]]></title>
-        <id>https://newneek.co/post/HsyxFq</id>
-        <link href="https://newneek.co/post/HsyxFq"/>
-        <updated>2023-02-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_uPCNJPZ.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">전 세계 이상기후와 기후위기</h3><time class="card-date">2023/02/03</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
