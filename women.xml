@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2023-04-13T19:04:03.228Z</updated>
+    <updated>2023-04-13T20:04:07.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[학교폭력 근절 대책 발표]]></title>
+        <id>https://newneek.co/post/GnvpJu</id>
+        <link href="https://newneek.co/post/GnvpJu"/>
+        <updated>2023-04-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_BigTwET.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">학교폭력 근절 대책 발표</h3><time class="card-date">2023/04/14</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 수출 구조 변화: 중국 줄고 미국 늘고]]></title>
+        <id>https://newneek.co/post/KjY63o</id>
+        <link href="https://newneek.co/post/KjY63o"/>
+        <updated>2023-04-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_sF8s5eG.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한국 수출 구조 변화: 중국 줄고 미국 늘고</h3><time class="card-date">2023/04/14</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원도 산불이 반복되는 이유와 대책]]></title>
         <id>https://newneek.co/post/H379PH</id>
@@ -214,19 +228,5 @@
         <link href="https://newneek.co/post/nd5fWa"/>
         <updated>2023-04-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_HahW61z.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">올봄 산불 엄청 많이 난 이유는?</h3><time class="card-date">2023/04/10</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남부지역 가뭄과 4대강 정책]]></title>
-        <id>https://newneek.co/post/Q2mjkf</id>
-        <link href="https://newneek.co/post/Q2mjkf"/>
-        <updated>2023-04-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2J73DdN.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">남부지역 가뭄과 4대강 정책</h3><time class="card-date">2023/04/07</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만 총통의 미국 방문과 미중 갈등]]></title>
-        <id>https://newneek.co/post/RHoGaG</id>
-        <link href="https://newneek.co/post/RHoGaG"/>
-        <updated>2023-04-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-5.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">대만 총통의 미국 방문과 미중 갈등</h3><time class="card-date">2023/04/07</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
