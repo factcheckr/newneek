@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2023-04-13T23:03:56.163Z</updated>
+    <updated>2023-04-14T00:27:44.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://newneek.co/post/Kmzeb3</id>
         <link href="https://newneek.co/post/Kmzeb3"/>
         <updated>2023-04-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_pzmEpLk.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">유니콘 기업과 스타트업 불황</h3><time class="card-date">2023/04/12</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_pzmEpLk.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">유니콘 기업과 스타트업 불황</h3><time class="card-date">2023/04/12</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘국회의원 정수’ 피자가 도착했습니다!]]></title>
@@ -192,7 +192,7 @@
         <id>https://newneek.co/post/eAOzSV</id>
         <link href="https://newneek.co/post/eAOzSV"/>
         <updated>2023-04-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_G49UYGe.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">TV 수신료 분리징수 논란</h3><time class="card-date">2023/04/12</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_G49UYGe.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">TV 수신료 분리징수 논란</h3><time class="card-date">2023/04/12</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이주여성 노동자 문제]]></title>
