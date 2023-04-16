@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-04-16T19:03:22.748Z</updated>
+    <updated>2023-04-16T20:03:58.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[세월호 참사 9주기]]></title>
+        <id>https://newneek.co/post/T6De1D</id>
+        <link href="https://newneek.co/post/T6De1D"/>
+        <updated>2023-04-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_xmH73ZD.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">세월호 참사 9주기</h3><time class="card-date">2023/04/17</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘국회의원 정수’ 피자가 도착했습니다!]]></title>
         <id>https://newneek.co/post/cwHYuK</id>
@@ -221,12 +228,5 @@
         <link href="https://newneek.co/post/NDy3HH"/>
         <updated>2023-03-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_1_XvlohVh.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">일본 강제동원 배상 해법</h3><time class="card-date">2023/03/07</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정순신 국수본부장 낙마와 인사검증 논란]]></title>
-        <id>https://newneek.co/post/94cP6B</id>
-        <link href="https://newneek.co/post/94cP6B"/>
-        <updated>2023-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_a0dPZcu.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">정순신 국수본부장 낙마와 인사검증 논란</h3><time class="card-date">2023/02/28</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
