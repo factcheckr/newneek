@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-04-19T19:03:14.176Z</updated>
+    <updated>2023-04-19T20:03:54.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 신제품: 통장]]></title>
+        <id>https://newneek.co/post/fWQuNN</id>
+        <link href="https://newneek.co/post/fWQuNN"/>
+        <updated>2023-04-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9JXUeap.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">애플 신제품: 통장</h3><time class="card-date">2023/04/20</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴대전화 요금이라도 알뜰살뜰: 알뜰폰 QnA]]></title>
         <id>https://newneek.co/post/eTMO3l</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/bRl2Ir"/>
         <updated>2023-04-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_nMxFROc.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">K-배터리 한숨 돌린 IRA 법</h3><time class="card-date">2023/04/03</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부: 저출생 대책 새로 짜봤습니다]]></title>
-        <id>https://newneek.co/post/eFO5Ie</id>
-        <link href="https://newneek.co/post/eFO5Ie"/>
-        <updated>2023-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_NU00ypl.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">정부: 저출생 대책 새로 짜봤습니다</h3><time class="card-date">2023/03/30</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2023-04-19T19:03:14.184Z</updated>
+    <updated>2023-04-19T20:03:54.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[장애차별철폐의날과 탈시설]]></title>
+        <id>https://newneek.co/post/Ibo0YQ</id>
+        <link href="https://newneek.co/post/Ibo0YQ"/>
+        <updated>2023-04-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_%EC%95%B1%EC%BB%A4%EB%B2%84.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">장애차별철폐의날과 탈시설</h3><time class="card-date">2023/04/20</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 신제품: 통장]]></title>
+        <id>https://newneek.co/post/fWQuNN</id>
+        <link href="https://newneek.co/post/fWQuNN"/>
+        <updated>2023-04-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9JXUeap.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">애플 신제품: 통장</h3><time class="card-date">2023/04/20</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴대전화 요금이라도 알뜰살뜰: 알뜰폰 QnA]]></title>
         <id>https://newneek.co/post/eTMO3l</id>
@@ -210,19 +224,5 @@
         <link href="https://newneek.co/post/GnvpJu"/>
         <updated>2023-04-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_BigTwET.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">학교폭력 근절 대책 발표</h3><time class="card-date">2023/04/14</time><i class="card-category">인권</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 수출 구조 변화: 중국 줄고 미국 늘고]]></title>
-        <id>https://newneek.co/post/KjY63o</id>
-        <link href="https://newneek.co/post/KjY63o"/>
-        <updated>2023-04-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_sF8s5eG.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한국 수출 구조 변화: 중국 줄고 미국 늘고</h3><time class="card-date">2023/04/14</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원도 산불이 반복되는 이유와 대책]]></title>
-        <id>https://newneek.co/post/H379PH</id>
-        <link href="https://newneek.co/post/H379PH"/>
-        <updated>2023-04-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_RydzRPG.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">강원도 산불이 반복되는 이유와 대책</h3><time class="card-date">2023/04/13</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
