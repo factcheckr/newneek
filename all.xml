@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-20T19:03:03.968Z</updated>
+    <updated>2023-04-20T20:04:10.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 무기 지원 가능성 발언 논란 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/9rWzF8</id>
+        <link href="https://newneek.co/post/9rWzF8"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 무기 지원 가능성 발언 논란</h3><time class="card-date">2023/04/21</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라 첫 기후변화적응보고서 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/cTQYUV</id>
+        <link href="https://newneek.co/post/cTQYUV"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우리나라 첫 기후변화적응보고서</h3><time class="card-date">2023/04/21</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장애차별철폐의날과 탈시설 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/Ibo0YQ</id>
@@ -211,18 +225,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_Lv4y6xA.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">김포골드라인 압사 위험과 대책</h3><time class="card-date">2023/04/17</time><i class="card-category">라이프</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🍕대형마트 영업규제, 어떻게 생각해? (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/xxUxbA</id>
-        <link href="https://newneek.co/post/xxUxbA"/>
-        <updated>2023-04-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230417_%EC%95%B1%ED%94%BC%EB%93%9C_D_1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕대형마트 영업규제, 어떻게 생각해?</h3><time class="card-date">2023/04/17</time><i class="card-category">라이프</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학교폭력 근절 대책 발표 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/GnvpJu</id>
-        <link href="https://newneek.co/post/GnvpJu"/>
-        <updated>2023-04-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_BigTwET.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">학교폭력 근절 대책 발표</h3><time class="card-date">2023/04/14</time><i class="card-category">인권</i></div></div>]]></content>
+        <title type="html"><![CDATA[우크라이나 무기 지원 가능성 발언 논란 (뉴닉 ─ 정치)]]></title>
+        <id>https://newneek.co/post/9rWzF8</id>
+        <link href="https://newneek.co/post/9rWzF8"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 무기 지원 가능성 발언 논란</h3><time class="card-date">2023/04/21</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세월호 참사 9주기 (뉴닉 ─ 정치)]]></title>
@@ -440,13 +447,6 @@
         <link href="https://newneek.co/post/gpYig2"/>
         <updated>2023-03-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_70uleHf.png" alt=""></figure><div class="card-body"><h3 class="card-title">국민의힘 지도부 선거 결과</h3><time class="card-date">2023/03/10</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 강제동원 배상 해법 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/NDy3HH</id>
-        <link href="https://newneek.co/post/NDy3HH"/>
-        <updated>2023-03-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_1_XvlohVh.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">일본 강제동원 배상 해법</h3><time class="card-date">2023/03/07</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국 브라질 정상회담 (뉴닉 ─ 세계)]]></title>
@@ -1065,6 +1065,13 @@ MZ세대론 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230130_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕보는 게 맞아, 안 보는 게 맞아?</h3><time class="card-date">2023/01/30</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[우리나라 첫 기후변화적응보고서 (뉴닉 ─ 환경)]]></title>
+        <id>https://newneek.co/post/cTQYUV</id>
+        <link href="https://newneek.co/post/cTQYUV"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우리나라 첫 기후변화적응보고서</h3><time class="card-date">2023/04/21</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[강원도 산불이 반복되는 이유와 대책 (뉴닉 ─ 환경)]]></title>
         <id>https://newneek.co/post/H379PH</id>
         <link href="https://newneek.co/post/H379PH"/>
@@ -1219,11 +1226,18 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_vxXlOsx.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">흑산도 국립공원 해제와 공항 건설</h3><time class="card-date">2023/02/21</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 (뉴닉 ─ 환경)]]></title>
-        <id>https://newneek.co/post/Eawrvz</id>
-        <link href="https://newneek.co/post/Eawrvz"/>
-        <updated>2023-02-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_LvgOUBr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류</h3><time class="card-date">2023/02/17</time><i class="card-category">환경</i></div></div>]]></content>
+        <title type="html"><![CDATA[우크라이나 무기 지원 가능성 발언 논란 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/9rWzF8</id>
+        <link href="https://newneek.co/post/9rWzF8"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 무기 지원 가능성 발언 논란</h3><time class="card-date">2023/04/21</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라 첫 기후변화적응보고서 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/cTQYUV</id>
+        <link href="https://newneek.co/post/cTQYUV"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우리나라 첫 기후변화적응보고서</h3><time class="card-date">2023/04/21</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[장애차별철폐의날과 탈시설 (뉴닉 ─ 여성)]]></title>
@@ -1432,18 +1446,18 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_Lv4y6xA.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">김포골드라인 압사 위험과 대책</h3><time class="card-date">2023/04/17</time><i class="card-category">라이프</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🍕대형마트 영업규제, 어떻게 생각해? (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/xxUxbA</id>
-        <link href="https://newneek.co/post/xxUxbA"/>
-        <updated>2023-04-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230417_%EC%95%B1%ED%94%BC%EB%93%9C_D_1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕대형마트 영업규제, 어떻게 생각해?</h3><time class="card-date">2023/04/17</time><i class="card-category">라이프</i></div></div>]]></content>
+        <title type="html"><![CDATA[우크라이나 무기 지원 가능성 발언 논란 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/9rWzF8</id>
+        <link href="https://newneek.co/post/9rWzF8"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 무기 지원 가능성 발언 논란</h3><time class="card-date">2023/04/21</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[학교폭력 근절 대책 발표 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/GnvpJu</id>
-        <link href="https://newneek.co/post/GnvpJu"/>
-        <updated>2023-04-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_BigTwET.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">학교폭력 근절 대책 발표</h3><time class="card-date">2023/04/14</time><i class="card-category">인권</i></div></div>]]></content>
+        <title type="html"><![CDATA[우리나라 첫 기후변화적응보고서 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/cTQYUV</id>
+        <link href="https://newneek.co/post/cTQYUV"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우리나라 첫 기후변화적응보고서</h3><time class="card-date">2023/04/21</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[장애차별철폐의날과 탈시설 (뉴닉 ─ 코로나19)]]></title>
@@ -1652,18 +1666,18 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_Lv4y6xA.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">김포골드라인 압사 위험과 대책</h3><time class="card-date">2023/04/17</time><i class="card-category">라이프</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🍕대형마트 영업규제, 어떻게 생각해? (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/xxUxbA</id>
-        <link href="https://newneek.co/post/xxUxbA"/>
-        <updated>2023-04-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230417_%EC%95%B1%ED%94%BC%EB%93%9C_D_1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕대형마트 영업규제, 어떻게 생각해?</h3><time class="card-date">2023/04/17</time><i class="card-category">라이프</i></div></div>]]></content>
+        <title type="html"><![CDATA[우크라이나 무기 지원 가능성 발언 논란 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/9rWzF8</id>
+        <link href="https://newneek.co/post/9rWzF8"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 무기 지원 가능성 발언 논란</h3><time class="card-date">2023/04/21</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[학교폭력 근절 대책 발표 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/GnvpJu</id>
-        <link href="https://newneek.co/post/GnvpJu"/>
-        <updated>2023-04-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_BigTwET.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">학교폭력 근절 대책 발표</h3><time class="card-date">2023/04/14</time><i class="card-category">인권</i></div></div>]]></content>
+        <title type="html"><![CDATA[우리나라 첫 기후변화적응보고서 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/cTQYUV</id>
+        <link href="https://newneek.co/post/cTQYUV"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우리나라 첫 기후변화적응보고서</h3><time class="card-date">2023/04/21</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[장애차별철폐의날과 탈시설 (뉴닉 ─ 피자스테이션)]]></title>
@@ -1870,19 +1884,5 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <link href="https://newneek.co/post/g2fkxp"/>
         <updated>2023-04-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_Lv4y6xA.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">김포골드라인 압사 위험과 대책</h3><time class="card-date">2023/04/17</time><i class="card-category">라이프</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍕대형마트 영업규제, 어떻게 생각해? (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/xxUxbA</id>
-        <link href="https://newneek.co/post/xxUxbA"/>
-        <updated>2023-04-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230417_%EC%95%B1%ED%94%BC%EB%93%9C_D_1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕대형마트 영업규제, 어떻게 생각해?</h3><time class="card-date">2023/04/17</time><i class="card-category">라이프</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학교폭력 근절 대책 발표 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/GnvpJu</id>
-        <link href="https://newneek.co/post/GnvpJu"/>
-        <updated>2023-04-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_BigTwET.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">학교폭력 근절 대책 발표</h3><time class="card-date">2023/04/14</time><i class="card-category">인권</i></div></div>]]></content>
     </entry>
 </feed>

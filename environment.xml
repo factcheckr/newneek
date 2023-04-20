@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2023-04-20T19:03:03.957Z</updated>
+    <updated>2023-04-20T20:04:10.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우리나라 첫 기후변화적응보고서]]></title>
+        <id>https://newneek.co/post/cTQYUV</id>
+        <link href="https://newneek.co/post/cTQYUV"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우리나라 첫 기후변화적응보고서</h3><time class="card-date">2023/04/21</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원도 산불이 반복되는 이유와 대책]]></title>
         <id>https://newneek.co/post/H379PH</id>
@@ -158,12 +165,5 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <link href="https://newneek.co/post/fNQP5m"/>
         <updated>2023-02-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_vxXlOsx.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">흑산도 국립공원 해제와 공항 건설</h3><time class="card-date">2023/02/21</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류]]></title>
-        <id>https://newneek.co/post/Eawrvz</id>
-        <link href="https://newneek.co/post/Eawrvz"/>
-        <updated>2023-02-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_LvgOUBr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류</h3><time class="card-date">2023/02/17</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
