@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-04-24T19:03:20.578Z</updated>
+    <updated>2023-04-24T20:03:50.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[당정 전세사기 특별법 발표]]></title>
+        <id>https://newneek.co/post/ORxDqx</id>
+        <link href="https://newneek.co/post/ORxDqx"/>
+        <updated>2023-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_yGhgo7i.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">당정 전세사기 특별법 발표</h3><time class="card-date">2023/04/25</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플 신제품: 통장]]></title>
         <id>https://newneek.co/post/fWQuNN</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/4XBmFX"/>
         <updated>2023-04-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_PegKzbn.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">산업은행 부산 이전 갈등</h3><time class="card-date">2023/04/04</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-배터리 한숨 돌린 IRA 법]]></title>
-        <id>https://newneek.co/post/bRl2Ir</id>
-        <link href="https://newneek.co/post/bRl2Ir"/>
-        <updated>2023-04-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_nMxFROc.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">K-배터리 한숨 돌린 IRA 법</h3><time class="card-date">2023/04/03</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2023-04-24T19:03:20.589Z</updated>
+    <updated>2023-04-24T20:03:50.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[동물 실험 문제와 대안]]></title>
+        <id>https://newneek.co/post/ar4Eq0</id>
+        <link href="https://newneek.co/post/ar4Eq0"/>
+        <updated>2023-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_XEXuIg5.png" alt=""></figure><div class="card-body"><h3 class="card-title">동물 실험 문제와 대안</h3><time class="card-date">2023/04/25</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리나라 첫 기후변화적응보고서]]></title>
         <id>https://newneek.co/post/cTQYUV</id>
@@ -158,12 +165,5 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
 이에 기후솔루션 등 환경단체는 국민연금이 ‘탈석탄 선언’을 지켜야 한다고 목소리를 내고 있어요: “투자 기준 제대로 만들고 따라야 해!”
 우리 이제 알못 아니야,
 선언만으로 친환경이 되니?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흑산도 국립공원 해제와 공항 건설]]></title>
-        <id>https://newneek.co/post/fNQP5m</id>
-        <link href="https://newneek.co/post/fNQP5m"/>
-        <updated>2023-02-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_vxXlOsx.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">흑산도 국립공원 해제와 공항 건설</h3><time class="card-date">2023/02/21</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>

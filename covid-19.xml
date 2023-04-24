@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2023-04-24T19:03:20.591Z</updated>
+    <updated>2023-04-24T20:03:50.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[당정 전세사기 특별법 발표]]></title>
+        <id>https://newneek.co/post/ORxDqx</id>
+        <link href="https://newneek.co/post/ORxDqx"/>
+        <updated>2023-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_yGhgo7i.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">당정 전세사기 특별법 발표</h3><time class="card-date">2023/04/25</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동물 실험 문제와 대안]]></title>
+        <id>https://newneek.co/post/ar4Eq0</id>
+        <link href="https://newneek.co/post/ar4Eq0"/>
+        <updated>2023-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_XEXuIg5.png" alt=""></figure><div class="card-body"><h3 class="card-title">동물 실험 문제와 대안</h3><time class="card-date">2023/04/25</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🍕실업급여, 어떻게 생각해?]]></title>
         <id>https://newneek.co/post/ExJJH2</id>
@@ -210,19 +224,5 @@
 
 
 국회의원 정수 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 가기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 브라질 정상회담]]></title>
-        <id>https://newneek.co/post/Qfqt00</id>
-        <link href="https://newneek.co/post/Qfqt00"/>
-        <updated>2023-04-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_gy73uvv.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">중국 브라질 정상회담</h3><time class="card-date">2023/04/18</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 20대가 궁금할 때? 비누랩스 인사이트!]]></title>
-        <id>https://newneek.co/post/cTFaJG</id>
-        <link href="https://newneek.co/post/cTFaJG"/>
-        <updated>2023-04-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_1awl5sp.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 20대가 궁금할 때? 비누랩스 인사이트!</h3><time class="card-date">2023/04/18</time><i class="card-category">라이프</i></div></div>]]></content>
     </entry>
 </feed>
