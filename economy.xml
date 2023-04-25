@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-04-25T19:03:08.358Z</updated>
+    <updated>2023-04-25T20:03:11.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[통신 시장에 알뜰폰 긴장감]]></title>
+        <id>https://newneek.co/post/AacIG1</id>
+        <link href="https://newneek.co/post/AacIG1"/>
+        <updated>2023-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_TPZCjgj.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">통신 시장에 알뜰폰 긴장감</h3><time class="card-date">2023/04/26</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당정 전세사기 특별법 발표]]></title>
         <id>https://newneek.co/post/ORxDqx</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/J8s3uA"/>
         <updated>2023-04-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_xANRTFh.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">예금보호한도 상향 논의</h3><time class="card-date">2023/04/05</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산업은행 부산 이전 갈등]]></title>
-        <id>https://newneek.co/post/4XBmFX</id>
-        <link href="https://newneek.co/post/4XBmFX"/>
-        <updated>2023-04-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_PegKzbn.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">산업은행 부산 이전 갈등</h3><time class="card-date">2023/04/04</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
