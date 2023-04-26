@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-26T19:04:09.550Z</updated>
+    <updated>2023-04-26T20:03:42.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[집값 하락과 부동산 시장 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/sgLMz9</id>
+        <link href="https://newneek.co/post/sgLMz9"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_gy104QE.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">집값 하락과 부동산 시장</h3><time class="card-date">2023/04/27</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 백설 리브랜딩 ‘오늘의 요리’ (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/xXW1Vt</id>
+        <link href="https://newneek.co/post/xXW1Vt"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_ZyuMnZZ.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 백설 리브랜딩 ‘오늘의 요리’</h3><time class="card-date">2023/04/27</time><i class="card-category">문화</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한미 확장억제 성명 발표 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/zptHyZ</id>
+        <link href="https://newneek.co/post/zptHyZ"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Fvmtvjp.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한미 확장억제 성명 발표</h3><time class="card-date">2023/04/27</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘실업급여’ 피자가 도착했습니다! (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/9gzgDf</id>
@@ -211,25 +232,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 무기 지원 가능성 발언 논란</h3><time class="card-date">2023/04/21</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리나라 첫 기후변화적응보고서 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/cTQYUV</id>
-        <link href="https://newneek.co/post/cTQYUV"/>
-        <updated>2023-04-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우리나라 첫 기후변화적응보고서</h3><time class="card-date">2023/04/21</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장애차별철폐의날과 탈시설 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/Ibo0YQ</id>
-        <link href="https://newneek.co/post/Ibo0YQ"/>
-        <updated>2023-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_%EC%95%B1%EC%BB%A4%EB%B2%84.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">장애차별철폐의날과 탈시설</h3><time class="card-date">2023/04/20</time><i class="card-category">인권</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 신제품: 통장 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/fWQuNN</id>
-        <link href="https://newneek.co/post/fWQuNN"/>
-        <updated>2023-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9JXUeap.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">애플 신제품: 통장</h3><time class="card-date">2023/04/20</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[한미 확장억제 성명 발표 (뉴닉 ─ 정치)]]></title>
+        <id>https://newneek.co/post/zptHyZ</id>
+        <link href="https://newneek.co/post/zptHyZ"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Fvmtvjp.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한미 확장억제 성명 발표</h3><time class="card-date">2023/04/27</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마약 범죄 대책 마련 (뉴닉 ─ 정치)]]></title>
@@ -447,13 +454,6 @@
         <link href="https://newneek.co/post/Nek0Xm"/>
         <updated>2023-03-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_aOWej2L.png" alt=""></figure><div class="card-body"><h3 class="card-title">검찰 수사권 축소법 결정_최최종</h3><time class="card-date">2023/03/27</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회의원 선거제도 바꾼다고? (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/OCANZP</id>
-        <link href="https://newneek.co/post/OCANZP"/>
-        <updated>2023-03-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_flKpAXv.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">국회의원 선거제도 바꾼다고?</h3><time class="card-date">2023/03/20</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수단 무력 충돌 사태 (뉴닉 ─ 세계)]]></title>
@@ -778,6 +778,13 @@ VR을 경험할 때가 온 거야]]></content>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_CfyU9Iy.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 클라우드 컴퓨팅이 핫하고 AWS가 편리해요</h3><time class="card-date">2023/01/31</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[집값 하락과 부동산 시장 (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/sgLMz9</id>
+        <link href="https://newneek.co/post/sgLMz9"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_gy104QE.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">집값 하락과 부동산 시장</h3><time class="card-date">2023/04/27</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[통신 시장에 알뜰폰 긴장감 (뉴닉 ─ 경제)]]></title>
         <id>https://newneek.co/post/AacIG1</id>
         <link href="https://newneek.co/post/AacIG1"/>
@@ -853,13 +860,6 @@ VR을 경험할 때가 온 거야]]></content>
         <link href="https://newneek.co/post/J8s3uA"/>
         <updated>2023-04-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_xANRTFh.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">예금보호한도 상향 논의</h3><time class="card-date">2023/04/05</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPEC+ 감산과 경제 영향 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/cQ8ukS</id>
-        <link href="https://newneek.co/post/cQ8ukS"/>
-        <updated>2023-04-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_qDMsN7r.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">OPEC+ 감산과 경제 영향</h3><time class="card-date">2023/04/05</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘실업급여’ 피자가 도착했습니다! (뉴닉 ─ 노동)]]></title>
@@ -1495,6 +1495,27 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_LvgOUBr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류</h3><time class="card-date">2023/02/17</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[집값 하락과 부동산 시장 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/sgLMz9</id>
+        <link href="https://newneek.co/post/sgLMz9"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_gy104QE.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">집값 하락과 부동산 시장</h3><time class="card-date">2023/04/27</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 백설 리브랜딩 ‘오늘의 요리’ (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/xXW1Vt</id>
+        <link href="https://newneek.co/post/xXW1Vt"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_ZyuMnZZ.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 백설 리브랜딩 ‘오늘의 요리’</h3><time class="card-date">2023/04/27</time><i class="card-category">문화</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한미 확장억제 성명 발표 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/zptHyZ</id>
+        <link href="https://newneek.co/post/zptHyZ"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Fvmtvjp.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한미 확장억제 성명 발표</h3><time class="card-date">2023/04/27</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🔔띵동! ‘실업급여’ 피자가 도착했습니다! (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/9gzgDf</id>
         <link href="https://newneek.co/post/9gzgDf"/>
@@ -1701,25 +1722,25 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 무기 지원 가능성 발언 논란</h3><time class="card-date">2023/04/21</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리나라 첫 기후변화적응보고서 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/cTQYUV</id>
-        <link href="https://newneek.co/post/cTQYUV"/>
-        <updated>2023-04-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우리나라 첫 기후변화적응보고서</h3><time class="card-date">2023/04/21</time><i class="card-category">환경</i></div></div>]]></content>
+        <title type="html"><![CDATA[집값 하락과 부동산 시장 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/sgLMz9</id>
+        <link href="https://newneek.co/post/sgLMz9"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_gy104QE.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">집값 하락과 부동산 시장</h3><time class="card-date">2023/04/27</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장애차별철폐의날과 탈시설 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/Ibo0YQ</id>
-        <link href="https://newneek.co/post/Ibo0YQ"/>
-        <updated>2023-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_%EC%95%B1%EC%BB%A4%EB%B2%84.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">장애차별철폐의날과 탈시설</h3><time class="card-date">2023/04/20</time><i class="card-category">인권</i></div></div>]]></content>
+        <title type="html"><![CDATA[(광고) 백설 리브랜딩 ‘오늘의 요리’ (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/xXW1Vt</id>
+        <link href="https://newneek.co/post/xXW1Vt"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_ZyuMnZZ.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 백설 리브랜딩 ‘오늘의 요리’</h3><time class="card-date">2023/04/27</time><i class="card-category">문화</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 신제품: 통장 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/fWQuNN</id>
-        <link href="https://newneek.co/post/fWQuNN"/>
-        <updated>2023-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9JXUeap.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">애플 신제품: 통장</h3><time class="card-date">2023/04/20</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[한미 확장억제 성명 발표 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/zptHyZ</id>
+        <link href="https://newneek.co/post/zptHyZ"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Fvmtvjp.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한미 확장억제 성명 발표</h3><time class="card-date">2023/04/27</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘실업급여’ 피자가 도착했습니다! (뉴닉 ─ 코로나19)]]></title>
@@ -1928,25 +1949,25 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 무기 지원 가능성 발언 논란</h3><time class="card-date">2023/04/21</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리나라 첫 기후변화적응보고서 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/cTQYUV</id>
-        <link href="https://newneek.co/post/cTQYUV"/>
-        <updated>2023-04-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우리나라 첫 기후변화적응보고서</h3><time class="card-date">2023/04/21</time><i class="card-category">환경</i></div></div>]]></content>
+        <title type="html"><![CDATA[집값 하락과 부동산 시장 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/sgLMz9</id>
+        <link href="https://newneek.co/post/sgLMz9"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_gy104QE.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">집값 하락과 부동산 시장</h3><time class="card-date">2023/04/27</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장애차별철폐의날과 탈시설 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/Ibo0YQ</id>
-        <link href="https://newneek.co/post/Ibo0YQ"/>
-        <updated>2023-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_%EC%95%B1%EC%BB%A4%EB%B2%84.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">장애차별철폐의날과 탈시설</h3><time class="card-date">2023/04/20</time><i class="card-category">인권</i></div></div>]]></content>
+        <title type="html"><![CDATA[(광고) 백설 리브랜딩 ‘오늘의 요리’ (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/xXW1Vt</id>
+        <link href="https://newneek.co/post/xXW1Vt"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_ZyuMnZZ.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 백설 리브랜딩 ‘오늘의 요리’</h3><time class="card-date">2023/04/27</time><i class="card-category">문화</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 신제품: 통장 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/fWQuNN</id>
-        <link href="https://newneek.co/post/fWQuNN"/>
-        <updated>2023-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9JXUeap.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">애플 신제품: 통장</h3><time class="card-date">2023/04/20</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[한미 확장억제 성명 발표 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/zptHyZ</id>
+        <link href="https://newneek.co/post/zptHyZ"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Fvmtvjp.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한미 확장억제 성명 발표</h3><time class="card-date">2023/04/27</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘실업급여’ 피자가 도착했습니다! (뉴닉 ─ 피자스테이션)]]></title>
@@ -2153,26 +2174,5 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <link href="https://newneek.co/post/9rWzF8"/>
         <updated>2023-04-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 무기 지원 가능성 발언 논란</h3><time class="card-date">2023/04/21</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 첫 기후변화적응보고서 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/cTQYUV</id>
-        <link href="https://newneek.co/post/cTQYUV"/>
-        <updated>2023-04-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우리나라 첫 기후변화적응보고서</h3><time class="card-date">2023/04/21</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장애차별철폐의날과 탈시설 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/Ibo0YQ</id>
-        <link href="https://newneek.co/post/Ibo0YQ"/>
-        <updated>2023-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_%EC%95%B1%EC%BB%A4%EB%B2%84.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">장애차별철폐의날과 탈시설</h3><time class="card-date">2023/04/20</time><i class="card-category">인권</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 신제품: 통장 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/fWQuNN</id>
-        <link href="https://newneek.co/post/fWQuNN"/>
-        <updated>2023-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9JXUeap.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">애플 신제품: 통장</h3><time class="card-date">2023/04/20</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
