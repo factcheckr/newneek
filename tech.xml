@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-04-26T04:03:28.183Z</updated>
+    <updated>2023-04-26T05:03:49.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://newneek.co/post/fWQuNN"/>
         <updated>2023-04-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9JXUeap.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">애플 신제품: 통장</h3><time class="card-date">2023/04/20</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유튜버를 위한 저작권 팁]]></title>
+        <id>https://newneek.co/post/r5n0vu</id>
+        <link href="https://newneek.co/post/r5n0vu"/>
+        <updated>2023-04-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%82%B0%EB%8F%8C.png" alt=""></figure><div class="card-body"><h3 class="card-title">유튜버를 위한 저작권 팁</h3><time class="card-date">2023/04/04</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로봇 테마주 열풍, 히트다 히트!]]></title>
@@ -235,12 +242,5 @@ VR을 경험할 때가 온 거야]]></content>
         <link href="https://newneek.co/post/L6thMU"/>
         <updated>2023-01-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_CfyU9Iy.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 클라우드 컴퓨팅이 핫하고 AWS가 편리해요</h3><time class="card-date">2023/01/31</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오답노트 📝 | 뉴닉 교양 상식 레벨 테스트 정답과 해설 총정리!]]></title>
-        <id>https://newneek.co/post/SAqAzx</id>
-        <link href="https://newneek.co/post/SAqAzx"/>
-        <updated>2023-01-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8F%E1%85%B1%E1%84%8C%E1%85%B3_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5_a7hrpbx.png" alt=""></figure><div class="card-body"><h3 class="card-title">오답노트 📝 | 뉴닉 교양 상식 레벨 테스트 정답과 해설 총정리!</h3><time class="card-date">2023/01/10</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>

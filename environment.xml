@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2023-04-26T04:03:28.178Z</updated>
+    <updated>2023-04-26T05:03:49.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2J73DdN.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">남부지역 가뭄과 4대강 정책</h3><time class="card-date">2023/04/07</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이대공원 얼룩말 탈출과 동물원]]></title>
-        <id>https://newneek.co/post/SKqn5x</id>
-        <link href="https://newneek.co/post/SKqn5x"/>
-        <updated>2023-03-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_J1I3u89.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">어린이대공원 얼룩말 탈출과 동물원</h3><time class="card-date">2023/03/31</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(광고) 그린피스 꿀벌을 지켜줘]]></title>
         <id>https://newneek.co/post/gnkON4</id>
         <link href="https://newneek.co/post/gnkON4"/>
@@ -55,18 +48,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/0315_%EA%B7%B8%EB%A6%B0%ED%94%BC%EC%8A%A4_%EC%95%B1%EC%9A%A9.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 그린피스 꿀벌을 지켜줘</h3><time class="card-date">2023/03/21</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마라도 길고양이 방출]]></title>
-        <id>https://newneek.co/post/kp6MJv</id>
-        <link href="https://newneek.co/post/kp6MJv"/>
-        <updated>2023-03-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_s5vITGH.png" alt=""></figure><div class="card-body"><h3 class="card-title">마라도 길고양이 방출</h3><time class="card-date">2023/03/10</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[유엔 공해생물다양성보전협약(BBNJ) 체결]]></title>
         <id>https://newneek.co/post/71x0vQ</id>
         <link href="https://newneek.co/post/71x0vQ"/>
         <updated>2023-03-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_1_rKiGr84.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">유엔 공해생물다양성보전협약(BBNJ) 체결</h3><time class="card-date">2023/03/07</time><i class="card-category">환경</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설악산 케이블카 사업 조건부 허가]]></title>
+        <id>https://newneek.co/post/2OUqV8</id>
+        <link href="https://newneek.co/post/2OUqV8"/>
+        <updated>2023-02-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_gu2JdMM.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">설악산 케이블카 사업 조건부 허가</h3><time class="card-date">2023/02/28</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 기후솔루션 그린워싱 세탁기 #4]]></title>
@@ -116,13 +109,6 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
 &nbsp;]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[설악산 케이블카 사업 조건부 허가]]></title>
-        <id>https://newneek.co/post/2OUqV8</id>
-        <link href="https://newneek.co/post/2OUqV8"/>
-        <updated>2023-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_gu2JdMM.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">설악산 케이블카 사업 조건부 허가</h3><time class="card-date">2023/02/28</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(광고) 기후솔루션 그린워싱 세탁기 #3]]></title>
         <id>https://newneek.co/post/MDU750</id>
         <link href="https://newneek.co/post/MDU750"/>
@@ -165,5 +151,19 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
 이에 기후솔루션 등 환경단체는 국민연금이 ‘탈석탄 선언’을 지켜야 한다고 목소리를 내고 있어요: “투자 기준 제대로 만들고 따라야 해!”
 우리 이제 알못 아니야,
 선언만으로 친환경이 되니?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흑산도 국립공원 해제와 공항 건설]]></title>
+        <id>https://newneek.co/post/fNQP5m</id>
+        <link href="https://newneek.co/post/fNQP5m"/>
+        <updated>2023-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_vxXlOsx.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">흑산도 국립공원 해제와 공항 건설</h3><time class="card-date">2023/02/21</time><i class="card-category">환경</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류]]></title>
+        <id>https://newneek.co/post/Eawrvz</id>
+        <link href="https://newneek.co/post/Eawrvz"/>
+        <updated>2023-02-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_LvgOUBr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류</h3><time class="card-date">2023/02/17</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
