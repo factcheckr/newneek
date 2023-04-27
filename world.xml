@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-04-27T19:03:48.307Z</updated>
+    <updated>2023-04-27T20:04:12.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[위안화가 달러 넘어설까?]]></title>
+        <id>https://newneek.co/post/AVcqJZ</id>
+        <link href="https://newneek.co/post/AVcqJZ"/>
+        <updated>2023-04-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Z75PL9K.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">위안화가 달러 넘어설까?</h3><time class="card-date">2023/04/28</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수단 무력 충돌 사태]]></title>
         <id>https://newneek.co/post/vXVczX</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/1XKE3a"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_m74adHh.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">이스라엘 사법개혁과 반정부 시위</h3><time class="card-date">2023/03/22</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 시리아 내전 12년]]></title>
-        <id>https://newneek.co/post/KakHr5</id>
-        <link href="https://newneek.co/post/KakHr5"/>
-        <updated>2023-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_2.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 시리아 내전 12년</h3><time class="card-date">2023/03/15</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
