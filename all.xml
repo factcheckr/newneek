@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-28T06:04:48.373Z</updated>
+    <updated>2023-04-28T07:03:45.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[위안화가 달러 넘어설까? (뉴닉 ─ 2022 대선)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://newneek.co/post/AVcqJZ"/>
         <updated>2023-04-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Z75PL9K.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">위안화가 달러 넘어설까?</h3><time class="card-date">2023/04/28</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 민팃 대국민 폰 순환 캠페인 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/BQvxLs</id>
+        <link href="https://newneek.co/post/BQvxLs"/>
+        <updated>2023-04-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_eqkH9e1.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 민팃 대국민 폰 순환 캠페인</h3><time class="card-date">2023/04/28</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한반도 이상기후 문제 심각 (뉴닉 ─ 2022 대선)]]></title>
@@ -223,13 +230,6 @@
         <link href="https://newneek.co/post/ExJJH2"/>
         <updated>2023-04-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230424_%EC%95%B1%ED%94%BC%EB%93%9C_A.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕실업급여, 어떻게 생각해?</h3><time class="card-date">2023/04/24</time><i class="card-category">노동</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 민주당 전당대회 돈봉투 사건 의혹 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/hjs4um</id>
-        <link href="https://newneek.co/post/hjs4um"/>
-        <updated>2023-04-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ZVJUmJv.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2021년 민주당 전당대회 돈봉투 사건 의혹</h3><time class="card-date">2023/04/24</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한미 확장억제 성명 발표 (뉴닉 ─ 정치)]]></title>
@@ -1341,6 +1341,13 @@ MZ세대론 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_GcsrFiV.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한반도 이상기후 문제 심각</h3><time class="card-date">2023/04/28</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(광고) 민팃 대국민 폰 순환 캠페인 (뉴닉 ─ 환경)]]></title>
+        <id>https://newneek.co/post/BQvxLs</id>
+        <link href="https://newneek.co/post/BQvxLs"/>
+        <updated>2023-04-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_eqkH9e1.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 민팃 대국민 폰 순환 캠페인</h3><time class="card-date">2023/04/28</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[동물 실험 문제와 대안 (뉴닉 ─ 환경)]]></title>
         <id>https://newneek.co/post/ar4Eq0</id>
         <link href="https://newneek.co/post/ar4Eq0"/>
@@ -1488,18 +1495,18 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
 선언만으로 친환경이 되니?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[흑산도 국립공원 해제와 공항 건설 (뉴닉 ─ 환경)]]></title>
-        <id>https://newneek.co/post/fNQP5m</id>
-        <link href="https://newneek.co/post/fNQP5m"/>
-        <updated>2023-02-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_vxXlOsx.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">흑산도 국립공원 해제와 공항 건설</h3><time class="card-date">2023/02/21</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[위안화가 달러 넘어설까? (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/AVcqJZ</id>
         <link href="https://newneek.co/post/AVcqJZ"/>
         <updated>2023-04-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Z75PL9K.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">위안화가 달러 넘어설까?</h3><time class="card-date">2023/04/28</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 민팃 대국민 폰 순환 캠페인 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/BQvxLs</id>
+        <link href="https://newneek.co/post/BQvxLs"/>
+        <updated>2023-04-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_eqkH9e1.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 민팃 대국민 폰 순환 캠페인</h3><time class="card-date">2023/04/28</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한반도 이상기후 문제 심각 (뉴닉 ─ 여성)]]></title>
@@ -1715,18 +1722,18 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230424_%EC%95%B1%ED%94%BC%EB%93%9C_A.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕실업급여, 어떻게 생각해?</h3><time class="card-date">2023/04/24</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021년 민주당 전당대회 돈봉투 사건 의혹 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/hjs4um</id>
-        <link href="https://newneek.co/post/hjs4um"/>
-        <updated>2023-04-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ZVJUmJv.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2021년 민주당 전당대회 돈봉투 사건 의혹</h3><time class="card-date">2023/04/24</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[위안화가 달러 넘어설까? (뉴닉 ─ 코로나19)]]></title>
         <id>https://newneek.co/post/AVcqJZ</id>
         <link href="https://newneek.co/post/AVcqJZ"/>
         <updated>2023-04-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Z75PL9K.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">위안화가 달러 넘어설까?</h3><time class="card-date">2023/04/28</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 민팃 대국민 폰 순환 캠페인 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/BQvxLs</id>
+        <link href="https://newneek.co/post/BQvxLs"/>
+        <updated>2023-04-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_eqkH9e1.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 민팃 대국민 폰 순환 캠페인</h3><time class="card-date">2023/04/28</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한반도 이상기후 문제 심각 (뉴닉 ─ 코로나19)]]></title>
@@ -1942,18 +1949,18 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230424_%EC%95%B1%ED%94%BC%EB%93%9C_A.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕실업급여, 어떻게 생각해?</h3><time class="card-date">2023/04/24</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021년 민주당 전당대회 돈봉투 사건 의혹 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/hjs4um</id>
-        <link href="https://newneek.co/post/hjs4um"/>
-        <updated>2023-04-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ZVJUmJv.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2021년 민주당 전당대회 돈봉투 사건 의혹</h3><time class="card-date">2023/04/24</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[위안화가 달러 넘어설까? (뉴닉 ─ 피자스테이션)]]></title>
         <id>https://newneek.co/post/AVcqJZ</id>
         <link href="https://newneek.co/post/AVcqJZ"/>
         <updated>2023-04-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Z75PL9K.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">위안화가 달러 넘어설까?</h3><time class="card-date">2023/04/28</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 민팃 대국민 폰 순환 캠페인 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/BQvxLs</id>
+        <link href="https://newneek.co/post/BQvxLs"/>
+        <updated>2023-04-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_eqkH9e1.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 민팃 대국민 폰 순환 캠페인</h3><time class="card-date">2023/04/28</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한반도 이상기후 문제 심각 (뉴닉 ─ 피자스테이션)]]></title>
@@ -2167,12 +2174,5 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <link href="https://newneek.co/post/ExJJH2"/>
         <updated>2023-04-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230424_%EC%95%B1%ED%94%BC%EB%93%9C_A.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕실업급여, 어떻게 생각해?</h3><time class="card-date">2023/04/24</time><i class="card-category">노동</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 민주당 전당대회 돈봉투 사건 의혹 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/hjs4um</id>
-        <link href="https://newneek.co/post/hjs4um"/>
-        <updated>2023-04-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ZVJUmJv.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2021년 민주당 전당대회 돈봉투 사건 의혹</h3><time class="card-date">2023/04/24</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
