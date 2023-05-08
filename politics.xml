@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-05-08T19:03:07.761Z</updated>
+    <updated>2023-05-08T20:03:52.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한일정상회담과 셔틀외교 복원]]></title>
+        <id>https://newneek.co/post/mT9kn5</id>
+        <link href="https://newneek.co/post/mT9kn5"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_d7XeuYN.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한일정상회담과 셔틀외교 복원</h3><time class="card-date">2023/05/09</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한미정상회담 총결산 2023 ver.]]></title>
         <id>https://newneek.co/post/NYgljT</id>
@@ -221,12 +228,5 @@
         <link href="https://newneek.co/post/Q2mjkf"/>
         <updated>2023-04-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2J73DdN.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">남부지역 가뭄과 4대강 정책</h3><time class="card-date">2023/04/07</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한 전술핵탄두 공개: 작지만 위험하다]]></title>
-        <id>https://newneek.co/post/TDOD2Y</id>
-        <link href="https://newneek.co/post/TDOD2Y"/>
-        <updated>2023-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_OxF40gz.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">북한 전술핵탄두 공개: 작지만 위험하다</h3><time class="card-date">2023/03/30</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>

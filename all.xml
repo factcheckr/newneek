@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-08T19:03:07.771Z</updated>
+    <updated>2023-05-08T20:03:52.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[독일 대중교통 무제한 패스 도입 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/WgoW6Z</id>
+        <link href="https://newneek.co/post/WgoW6Z"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_hIgTGoB.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">독일 대중교통 무제한 패스 도입</h3><time class="card-date">2023/05/09</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한일정상회담과 셔틀외교 복원 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/mT9kn5</id>
+        <link href="https://newneek.co/post/mT9kn5"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_d7XeuYN.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한일정상회담과 셔틀외교 복원</h3><time class="card-date">2023/05/09</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영국 찰스 3세 대관식과 전망 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/FWRhTB</id>
@@ -252,18 +266,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_v1IdqcQ.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">간호법 제정 갈등: 대체 뭐길래?</h3><time class="card-date">2023/05/01</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🍕결혼식 축의금, 어떻게 생각해? (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/oMSmzI</id>
-        <link href="https://newneek.co/post/oMSmzI"/>
-        <updated>2023-05-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230501_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3_C.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕결혼식 축의금, 어떻게 생각해?</h3><time class="card-date">2023/05/01</time><i class="card-category">라이프</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위안화가 달러 넘어설까? (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/AVcqJZ</id>
-        <link href="https://newneek.co/post/AVcqJZ"/>
-        <updated>2023-04-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Z75PL9K.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">위안화가 달러 넘어설까?</h3><time class="card-date">2023/04/28</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[한일정상회담과 셔틀외교 복원 (뉴닉 ─ 정치)]]></title>
+        <id>https://newneek.co/post/mT9kn5</id>
+        <link href="https://newneek.co/post/mT9kn5"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_d7XeuYN.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한일정상회담과 셔틀외교 복원</h3><time class="card-date">2023/05/09</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한미정상회담 총결산 2023 ver. (뉴닉 ─ 정치)]]></title>
@@ -483,11 +490,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2J73DdN.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">남부지역 가뭄과 4대강 정책</h3><time class="card-date">2023/04/07</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북한 전술핵탄두 공개: 작지만 위험하다 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/TDOD2Y</id>
-        <link href="https://newneek.co/post/TDOD2Y"/>
-        <updated>2023-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_OxF40gz.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">북한 전술핵탄두 공개: 작지만 위험하다</h3><time class="card-date">2023/03/30</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[독일 대중교통 무제한 패스 도입 (뉴닉 ─ 세계)]]></title>
+        <id>https://newneek.co/post/WgoW6Z</id>
+        <link href="https://newneek.co/post/WgoW6Z"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_hIgTGoB.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">독일 대중교통 무제한 패스 도입</h3><time class="card-date">2023/05/09</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영국 찰스 3세 대관식과 전망 (뉴닉 ─ 세계)]]></title>
@@ -565,13 +572,6 @@
         <link href="https://newneek.co/post/Od0E4z"/>
         <updated>2023-03-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_K91uEL5.png" alt=""></figure><div class="card-body"><h3 class="card-title">미국 의회 틱톡 안보 위협 청문회</h3><time class="card-date">2023/03/27</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽연합 핵심원자재법과 영향 (뉴닉 ─ 세계)]]></title>
-        <id>https://newneek.co/post/ogDmNe</id>
-        <link href="https://newneek.co/post/ogDmNe"/>
-        <updated>2023-03-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_k0rLWhS.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">유럽연합 핵심원자재법과 영향</h3><time class="card-date">2023/03/24</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 신제품: 통장 (뉴닉 ─ 테크)]]></title>
@@ -1368,6 +1368,13 @@ MZ세대론 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_r4JHr6y.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">정부·여당 표준운임제 발표</h3><time class="card-date">2023/02/09</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[독일 대중교통 무제한 패스 도입 (뉴닉 ─ 환경)]]></title>
+        <id>https://newneek.co/post/WgoW6Z</id>
+        <link href="https://newneek.co/post/WgoW6Z"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_hIgTGoB.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">독일 대중교통 무제한 패스 도입</h3><time class="card-date">2023/05/09</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[한반도 이상기후 문제 심각 (뉴닉 ─ 환경)]]></title>
         <id>https://newneek.co/post/JZxFqE</id>
         <link href="https://newneek.co/post/JZxFqE"/>
@@ -1485,48 +1492,18 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
 &nbsp;]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 기후솔루션 그린워싱 세탁기 #3 (뉴닉 ─ 환경)]]></title>
-        <id>https://newneek.co/post/MDU750</id>
-        <link href="https://newneek.co/post/MDU750"/>
-        <updated>2023-02-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[* 이 콘텐츠는 기후솔루션으로부터 광고비를 받아 제작되었습니다. 앞으로 ‘고슴이와 그린워싱 세탁기' 콘텐츠에서는 기후솔루션과 함께 다양한 그린워싱 사례를 알아볼 수 있어요.
-뉴니커, 이번 주도 잘 지냈나요? 고슴이와 기후솔루션의 그린워싱 파헤치기 세 번째 시간이에요. 오늘 알아볼 그린워싱 세탁기의 선언 모드, ‘뭐더라?’ 싶다면:
-
-
-그린워싱은 🚿: 실제로는 친환경이 아닌데 친환경인 척해서 이득을 보는 거예요.
-
-
-선언 모드는 📢: 친환경이 되겠다고 말로만 선언해놓고 그 약속을 안 지키는 거예요.&nbsp;
-
-
-친환경이 되겠다는 약속? 무슨 약속?
-예를 들면 정부가 “온실가스 배출 줄일 거예요!”라고 선언하는 거예요. 아니면 공기업이나 금융기관이 “환경에 나쁜 회사(예: 석탄·석유 등 화석연료 회사 🚂)에 투자하지 않을게요!”라고 하는 것도요. 회사에 투자한다는 건 더 잘 일할 수 있게 돈을 줘서 그 회사를 밀어주는 거잖아요. 그러니까 환경에 나쁜 회사에는 투자하지 않겠다고 약속하는 거예요.&nbsp;
-누가 그런 약속을 했는데?
-우리나라의 큰손이자, 1위 기관 투자자로 꼽히는 국민연금이에요. 국민연금은 국민이 맡겨둔 돈으로 투자해서 돈을 불리는데요. 국민연금이 가진 돈은 어마어마해서, 투자 판과 기업 경영에 미치는 영향도 커요. 그러다 보니 ‘국민연금도 기후위기 신경써야 하는 거 아냐? 국민 돈으로 환경을 해치는 투자하면 안 되잖아!’ 하는 분위기가 생겼어요. 그러자 2021년 5월, 국민연금은 “환경을 위해, 석탄 회사에 투자 줄일게(=탈석탄)”라고 선언했고요 🗣️.&nbsp;
-그 약속을 안 지켰다는 거야?
-맞아요. 말로만 ‘탈석탄’이고, 행동은 전혀 ‘탈석탄’이 아니거든요.&nbsp;
-
-
-어떻게 줄일 거냐고...! 📉: 석탄 회사에 투자를 어떻게, 얼마나 줄일 건지에 대한 구체적인 계획을 내놓지 않고 있어요. ‘탈석탄 선언’한 지 2년이 돼가는데도요.
-
-
-오히려 늘어났는데? 📈: 그러는 동안 오히려 석탄 회사에 투자를 늘려 왔어요. 대표적인 석탄 회사인 한국전력공사(한전) 주식을 팍팍 사들인 것.
-
-
-
-근데 친환경 약속, 꼭 지켜야 해?
-물론이에요! 기후위기뿐 아니라, 국민의 돈으로 하는 투자의 안정성과도 관련된 문제거든요. 왜냐하면:&nbsp;
-
-
-석탄 회사는 지는 해: 석탄 회사는 더 이상 투자하기 좋은 곳이 아니에요. 전 세계가 환경을 위해 석탄 등 화석연료를 안 쓰려고 하기 때문. 실제로 영국·네덜란드·노르웨이 등의 연기금은 대표적인 석탄 기업인 한전에서 투자금을 빼가고 있고요.
-
-
-국민연금 돈은 우리 돈: 그런데 국민연금은 국민이 낸 돈으로 투자를 하잖아요. 그러니 소중한 국민 돈을 투자하다가 잃지 않게 더 조심해야 해요. 우리가 낸 돈으로 기후위기를 심하게 만드는 일에 투자하는 건 더 안 될 일이고요.&nbsp;
-
-
-이에 기후솔루션 등 환경단체는 국민연금이 ‘탈석탄 선언’을 지켜야 한다고 목소리를 내고 있어요: “투자 기준 제대로 만들고 따라야 해!”
-우리 이제 알못 아니야,
-선언만으로 친환경이 되니?]]></content>
+        <title type="html"><![CDATA[독일 대중교통 무제한 패스 도입 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/WgoW6Z</id>
+        <link href="https://newneek.co/post/WgoW6Z"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_hIgTGoB.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">독일 대중교통 무제한 패스 도입</h3><time class="card-date">2023/05/09</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한일정상회담과 셔틀외교 복원 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/mT9kn5</id>
+        <link href="https://newneek.co/post/mT9kn5"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_d7XeuYN.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한일정상회담과 셔틀외교 복원</h3><time class="card-date">2023/05/09</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영국 찰스 3세 대관식과 전망 (뉴닉 ─ 여성)]]></title>
@@ -1776,18 +1753,18 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_v1IdqcQ.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">간호법 제정 갈등: 대체 뭐길래?</h3><time class="card-date">2023/05/01</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🍕결혼식 축의금, 어떻게 생각해? (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/oMSmzI</id>
-        <link href="https://newneek.co/post/oMSmzI"/>
-        <updated>2023-05-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230501_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3_C.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕결혼식 축의금, 어떻게 생각해?</h3><time class="card-date">2023/05/01</time><i class="card-category">라이프</i></div></div>]]></content>
+        <title type="html"><![CDATA[독일 대중교통 무제한 패스 도입 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/WgoW6Z</id>
+        <link href="https://newneek.co/post/WgoW6Z"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_hIgTGoB.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">독일 대중교통 무제한 패스 도입</h3><time class="card-date">2023/05/09</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위안화가 달러 넘어설까? (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/AVcqJZ</id>
-        <link href="https://newneek.co/post/AVcqJZ"/>
-        <updated>2023-04-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Z75PL9K.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">위안화가 달러 넘어설까?</h3><time class="card-date">2023/04/28</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[한일정상회담과 셔틀외교 복원 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/mT9kn5</id>
+        <link href="https://newneek.co/post/mT9kn5"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_d7XeuYN.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한일정상회담과 셔틀외교 복원</h3><time class="card-date">2023/05/09</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영국 찰스 3세 대관식과 전망 (뉴닉 ─ 코로나19)]]></title>
@@ -2037,18 +2014,18 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_v1IdqcQ.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">간호법 제정 갈등: 대체 뭐길래?</h3><time class="card-date">2023/05/01</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🍕결혼식 축의금, 어떻게 생각해? (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/oMSmzI</id>
-        <link href="https://newneek.co/post/oMSmzI"/>
-        <updated>2023-05-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230501_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3_C.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕결혼식 축의금, 어떻게 생각해?</h3><time class="card-date">2023/05/01</time><i class="card-category">라이프</i></div></div>]]></content>
+        <title type="html"><![CDATA[독일 대중교통 무제한 패스 도입 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/WgoW6Z</id>
+        <link href="https://newneek.co/post/WgoW6Z"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_hIgTGoB.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">독일 대중교통 무제한 패스 도입</h3><time class="card-date">2023/05/09</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위안화가 달러 넘어설까? (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/AVcqJZ</id>
-        <link href="https://newneek.co/post/AVcqJZ"/>
-        <updated>2023-04-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Z75PL9K.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">위안화가 달러 넘어설까?</h3><time class="card-date">2023/04/28</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[한일정상회담과 셔틀외교 복원 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/mT9kn5</id>
+        <link href="https://newneek.co/post/mT9kn5"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_d7XeuYN.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한일정상회담과 셔틀외교 복원</h3><time class="card-date">2023/05/09</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영국 찰스 3세 대관식과 전망 (뉴닉 ─ 피자스테이션)]]></title>
@@ -2296,19 +2273,5 @@ RSPO 같은 인증은 나라가 꼭 받으라고 정하는 게 아니라 인증 
         <link href="https://newneek.co/post/OAXWQr"/>
         <updated>2023-05-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_v1IdqcQ.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">간호법 제정 갈등: 대체 뭐길래?</h3><time class="card-date">2023/05/01</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍕결혼식 축의금, 어떻게 생각해? (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/oMSmzI</id>
-        <link href="https://newneek.co/post/oMSmzI"/>
-        <updated>2023-05-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230501_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3_C.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕결혼식 축의금, 어떻게 생각해?</h3><time class="card-date">2023/05/01</time><i class="card-category">라이프</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위안화가 달러 넘어설까? (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/AVcqJZ</id>
-        <link href="https://newneek.co/post/AVcqJZ"/>
-        <updated>2023-04-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Z75PL9K.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">위안화가 달러 넘어설까?</h3><time class="card-date">2023/04/28</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
