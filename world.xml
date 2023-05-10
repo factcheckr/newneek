@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-05-10T04:03:32.552Z</updated>
+    <updated>2023-05-10T05:02:50.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -39,13 +39,6 @@
         <link href="https://newneek.co/post/lZ3Ruy"/>
         <updated>2023-05-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_lHe8dE8.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">파라과이 선거와 중국의 시선</h3><time class="card-date">2023/05/03</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위안화가 달러 넘어설까?]]></title>
-        <id>https://newneek.co/post/AVcqJZ</id>
-        <link href="https://newneek.co/post/AVcqJZ"/>
-        <updated>2023-04-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Z75PL9K.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">위안화가 달러 넘어설까?</h3><time class="card-date">2023/04/28</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수단 무력 충돌 사태]]></title>
@@ -88,5 +81,12 @@
         <link href="https://newneek.co/post/yhnPPU"/>
         <updated>2023-03-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_rtnOvy5.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">대만 끊고 중국과 손잡은 온두라스</h3><time class="card-date">2023/03/28</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 의회 틱톡 안보 위협 청문회]]></title>
+        <id>https://newneek.co/post/Od0E4z</id>
+        <link href="https://newneek.co/post/Od0E4z"/>
+        <updated>2023-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_K91uEL5.png" alt=""></figure><div class="card-body"><h3 class="card-title">미국 의회 틱톡 안보 위협 청문회</h3><time class="card-date">2023/03/27</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
