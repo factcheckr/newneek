@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-05-17T19:03:05.521Z</updated>
+    <updated>2023-05-17T20:03:20.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) 카카오톡 마음 배경 갤러리 프로모션]]></title>
+        <id>https://newneek.co/post/fsGPX0</id>
+        <link href="https://newneek.co/post/fsGPX0"/>
+        <updated>2023-05-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_2yyYXtP.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 카카오톡 마음 배경 갤러리 프로모션</h3><time class="card-date">2023/05/18</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) SKT 메타버스 앱 이프랜드(ifland)]]></title>
         <id>https://newneek.co/post/PnDbSv</id>
@@ -235,12 +242,5 @@ VR을 경험할 때가 온 거야]]></content>
         <link href="https://newneek.co/post/DTMOIj"/>
         <updated>2023-02-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_4.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) PlayStation® VR2</h3><time class="card-date">2023/02/23</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) AWS가 준비한 AI·ML 특집 온라인 컨퍼런스]]></title>
-        <id>https://newneek.co/post/Wx8Uit</id>
-        <link href="https://newneek.co/post/Wx8Uit"/>
-        <updated>2023-02-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1%EC%9A%A9.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) AWS가 준비한 AI·ML 특집 온라인 컨퍼런스</h3><time class="card-date">2023/02/13</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
