@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-18T19:03:20.308Z</updated>
+    <updated>2023-05-18T20:03:30.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김남국 의원 코인 투자 논란 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/QKqGgz</id>
+        <link href="https://newneek.co/post/QKqGgz"/>
+        <updated>2023-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_44MIuuk.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">김남국 의원 코인 투자 논란</h3><time class="card-date">2023/05/19</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 마포구 소각장 설립 논란 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/TUZToo</id>
+        <link href="https://newneek.co/post/TUZToo"/>
+        <updated>2023-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_fzi8JH6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">서울 마포구 소각장 설립 논란</h3><time class="card-date">2023/05/19</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우울증 갤러리 문제와 해결 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/8MujWT</id>
@@ -213,18 +227,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_S0Z2fNL.png" alt=""></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 교전</h3><time class="card-date">2023/05/15</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 에브리타임 학생복지스토어: “뉴진스만큼 좋아요” (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/EHA6iF</id>
-        <link href="https://newneek.co/post/EHA6iF"/>
-        <updated>2023-05-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_K17vx3c.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 에브리타임 학생복지스토어: “뉴진스만큼 좋아요”</h3><time class="card-date">2023/05/15</time><i class="card-category">라이프</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후쿠시마 원전 오염수 시찰단 논란 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/et7gsb</id>
-        <link href="https://newneek.co/post/et7gsb"/>
-        <updated>2023-05-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_e4N6DqA.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 시찰단 논란</h3><time class="card-date">2023/05/15</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[김남국 의원 코인 투자 논란 (뉴닉 ─ 정치)]]></title>
+        <id>https://newneek.co/post/QKqGgz</id>
+        <link href="https://newneek.co/post/QKqGgz"/>
+        <updated>2023-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_44MIuuk.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">김남국 의원 코인 투자 논란</h3><time class="card-date">2023/05/19</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후쿠시마 원전 오염수 시찰단 논란 (뉴닉 ─ 정치)]]></title>
@@ -442,13 +449,6 @@
         <link href="https://newneek.co/post/eAOzSV"/>
         <updated>2023-04-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_G49UYGe.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">TV 수신료 분리징수 논란</h3><time class="card-date">2023/04/12</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍕국회의원 정수, 어떻게 생각해? (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/luOB2P</id>
-        <link href="https://newneek.co/post/luOB2P"/>
-        <updated>2023-04-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230410_%EC%95%B1%ED%94%BC%EB%93%9C_B.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕국회의원 정수, 어떻게 생각해?</h3><time class="card-date">2023/04/10</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 튀르키예 대선 (뉴닉 ─ 세계)]]></title>
@@ -1322,6 +1322,13 @@ MZ세대론 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230220_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕회사야! 퇴근하고 업무 카톡 좀 안 울리게 해라!</h3><time class="card-date">2023/02/20</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[서울 마포구 소각장 설립 논란 (뉴닉 ─ 환경)]]></title>
+        <id>https://newneek.co/post/TUZToo</id>
+        <link href="https://newneek.co/post/TUZToo"/>
+        <updated>2023-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_fzi8JH6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">서울 마포구 소각장 설립 논란</h3><time class="card-date">2023/05/19</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[쓰레기 직매립 문제와 규제 (뉴닉 ─ 환경)]]></title>
         <id>https://newneek.co/post/9lvC5C</id>
         <link href="https://newneek.co/post/9lvC5C"/>
@@ -1399,11 +1406,18 @@ MZ세대론 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_1_rKiGr84.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">유엔 공해생물다양성보전협약(BBNJ) 체결</h3><time class="card-date">2023/03/07</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[설악산 케이블카 사업 조건부 허가 (뉴닉 ─ 환경)]]></title>
-        <id>https://newneek.co/post/2OUqV8</id>
-        <link href="https://newneek.co/post/2OUqV8"/>
-        <updated>2023-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_gu2JdMM.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">설악산 케이블카 사업 조건부 허가</h3><time class="card-date">2023/02/28</time><i class="card-category">환경</i></div></div>]]></content>
+        <title type="html"><![CDATA[김남국 의원 코인 투자 논란 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/QKqGgz</id>
+        <link href="https://newneek.co/post/QKqGgz"/>
+        <updated>2023-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_44MIuuk.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">김남국 의원 코인 투자 논란</h3><time class="card-date">2023/05/19</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 마포구 소각장 설립 논란 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/TUZToo</id>
+        <link href="https://newneek.co/post/TUZToo"/>
+        <updated>2023-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_fzi8JH6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">서울 마포구 소각장 설립 논란</h3><time class="card-date">2023/05/19</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우울증 갤러리 문제와 해결 (뉴닉 ─ 여성)]]></title>
@@ -1614,18 +1628,18 @@ MZ세대론 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_S0Z2fNL.png" alt=""></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 교전</h3><time class="card-date">2023/05/15</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 에브리타임 학생복지스토어: “뉴진스만큼 좋아요” (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/EHA6iF</id>
-        <link href="https://newneek.co/post/EHA6iF"/>
-        <updated>2023-05-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_K17vx3c.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 에브리타임 학생복지스토어: “뉴진스만큼 좋아요”</h3><time class="card-date">2023/05/15</time><i class="card-category">라이프</i></div></div>]]></content>
+        <title type="html"><![CDATA[김남국 의원 코인 투자 논란 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/QKqGgz</id>
+        <link href="https://newneek.co/post/QKqGgz"/>
+        <updated>2023-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_44MIuuk.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">김남국 의원 코인 투자 논란</h3><time class="card-date">2023/05/19</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[후쿠시마 원전 오염수 시찰단 논란 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/et7gsb</id>
-        <link href="https://newneek.co/post/et7gsb"/>
-        <updated>2023-05-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_e4N6DqA.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 시찰단 논란</h3><time class="card-date">2023/05/15</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[서울 마포구 소각장 설립 논란 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/TUZToo</id>
+        <link href="https://newneek.co/post/TUZToo"/>
+        <updated>2023-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_fzi8JH6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">서울 마포구 소각장 설립 논란</h3><time class="card-date">2023/05/19</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우울증 갤러리 문제와 해결 (뉴닉 ─ 코로나19)]]></title>
@@ -1836,18 +1850,18 @@ MZ세대론 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_S0Z2fNL.png" alt=""></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 교전</h3><time class="card-date">2023/05/15</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 에브리타임 학생복지스토어: “뉴진스만큼 좋아요” (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/EHA6iF</id>
-        <link href="https://newneek.co/post/EHA6iF"/>
-        <updated>2023-05-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_K17vx3c.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 에브리타임 학생복지스토어: “뉴진스만큼 좋아요”</h3><time class="card-date">2023/05/15</time><i class="card-category">라이프</i></div></div>]]></content>
+        <title type="html"><![CDATA[김남국 의원 코인 투자 논란 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/QKqGgz</id>
+        <link href="https://newneek.co/post/QKqGgz"/>
+        <updated>2023-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_44MIuuk.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">김남국 의원 코인 투자 논란</h3><time class="card-date">2023/05/19</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[후쿠시마 원전 오염수 시찰단 논란 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/et7gsb</id>
-        <link href="https://newneek.co/post/et7gsb"/>
-        <updated>2023-05-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_e4N6DqA.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 시찰단 논란</h3><time class="card-date">2023/05/15</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[서울 마포구 소각장 설립 논란 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/TUZToo</id>
+        <link href="https://newneek.co/post/TUZToo"/>
+        <updated>2023-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_fzi8JH6.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">서울 마포구 소각장 설립 논란</h3><time class="card-date">2023/05/19</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우울증 갤러리 문제와 해결 (뉴닉 ─ 피자스테이션)]]></title>
@@ -2056,19 +2070,5 @@ MZ세대론 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 
         <link href="https://newneek.co/post/6NyQ7J"/>
         <updated>2023-05-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_S0Z2fNL.png" alt=""></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 교전</h3><time class="card-date">2023/05/15</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 에브리타임 학생복지스토어: “뉴진스만큼 좋아요” (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/EHA6iF</id>
-        <link href="https://newneek.co/post/EHA6iF"/>
-        <updated>2023-05-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_K17vx3c.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 에브리타임 학생복지스토어: “뉴진스만큼 좋아요”</h3><time class="card-date">2023/05/15</time><i class="card-category">라이프</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후쿠시마 원전 오염수 시찰단 논란 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/et7gsb</id>
-        <link href="https://newneek.co/post/et7gsb"/>
-        <updated>2023-05-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_e4N6DqA.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 시찰단 논란</h3><time class="card-date">2023/05/15</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
