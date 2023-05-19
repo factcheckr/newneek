@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-05-18T23:03:39.958Z</updated>
+    <updated>2023-05-19T00:28:51.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://newneek.co/post/eMvbeH</id>
         <link href="https://newneek.co/post/eMvbeH"/>
         <updated>2023-05-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_snanlCS.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">금값 사상 최고 수준: 돌반지 어딨더라?</h3><time class="card-date">2023/05/17</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_snanlCS.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">금값 사상 최고 수준: 돌반지 어딨더라?</h3><time class="card-date">2023/05/17</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[청년 세대 '거지방' 열풍 현상]]></title>
