@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-05-22T19:03:15.889Z</updated>
+    <updated>2023-05-22T20:03:19.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[임신중단과 미국 대선]]></title>
+        <id>https://newneek.co/post/QIKPF1</id>
+        <link href="https://newneek.co/post/QIKPF1"/>
+        <updated>2023-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_9.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">임신중단과 미국 대선</h3><time class="card-date">2023/05/23</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[히로시마 G7 정상회의]]></title>
         <id>https://newneek.co/post/QHIV00</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/vXVczX"/>
         <updated>2023-04-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_fHsmu1C.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">수단 무력 충돌 사태</h3><time class="card-date">2023/04/24</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 브라질 정상회담]]></title>
-        <id>https://newneek.co/post/Qfqt00</id>
-        <link href="https://newneek.co/post/Qfqt00"/>
-        <updated>2023-04-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_gy73uvv.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">중국 브라질 정상회담</h3><time class="card-date">2023/04/18</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
