@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-05-25T19:04:16.312Z</updated>
+    <updated>2023-05-25T20:03:55.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) 뤼튼으로 챗GPT 120% 활용하는 방법]]></title>
+        <id>https://newneek.co/post/fEsXp9</id>
+        <link href="https://newneek.co/post/fEsXp9"/>
+        <updated>2023-05-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/0517_%EB%A4%BC%ED%8A%BC_%EC%95%B1%EC%9A%A9.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 뤼튼으로 챗GPT 120% 활용하는 방법</h3><time class="card-date">2023/05/26</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 카카오톡 마음 배경 갤러리 프로모션]]></title>
         <id>https://newneek.co/post/fsGPX0</id>
@@ -235,12 +242,5 @@ PlayStation® 팝업스토어는 아래 장소에서 만날 수 있어요.
 
 지금 바로 아래 버튼을 눌러 PlayStation® VR2를 랜선으로 먼저 만나봐요!
 VR을 경험할 때가 온 거야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) PlayStation® VR2]]></title>
-        <id>https://newneek.co/post/DTMOIj</id>
-        <link href="https://newneek.co/post/DTMOIj"/>
-        <updated>2023-02-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_4.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) PlayStation® VR2</h3><time class="card-date">2023/02/23</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
