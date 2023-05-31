@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-05-31T19:03:24.604Z</updated>
+    <updated>2023-05-31T20:03:18.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) AWS Korea와 함께하는 AWSOME DAY]]></title>
+        <id>https://newneek.co/post/aWQknN</id>
+        <link href="https://newneek.co/post/aWQknN"/>
+        <updated>2023-06-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/0517_AWSomeday_%EC%95%B1%EC%9A%A9.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) AWS Korea와 함께하는 AWSOME DAY</h3><time class="card-date">2023/06/01</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 뤼튼으로 챗GPT 120% 활용하는 방법]]></title>
         <id>https://newneek.co/post/fEsXp9</id>
@@ -211,36 +218,5 @@ AI가 발달하면 작가·예술가 등 창작자들을 완전히 대체할 수
         <link href="https://newneek.co/post/TgUoBh"/>
         <updated>2023-03-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_ccicVYm.png" alt=""></figure><div class="card-body"><h3 class="card-title">MWC 2023 총결산</h3><time class="card-date">2023/03/06</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) PlayStation® 팝업스토어]]></title>
-        <id>https://newneek.co/post/iU5Sjo</id>
-        <link href="https://newneek.co/post/iU5Sjo"/>
-        <updated>2023-02-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[* 이 콘텐츠는 소니인터랙티브엔터테인먼트코리아(SIEK)로부터 광고비를 받아 제작되었습니다.
-뉴니커는 팝업스토어에 진심인 편인가요? 코로나19로 한동안 주춤했던 팝업스토어가 요즘 다시 핫플레이스로 떠오르고 있어요. 브랜드와 제품을 경험하고, 최신 트렌드를 따라잡을 수 있는 공간으로 인기를 모으는 건데요. 요즘 게이머들 사이에서는 PlayStation® 팝업스토어가 세상 제일 핫하다고.
-PlayStation® 팝업스토어에 가면 뭐가 있냐면:
-
-
-없어서 못 산다는 기기 🎮:&nbsp;작년에 세계적으로 반도체를 구하기 어려워지면서 PlayStation®5도 구하기 어렵다는 말이 나왔는데요. 이번 팝업스토어에서 마음껏 즐길 수 있어요. 우리나라에 출시된 지 1주일도 안 된 가상현실(VR) 헤드셋 PlayStation® VR2도 만나볼 수 있고요.
-
-
-고르기 힘들다는 타이틀 🕹️:&nbsp;이번 팝업에서는 PlayStation® VR2 전용 게임 타이틀도 체험할 수 있어요. 말이 필요없는 초초초 기대작 ‘호라이즌 콜 오브 더 마운틴’을 직접 플레이할 수 있는 건 물론, ‘그란 투리스모 7’, ‘바이오하자드 빌리지’처럼 VR로 새롭게 태어난 게임은 현장에서 바로 구매할 수도 있고요.
-
-
-PlayStation® 팝업스토어는 아래 장소에서 만날 수 있어요.
-
-
-용산 아이파크몰 3층 PlayStation® 전문 스토어와 6층 특별행사장(~3/12)
-
-
-일렉트로마트 영등포점 지하 1층 PlayStation® 전문 스토어(~3/5)&nbsp;
-
-
-스타필드 고양점 2층 일렉트로마트(3/3~3/5)
-
-
-지금 바로 아래 버튼을 눌러 PlayStation® VR2를 랜선으로 먼저 만나봐요!
-VR을 경험할 때가 온 거야]]></content>
     </entry>
 </feed>
