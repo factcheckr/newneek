@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2023-06-01T19:03:37.192Z</updated>
+    <updated>2023-06-01T20:03:08.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[IM N. 매거진 예약 판매 알림]]></title>
+        <id>https://newneek.co/post/0yRzr7</id>
+        <link href="https://newneek.co/post/0yRzr7"/>
+        <updated>2023-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230602_%E1%84%85%E1%85%A6%E1%84%90%E1%85%A5_1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">IM N. 매거진 예약 판매 알림</h3><time class="card-date">2023/06/02</time><i class="card-category"></i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동물 안식처 생추어리]]></title>
+        <id>https://newneek.co/post/6vvBN9</id>
+        <link href="https://newneek.co/post/6vvBN9"/>
+        <updated>2023-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_VibvppK.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">동물 안식처 생추어리</h3><time class="card-date">2023/06/02</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[긴급재난문자 혼란]]></title>
+        <id>https://newneek.co/post/CggLXn</id>
+        <link href="https://newneek.co/post/CggLXn"/>
+        <updated>2023-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_WVlpinP.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">긴급재난문자 혼란</h3><time class="card-date">2023/06/02</time><i class="card-category"></i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한 우주발사체 발사]]></title>
         <id>https://newneek.co/post/YYntuG</id>
@@ -204,26 +225,5 @@
         <link href="https://newneek.co/post/BQzdXw"/>
         <updated>2023-05-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230529_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3_D.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕배달비, 어떻게 생각해?</h3><time class="card-date">2023/05/29</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폐지 줍는 노인과 자원재생 활동가]]></title>
-        <id>https://newneek.co/post/LcnPC9</id>
-        <link href="https://newneek.co/post/LcnPC9"/>
-        <updated>2023-05-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_d46ki55.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">폐지 줍는 노인과 자원재생 활동가</h3><time class="card-date">2023/05/29</time><i class="card-category">노동</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두근두근 유엔 안보리 이사국 선거]]></title>
-        <id>https://newneek.co/post/y8fh9E</id>
-        <link href="https://newneek.co/post/y8fh9E"/>
-        <updated>2023-05-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_6uzN769.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">두근두근 유엔 안보리 이사국 선거</h3><time class="card-date">2023/05/29</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당정 집시법 개정 추진]]></title>
-        <id>https://newneek.co/post/M9gAFG</id>
-        <link href="https://newneek.co/post/M9gAFG"/>
-        <updated>2023-05-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_e6tXg7c.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">당정 집시법 개정 추진</h3><time class="card-date">2023/05/26</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
 </feed>
