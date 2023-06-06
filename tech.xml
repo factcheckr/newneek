@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-06-06T19:03:28.740Z</updated>
+    <updated>2023-06-06T20:03:21.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[타다 경영진 무죄 판결]]></title>
+        <id>https://newneek.co/post/HtLJwn</id>
+        <link href="https://newneek.co/post/HtLJwn"/>
+        <updated>2023-06-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_D02PaS8.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">타다 경영진 무죄 판결</h3><time class="card-date">2023/06/07</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) AWS Korea와 함께하는 AWSOME DAY]]></title>
         <id>https://newneek.co/post/aWQknN</id>
@@ -211,12 +218,5 @@ AI가 발달하면 작가·예술가 등 창작자들을 완전히 대체할 수
         <link href="https://newneek.co/post/IMiqx0"/>
         <updated>2023-03-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230306_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕20XX년: 글은 인공지능이 쓰는 거 아님?</h3><time class="card-date">2023/03/06</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MWC 2023 총결산]]></title>
-        <id>https://newneek.co/post/TgUoBh</id>
-        <link href="https://newneek.co/post/TgUoBh"/>
-        <updated>2023-03-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_ccicVYm.png" alt=""></figure><div class="card-body"><h3 class="card-title">MWC 2023 총결산</h3><time class="card-date">2023/03/06</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
