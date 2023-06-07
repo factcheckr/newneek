@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-07T19:03:39.639Z</updated>
+    <updated>2023-06-07T20:03:04.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[물가상승률과 체감물가 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/70qAyx</id>
+        <link href="https://newneek.co/post/70qAyx"/>
+        <updated>2023-06-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_FIQQdWu.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">물가상승률과 체감물가</h3><time class="card-date">2023/06/08</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 댐 파괴와 그 영향 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/kgXBEQ</id>
+        <link href="https://newneek.co/post/kgXBEQ"/>
+        <updated>2023-06-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XEp0sui.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 댐 파괴와 그 영향</h3><time class="card-date">2023/06/08</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시민단체 보조금 비리 논란 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/D6lq9I</id>
@@ -237,20 +251,6 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_WVlpinP.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">긴급재난문자 혼란</h3><time class="card-date">2023/06/02</time><i class="card-category"></i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북한 우주발사체 발사 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/YYntuG</id>
-        <link href="https://newneek.co/post/YYntuG"/>
-        <updated>2023-06-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_zW9H20D.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">북한 우주발사체 발사</h3><time class="card-date">2023/06/01</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) AWS Korea와 함께하는 AWSOME DAY (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/aWQknN</id>
-        <link href="https://newneek.co/post/aWQknN"/>
-        <updated>2023-06-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/0517_AWSomeday_%EC%95%B1%EC%9A%A9.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) AWS Korea와 함께하는 AWSOME DAY</h3><time class="card-date">2023/06/01</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[시민단체 보조금 비리 논란 (뉴닉 ─ 정치)]]></title>
         <id>https://newneek.co/post/D6lq9I</id>
         <link href="https://newneek.co/post/D6lq9I"/>
@@ -335,6 +335,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Fvmtvjp.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한미 확장억제 성명 발표</h3><time class="card-date">2023/04/27</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[우크라이나 댐 파괴와 그 영향 (뉴닉 ─ 세계)]]></title>
+        <id>https://newneek.co/post/kgXBEQ</id>
+        <link href="https://newneek.co/post/kgXBEQ"/>
+        <updated>2023-06-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XEp0sui.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 댐 파괴와 그 영향</h3><time class="card-date">2023/06/08</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[튀르키예 대선 결선투표 결과 (뉴닉 ─ 세계)]]></title>
         <id>https://newneek.co/post/Np5viU</id>
         <link href="https://newneek.co/post/Np5viU"/>
@@ -410,13 +417,6 @@
         <link href="https://newneek.co/post/uPDXuR"/>
         <updated>2023-05-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_FKzATni.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">내전으로 향하는 수단 분쟁</h3><time class="card-date">2023/05/04</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파라과이 선거와 중국의 시선 (뉴닉 ─ 세계)]]></title>
-        <id>https://newneek.co/post/lZ3Ruy</id>
-        <link href="https://newneek.co/post/lZ3Ruy"/>
-        <updated>2023-05-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_lHe8dE8.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">파라과이 선거와 중국의 시선</h3><time class="card-date">2023/05/03</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[타다 경영진 무죄 판결 (뉴닉 ─ 테크)]]></title>
@@ -631,6 +631,13 @@ AI가 발달하면 작가·예술가 등 창작자들을 완전히 대체할 수
         <link href="https://newneek.co/post/IMiqx0"/>
         <updated>2023-03-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230306_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕20XX년: 글은 인공지능이 쓰는 거 아님?</h3><time class="card-date">2023/03/06</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물가상승률과 체감물가 (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/70qAyx</id>
+        <link href="https://newneek.co/post/70qAyx"/>
+        <updated>2023-06-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_FIQQdWu.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">물가상승률과 체감물가</h3><time class="card-date">2023/06/08</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[타다 경영진 무죄 판결 (뉴닉 ─ 경제)]]></title>
@@ -988,13 +995,6 @@ AI가 발달하면 작가·예술가 등 창작자들을 완전히 대체할 수
         <link href="https://newneek.co/post/gI238o"/>
         <updated>2023-05-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_JbsdIVS.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">청년 세대 '거지방' 열풍 현상</h3><time class="card-date">2023/05/10</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 기준금리 동결 가능성 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/cQd132</id>
-        <link href="https://newneek.co/post/cQd132"/>
-        <updated>2023-05-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_M9DgAD7.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">미국 기준금리 동결 가능성</h3><time class="card-date">2023/05/08</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘배달비’ 피자가 도착했습니다! (뉴닉 ─ 노동)]]></title>
@@ -1421,6 +1421,20 @@ AI가 발달하면 작가·예술가 등 창작자들을 완전히 대체할 수
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_eqkH9e1.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 민팃 대국민 폰 순환 캠페인</h3><time class="card-date">2023/04/28</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[물가상승률과 체감물가 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/70qAyx</id>
+        <link href="https://newneek.co/post/70qAyx"/>
+        <updated>2023-06-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_FIQQdWu.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">물가상승률과 체감물가</h3><time class="card-date">2023/06/08</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 댐 파괴와 그 영향 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/kgXBEQ</id>
+        <link href="https://newneek.co/post/kgXBEQ"/>
+        <updated>2023-06-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XEp0sui.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 댐 파괴와 그 영향</h3><time class="card-date">2023/06/08</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[시민단체 보조금 비리 논란 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/D6lq9I</id>
         <link href="https://newneek.co/post/D6lq9I"/>
@@ -1653,18 +1667,18 @@ AI가 발달하면 작가·예술가 등 창작자들을 완전히 대체할 수
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_WVlpinP.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">긴급재난문자 혼란</h3><time class="card-date">2023/06/02</time><i class="card-category"></i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북한 우주발사체 발사 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/YYntuG</id>
-        <link href="https://newneek.co/post/YYntuG"/>
-        <updated>2023-06-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_zW9H20D.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">북한 우주발사체 발사</h3><time class="card-date">2023/06/01</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[물가상승률과 체감물가 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/70qAyx</id>
+        <link href="https://newneek.co/post/70qAyx"/>
+        <updated>2023-06-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_FIQQdWu.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">물가상승률과 체감물가</h3><time class="card-date">2023/06/08</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) AWS Korea와 함께하는 AWSOME DAY (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/aWQknN</id>
-        <link href="https://newneek.co/post/aWQknN"/>
-        <updated>2023-06-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/0517_AWSomeday_%EC%95%B1%EC%9A%A9.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) AWS Korea와 함께하는 AWSOME DAY</h3><time class="card-date">2023/06/01</time><i class="card-category">테크</i></div></div>]]></content>
+        <title type="html"><![CDATA[우크라이나 댐 파괴와 그 영향 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/kgXBEQ</id>
+        <link href="https://newneek.co/post/kgXBEQ"/>
+        <updated>2023-06-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XEp0sui.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 댐 파괴와 그 영향</h3><time class="card-date">2023/06/08</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시민단체 보조금 비리 논란 (뉴닉 ─ 코로나19)]]></title>
@@ -1899,18 +1913,18 @@ AI가 발달하면 작가·예술가 등 창작자들을 완전히 대체할 수
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_WVlpinP.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">긴급재난문자 혼란</h3><time class="card-date">2023/06/02</time><i class="card-category"></i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북한 우주발사체 발사 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/YYntuG</id>
-        <link href="https://newneek.co/post/YYntuG"/>
-        <updated>2023-06-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_zW9H20D.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">북한 우주발사체 발사</h3><time class="card-date">2023/06/01</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[물가상승률과 체감물가 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/70qAyx</id>
+        <link href="https://newneek.co/post/70qAyx"/>
+        <updated>2023-06-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_FIQQdWu.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">물가상승률과 체감물가</h3><time class="card-date">2023/06/08</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) AWS Korea와 함께하는 AWSOME DAY (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/aWQknN</id>
-        <link href="https://newneek.co/post/aWQknN"/>
-        <updated>2023-06-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/0517_AWSomeday_%EC%95%B1%EC%9A%A9.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) AWS Korea와 함께하는 AWSOME DAY</h3><time class="card-date">2023/06/01</time><i class="card-category">테크</i></div></div>]]></content>
+        <title type="html"><![CDATA[우크라이나 댐 파괴와 그 영향 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/kgXBEQ</id>
+        <link href="https://newneek.co/post/kgXBEQ"/>
+        <updated>2023-06-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XEp0sui.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 댐 파괴와 그 영향</h3><time class="card-date">2023/06/08</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시민단체 보조금 비리 논란 (뉴닉 ─ 피자스테이션)]]></title>
@@ -2143,19 +2157,5 @@ AI가 발달하면 작가·예술가 등 창작자들을 완전히 대체할 수
         <link href="https://newneek.co/post/CggLXn"/>
         <updated>2023-06-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_WVlpinP.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">긴급재난문자 혼란</h3><time class="card-date">2023/06/02</time><i class="card-category"></i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한 우주발사체 발사 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/YYntuG</id>
-        <link href="https://newneek.co/post/YYntuG"/>
-        <updated>2023-06-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_zW9H20D.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">북한 우주발사체 발사</h3><time class="card-date">2023/06/01</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) AWS Korea와 함께하는 AWSOME DAY (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/aWQknN</id>
-        <link href="https://newneek.co/post/aWQknN"/>
-        <updated>2023-06-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/0517_AWSomeday_%EC%95%B1%EC%9A%A9.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) AWS Korea와 함께하는 AWSOME DAY</h3><time class="card-date">2023/06/01</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
