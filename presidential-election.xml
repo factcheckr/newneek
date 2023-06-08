@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2023-06-08T19:03:11.178Z</updated>
+    <updated>2023-06-08T20:03:22.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[캐나다 산불과 기후위기]]></title>
+        <id>https://newneek.co/post/bzzgA8</id>
+        <link href="https://newneek.co/post/bzzgA8"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_33W4mNa.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">캐나다 산불과 기후위기</h3><time class="card-date">2023/06/09</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국노총 경사노위 불참]]></title>
+        <id>https://newneek.co/post/dySsXd</id>
+        <link href="https://newneek.co/post/dySsXd"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_LAJXmsm.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한국노총 경사노위 불참</h3><time class="card-date">2023/06/09</time><i class="card-category">노동</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[물가상승률과 체감물가]]></title>
         <id>https://newneek.co/post/70qAyx</id>
@@ -236,19 +250,5 @@
         <link href="https://newneek.co/post/0yRzr7"/>
         <updated>2023-06-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230602_%E1%84%85%E1%85%A6%E1%84%90%E1%85%A5_1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">IM N. 매거진 예약 판매 알림</h3><time class="card-date">2023/06/02</time><i class="card-category"></i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동물 안식처 생추어리]]></title>
-        <id>https://newneek.co/post/6vvBN9</id>
-        <link href="https://newneek.co/post/6vvBN9"/>
-        <updated>2023-06-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_VibvppK.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">동물 안식처 생추어리</h3><time class="card-date">2023/06/02</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[긴급재난문자 혼란]]></title>
-        <id>https://newneek.co/post/CggLXn</id>
-        <link href="https://newneek.co/post/CggLXn"/>
-        <updated>2023-06-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_WVlpinP.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">긴급재난문자 혼란</h3><time class="card-date">2023/06/02</time><i class="card-category"></i></div></div>]]></content>
     </entry>
 </feed>
