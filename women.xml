@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2023-06-11T19:03:47.945Z</updated>
+    <updated>2023-06-11T20:03:03.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[의과대학 정원 확대의 쟁점]]></title>
+        <id>https://newneek.co/post/1ToktL</id>
+        <link href="https://newneek.co/post/1ToktL"/>
+        <updated>2023-06-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_10.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">의과대학 정원 확대의 쟁점</h3><time class="card-date">2023/06/12</time><i class="card-category"></i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🍕뉴스 댓글 폐지, 어떻게 생각해?]]></title>
+        <id>https://newneek.co/post/R0HSnY</id>
+        <link href="https://newneek.co/post/R0HSnY"/>
+        <updated>2023-06-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.png" alt=""></figure><div class="card-body"><h3 class="card-title">🍕뉴스 댓글 폐지, 어떻게 생각해?</h3><time class="card-date">2023/06/12</time><i class="card-category"></i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 댐 파괴와 식량 위기]]></title>
+        <id>https://newneek.co/post/vcjLGT</id>
+        <link href="https://newneek.co/post/vcjLGT"/>
+        <updated>2023-06-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_11.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 댐 파괴와 식량 위기</h3><time class="card-date">2023/06/12</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐나다 산불과 기후위기]]></title>
         <id>https://newneek.co/post/bzzgA8</id>
@@ -229,26 +250,5 @@
         <link href="https://newneek.co/post/BA7Mwl"/>
         <updated>2023-06-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_dBLgUJN.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">슈퍼 엘니뇨와 올여름 날씨</h3><time class="card-date">2023/06/05</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선관위 특혜채용 감사 논란]]></title>
-        <id>https://newneek.co/post/NPmwUp</id>
-        <link href="https://newneek.co/post/NPmwUp"/>
-        <updated>2023-06-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_chitOOP.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">선관위 특혜채용 감사 논란</h3><time class="card-date">2023/06/05</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 그린피스 기후위기 대응 프로젝트]]></title>
-        <id>https://newneek.co/post/gnMFBC</id>
-        <link href="https://newneek.co/post/gnMFBC"/>
-        <updated>2023-06-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/1D1FD8B1-8481-4A5A-B8BB-A6D9EE7ED45E.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 그린피스 기후위기 대응 프로젝트</h3><time class="card-date">2023/06/05</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IM N. 매거진 예약 판매 알림]]></title>
-        <id>https://newneek.co/post/0yRzr7</id>
-        <link href="https://newneek.co/post/0yRzr7"/>
-        <updated>2023-06-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230602_%E1%84%85%E1%85%A6%E1%84%90%E1%85%A5_1.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">IM N. 매거진 예약 판매 알림</h3><time class="card-date">2023/06/02</time><i class="card-category"></i></div></div>]]></content>
     </entry>
 </feed>
