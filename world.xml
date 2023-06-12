@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-06-12T19:03:47.775Z</updated>
+    <updated>2023-06-12T20:04:01.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[디커플링에서 디리스킹으로]]></title>
+        <id>https://newneek.co/post/WPq39i</id>
+        <link href="https://newneek.co/post/WPq39i"/>
+        <updated>2023-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_0vpfloZ.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">디커플링에서 디리스킹으로</h3><time class="card-date">2023/06/13</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나 댐 파괴와 식량 위기]]></title>
         <id>https://newneek.co/post/vcjLGT</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/WgoW6Z"/>
         <updated>2023-05-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_hIgTGoB.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">독일 대중교통 무제한 패스 도입</h3><time class="card-date">2023/05/09</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 찰스 3세 대관식과 전망]]></title>
-        <id>https://newneek.co/post/FWRhTB</id>
-        <link href="https://newneek.co/post/FWRhTB"/>
-        <updated>2023-05-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_7fgC47s.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">영국 찰스 3세 대관식과 전망</h3><time class="card-date">2023/05/08</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
