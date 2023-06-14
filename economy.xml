@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-06-14T19:03:41.160Z</updated>
+    <updated>2023-06-14T20:03:34.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[청년도약계좌 가입 시작]]></title>
+        <id>https://newneek.co/post/ejxWxg</id>
+        <link href="https://newneek.co/post/ejxWxg"/>
+        <updated>2023-06-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/1%EB%B6%84%EB%89%B4%EC%8A%A4_1_qZUgji0.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">청년도약계좌 가입 시작</h3><time class="card-date">2023/06/15</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외국인 투자자 등록제 폐지]]></title>
         <id>https://newneek.co/post/xRMrg9</id>
@@ -361,12 +368,5 @@
         <link href="https://newneek.co/post/DJhpKv"/>
         <updated>2023-05-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230522_%EC%95%B1%ED%94%BC%EB%93%9C_D.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕전세제도, 어떻게 생각해?</h3><time class="card-date">2023/05/22</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금값 사상 최고 수준: 돌반지 어딨더라?]]></title>
-        <id>https://newneek.co/post/eMvbeH</id>
-        <link href="https://newneek.co/post/eMvbeH"/>
-        <updated>2023-05-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_snanlCS.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">금값 사상 최고 수준: 돌반지 어딨더라?</h3><time class="card-date">2023/05/17</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
