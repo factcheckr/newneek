@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-06-15T19:03:17.194Z</updated>
+    <updated>2023-06-15T20:04:06.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[태양광 사업 비리 감찰 지시]]></title>
+        <id>https://newneek.co/post/anUQxB</id>
+        <link href="https://newneek.co/post/anUQxB"/>
+        <updated>2023-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_p0txcS2.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">태양광 사업 비리 감찰 지시</h3><time class="card-date">2023/06/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동관 자녀 학교폭력 논란]]></title>
         <id>https://newneek.co/post/aGkypa</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/mT9kn5"/>
         <updated>2023-05-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_d7XeuYN.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한일정상회담과 셔틀외교 복원</h3><time class="card-date">2023/05/09</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한미정상회담 총결산 2023 ver.]]></title>
-        <id>https://newneek.co/post/NYgljT</id>
-        <link href="https://newneek.co/post/NYgljT"/>
-        <updated>2023-05-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_WU40bnp.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한미정상회담 총결산 2023 ver.</h3><time class="card-date">2023/05/01</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>

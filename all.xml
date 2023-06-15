@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-15T19:03:17.221Z</updated>
+    <updated>2023-06-15T20:04:06.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[미국 성소수자 인권과 문화전쟁 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/OyBG2h</id>
+        <link href="https://newneek.co/post/OyBG2h"/>
+        <updated>2023-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_SIjNWaR.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">미국 성소수자 인권과 문화전쟁</h3><time class="card-date">2023/06/16</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태양광 사업 비리 감찰 지시 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/anUQxB</id>
+        <link href="https://newneek.co/post/anUQxB"/>
+        <updated>2023-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_p0txcS2.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">태양광 사업 비리 감찰 지시</h3><time class="card-date">2023/06/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동관 자녀 학교폭력 논란 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/aGkypa</id>
@@ -207,18 +221,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.png" alt=""></figure><div class="card-body"><h3 class="card-title">🍕뉴스 댓글 폐지, 어떻게 생각해?</h3><time class="card-date">2023/06/12</time><i class="card-category"></i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라이나 댐 파괴와 식량 위기 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/vcjLGT</id>
-        <link href="https://newneek.co/post/vcjLGT"/>
-        <updated>2023-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_11.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 댐 파괴와 식량 위기</h3><time class="card-date">2023/06/12</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐나다 산불과 기후위기 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/bzzgA8</id>
-        <link href="https://newneek.co/post/bzzgA8"/>
-        <updated>2023-06-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_33W4mNa.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">캐나다 산불과 기후위기</h3><time class="card-date">2023/06/09</time><i class="card-category">환경</i></div></div>]]></content>
+        <title type="html"><![CDATA[태양광 사업 비리 감찰 지시 (뉴닉 ─ 정치)]]></title>
+        <id>https://newneek.co/post/anUQxB</id>
+        <link href="https://newneek.co/post/anUQxB"/>
+        <updated>2023-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_p0txcS2.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">태양광 사업 비리 감찰 지시</h3><time class="card-date">2023/06/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이동관 자녀 학교폭력 논란 (뉴닉 ─ 정치)]]></title>
@@ -296,13 +303,6 @@
         <link href="https://newneek.co/post/mT9kn5"/>
         <updated>2023-05-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_d7XeuYN.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한일정상회담과 셔틀외교 복원</h3><time class="card-date">2023/05/09</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한미정상회담 총결산 2023 ver. (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/NYgljT</id>
-        <link href="https://newneek.co/post/NYgljT"/>
-        <updated>2023-05-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_WU40bnp.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">한미정상회담 총결산 2023 ver.</h3><time class="card-date">2023/05/01</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디커플링에서 디리스킹으로 (뉴닉 ─ 세계)]]></title>
@@ -1391,6 +1391,20 @@ AI가 발달하면 작가·예술가 등 창작자들을 완전히 대체할 수
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_hIgTGoB.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">독일 대중교통 무제한 패스 도입</h3><time class="card-date">2023/05/09</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[미국 성소수자 인권과 문화전쟁 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/OyBG2h</id>
+        <link href="https://newneek.co/post/OyBG2h"/>
+        <updated>2023-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_SIjNWaR.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">미국 성소수자 인권과 문화전쟁</h3><time class="card-date">2023/06/16</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태양광 사업 비리 감찰 지시 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/anUQxB</id>
+        <link href="https://newneek.co/post/anUQxB"/>
+        <updated>2023-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_p0txcS2.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">태양광 사업 비리 감찰 지시</h3><time class="card-date">2023/06/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이동관 자녀 학교폭력 논란 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/aGkypa</id>
         <link href="https://newneek.co/post/aGkypa"/>
@@ -1593,18 +1607,18 @@ AI가 발달하면 작가·예술가 등 창작자들을 완전히 대체할 수
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.png" alt=""></figure><div class="card-body"><h3 class="card-title">🍕뉴스 댓글 폐지, 어떻게 생각해?</h3><time class="card-date">2023/06/12</time><i class="card-category"></i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라이나 댐 파괴와 식량 위기 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/vcjLGT</id>
-        <link href="https://newneek.co/post/vcjLGT"/>
-        <updated>2023-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_11.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 댐 파괴와 식량 위기</h3><time class="card-date">2023/06/12</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[미국 성소수자 인권과 문화전쟁 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/OyBG2h</id>
+        <link href="https://newneek.co/post/OyBG2h"/>
+        <updated>2023-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_SIjNWaR.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">미국 성소수자 인권과 문화전쟁</h3><time class="card-date">2023/06/16</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐나다 산불과 기후위기 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/bzzgA8</id>
-        <link href="https://newneek.co/post/bzzgA8"/>
-        <updated>2023-06-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_33W4mNa.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">캐나다 산불과 기후위기</h3><time class="card-date">2023/06/09</time><i class="card-category">환경</i></div></div>]]></content>
+        <title type="html"><![CDATA[태양광 사업 비리 감찰 지시 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/anUQxB</id>
+        <link href="https://newneek.co/post/anUQxB"/>
+        <updated>2023-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_p0txcS2.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">태양광 사업 비리 감찰 지시</h3><time class="card-date">2023/06/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이동관 자녀 학교폭력 논란 (뉴닉 ─ 코로나19)]]></title>
@@ -1809,18 +1823,18 @@ AI가 발달하면 작가·예술가 등 창작자들을 완전히 대체할 수
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.png" alt=""></figure><div class="card-body"><h3 class="card-title">🍕뉴스 댓글 폐지, 어떻게 생각해?</h3><time class="card-date">2023/06/12</time><i class="card-category"></i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라이나 댐 파괴와 식량 위기 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/vcjLGT</id>
-        <link href="https://newneek.co/post/vcjLGT"/>
-        <updated>2023-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_11.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 댐 파괴와 식량 위기</h3><time class="card-date">2023/06/12</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[미국 성소수자 인권과 문화전쟁 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/OyBG2h</id>
+        <link href="https://newneek.co/post/OyBG2h"/>
+        <updated>2023-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_SIjNWaR.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">미국 성소수자 인권과 문화전쟁</h3><time class="card-date">2023/06/16</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐나다 산불과 기후위기 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/bzzgA8</id>
-        <link href="https://newneek.co/post/bzzgA8"/>
-        <updated>2023-06-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_33W4mNa.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">캐나다 산불과 기후위기</h3><time class="card-date">2023/06/09</time><i class="card-category">환경</i></div></div>]]></content>
+        <title type="html"><![CDATA[태양광 사업 비리 감찰 지시 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/anUQxB</id>
+        <link href="https://newneek.co/post/anUQxB"/>
+        <updated>2023-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_p0txcS2.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">태양광 사업 비리 감찰 지시</h3><time class="card-date">2023/06/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이동관 자녀 학교폭력 논란 (뉴닉 ─ 피자스테이션)]]></title>
@@ -2023,19 +2037,5 @@ AI가 발달하면 작가·예술가 등 창작자들을 완전히 대체할 수
         <link href="https://newneek.co/post/R0HSnY"/>
         <updated>2023-06-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.png" alt=""></figure><div class="card-body"><h3 class="card-title">🍕뉴스 댓글 폐지, 어떻게 생각해?</h3><time class="card-date">2023/06/12</time><i class="card-category"></i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 댐 파괴와 식량 위기 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/vcjLGT</id>
-        <link href="https://newneek.co/post/vcjLGT"/>
-        <updated>2023-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_11.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 댐 파괴와 식량 위기</h3><time class="card-date">2023/06/12</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐나다 산불과 기후위기 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/bzzgA8</id>
-        <link href="https://newneek.co/post/bzzgA8"/>
-        <updated>2023-06-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_33W4mNa.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">캐나다 산불과 기후위기</h3><time class="card-date">2023/06/09</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
