@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2023-06-15T23:03:20.598Z</updated>
+    <updated>2023-06-16T00:33:48.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://newneek.co/post/ESD1Qk</id>
         <link href="https://newneek.co/post/ESD1Qk"/>
         <updated>2023-06-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_qIJ7RDK.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류와 정부 입장</h3><time class="card-date">2023/06/14</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_qIJ7RDK.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류와 정부 입장</h3><time class="card-date">2023/06/14</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘뉴스 댓글 폐지’ 피자가 도착했습니다!]]></title>
@@ -184,7 +184,7 @@
         <id>https://newneek.co/post/xRMrg9</id>
         <link href="https://newneek.co/post/xRMrg9"/>
         <updated>2023-06-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_wZEtOPa.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">외국인 투자자 등록제 폐지</h3><time class="card-date">2023/06/14</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_wZEtOPa.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">외국인 투자자 등록제 폐지</h3><time class="card-date">2023/06/14</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[철도노조 준법 투쟁과 고속철도 통합 논란]]></title>
