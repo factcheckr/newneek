@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-06-26T19:03:09.459Z</updated>
+    <updated>2023-06-26T20:03:30.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[동일노동 동일임금 법제화]]></title>
+        <id>https://newneek.co/post/g6qeNd</id>
+        <link href="https://newneek.co/post/g6qeNd"/>
+        <updated>2023-06-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_zC6G0j3.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">동일노동 동일임금 법제화</h3><time class="card-date">2023/06/27</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 외국인 투표권 제한 논란]]></title>
         <id>https://newneek.co/post/A9xVto</id>
@@ -190,12 +197,5 @@ TV가 좀 달리 보여
         <link href="https://newneek.co/post/l1OaX6"/>
         <updated>2023-06-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_YTSzIAl.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">방송통신위원장 면직 처분</h3><time class="card-date">2023/06/01</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두근두근 유엔 안보리 이사국 선거]]></title>
-        <id>https://newneek.co/post/y8fh9E</id>
-        <link href="https://newneek.co/post/y8fh9E"/>
-        <updated>2023-05-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_6uzN769.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">두근두근 유엔 안보리 이사국 선거</h3><time class="card-date">2023/05/29</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
