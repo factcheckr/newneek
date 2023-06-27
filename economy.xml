@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-06-27T19:03:23.167Z</updated>
+    <updated>2023-06-27T20:03:57.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전기차 충전, 테슬라 룰]]></title>
+        <id>https://newneek.co/post/nnIVTg</id>
+        <link href="https://newneek.co/post/nnIVTg"/>
+        <updated>2023-06-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_sQfyMvu.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">전기차 충전, 테슬라 룰</h3><time class="card-date">2023/06/28</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역대급 엔저 현상]]></title>
         <id>https://newneek.co/post/cyICNP</id>
@@ -361,12 +368,5 @@
 
 
 베이비박스 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 가기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미중 갈등과 마이크론 제재]]></title>
-        <id>https://newneek.co/post/Hze36A</id>
-        <link href="https://newneek.co/post/Hze36A"/>
-        <updated>2023-05-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Q0YXbL0.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">미중 갈등과 마이크론 제재</h3><time class="card-date">2023/05/24</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
