@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2023-06-29T23:03:23.193Z</updated>
+    <updated>2023-06-30T00:34:30.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -45,14 +45,14 @@
         <id>https://newneek.co/post/ZzQb0K</id>
         <link href="https://newneek.co/post/ZzQb0K"/>
         <updated>2023-06-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9OOCPnd.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">만 나이 통일법 시행</h3><time class="card-date">2023/06/28</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9OOCPnd.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">만 나이 통일법 시행</h3><time class="card-date">2023/06/28</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전기차 충전, 테슬라 룰]]></title>
         <id>https://newneek.co/post/nnIVTg</id>
         <link href="https://newneek.co/post/nnIVTg"/>
         <updated>2023-06-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_sQfyMvu.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">전기차 충전, 테슬라 룰</h3><time class="card-date">2023/06/28</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_sQfyMvu.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">전기차 충전, 테슬라 룰</h3><time class="card-date">2023/06/28</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 상반기 결산: 우리끼리 피자 파티]]></title>
