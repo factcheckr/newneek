@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2023-07-04T19:03:08.276Z</updated>
+    <updated>2023-07-04T20:04:45.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이스라엘 팔레스타인 갈등과 서안지구]]></title>
+        <id>https://newneek.co/post/HSQoTu</id>
+        <link href="https://newneek.co/post/HSQoTu"/>
+        <updated>2023-07-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5_WvdwHBa.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">이스라엘 팔레스타인 갈등과 서안지구</h3><time class="card-date">2023/07/05</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🍕20XX년: 창작은 인공지능이 하는 거 아님?]]></title>
+        <id>https://newneek.co/post/c8RmI6</id>
+        <link href="https://newneek.co/post/c8RmI6"/>
+        <updated>2023-07-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕20XX년: 창작은 인공지능이 하는 거 아님?</h3><time class="card-date">2023/07/05</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새마을금고 부실 위기]]></title>
+        <id>https://newneek.co/post/ziTt8E</id>
+        <link href="https://newneek.co/post/ziTt8E"/>
+        <updated>2023-07-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_qszfgRr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">새마을금고 부실 위기</h3><time class="card-date">2023/07/05</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나엘 사건과 프랑스 이민자 차별]]></title>
         <id>https://newneek.co/post/0XrcNF</id>
@@ -75,26 +96,5 @@
         <link href="https://newneek.co/post/Qeu4rg"/>
         <updated>2023-06-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B52.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">이스라엘의 환승연애</h3><time class="card-date">2023/06/29</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) SK엔무브와 고슴이의 에너제틱 (1)]]></title>
-        <id>https://newneek.co/post/Tmz0cT</id>
-        <link href="https://newneek.co/post/Tmz0cT"/>
-        <updated>2023-06-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_Ugx314p.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) SK엔무브와 고슴이의 에너제틱 (1)</h3><time class="card-date">2023/06/29</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사교육비 대책과 수능 킬러 문항]]></title>
-        <id>https://newneek.co/post/mw4p7z</id>
-        <link href="https://newneek.co/post/mw4p7z"/>
-        <updated>2023-06-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Y4zMuPH.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">사교육비 대책과 수능 킬러 문항</h3><time class="card-date">2023/06/29</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만 나이 통일법 시행]]></title>
-        <id>https://newneek.co/post/ZzQb0K</id>
-        <link href="https://newneek.co/post/ZzQb0K"/>
-        <updated>2023-06-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9OOCPnd.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">만 나이 통일법 시행</h3><time class="card-date">2023/06/28</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
