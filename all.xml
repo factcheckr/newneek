@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-05T10:04:50.018Z</updated>
+    <updated>2023-07-05T11:03:47.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이스라엘 팔레스타인 갈등과 서안지구 (뉴닉 ─ 2022 대선)]]></title>
@@ -44,15 +44,7 @@
         <id>https://newneek.co/post/zNE0xr</id>
         <link href="https://newneek.co/post/zNE0xr"/>
         <updated>2023-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[* 이 콘텐츠는 Amazon Web Services Korea로부터 광고비를 받아 제작되었습니다.
-친구랑 메시지 주고받고, SNS에 사진 찍어서 올리고. 우리는 매일매일 인터넷 세상에서 데이터를 만들어내잖아요. 한 사람이 하루에 만드는 데이터도 꽤 되는데, 전 세계 사람들이 만드는 데이터를 다 모은다면? 그야말로 엄청날 거예요 📊. 그 많은 데이터가 매끄럽게 흐르도록 계속 관리되고 있다는 건데, 이거 어떻게 하는 걸까요?
-그러게, 처음 생각해봤네
-한때는 기업이 회사 건물에 각자 서버실을 두고 관리했어요: “우리 데이터는 우리가 보관한다!” 근데 데이터가 쌓일수록 서버실을 키워야 하니 물리적으로 한계가 생기고, 비용도 많이 들자 대안을 찾았고요. 이런 흐름을 타고 두둥실 떠오른 게 바로 클라우드 서비스예요. 어디서나 하늘의 구름을 볼 수 있는 것처럼, 인터넷만 연결되어 있다면 어디서든 데이터를 불러올 수 있어요. 데이터를 효율적으로 처리할 수 있고, 비용도 합리적이라 여러 회사에서 쓰고 있고요.
-흥미로운데, 더 정보 얻을 수 있어?
-요즘 테크 분야에서는 너도나도 클라우드 서비스를 배우려고 하는 중이에요. ‘공대 가야 하나...?’ 싶겠지만 특강·세미나 열어주는 곳도 많고요. 한 번 배울 때 제대로 끝내고 싶다면, 클라우드 서비스 점유율 1위 아마존웹서비스(AWS)의 ‘Builders 온라인 시리즈’를 추천해요. 강연료도 공짜인 데다가 커리큘럼도 탄탄하거든요. 초보자를 위한 강연뿐 아니라, AWS를 이미 사용하는 기업에서 ‘어떻게 하면 알뜰살뜰하게 클라우드 비용 갓성비로 쓸까?’ 고민하는 현직자에게 꼭 맞는 강연도 준비돼 있다고. 꼭 현직자가 아니더라도 ‘AWS 써볼까?’ 준비하는 사람 등 누구에게나 도움이 되고요.
-그래서 어디서 들을 수 있는데?
-7월 13일 목요일에 시간 돼요? 이날 AWS Builders 온라인 시리즈가 열리거든요. 더운데 밖에 안 나가도 되고, 시원한 곳에서 3시간만 강연 들으면 끝나요. 같은 내용으로 오전·오후 타임 두 번 진행하니까 편한 시간에 맞춰서 들으면 되고요. 업계 No.1 AWS와 가장 쉽고 빠르게 클라우드 서비스 배우고 싶다면 아래 버튼을 눌러 신청해주세요!
-이번 여름은 AWS와 뜨겁게]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/unnamed-18.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 올여름 AWS 시원하게 마스터하는 법</h3><time class="card-date">2023/07/04</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 하반기 달라지는 것들 (뉴닉 ─ 2022 대선)]]></title>
@@ -385,15 +377,7 @@ TV가 좀 달리 보여
         <id>https://newneek.co/post/zNE0xr</id>
         <link href="https://newneek.co/post/zNE0xr"/>
         <updated>2023-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[* 이 콘텐츠는 Amazon Web Services Korea로부터 광고비를 받아 제작되었습니다.
-친구랑 메시지 주고받고, SNS에 사진 찍어서 올리고. 우리는 매일매일 인터넷 세상에서 데이터를 만들어내잖아요. 한 사람이 하루에 만드는 데이터도 꽤 되는데, 전 세계 사람들이 만드는 데이터를 다 모은다면? 그야말로 엄청날 거예요 📊. 그 많은 데이터가 매끄럽게 흐르도록 계속 관리되고 있다는 건데, 이거 어떻게 하는 걸까요?
-그러게, 처음 생각해봤네
-한때는 기업이 회사 건물에 각자 서버실을 두고 관리했어요: “우리 데이터는 우리가 보관한다!” 근데 데이터가 쌓일수록 서버실을 키워야 하니 물리적으로 한계가 생기고, 비용도 많이 들자 대안을 찾았고요. 이런 흐름을 타고 두둥실 떠오른 게 바로 클라우드 서비스예요. 어디서나 하늘의 구름을 볼 수 있는 것처럼, 인터넷만 연결되어 있다면 어디서든 데이터를 불러올 수 있어요. 데이터를 효율적으로 처리할 수 있고, 비용도 합리적이라 여러 회사에서 쓰고 있고요.
-흥미로운데, 더 정보 얻을 수 있어?
-요즘 테크 분야에서는 너도나도 클라우드 서비스를 배우려고 하는 중이에요. ‘공대 가야 하나...?’ 싶겠지만 특강·세미나 열어주는 곳도 많고요. 한 번 배울 때 제대로 끝내고 싶다면, 클라우드 서비스 점유율 1위 아마존웹서비스(AWS)의 ‘Builders 온라인 시리즈’를 추천해요. 강연료도 공짜인 데다가 커리큘럼도 탄탄하거든요. 초보자를 위한 강연뿐 아니라, AWS를 이미 사용하는 기업에서 ‘어떻게 하면 알뜰살뜰하게 클라우드 비용 갓성비로 쓸까?’ 고민하는 현직자에게 꼭 맞는 강연도 준비돼 있다고. 꼭 현직자가 아니더라도 ‘AWS 써볼까?’ 준비하는 사람 등 누구에게나 도움이 되고요.
-그래서 어디서 들을 수 있는데?
-7월 13일 목요일에 시간 돼요? 이날 AWS Builders 온라인 시리즈가 열리거든요. 더운데 밖에 안 나가도 되고, 시원한 곳에서 3시간만 강연 들으면 끝나요. 같은 내용으로 오전·오후 타임 두 번 진행하니까 편한 시간에 맞춰서 들으면 되고요. 업계 No.1 AWS와 가장 쉽고 빠르게 클라우드 서비스 배우고 싶다면 아래 버튼을 눌러 신청해주세요!
-이번 여름은 AWS와 뜨겁게]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/unnamed-18.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 올여름 AWS 시원하게 마스터하는 법</h3><time class="card-date">2023/07/04</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[타다 경영진 무죄 판결 (뉴닉 ─ 테크)]]></title>
@@ -1013,15 +997,7 @@ TV가 좀 달리 보여
         <id>https://newneek.co/post/zNE0xr</id>
         <link href="https://newneek.co/post/zNE0xr"/>
         <updated>2023-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[* 이 콘텐츠는 Amazon Web Services Korea로부터 광고비를 받아 제작되었습니다.
-친구랑 메시지 주고받고, SNS에 사진 찍어서 올리고. 우리는 매일매일 인터넷 세상에서 데이터를 만들어내잖아요. 한 사람이 하루에 만드는 데이터도 꽤 되는데, 전 세계 사람들이 만드는 데이터를 다 모은다면? 그야말로 엄청날 거예요 📊. 그 많은 데이터가 매끄럽게 흐르도록 계속 관리되고 있다는 건데, 이거 어떻게 하는 걸까요?
-그러게, 처음 생각해봤네
-한때는 기업이 회사 건물에 각자 서버실을 두고 관리했어요: “우리 데이터는 우리가 보관한다!” 근데 데이터가 쌓일수록 서버실을 키워야 하니 물리적으로 한계가 생기고, 비용도 많이 들자 대안을 찾았고요. 이런 흐름을 타고 두둥실 떠오른 게 바로 클라우드 서비스예요. 어디서나 하늘의 구름을 볼 수 있는 것처럼, 인터넷만 연결되어 있다면 어디서든 데이터를 불러올 수 있어요. 데이터를 효율적으로 처리할 수 있고, 비용도 합리적이라 여러 회사에서 쓰고 있고요.
-흥미로운데, 더 정보 얻을 수 있어?
-요즘 테크 분야에서는 너도나도 클라우드 서비스를 배우려고 하는 중이에요. ‘공대 가야 하나...?’ 싶겠지만 특강·세미나 열어주는 곳도 많고요. 한 번 배울 때 제대로 끝내고 싶다면, 클라우드 서비스 점유율 1위 아마존웹서비스(AWS)의 ‘Builders 온라인 시리즈’를 추천해요. 강연료도 공짜인 데다가 커리큘럼도 탄탄하거든요. 초보자를 위한 강연뿐 아니라, AWS를 이미 사용하는 기업에서 ‘어떻게 하면 알뜰살뜰하게 클라우드 비용 갓성비로 쓸까?’ 고민하는 현직자에게 꼭 맞는 강연도 준비돼 있다고. 꼭 현직자가 아니더라도 ‘AWS 써볼까?’ 준비하는 사람 등 누구에게나 도움이 되고요.
-그래서 어디서 들을 수 있는데?
-7월 13일 목요일에 시간 돼요? 이날 AWS Builders 온라인 시리즈가 열리거든요. 더운데 밖에 안 나가도 되고, 시원한 곳에서 3시간만 강연 들으면 끝나요. 같은 내용으로 오전·오후 타임 두 번 진행하니까 편한 시간에 맞춰서 들으면 되고요. 업계 No.1 AWS와 가장 쉽고 빠르게 클라우드 서비스 배우고 싶다면 아래 버튼을 눌러 신청해주세요!
-이번 여름은 AWS와 뜨겁게]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/unnamed-18.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 올여름 AWS 시원하게 마스터하는 법</h3><time class="card-date">2023/07/04</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 하반기 달라지는 것들 (뉴닉 ─ 여성)]]></title>
@@ -1105,15 +1081,7 @@ TV가 좀 달리 보여
         <id>https://newneek.co/post/zNE0xr</id>
         <link href="https://newneek.co/post/zNE0xr"/>
         <updated>2023-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[* 이 콘텐츠는 Amazon Web Services Korea로부터 광고비를 받아 제작되었습니다.
-친구랑 메시지 주고받고, SNS에 사진 찍어서 올리고. 우리는 매일매일 인터넷 세상에서 데이터를 만들어내잖아요. 한 사람이 하루에 만드는 데이터도 꽤 되는데, 전 세계 사람들이 만드는 데이터를 다 모은다면? 그야말로 엄청날 거예요 📊. 그 많은 데이터가 매끄럽게 흐르도록 계속 관리되고 있다는 건데, 이거 어떻게 하는 걸까요?
-그러게, 처음 생각해봤네
-한때는 기업이 회사 건물에 각자 서버실을 두고 관리했어요: “우리 데이터는 우리가 보관한다!” 근데 데이터가 쌓일수록 서버실을 키워야 하니 물리적으로 한계가 생기고, 비용도 많이 들자 대안을 찾았고요. 이런 흐름을 타고 두둥실 떠오른 게 바로 클라우드 서비스예요. 어디서나 하늘의 구름을 볼 수 있는 것처럼, 인터넷만 연결되어 있다면 어디서든 데이터를 불러올 수 있어요. 데이터를 효율적으로 처리할 수 있고, 비용도 합리적이라 여러 회사에서 쓰고 있고요.
-흥미로운데, 더 정보 얻을 수 있어?
-요즘 테크 분야에서는 너도나도 클라우드 서비스를 배우려고 하는 중이에요. ‘공대 가야 하나...?’ 싶겠지만 특강·세미나 열어주는 곳도 많고요. 한 번 배울 때 제대로 끝내고 싶다면, 클라우드 서비스 점유율 1위 아마존웹서비스(AWS)의 ‘Builders 온라인 시리즈’를 추천해요. 강연료도 공짜인 데다가 커리큘럼도 탄탄하거든요. 초보자를 위한 강연뿐 아니라, AWS를 이미 사용하는 기업에서 ‘어떻게 하면 알뜰살뜰하게 클라우드 비용 갓성비로 쓸까?’ 고민하는 현직자에게 꼭 맞는 강연도 준비돼 있다고. 꼭 현직자가 아니더라도 ‘AWS 써볼까?’ 준비하는 사람 등 누구에게나 도움이 되고요.
-그래서 어디서 들을 수 있는데?
-7월 13일 목요일에 시간 돼요? 이날 AWS Builders 온라인 시리즈가 열리거든요. 더운데 밖에 안 나가도 되고, 시원한 곳에서 3시간만 강연 들으면 끝나요. 같은 내용으로 오전·오후 타임 두 번 진행하니까 편한 시간에 맞춰서 들으면 되고요. 업계 No.1 AWS와 가장 쉽고 빠르게 클라우드 서비스 배우고 싶다면 아래 버튼을 눌러 신청해주세요!
-이번 여름은 AWS와 뜨겁게]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/unnamed-18.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 올여름 AWS 시원하게 마스터하는 법</h3><time class="card-date">2023/07/04</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 하반기 달라지는 것들 (뉴닉 ─ 코로나19)]]></title>
@@ -1197,15 +1165,7 @@ TV가 좀 달리 보여
         <id>https://newneek.co/post/zNE0xr</id>
         <link href="https://newneek.co/post/zNE0xr"/>
         <updated>2023-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[* 이 콘텐츠는 Amazon Web Services Korea로부터 광고비를 받아 제작되었습니다.
-친구랑 메시지 주고받고, SNS에 사진 찍어서 올리고. 우리는 매일매일 인터넷 세상에서 데이터를 만들어내잖아요. 한 사람이 하루에 만드는 데이터도 꽤 되는데, 전 세계 사람들이 만드는 데이터를 다 모은다면? 그야말로 엄청날 거예요 📊. 그 많은 데이터가 매끄럽게 흐르도록 계속 관리되고 있다는 건데, 이거 어떻게 하는 걸까요?
-그러게, 처음 생각해봤네
-한때는 기업이 회사 건물에 각자 서버실을 두고 관리했어요: “우리 데이터는 우리가 보관한다!” 근데 데이터가 쌓일수록 서버실을 키워야 하니 물리적으로 한계가 생기고, 비용도 많이 들자 대안을 찾았고요. 이런 흐름을 타고 두둥실 떠오른 게 바로 클라우드 서비스예요. 어디서나 하늘의 구름을 볼 수 있는 것처럼, 인터넷만 연결되어 있다면 어디서든 데이터를 불러올 수 있어요. 데이터를 효율적으로 처리할 수 있고, 비용도 합리적이라 여러 회사에서 쓰고 있고요.
-흥미로운데, 더 정보 얻을 수 있어?
-요즘 테크 분야에서는 너도나도 클라우드 서비스를 배우려고 하는 중이에요. ‘공대 가야 하나...?’ 싶겠지만 특강·세미나 열어주는 곳도 많고요. 한 번 배울 때 제대로 끝내고 싶다면, 클라우드 서비스 점유율 1위 아마존웹서비스(AWS)의 ‘Builders 온라인 시리즈’를 추천해요. 강연료도 공짜인 데다가 커리큘럼도 탄탄하거든요. 초보자를 위한 강연뿐 아니라, AWS를 이미 사용하는 기업에서 ‘어떻게 하면 알뜰살뜰하게 클라우드 비용 갓성비로 쓸까?’ 고민하는 현직자에게 꼭 맞는 강연도 준비돼 있다고. 꼭 현직자가 아니더라도 ‘AWS 써볼까?’ 준비하는 사람 등 누구에게나 도움이 되고요.
-그래서 어디서 들을 수 있는데?
-7월 13일 목요일에 시간 돼요? 이날 AWS Builders 온라인 시리즈가 열리거든요. 더운데 밖에 안 나가도 되고, 시원한 곳에서 3시간만 강연 들으면 끝나요. 같은 내용으로 오전·오후 타임 두 번 진행하니까 편한 시간에 맞춰서 들으면 되고요. 업계 No.1 AWS와 가장 쉽고 빠르게 클라우드 서비스 배우고 싶다면 아래 버튼을 눌러 신청해주세요!
-이번 여름은 AWS와 뜨겁게]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/unnamed-18.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 올여름 AWS 시원하게 마스터하는 법</h3><time class="card-date">2023/07/04</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 하반기 달라지는 것들 (뉴닉 ─ 피자스테이션)]]></title>
