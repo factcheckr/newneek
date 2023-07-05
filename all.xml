@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-05T19:04:04.824Z</updated>
+    <updated>2023-07-05T20:03:25.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[IAEA 보고서와 후쿠시마 오염수 방류 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/8jBslA</id>
+        <link href="https://newneek.co/post/8jBslA"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_OuN2aqr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">IAEA 보고서와 후쿠시마 오염수 방류</h3><time class="card-date">2023/07/06</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 하반기 경제 정책 방향 발표 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/mQ6rgY</id>
+        <link href="https://newneek.co/post/mQ6rgY"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_04RMmAZ.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023 하반기 경제 정책 방향 발표</h3><time class="card-date">2023/07/06</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 세일즈포스 라이브 코리아 2023 컨퍼런스 핵심 강연 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/wxY5q4</id>
+        <link href="https://newneek.co/post/wxY5q4"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_4_mZhyByB.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 세일즈포스 라이브 코리아 2023 컨퍼런스 핵심 강연</h3><time class="card-date">2023/07/06</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘 팔레스타인 갈등과 서안지구 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/HSQoTu</id>
@@ -66,27 +87,6 @@
         <link href="https://newneek.co/post/0dhoRI"/>
         <updated>2023-06-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1lDwiRW.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">집중 호우 피해와 대비 방법</h3><time class="card-date">2023/06/30</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라면 가격 인하와 물가 관리 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/PYZDe0</id>
-        <link href="https://newneek.co/post/PYZDe0"/>
-        <updated>2023-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_iXPe1vr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">라면 가격 인하와 물가 관리</h3><time class="card-date">2023/06/30</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월 오렌지 챌린지 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/roTSrA</id>
-        <link href="https://newneek.co/post/roTSrA"/>
-        <updated>2023-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5_6ITtftI.png" alt=""></figure><div class="card-body"><h3 class="card-title">7월 오렌지 챌린지</h3><time class="card-date">2023/06/30</time><i class="card-category"></i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘의 환승연애 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/Qeu4rg</id>
-        <link href="https://newneek.co/post/Qeu4rg"/>
-        <updated>2023-06-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B52.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">이스라엘의 환승연애</h3><time class="card-date">2023/06/29</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 정부 통일부 개편 (뉴닉 ─ 정치)]]></title>
@@ -282,6 +282,13 @@ TV가 좀 달리 보여
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_chitOOP.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">선관위 특혜채용 감사 논란</h3><time class="card-date">2023/06/05</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[IAEA 보고서와 후쿠시마 오염수 방류 (뉴닉 ─ 세계)]]></title>
+        <id>https://newneek.co/post/8jBslA</id>
+        <link href="https://newneek.co/post/8jBslA"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_OuN2aqr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">IAEA 보고서와 후쿠시마 오염수 방류</h3><time class="card-date">2023/07/06</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이스라엘 팔레스타인 갈등과 서안지구 (뉴닉 ─ 세계)]]></title>
         <id>https://newneek.co/post/HSQoTu</id>
         <link href="https://newneek.co/post/HSQoTu"/>
@@ -359,11 +366,11 @@ TV가 좀 달리 보여
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XEp0sui.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 댐 파괴와 그 영향</h3><time class="card-date">2023/06/08</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[튀르키예 대선 결선투표 결과 (뉴닉 ─ 세계)]]></title>
-        <id>https://newneek.co/post/Np5viU</id>
-        <link href="https://newneek.co/post/Np5viU"/>
-        <updated>2023-05-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_10.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">튀르키예 대선 결선투표 결과</h3><time class="card-date">2023/05/30</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[(광고) 세일즈포스 라이브 코리아 2023 컨퍼런스 핵심 강연 (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/wxY5q4</id>
+        <link href="https://newneek.co/post/wxY5q4"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_4_mZhyByB.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 세일즈포스 라이브 코리아 2023 컨퍼런스 핵심 강연</h3><time class="card-date">2023/07/06</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🍕20XX년: 창작은 인공지능이 하는 거 아님? (뉴닉 ─ 테크)]]></title>
@@ -443,11 +450,11 @@ TV가 좀 달리 보여
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_QCsJO6a.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">프롬프트 엔지니어 급구, 연봉 4억 드림</h3><time class="card-date">2023/03/21</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 만든 쿠키 애플이 막았지 (뉴닉 ─ 테크)]]></title>
-        <id>https://newneek.co/post/vqMP2C</id>
-        <link href="https://newneek.co/post/vqMP2C"/>
-        <updated>2023-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Y5hqmCi.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">내가 만든 쿠키 애플이 막았지</h3><time class="card-date">2023/03/16</time><i class="card-category">테크</i></div></div>]]></content>
+        <title type="html"><![CDATA[2023 하반기 경제 정책 방향 발표 (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/mQ6rgY</id>
+        <link href="https://newneek.co/post/mQ6rgY"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_04RMmAZ.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023 하반기 경제 정책 방향 발표</h3><time class="card-date">2023/07/06</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새마을금고 부실 위기 (뉴닉 ─ 경제)]]></title>
@@ -525,13 +532,6 @@ TV가 좀 달리 보여
         <link href="https://newneek.co/post/HtLJwn"/>
         <updated>2023-06-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_D02PaS8.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">타다 경영진 무죄 판결</h3><time class="card-date">2023/06/07</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P2E 합법화와 게임 업계 로비 의혹 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/5YZEJT</id>
-        <link href="https://newneek.co/post/5YZEJT"/>
-        <updated>2023-05-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_cQHW1To.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">P2E 합법화와 게임 업계 로비 의혹</h3><time class="card-date">2023/05/31</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대법원 판결과 노란봉투법 (뉴닉 ─ 노동)]]></title>
@@ -958,6 +958,27 @@ TV가 좀 달리 보여
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_8.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">쓰레기 직매립 문제와 규제</h3><time class="card-date">2023/05/12</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[IAEA 보고서와 후쿠시마 오염수 방류 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/8jBslA</id>
+        <link href="https://newneek.co/post/8jBslA"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_OuN2aqr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">IAEA 보고서와 후쿠시마 오염수 방류</h3><time class="card-date">2023/07/06</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 하반기 경제 정책 방향 발표 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/mQ6rgY</id>
+        <link href="https://newneek.co/post/mQ6rgY"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_04RMmAZ.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023 하반기 경제 정책 방향 발표</h3><time class="card-date">2023/07/06</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 세일즈포스 라이브 코리아 2023 컨퍼런스 핵심 강연 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/wxY5q4</id>
+        <link href="https://newneek.co/post/wxY5q4"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_4_mZhyByB.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 세일즈포스 라이브 코리아 2023 컨퍼런스 핵심 강연</h3><time class="card-date">2023/07/06</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이스라엘 팔레스타인 갈등과 서안지구 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/HSQoTu</id>
         <link href="https://newneek.co/post/HSQoTu"/>
@@ -1021,25 +1042,25 @@ TV가 좀 달리 보여
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1lDwiRW.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">집중 호우 피해와 대비 방법</h3><time class="card-date">2023/06/30</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라면 가격 인하와 물가 관리 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/PYZDe0</id>
-        <link href="https://newneek.co/post/PYZDe0"/>
-        <updated>2023-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_iXPe1vr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">라면 가격 인하와 물가 관리</h3><time class="card-date">2023/06/30</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[IAEA 보고서와 후쿠시마 오염수 방류 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/8jBslA</id>
+        <link href="https://newneek.co/post/8jBslA"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_OuN2aqr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">IAEA 보고서와 후쿠시마 오염수 방류</h3><time class="card-date">2023/07/06</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7월 오렌지 챌린지 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/roTSrA</id>
-        <link href="https://newneek.co/post/roTSrA"/>
-        <updated>2023-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5_6ITtftI.png" alt=""></figure><div class="card-body"><h3 class="card-title">7월 오렌지 챌린지</h3><time class="card-date">2023/06/30</time><i class="card-category"></i></div></div>]]></content>
+        <title type="html"><![CDATA[2023 하반기 경제 정책 방향 발표 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/mQ6rgY</id>
+        <link href="https://newneek.co/post/mQ6rgY"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_04RMmAZ.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023 하반기 경제 정책 방향 발표</h3><time class="card-date">2023/07/06</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이스라엘의 환승연애 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/Qeu4rg</id>
-        <link href="https://newneek.co/post/Qeu4rg"/>
-        <updated>2023-06-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B52.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">이스라엘의 환승연애</h3><time class="card-date">2023/06/29</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[(광고) 세일즈포스 라이브 코리아 2023 컨퍼런스 핵심 강연 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/wxY5q4</id>
+        <link href="https://newneek.co/post/wxY5q4"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_4_mZhyByB.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 세일즈포스 라이브 코리아 2023 컨퍼런스 핵심 강연</h3><time class="card-date">2023/07/06</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘 팔레스타인 갈등과 서안지구 (뉴닉 ─ 코로나19)]]></title>
@@ -1105,25 +1126,25 @@ TV가 좀 달리 보여
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1lDwiRW.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">집중 호우 피해와 대비 방법</h3><time class="card-date">2023/06/30</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라면 가격 인하와 물가 관리 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/PYZDe0</id>
-        <link href="https://newneek.co/post/PYZDe0"/>
-        <updated>2023-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_iXPe1vr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">라면 가격 인하와 물가 관리</h3><time class="card-date">2023/06/30</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[IAEA 보고서와 후쿠시마 오염수 방류 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/8jBslA</id>
+        <link href="https://newneek.co/post/8jBslA"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_OuN2aqr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">IAEA 보고서와 후쿠시마 오염수 방류</h3><time class="card-date">2023/07/06</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7월 오렌지 챌린지 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/roTSrA</id>
-        <link href="https://newneek.co/post/roTSrA"/>
-        <updated>2023-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5_6ITtftI.png" alt=""></figure><div class="card-body"><h3 class="card-title">7월 오렌지 챌린지</h3><time class="card-date">2023/06/30</time><i class="card-category"></i></div></div>]]></content>
+        <title type="html"><![CDATA[2023 하반기 경제 정책 방향 발표 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/mQ6rgY</id>
+        <link href="https://newneek.co/post/mQ6rgY"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_04RMmAZ.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023 하반기 경제 정책 방향 발표</h3><time class="card-date">2023/07/06</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이스라엘의 환승연애 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/Qeu4rg</id>
-        <link href="https://newneek.co/post/Qeu4rg"/>
-        <updated>2023-06-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B52.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">이스라엘의 환승연애</h3><time class="card-date">2023/06/29</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[(광고) 세일즈포스 라이브 코리아 2023 컨퍼런스 핵심 강연 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/wxY5q4</id>
+        <link href="https://newneek.co/post/wxY5q4"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_4_mZhyByB.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 세일즈포스 라이브 코리아 2023 컨퍼런스 핵심 강연</h3><time class="card-date">2023/07/06</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘 팔레스타인 갈등과 서안지구 (뉴닉 ─ 피자스테이션)]]></title>
@@ -1187,26 +1208,5 @@ TV가 좀 달리 보여
         <link href="https://newneek.co/post/0dhoRI"/>
         <updated>2023-06-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1lDwiRW.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">집중 호우 피해와 대비 방법</h3><time class="card-date">2023/06/30</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라면 가격 인하와 물가 관리 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/PYZDe0</id>
-        <link href="https://newneek.co/post/PYZDe0"/>
-        <updated>2023-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_iXPe1vr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">라면 가격 인하와 물가 관리</h3><time class="card-date">2023/06/30</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월 오렌지 챌린지 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/roTSrA</id>
-        <link href="https://newneek.co/post/roTSrA"/>
-        <updated>2023-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5_6ITtftI.png" alt=""></figure><div class="card-body"><h3 class="card-title">7월 오렌지 챌린지</h3><time class="card-date">2023/06/30</time><i class="card-category"></i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘의 환승연애 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/Qeu4rg</id>
-        <link href="https://newneek.co/post/Qeu4rg"/>
-        <updated>2023-06-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B52.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">이스라엘의 환승연애</h3><time class="card-date">2023/06/29</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
