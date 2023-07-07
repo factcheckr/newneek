@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-07-06T23:03:25.522Z</updated>
+    <updated>2023-07-07T00:37:55.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://newneek.co/post/c8RmI6</id>
         <link href="https://newneek.co/post/c8RmI6"/>
         <updated>2023-07-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕20XX년: 창작은 인공지능이 하는 거 아님?</h3><time class="card-date">2023/07/05</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">🍕20XX년: 창작은 인공지능이 하는 거 아님?</h3><time class="card-date">2023/07/05</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 올여름 AWS 시원하게 마스터하는 법]]></title>
