@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-09T19:03:34.552Z</updated>
+    <updated>2023-07-09T20:03:56.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[메타 ‘스레드’ 돌풍 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/ZwoJDa</id>
+        <link href="https://newneek.co/post/ZwoJDa"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XSmUEUz.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">메타 ‘스레드’ 돌풍</h3><time class="card-date">2023/07/10</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양평 고속도로 사업 백지화 논란 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/gyVr29</id>
+        <link href="https://newneek.co/post/gyVr29"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_W7MSmfL.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">양평 고속도로 사업 백지화 논란</h3><time class="card-date">2023/07/10</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제로슈거와 아스파탐의 죄수 💀 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/inXXY5</id>
@@ -75,18 +89,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_tDKBXHv.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">윤석열 정부 통일부 개편</h3><time class="card-date">2023/07/04</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 올여름 AWS 시원하게 마스터하는 법 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/zNE0xr</id>
-        <link href="https://newneek.co/post/zNE0xr"/>
-        <updated>2023-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_3_2usWPra.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 올여름 AWS 시원하게 마스터하는 법</h3><time class="card-date">2023/07/04</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 하반기 달라지는 것들 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/geDr4b</id>
-        <link href="https://newneek.co/post/geDr4b"/>
-        <updated>2023-07-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_13.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023 하반기 달라지는 것들</h3><time class="card-date">2023/07/03</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[양평 고속도로 사업 백지화 논란 (뉴닉 ─ 정치)]]></title>
+        <id>https://newneek.co/post/gyVr29</id>
+        <link href="https://newneek.co/post/gyVr29"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_W7MSmfL.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">양평 고속도로 사업 백지화 논란</h3><time class="card-date">2023/07/10</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후쿠시마 오염수 방류 5문 5답 (뉴닉 ─ 정치)]]></title>
@@ -275,13 +282,6 @@ TV가 좀 달리 보여
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_qIJ7RDK.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류와 정부 입장</h3><time class="card-date">2023/06/14</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시민단체 보조금 비리 논란 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/D6lq9I</id>
-        <link href="https://newneek.co/post/D6lq9I"/>
-        <updated>2023-06-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_krj8AyR.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">시민단체 보조금 비리 논란</h3><time class="card-date">2023/06/07</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IAEA 보고서와 후쿠시마 오염수 방류 (뉴닉 ─ 세계)]]></title>
         <id>https://newneek.co/post/8jBslA</id>
         <link href="https://newneek.co/post/8jBslA"/>
@@ -366,6 +366,13 @@ TV가 좀 달리 보여
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XEp0sui.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">우크라이나 댐 파괴와 그 영향</h3><time class="card-date">2023/06/08</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[메타 ‘스레드’ 돌풍 (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/ZwoJDa</id>
+        <link href="https://newneek.co/post/ZwoJDa"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XSmUEUz.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">메타 ‘스레드’ 돌풍</h3><time class="card-date">2023/07/10</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(광고) 세일즈포스 라이브 코리아 2023 컨퍼런스 핵심 강연 (뉴닉 ─ 테크)]]></title>
         <id>https://newneek.co/post/wxY5q4</id>
         <link href="https://newneek.co/post/wxY5q4"/>
@@ -441,13 +448,6 @@ TV가 좀 달리 보여
         <link href="https://newneek.co/post/zIed3X"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_NdH8DhW.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">로봇 테마주 열풍, 히트다 히트!</h3><time class="card-date">2023/03/22</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프롬프트 엔지니어 급구, 연봉 4억 드림 (뉴닉 ─ 테크)]]></title>
-        <id>https://newneek.co/post/xZg6vV</id>
-        <link href="https://newneek.co/post/xZg6vV"/>
-        <updated>2023-03-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_QCsJO6a.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">프롬프트 엔지니어 급구, 연봉 4억 드림</h3><time class="card-date">2023/03/21</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 하반기 경제 정책 방향 발표 (뉴닉 ─ 경제)]]></title>
@@ -958,6 +958,20 @@ TV가 좀 달리 보여
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_8.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">쓰레기 직매립 문제와 규제</h3><time class="card-date">2023/05/12</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[메타 ‘스레드’ 돌풍 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/ZwoJDa</id>
+        <link href="https://newneek.co/post/ZwoJDa"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XSmUEUz.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">메타 ‘스레드’ 돌풍</h3><time class="card-date">2023/07/10</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양평 고속도로 사업 백지화 논란 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/gyVr29</id>
+        <link href="https://newneek.co/post/gyVr29"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_W7MSmfL.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">양평 고속도로 사업 백지화 논란</h3><time class="card-date">2023/07/10</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[제로슈거와 아스파탐의 죄수 💀 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/inXXY5</id>
         <link href="https://newneek.co/post/inXXY5"/>
@@ -1028,18 +1042,18 @@ TV가 좀 달리 보여
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_tDKBXHv.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">윤석열 정부 통일부 개편</h3><time class="card-date">2023/07/04</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 올여름 AWS 시원하게 마스터하는 법 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/zNE0xr</id>
-        <link href="https://newneek.co/post/zNE0xr"/>
-        <updated>2023-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_3_2usWPra.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 올여름 AWS 시원하게 마스터하는 법</h3><time class="card-date">2023/07/04</time><i class="card-category">테크</i></div></div>]]></content>
+        <title type="html"><![CDATA[메타 ‘스레드’ 돌풍 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/ZwoJDa</id>
+        <link href="https://newneek.co/post/ZwoJDa"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XSmUEUz.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">메타 ‘스레드’ 돌풍</h3><time class="card-date">2023/07/10</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 하반기 달라지는 것들 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/geDr4b</id>
-        <link href="https://newneek.co/post/geDr4b"/>
-        <updated>2023-07-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_13.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023 하반기 달라지는 것들</h3><time class="card-date">2023/07/03</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[양평 고속도로 사업 백지화 논란 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/gyVr29</id>
+        <link href="https://newneek.co/post/gyVr29"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_W7MSmfL.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">양평 고속도로 사업 백지화 논란</h3><time class="card-date">2023/07/10</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제로슈거와 아스파탐의 죄수 💀 (뉴닉 ─ 코로나19)]]></title>
@@ -1112,18 +1126,18 @@ TV가 좀 달리 보여
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_tDKBXHv.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">윤석열 정부 통일부 개편</h3><time class="card-date">2023/07/04</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 올여름 AWS 시원하게 마스터하는 법 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/zNE0xr</id>
-        <link href="https://newneek.co/post/zNE0xr"/>
-        <updated>2023-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_3_2usWPra.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 올여름 AWS 시원하게 마스터하는 법</h3><time class="card-date">2023/07/04</time><i class="card-category">테크</i></div></div>]]></content>
+        <title type="html"><![CDATA[메타 ‘스레드’ 돌풍 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/ZwoJDa</id>
+        <link href="https://newneek.co/post/ZwoJDa"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XSmUEUz.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">메타 ‘스레드’ 돌풍</h3><time class="card-date">2023/07/10</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 하반기 달라지는 것들 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/geDr4b</id>
-        <link href="https://newneek.co/post/geDr4b"/>
-        <updated>2023-07-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_13.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023 하반기 달라지는 것들</h3><time class="card-date">2023/07/03</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[양평 고속도로 사업 백지화 논란 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/gyVr29</id>
+        <link href="https://newneek.co/post/gyVr29"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_W7MSmfL.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">양평 고속도로 사업 백지화 논란</h3><time class="card-date">2023/07/10</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제로슈거와 아스파탐의 죄수 💀 (뉴닉 ─ 피자스테이션)]]></title>
@@ -1194,19 +1208,5 @@ TV가 좀 달리 보여
         <link href="https://newneek.co/post/kmEj8W"/>
         <updated>2023-07-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_tDKBXHv.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">윤석열 정부 통일부 개편</h3><time class="card-date">2023/07/04</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 올여름 AWS 시원하게 마스터하는 법 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/zNE0xr</id>
-        <link href="https://newneek.co/post/zNE0xr"/>
-        <updated>2023-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_3_2usWPra.png" alt=""></figure><div class="card-body"><h3 class="card-title">(광고) 올여름 AWS 시원하게 마스터하는 법</h3><time class="card-date">2023/07/04</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 하반기 달라지는 것들 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/geDr4b</id>
-        <link href="https://newneek.co/post/geDr4b"/>
-        <updated>2023-07-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_13.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">2023 하반기 달라지는 것들</h3><time class="card-date">2023/07/03</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
