@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2023-07-10T19:03:11.493Z</updated>
+    <updated>2023-07-10T20:04:40.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NATO 정상회의 미리보기]]></title>
+        <id>https://newneek.co/post/3MC32B</id>
+        <link href="https://newneek.co/post/3MC32B"/>
+        <updated>2023-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_15.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">NATO 정상회의 미리보기</h3><time class="card-date">2023/07/11</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸바오와 중국의 판다 외교]]></title>
+        <id>https://newneek.co/post/43deE5</id>
+        <link href="https://newneek.co/post/43deE5"/>
+        <updated>2023-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_15.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">푸바오와 중국의 판다 외교</h3><time class="card-date">2023/07/11</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메타 ‘스레드’ 돌풍]]></title>
         <id>https://newneek.co/post/ZwoJDa</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/ziTt8E"/>
         <updated>2023-07-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_qszfgRr.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">새마을금고 부실 위기</h3><time class="card-date">2023/07/05</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나엘 사건과 프랑스 이민자 차별]]></title>
-        <id>https://newneek.co/post/0XrcNF</id>
-        <link href="https://newneek.co/post/0XrcNF"/>
-        <updated>2023-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_neOuNj5.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">나엘 사건과 프랑스 이민자 차별</h3><time class="card-date">2023/07/04</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부 통일부 개편]]></title>
-        <id>https://newneek.co/post/kmEj8W</id>
-        <link href="https://newneek.co/post/kmEj8W"/>
-        <updated>2023-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_tDKBXHv.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">윤석열 정부 통일부 개편</h3><time class="card-date">2023/07/04</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
