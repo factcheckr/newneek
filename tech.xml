@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-07-11T23:03:55.588Z</updated>
+    <updated>2023-07-12T00:38:51.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -177,7 +177,7 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <id>https://newneek.co/post/ZwoJDa</id>
         <link href="https://newneek.co/post/ZwoJDa"/>
         <updated>2023-07-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XSmUEUz.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">메타 ‘스레드’ 돌풍</h3><time class="card-date">2023/07/10</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XSmUEUz.jpg" alt=""></figure><div class="card-body"><h3 class="card-title">메타 ‘스레드’ 돌풍</h3><time class="card-date">2023/07/10</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 세일즈포스 라이브 코리아 2023 컨퍼런스 핵심 강연]]></title>
