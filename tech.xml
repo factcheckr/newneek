@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-07-12T19:04:35.798Z</updated>
+    <updated>2023-07-12T20:03:38.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) 재단법인 브라이언임팩트의 첫 공모사업]]></title>
+        <id>https://newneek.co/post/evGuHb</id>
+        <link href="https://newneek.co/post/evGuHb"/>
+        <updated>2023-07-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_2JXgD50.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 재단법인 브라이언임팩트의 첫 공모사업</h3><time class="card-date">2023/07/13</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘AI 활용 창작물’ 피자가 도착했습니다!]]></title>
         <id>https://newneek.co/post/mpQW5j</id>
@@ -241,12 +248,5 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <link href="https://newneek.co/post/fWQuNN"/>
         <updated>2023-04-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9JXUeap.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">애플 신제품: 통장</h3><time class="card-date">2023/04/20</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜버를 위한 저작권 팁]]></title>
-        <id>https://newneek.co/post/r5n0vu</id>
-        <link href="https://newneek.co/post/r5n0vu"/>
-        <updated>2023-04-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%82%B0%EB%8F%8C.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">유튜버를 위한 저작권 팁</h3><time class="card-date">2023/04/04</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
