@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-16T00:40:22.943Z</updated>
+    <updated>2023-07-16T02:41:57.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이러라고 낸 세금이 아닐 텐데 (뉴닉 ─ 2022 대선)]]></title>
@@ -770,13 +770,6 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9JXUeap.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">애플 신제품: 통장</h3><time class="card-date">2023/04/20</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이러라고 낸 세금이 아닐 텐데 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/AsJUph</id>
-        <link href="https://newneek.co/post/AsJUph"/>
-        <updated>2023-07-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_r9fSimT.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이러라고 낸 세금이 아닐 텐데</h3><time class="card-date">2023/07/14</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[통신 시장 경쟁 촉진 방안 발표 (뉴닉 ─ 경제)]]></title>
         <id>https://newneek.co/post/xcrAbV</id>
         <link href="https://newneek.co/post/xcrAbV"/>
@@ -852,6 +845,13 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <link href="https://newneek.co/post/xRMrg9"/>
         <updated>2023-06-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_wZEtOPa.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">외국인 투자자 등록제 폐지</h3><time class="card-date">2023/06/14</time><i class="card-category">경제</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물가상승률과 체감물가 (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/70qAyx</id>
+        <link href="https://newneek.co/post/70qAyx"/>
+        <updated>2023-06-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_FIQQdWu.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">물가상승률과 체감물가</h3><time class="card-date">2023/06/08</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대법원 판결과 노란봉투법 (뉴닉 ─ 노동)]]></title>
