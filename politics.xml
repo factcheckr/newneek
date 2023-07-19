@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-07-19T19:03:14.744Z</updated>
+    <updated>2023-07-19T20:03:49.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🔔띵동! ‘킬러 문항 배제’ 피자가 도착했습니다!]]></title>
+        <id>https://newneek.co/post/H7nOnm</id>
+        <link href="https://newneek.co/post/H7nOnm"/>
+        <updated>2023-07-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230720_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘킬러 문항 배제’ 피자가 도착했습니다!</h3><time class="card-date">2023/07/20</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한이 발사한 화성-18형 ICBM]]></title>
         <id>https://newneek.co/post/UwIKZH</id>
@@ -190,12 +197,5 @@ TV가 좀 달리 보여
 
 
 뉴스 댓글 폐지 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 가기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍕TV 수신료 분리징수, 어떻게 생각해?]]></title>
-        <id>https://newneek.co/post/HqOyUt</id>
-        <link href="https://newneek.co/post/HqOyUt"/>
-        <updated>2023-06-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🍕TV 수신료 분리징수, 어떻게 생각해?</h3><time class="card-date">2023/06/19</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
