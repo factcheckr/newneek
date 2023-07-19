@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-07-19T05:03:41.342Z</updated>
+    <updated>2023-07-19T06:09:41.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://newneek.co/post/G3mTTb"/>
         <updated>2023-07-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_YVxdYcz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">흑해 곡물 수출협정 중단</h3><time class="card-date">2023/07/19</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영원히 남을 아이콘]]></title>
-        <id>https://newneek.co/post/lAienq</id>
-        <link href="https://newneek.co/post/lAienq"/>
-        <updated>2023-07-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A5%E1%86%BA%E1%84%82%E1%85%B5_3_mkjkMZI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">영원히 남을 아이콘</h3><time class="card-date">2023/07/18</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EU 후쿠시마산 수입 규제 철폐]]></title>
@@ -88,5 +81,12 @@
         <link href="https://newneek.co/post/pmHLXe"/>
         <updated>2023-06-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_AbrDjEe.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">시진핑-블링컨 만남과 미중관계</h3><time class="card-date">2023/06/21</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 유엔난민기구 파란리본 캠페인]]></title>
+        <id>https://newneek.co/post/Z1LUtJ</id>
+        <link href="https://newneek.co/post/Z1LUtJ"/>
+        <updated>2023-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_5.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 유엔난민기구 파란리본 캠페인</h3><time class="card-date">2023/06/20</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
