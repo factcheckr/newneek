@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2023-07-20T19:03:53.642Z</updated>
+    <updated>2023-07-20T20:03:14.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['신종 펫숍' 사기 행각]]></title>
+        <id>https://newneek.co/post/NLLFS9</id>
+        <link href="https://newneek.co/post/NLLFS9"/>
+        <updated>2023-07-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_2O2teop.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">'신종 펫숍' 사기 행각</h3><time class="card-date">2023/07/21</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리가 알던 중국 경제가 아냐]]></title>
+        <id>https://newneek.co/post/e8UQYp</id>
+        <link href="https://newneek.co/post/e8UQYp"/>
+        <updated>2023-07-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_1khsgKw.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">우리가 알던 중국 경제가 아냐</h3><time class="card-date">2023/07/21</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘킬러 문항 배제’ 피자가 도착했습니다!]]></title>
         <id>https://newneek.co/post/H7nOnm</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/qTBq41"/>
         <updated>2023-07-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_67OE5JB.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">EU 후쿠시마산 수입 규제 철폐</h3><time class="card-date">2023/07/17</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이러라고 낸 세금이 아닐 텐데]]></title>
-        <id>https://newneek.co/post/AsJUph</id>
-        <link href="https://newneek.co/post/AsJUph"/>
-        <updated>2023-07-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_r9fSimT.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이러라고 낸 세금이 아닐 텐데</h3><time class="card-date">2023/07/14</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한이 발사한 화성-18형 ICBM]]></title>
-        <id>https://newneek.co/post/UwIKZH</id>
-        <link href="https://newneek.co/post/UwIKZH"/>
-        <updated>2023-07-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_7CDshhU.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한이 발사한 화성-18형 ICBM</h3><time class="card-date">2023/07/14</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
