@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2023-07-23T19:03:36.198Z</updated>
+    <updated>2023-07-23T20:03:57.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[교권 침해, 어떻게 해결해야 할까?]]></title>
+        <id>https://newneek.co/post/4Opcya</id>
+        <link href="https://newneek.co/post/4Opcya"/>
+        <updated>2023-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ckI37Ry.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">교권 침해, 어떻게 해결해야 할까?</h3><time class="card-date">2023/07/24</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해병대 병사 사망과 대민 지원 문제]]></title>
+        <id>https://newneek.co/post/dfAuoI</id>
+        <link href="https://newneek.co/post/dfAuoI"/>
+        <updated>2023-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_o3iL1L0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해병대 병사 사망과 대민 지원 문제</h3><time class="card-date">2023/07/24</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신종 펫숍' 사기 행각]]></title>
         <id>https://newneek.co/post/NLLFS9</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/h2X5vo"/>
         <updated>2023-07-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_8.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 민병철유폰 무료 영어회화 1달 챌린지</h3><time class="card-date">2023/07/18</time><i class="card-category"></i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대급 폭우 쏟아진 이유와 극한호우]]></title>
-        <id>https://newneek.co/post/JrMREX</id>
-        <link href="https://newneek.co/post/JrMREX"/>
-        <updated>2023-07-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_kULDYNm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">역대급 폭우 쏟아진 이유와 극한호우</h3><time class="card-date">2023/07/17</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU 후쿠시마산 수입 규제 철폐]]></title>
-        <id>https://newneek.co/post/qTBq41</id>
-        <link href="https://newneek.co/post/qTBq41"/>
-        <updated>2023-07-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_67OE5JB.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">EU 후쿠시마산 수입 규제 철폐</h3><time class="card-date">2023/07/17</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
