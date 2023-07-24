@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2023-07-24T19:04:04.832Z</updated>
+    <updated>2023-07-24T20:03:57.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[수해 피해 지원과 예방 대책]]></title>
+        <id>https://newneek.co/post/X0HKxT</id>
+        <link href="https://newneek.co/post/X0HKxT"/>
+        <updated>2023-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_2_bMqnvjP.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">수해 피해 지원과 예방 대책</h3><time class="card-date">2023/07/25</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) SK엔무브와 고슴이의 에너제틱 (2)]]></title>
+        <id>https://newneek.co/post/sV1v3X</id>
+        <link href="https://newneek.co/post/sV1v3X"/>
+        <updated>2023-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_9.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) SK엔무브와 고슴이의 에너제틱 (2)</h3><time class="card-date">2023/07/25</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후위기의 경제적 영향]]></title>
+        <id>https://newneek.co/post/yM2jDo</id>
+        <link href="https://newneek.co/post/yM2jDo"/>
+        <updated>2023-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_5_F9x7Onr.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">기후위기의 경제적 영향</h3><time class="card-date">2023/07/25</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교권 침해, 어떻게 해결해야 할까?]]></title>
         <id>https://newneek.co/post/4Opcya</id>
@@ -67,26 +88,5 @@
         <link href="https://newneek.co/post/cL8ogV"/>
         <updated>2023-07-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_f3NWUXX.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">퇴직연금 디폴트옵션 시행</h3><time class="card-date">2023/07/19</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지하차도 침수 참사와 인재]]></title>
-        <id>https://newneek.co/post/WuFLz7</id>
-        <link href="https://newneek.co/post/WuFLz7"/>
-        <updated>2023-07-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_4_7fJiW9L.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">지하차도 침수 참사와 인재</h3><time class="card-date">2023/07/18</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실업급여 제도 개선 논란]]></title>
-        <id>https://newneek.co/post/ZFEQOC</id>
-        <link href="https://newneek.co/post/ZFEQOC"/>
-        <updated>2023-07-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_1_Ujd0Glg.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">실업급여 제도 개선 논란</h3><time class="card-date">2023/07/18</time><i class="card-category">노동</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 민병철유폰 무료 영어회화 1달 챌린지]]></title>
-        <id>https://newneek.co/post/h2X5vo</id>
-        <link href="https://newneek.co/post/h2X5vo"/>
-        <updated>2023-07-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_8.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 민병철유폰 무료 영어회화 1달 챌린지</h3><time class="card-date">2023/07/18</time><i class="card-category"></i></div></div>]]></content>
     </entry>
 </feed>
