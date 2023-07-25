@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2023-07-25T19:03:15.910Z</updated>
+    <updated>2023-07-25T20:03:49.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[HMM 인수전: HMM 빅세일?]]></title>
+        <id>https://newneek.co/post/Daqap5</id>
+        <link href="https://newneek.co/post/Daqap5"/>
+        <updated>2023-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_CQzjqwm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">HMM 인수전: HMM 빅세일?</h3><time class="card-date">2023/07/26</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바벤하이머 열풍과 극장의 부활]]></title>
+        <id>https://newneek.co/post/nMbqqX</id>
+        <link href="https://newneek.co/post/nMbqqX"/>
+        <updated>2023-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Yrt2TJ8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">바벤하이머 열풍과 극장의 부활</h3><time class="card-date">2023/07/26</time><i class="card-category">문화</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수해 피해 지원과 예방 대책]]></title>
         <id>https://newneek.co/post/X0HKxT</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/pBOTfC"/>
         <updated>2023-07-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_3UtnU9x.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2023 FIFA 여자 월드컵 개막</h3><time class="card-date">2023/07/20</time><i class="card-category">문화</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흑해 곡물 수출협정 중단]]></title>
-        <id>https://newneek.co/post/G3mTTb</id>
-        <link href="https://newneek.co/post/G3mTTb"/>
-        <updated>2023-07-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_YVxdYcz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">흑해 곡물 수출협정 중단</h3><time class="card-date">2023/07/19</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퇴직연금 디폴트옵션 시행]]></title>
-        <id>https://newneek.co/post/cL8ogV</id>
-        <link href="https://newneek.co/post/cL8ogV"/>
-        <updated>2023-07-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_f3NWUXX.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">퇴직연금 디폴트옵션 시행</h3><time class="card-date">2023/07/19</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
