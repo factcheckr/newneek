@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2023-07-27T19:03:05.535Z</updated>
+    <updated>2023-07-27T20:03:42.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이상동기 범죄의 해결 방안]]></title>
+        <id>https://newneek.co/post/6VcxcW</id>
+        <link href="https://newneek.co/post/6VcxcW"/>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_fB0zKmR.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이상동기 범죄의 해결 방안</h3><time class="card-date">2023/07/28</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍수 피해와 포스트 4대강]]></title>
+        <id>https://newneek.co/post/Y1ajga</id>
+        <link href="https://newneek.co/post/Y1ajga"/>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_oBEAlQZ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">홍수 피해와 포스트 4대강</h3><time class="card-date">2023/07/28</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상민 행정안전부 장관 탄핵심판 기각]]></title>
         <id>https://newneek.co/post/5qTMTM</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/4Opcya"/>
         <updated>2023-07-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ckI37Ry.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">교권 침해, 어떻게 해결해야 할까?</h3><time class="card-date">2023/07/24</time><i class="card-category">인권</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해병대 병사 사망과 대민 지원 문제]]></title>
-        <id>https://newneek.co/post/dfAuoI</id>
-        <link href="https://newneek.co/post/dfAuoI"/>
-        <updated>2023-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_o3iL1L0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해병대 병사 사망과 대민 지원 문제</h3><time class="card-date">2023/07/24</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신종 펫숍' 사기 행각]]></title>
-        <id>https://newneek.co/post/NLLFS9</id>
-        <link href="https://newneek.co/post/NLLFS9"/>
-        <updated>2023-07-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_2O2teop.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">'신종 펫숍' 사기 행각</h3><time class="card-date">2023/07/21</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
