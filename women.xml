@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2023-07-31T19:03:36.374Z</updated>
+    <updated>2023-07-31T20:04:03.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[북한 전승절 행사와 한반도 신냉전]]></title>
+        <id>https://newneek.co/post/BRz5NW</id>
+        <link href="https://newneek.co/post/BRz5NW"/>
+        <updated>2023-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_LMPt2gN.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한 전승절 행사와 한반도 신냉전</h3><time class="card-date">2023/08/01</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폭염&소나기 같이 오는 이유]]></title>
+        <id>https://newneek.co/post/wyq0V3</id>
+        <link href="https://newneek.co/post/wyq0V3"/>
+        <updated>2023-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JR274OM.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">폭염&amp;소나기 같이 오는 이유</h3><time class="card-date">2023/08/01</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 세법개정안 발표]]></title>
         <id>https://newneek.co/post/3PlN6Y</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/nMbqqX"/>
         <updated>2023-07-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_EDDqBfb.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">바벤하이머 열풍과 극장의 부활</h3><time class="card-date">2023/07/26</time><i class="card-category">문화</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수해 피해 지원과 예방 대책]]></title>
-        <id>https://newneek.co/post/X0HKxT</id>
-        <link href="https://newneek.co/post/X0HKxT"/>
-        <updated>2023-07-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_2_bMqnvjP.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">수해 피해 지원과 예방 대책</h3><time class="card-date">2023/07/25</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) SK엔무브와 고슴이의 에너제틱 (2)]]></title>
-        <id>https://newneek.co/post/sV1v3X</id>
-        <link href="https://newneek.co/post/sV1v3X"/>
-        <updated>2023-07-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_9.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) SK엔무브와 고슴이의 에너제틱 (2)</h3><time class="card-date">2023/07/25</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-07-31T19:03:36.434Z</updated>
+    <updated>2023-07-31T20:04:03.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[북한 전승절 행사와 한반도 신냉전]]></title>
+        <id>https://newneek.co/post/BRz5NW</id>
+        <link href="https://newneek.co/post/BRz5NW"/>
+        <updated>2023-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_LMPt2gN.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한 전승절 행사와 한반도 신냉전</h3><time class="card-date">2023/08/01</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 세법개정안 발표]]></title>
         <id>https://newneek.co/post/3PlN6Y</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/mw4p7z"/>
         <updated>2023-06-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Y4zMuPH.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">사교육비 대책과 수능 킬러 문항</h3><time class="card-date">2023/06/29</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동일노동 동일임금 법제화]]></title>
-        <id>https://newneek.co/post/g6qeNd</id>
-        <link href="https://newneek.co/post/g6qeNd"/>
-        <updated>2023-06-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_pGhP9GP.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">동일노동 동일임금 법제화</h3><time class="card-date">2023/06/27</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
