@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-08-03T19:03:20.565Z</updated>
+    <updated>2023-08-03T20:03:21.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[상온상압 초전도체 LK-99 열풍]]></title>
+        <id>https://newneek.co/post/8DfiKS</id>
+        <link href="https://newneek.co/post/8DfiKS"/>
+        <updated>2023-08-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1_RL5ztzC.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">상온상압 초전도체 LK-99 열풍</h3><time class="card-date">2023/08/04</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 삼성전자 갤럭시 탭 S9]]></title>
         <id>https://newneek.co/post/i9jNm6</id>
@@ -241,12 +248,5 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <link href="https://newneek.co/post/fEsXp9"/>
         <updated>2023-05-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/0517_%EB%A4%BC%ED%8A%BC_%EC%95%B1%EC%9A%A9.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 뤼튼으로 챗GPT 120% 활용하는 방법</h3><time class="card-date">2023/05/26</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 카카오톡 마음 배경 갤러리 프로모션]]></title>
-        <id>https://newneek.co/post/fsGPX0</id>
-        <link href="https://newneek.co/post/fsGPX0"/>
-        <updated>2023-05-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_2yyYXtP.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 카카오톡 마음 배경 갤러리 프로모션</h3><time class="card-date">2023/05/18</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
