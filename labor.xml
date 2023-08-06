@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/labor</id>
     <title>뉴닉 ─ 노동</title>
-    <updated>2023-08-05T23:03:18.088Z</updated>
+    <updated>2023-08-06T00:38:51.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://newneek.co/post/szfbaP</id>
         <link href="https://newneek.co/post/szfbaP"/>
         <updated>2023-08-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1_DglF60k.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">인공지능 노동 시장 영향</h3><time class="card-date">2023/08/04</time><i class="card-category">노동</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1_DglF60k.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">인공지능 노동 시장 영향</h3><time class="card-date">2023/08/04</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[실업급여 제도 개선 논란]]></title>
