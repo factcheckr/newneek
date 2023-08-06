@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-06T19:03:49.273Z</updated>
+    <updated>2023-08-06T20:03:37.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[반복되는 이상동기 범죄와 대책 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/LnqY9h</id>
+        <link href="https://newneek.co/post/LnqY9h"/>
+        <updated>2023-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_5_DAhRZDz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">반복되는 이상동기 범죄와 대책</h3><time class="card-date">2023/08/07</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새만금 잼버리 대회 파행 논란 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/mAOfnh</id>
+        <link href="https://newneek.co/post/mAOfnh"/>
+        <updated>2023-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_12_ZxciCUm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금 잼버리 대회 파행 논란</h3><time class="card-date">2023/08/07</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상온상압 초전도체 LK-99 열풍 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/8DfiKS</id>
@@ -84,20 +98,6 @@
         <link href="https://newneek.co/post/wyq0V3"/>
         <updated>2023-08-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JR274OM.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">폭염&amp;소나기 같이 오는 이유</h3><time class="card-date">2023/08/01</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 세법개정안 발표 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/3PlN6Y</id>
-        <link href="https://newneek.co/post/3PlN6Y"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2023년 세법개정안 발표</h3><time class="card-date">2023/07/31</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오송 지하차도 참사 감찰조사 결과 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/amcxh9</id>
-        <link href="https://newneek.co/post/amcxh9"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">오송 지하차도 참사 감찰조사 결과</h3><time class="card-date">2023/07/31</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북한 전승절 행사와 한반도 신냉전 (뉴닉 ─ 정치)]]></title>
@@ -912,6 +912,20 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_CGXLRKJ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한반도 지진의 원인과 대응</h3><time class="card-date">2023/05/25</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[반복되는 이상동기 범죄와 대책 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/LnqY9h</id>
+        <link href="https://newneek.co/post/LnqY9h"/>
+        <updated>2023-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_5_DAhRZDz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">반복되는 이상동기 범죄와 대책</h3><time class="card-date">2023/08/07</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새만금 잼버리 대회 파행 논란 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/mAOfnh</id>
+        <link href="https://newneek.co/post/mAOfnh"/>
+        <updated>2023-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_12_ZxciCUm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금 잼버리 대회 파행 논란</h3><time class="card-date">2023/08/07</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[상온상압 초전도체 LK-99 열풍 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/8DfiKS</id>
         <link href="https://newneek.co/post/8DfiKS"/>
@@ -993,18 +1007,18 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JR274OM.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">폭염&amp;소나기 같이 오는 이유</h3><time class="card-date">2023/08/01</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023년 세법개정안 발표 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/3PlN6Y</id>
-        <link href="https://newneek.co/post/3PlN6Y"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2023년 세법개정안 발표</h3><time class="card-date">2023/07/31</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[반복되는 이상동기 범죄와 대책 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/LnqY9h</id>
+        <link href="https://newneek.co/post/LnqY9h"/>
+        <updated>2023-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_5_DAhRZDz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">반복되는 이상동기 범죄와 대책</h3><time class="card-date">2023/08/07</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오송 지하차도 참사 감찰조사 결과 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/amcxh9</id>
-        <link href="https://newneek.co/post/amcxh9"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">오송 지하차도 참사 감찰조사 결과</h3><time class="card-date">2023/07/31</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[새만금 잼버리 대회 파행 논란 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/mAOfnh</id>
+        <link href="https://newneek.co/post/mAOfnh"/>
+        <updated>2023-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_12_ZxciCUm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금 잼버리 대회 파행 논란</h3><time class="card-date">2023/08/07</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상온상압 초전도체 LK-99 열풍 (뉴닉 ─ 코로나19)]]></title>
@@ -1088,18 +1102,18 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JR274OM.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">폭염&amp;소나기 같이 오는 이유</h3><time class="card-date">2023/08/01</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023년 세법개정안 발표 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/3PlN6Y</id>
-        <link href="https://newneek.co/post/3PlN6Y"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2023년 세법개정안 발표</h3><time class="card-date">2023/07/31</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[반복되는 이상동기 범죄와 대책 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/LnqY9h</id>
+        <link href="https://newneek.co/post/LnqY9h"/>
+        <updated>2023-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_5_DAhRZDz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">반복되는 이상동기 범죄와 대책</h3><time class="card-date">2023/08/07</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오송 지하차도 참사 감찰조사 결과 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/amcxh9</id>
-        <link href="https://newneek.co/post/amcxh9"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">오송 지하차도 참사 감찰조사 결과</h3><time class="card-date">2023/07/31</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[새만금 잼버리 대회 파행 논란 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/mAOfnh</id>
+        <link href="https://newneek.co/post/mAOfnh"/>
+        <updated>2023-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_12_ZxciCUm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금 잼버리 대회 파행 논란</h3><time class="card-date">2023/08/07</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상온상압 초전도체 LK-99 열풍 (뉴닉 ─ 피자스테이션)]]></title>
@@ -1181,19 +1195,5 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <link href="https://newneek.co/post/wyq0V3"/>
         <updated>2023-08-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JR274OM.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">폭염&amp;소나기 같이 오는 이유</h3><time class="card-date">2023/08/01</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 세법개정안 발표 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/3PlN6Y</id>
-        <link href="https://newneek.co/post/3PlN6Y"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2023년 세법개정안 발표</h3><time class="card-date">2023/07/31</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오송 지하차도 참사 감찰조사 결과 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/amcxh9</id>
-        <link href="https://newneek.co/post/amcxh9"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">오송 지하차도 참사 감찰조사 결과</h3><time class="card-date">2023/07/31</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
