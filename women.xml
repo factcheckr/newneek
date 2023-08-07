@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2023-08-07T19:03:33.150Z</updated>
+    <updated>2023-08-07T20:03:09.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[근원물가 상승과 물가 전망]]></title>
+        <id>https://newneek.co/post/28CH4W</id>
+        <link href="https://newneek.co/post/28CH4W"/>
+        <updated>2023-08-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">근원물가 상승과 물가 전망</h3><time class="card-date">2023/08/08</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공영방송 이사 해임 논란]]></title>
+        <id>https://newneek.co/post/jLQdF2</id>
+        <link href="https://newneek.co/post/jLQdF2"/>
+        <updated>2023-08-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공영방송 이사 해임 논란</h3><time class="card-date">2023/08/08</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반복되는 이상동기 범죄와 대책]]></title>
         <id>https://newneek.co/post/LnqY9h</id>
@@ -85,19 +99,5 @@
 
 박람회는 8월 21일 월요일부터 22일 화요일까지, 서울 코엑스 C홀과 컨퍼런스 룸에서 열리는데요(참가비 무료). 아래 홈페이지에서 사전 신청하면 인기 프로그램 마감되기 전에 내 자리 찜꽁할 수 있어요.
 홈페이지 보러가기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한 전승절 행사와 한반도 신냉전]]></title>
-        <id>https://newneek.co/post/BRz5NW</id>
-        <link href="https://newneek.co/post/BRz5NW"/>
-        <updated>2023-08-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_LMPt2gN.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한 전승절 행사와 한반도 신냉전</h3><time class="card-date">2023/08/01</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭염&소나기 같이 오는 이유]]></title>
-        <id>https://newneek.co/post/wyq0V3</id>
-        <link href="https://newneek.co/post/wyq0V3"/>
-        <updated>2023-08-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JR274OM.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">폭염&amp;소나기 같이 오는 이유</h3><time class="card-date">2023/08/01</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-08-07T19:03:33.151Z</updated>
+    <updated>2023-08-07T20:03:09.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[근원물가 상승과 물가 전망]]></title>
+        <id>https://newneek.co/post/28CH4W</id>
+        <link href="https://newneek.co/post/28CH4W"/>
+        <updated>2023-08-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">근원물가 상승과 물가 전망</h3><time class="card-date">2023/08/08</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기업 2분기 실적을 발표합니다]]></title>
         <id>https://newneek.co/post/ibeK0K</id>
@@ -92,12 +99,5 @@
         <link href="https://newneek.co/post/PYZDe0"/>
         <updated>2023-06-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_iXPe1vr.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">라면 가격 인하와 물가 관리</h3><time class="card-date">2023/06/30</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) SK엔무브와 고슴이의 에너제틱 (1)]]></title>
-        <id>https://newneek.co/post/Tmz0cT</id>
-        <link href="https://newneek.co/post/Tmz0cT"/>
-        <updated>2023-06-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_Ugx314p.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) SK엔무브와 고슴이의 에너제틱 (1)</h3><time class="card-date">2023/06/29</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
