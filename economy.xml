@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-08-08T19:03:57.621Z</updated>
+    <updated>2023-08-08T20:03:15.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[채권 개념과 미국 국채 금리]]></title>
+        <id>https://newneek.co/post/vNCI0g</id>
+        <link href="https://newneek.co/post/vNCI0g"/>
+        <updated>2023-08-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_6_31dczmX.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">채권 개념과 미국 국채 금리</h3><time class="card-date">2023/08/09</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[근원물가 상승과 물가 전망]]></title>
         <id>https://newneek.co/post/28CH4W</id>
@@ -92,12 +99,5 @@
         <link href="https://newneek.co/post/ziTt8E"/>
         <updated>2023-07-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_qszfgRr.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새마을금고 부실 위기</h3><time class="card-date">2023/07/05</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라면 가격 인하와 물가 관리]]></title>
-        <id>https://newneek.co/post/PYZDe0</id>
-        <link href="https://newneek.co/post/PYZDe0"/>
-        <updated>2023-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_iXPe1vr.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">라면 가격 인하와 물가 관리</h3><time class="card-date">2023/06/30</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>

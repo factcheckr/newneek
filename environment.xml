@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2023-08-08T19:03:57.615Z</updated>
+    <updated>2023-08-08T20:03:15.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[해수면 온도 상승과 영향]]></title>
+        <id>https://newneek.co/post/OSoVRL</id>
+        <link href="https://newneek.co/post/OSoVRL"/>
+        <updated>2023-08-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_13_6kuOXjQ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해수면 온도 상승과 영향</h3><time class="card-date">2023/08/09</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍수 피해와 포스트 4대강]]></title>
         <id>https://newneek.co/post/Y1ajga</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/LcnPC9"/>
         <updated>2023-05-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_d46ki55.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">폐지 줍는 노인과 자원재생 활동가</h3><time class="card-date">2023/05/29</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한반도 지진의 원인과 대응]]></title>
-        <id>https://newneek.co/post/UtW1re</id>
-        <link href="https://newneek.co/post/UtW1re"/>
-        <updated>2023-05-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_CGXLRKJ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한반도 지진의 원인과 대응</h3><time class="card-date">2023/05/25</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
