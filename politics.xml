@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-08-10T19:03:48.763Z</updated>
+    <updated>2023-08-10T20:03:40.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) 뉴웨이즈 드래프트 2024: 신인 젊치인 선발전]]></title>
+        <id>https://newneek.co/post/ejYQfK</id>
+        <link href="https://newneek.co/post/ejYQfK"/>
+        <updated>2023-08-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[* 이 콘텐츠는 뉴웨이즈로부터 광고비를 받아 제작되었습니다.
+뉴니커, 4년에 1번 열리는 엄청 중요한 경기 하면 뭐가 떠올라요? 올림픽? 월드컵? 맞...긴 한데요. 기대하는 사람들이 점점 줄어드는 경기 ☝️, 국회의원 선거도 있어요 😂.&nbsp;
+선거가 멀게 느껴지는 데는 후보들이 나보다 나이가 너무! 많은 탓도 있잖아요(평균 연령 54.9세). 진짜 내 얘기를 대신해줄 선수를 만나고 싶다면, 뉴웨이즈와 신인 젊은 정치인(젊치인) 만들어봐요 🌟.
+
+
+뉴웨이즈:&nbsp;만 39세 이하 젊치인의 도전과 성장을 돕는 비영리 스타트업이에요. 뽑고 싶은 사람이 너무 많아 고민인 세상을 꿈꾼다고.
+
+
+뉴웨이즈의 ‘드래프트 2024’는 내년 4월 10일 국회의원 선거에서 젊치인 30명을 당선시키는 프로젝트인데요 🗳️. 8월부터 유권자 1000명과 함께 우리에게 꼭 필요한 젊치인 선발 기준을 세우고, 이에 맞는 후보 선수를 발굴해요. 지금 드래프트 선발전에 입장하면 이 과정에 직접 참여하고, 한정 혜택도 받을 수 있다고: (1) 선착순 1000명 한정판 입장 티켓 받기. (2) 내년 선거 끝나고 명예의 전당에 내 이름 올리기.
+무엇보다 최고의 혜택은... 내년부터 ASAP 내 반쪽 아니 완전 COPY 💖인 젊치인을 국회에서 만나볼 수 있다는 것! 진짜 우리 얘기 하는 정치, 더 젊은 정치 보고 싶다면 지금 바로 드래프트에 입장하세요!
+선착순 1000명 한정 티켓 받기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해병대 병사 사망 수사 외압 의혹]]></title>
         <id>https://newneek.co/post/9aXuoo</id>
@@ -81,12 +98,5 @@
         <link href="https://newneek.co/post/gyVr29"/>
         <updated>2023-07-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_W7MSmfL.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">양평 고속도로 사업 백지화 논란</h3><time class="card-date">2023/07/10</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후쿠시마 오염수 방류 5문 5답]]></title>
-        <id>https://newneek.co/post/lJGk65</id>
-        <link href="https://newneek.co/post/lJGk65"/>
-        <updated>2023-07-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_HrnXKYC.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 오염수 방류 5문 5답</h3><time class="card-date">2023/07/07</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
