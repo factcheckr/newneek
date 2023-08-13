@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-08-13T19:03:47.414Z</updated>
+    <updated>2023-08-13T20:03:28.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미국, 중국 첨단 기술 투자 제한]]></title>
+        <id>https://newneek.co/post/2GteDV</id>
+        <link href="https://newneek.co/post/2GteDV"/>
+        <updated>2023-08-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_JaTweQZ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국, 중국 첨단 기술 투자 제한</h3><time class="card-date">2023/08/14</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 경제 연착륙 전망]]></title>
         <id>https://newneek.co/post/18650W</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/p6Muer"/>
         <updated>2023-07-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_14.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 적극적 우대 조치 위헌 결정</h3><time class="card-date">2023/07/03</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘의 환승연애]]></title>
-        <id>https://newneek.co/post/Qeu4rg</id>
-        <link href="https://newneek.co/post/Qeu4rg"/>
-        <updated>2023-06-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B52.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘의 환승연애</h3><time class="card-date">2023/06/29</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2023-08-13T19:03:47.439Z</updated>
+    <updated>2023-08-13T20:03:28.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미국, 중국 첨단 기술 투자 제한]]></title>
+        <id>https://newneek.co/post/2GteDV</id>
+        <link href="https://newneek.co/post/2GteDV"/>
+        <updated>2023-08-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_JaTweQZ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국, 중국 첨단 기술 투자 제한</h3><time class="card-date">2023/08/14</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새만금 잼버리 폐막과 과제]]></title>
+        <id>https://newneek.co/post/YLPgc8</id>
+        <link href="https://newneek.co/post/YLPgc8"/>
+        <updated>2023-08-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_oWFtW7s.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금 잼버리 폐막과 과제</h3><time class="card-date">2023/08/14</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 경제 연착륙 전망]]></title>
         <id>https://newneek.co/post/18650W</id>
@@ -84,19 +98,5 @@
         <link href="https://newneek.co/post/jLQdF2"/>
         <updated>2023-08-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공영방송 이사 해임 논란</h3><time class="card-date">2023/08/08</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반복되는 이상동기 범죄와 대책]]></title>
-        <id>https://newneek.co/post/LnqY9h</id>
-        <link href="https://newneek.co/post/LnqY9h"/>
-        <updated>2023-08-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_5_DAhRZDz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">반복되는 이상동기 범죄와 대책</h3><time class="card-date">2023/08/07</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새만금 잼버리 대회 파행 논란]]></title>
-        <id>https://newneek.co/post/mAOfnh</id>
-        <link href="https://newneek.co/post/mAOfnh"/>
-        <updated>2023-08-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_12_ZxciCUm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금 잼버리 대회 파행 논란</h3><time class="card-date">2023/08/07</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
