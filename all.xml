@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-15T19:03:33.173Z</updated>
+    <updated>2023-08-15T20:03:49.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[새만금국제공항 건설 논란 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/Y4YEjn</id>
+        <link href="https://newneek.co/post/Y4YEjn"/>
+        <updated>2023-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JHZukzy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금국제공항 건설 논란</h3><time class="card-date">2023/08/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대한항공-아시아나항공 인수합병 지연 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/vljEm4</id>
+        <link href="https://newneek.co/post/vljEm4"/>
+        <updated>2023-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_gCXlkCz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대한항공-아시아나항공 인수합병 지연</h3><time class="card-date">2023/08/16</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국, 중국 첨단 기술 투자 제한 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/2GteDV</id>
@@ -85,18 +99,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_6_31dczmX.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">채권 개념과 미국 국채 금리</h3><time class="card-date">2023/08/09</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[근원물가 상승과 물가 전망 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/28CH4W</id>
-        <link href="https://newneek.co/post/28CH4W"/>
-        <updated>2023-08-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">근원물가 상승과 물가 전망</h3><time class="card-date">2023/08/08</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공영방송 이사 해임 논란 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/jLQdF2</id>
-        <link href="https://newneek.co/post/jLQdF2"/>
-        <updated>2023-08-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공영방송 이사 해임 논란</h3><time class="card-date">2023/08/08</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[새만금국제공항 건설 논란 (뉴닉 ─ 정치)]]></title>
+        <id>https://newneek.co/post/Y4YEjn</id>
+        <link href="https://newneek.co/post/Y4YEjn"/>
+        <updated>2023-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JHZukzy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금국제공항 건설 논란</h3><time class="card-date">2023/08/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 뉴웨이즈 드래프트 2024: 신인 젊치인 선발전 (뉴닉 ─ 정치)]]></title>
@@ -184,13 +191,6 @@
         <link href="https://newneek.co/post/43deE5"/>
         <updated>2023-07-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_15.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">푸바오와 중국의 판다 외교</h3><time class="card-date">2023/07/11</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양평 고속도로 사업 백지화 논란 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/gyVr29</id>
-        <link href="https://newneek.co/post/gyVr29"/>
-        <updated>2023-07-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_W7MSmfL.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">양평 고속도로 사업 백지화 논란</h3><time class="card-date">2023/07/10</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국, 중국 첨단 기술 투자 제한 (뉴닉 ─ 세계)]]></title>
@@ -521,6 +521,13 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/0517_%EB%A4%BC%ED%8A%BC_%EC%95%B1%EC%9A%A9.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 뤼튼으로 챗GPT 120% 활용하는 방법</h3><time class="card-date">2023/05/26</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[대한항공-아시아나항공 인수합병 지연 (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/vljEm4</id>
+        <link href="https://newneek.co/post/vljEm4"/>
+        <updated>2023-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_gCXlkCz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대한항공-아시아나항공 인수합병 지연</h3><time class="card-date">2023/08/16</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[고금리에도 대출을 땡기는 사람들이 있다? (뉴닉 ─ 경제)]]></title>
         <id>https://newneek.co/post/ExauwV</id>
         <link href="https://newneek.co/post/ExauwV"/>
@@ -607,13 +614,6 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <link href="https://newneek.co/post/cL8ogV"/>
         <updated>2023-07-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_f3NWUXX.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">퇴직연금 디폴트옵션 시행</h3><time class="card-date">2023/07/19</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신 시장 경쟁 촉진 방안 발표 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/xcrAbV</id>
-        <link href="https://newneek.co/post/xcrAbV"/>
-        <updated>2023-07-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_08sQ6v0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">통신 시장 경쟁 촉진 방안 발표</h3><time class="card-date">2023/07/12</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인공지능 노동 시장 영향 (뉴닉 ─ 노동)]]></title>
@@ -921,6 +921,20 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_d46ki55.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">폐지 줍는 노인과 자원재생 활동가</h3><time class="card-date">2023/05/29</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[새만금국제공항 건설 논란 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/Y4YEjn</id>
+        <link href="https://newneek.co/post/Y4YEjn"/>
+        <updated>2023-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JHZukzy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금국제공항 건설 논란</h3><time class="card-date">2023/08/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대한항공-아시아나항공 인수합병 지연 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/vljEm4</id>
+        <link href="https://newneek.co/post/vljEm4"/>
+        <updated>2023-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_gCXlkCz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대한항공-아시아나항공 인수합병 지연</h3><time class="card-date">2023/08/16</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미국, 중국 첨단 기술 투자 제한 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/2GteDV</id>
         <link href="https://newneek.co/post/2GteDV"/>
@@ -1001,18 +1015,18 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_6_31dczmX.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">채권 개념과 미국 국채 금리</h3><time class="card-date">2023/08/09</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[근원물가 상승과 물가 전망 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/28CH4W</id>
-        <link href="https://newneek.co/post/28CH4W"/>
-        <updated>2023-08-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">근원물가 상승과 물가 전망</h3><time class="card-date">2023/08/08</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[새만금국제공항 건설 논란 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/Y4YEjn</id>
+        <link href="https://newneek.co/post/Y4YEjn"/>
+        <updated>2023-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JHZukzy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금국제공항 건설 논란</h3><time class="card-date">2023/08/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공영방송 이사 해임 논란 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/jLQdF2</id>
-        <link href="https://newneek.co/post/jLQdF2"/>
-        <updated>2023-08-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공영방송 이사 해임 논란</h3><time class="card-date">2023/08/08</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[대한항공-아시아나항공 인수합병 지연 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/vljEm4</id>
+        <link href="https://newneek.co/post/vljEm4"/>
+        <updated>2023-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_gCXlkCz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대한항공-아시아나항공 인수합병 지연</h3><time class="card-date">2023/08/16</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국, 중국 첨단 기술 투자 제한 (뉴닉 ─ 코로나19)]]></title>
@@ -1095,18 +1109,18 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_6_31dczmX.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">채권 개념과 미국 국채 금리</h3><time class="card-date">2023/08/09</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[근원물가 상승과 물가 전망 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/28CH4W</id>
-        <link href="https://newneek.co/post/28CH4W"/>
-        <updated>2023-08-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">근원물가 상승과 물가 전망</h3><time class="card-date">2023/08/08</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[새만금국제공항 건설 논란 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/Y4YEjn</id>
+        <link href="https://newneek.co/post/Y4YEjn"/>
+        <updated>2023-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JHZukzy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금국제공항 건설 논란</h3><time class="card-date">2023/08/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공영방송 이사 해임 논란 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/jLQdF2</id>
-        <link href="https://newneek.co/post/jLQdF2"/>
-        <updated>2023-08-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공영방송 이사 해임 논란</h3><time class="card-date">2023/08/08</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[대한항공-아시아나항공 인수합병 지연 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/vljEm4</id>
+        <link href="https://newneek.co/post/vljEm4"/>
+        <updated>2023-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_gCXlkCz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대한항공-아시아나항공 인수합병 지연</h3><time class="card-date">2023/08/16</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국, 중국 첨단 기술 투자 제한 (뉴닉 ─ 피자스테이션)]]></title>
@@ -1187,19 +1201,5 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <link href="https://newneek.co/post/vNCI0g"/>
         <updated>2023-08-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_6_31dczmX.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">채권 개념과 미국 국채 금리</h3><time class="card-date">2023/08/09</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[근원물가 상승과 물가 전망 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/28CH4W</id>
-        <link href="https://newneek.co/post/28CH4W"/>
-        <updated>2023-08-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">근원물가 상승과 물가 전망</h3><time class="card-date">2023/08/08</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공영방송 이사 해임 논란 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/jLQdF2</id>
-        <link href="https://newneek.co/post/jLQdF2"/>
-        <updated>2023-08-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공영방송 이사 해임 논란</h3><time class="card-date">2023/08/08</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
