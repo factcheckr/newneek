@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2023-08-16T19:03:46.869Z</updated>
+    <updated>2023-08-16T20:03:03.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 하와이 산불 원인]]></title>
+        <id>https://newneek.co/post/AjN2w9</id>
+        <link href="https://newneek.co/post/AjN2w9"/>
+        <updated>2023-08-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_1_mcGCT54.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 하와이 산불 원인</h3><time class="card-date">2023/08/17</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해수면 온도 상승과 영향]]></title>
         <id>https://newneek.co/post/OSoVRL</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/DzwGfw"/>
         <updated>2023-05-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_5Xb0DBJ.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">바다의 날과 바다숲 지키기</h3><time class="card-date">2023/05/31</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폐지 줍는 노인과 자원재생 활동가]]></title>
-        <id>https://newneek.co/post/LcnPC9</id>
-        <link href="https://newneek.co/post/LcnPC9"/>
-        <updated>2023-05-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_d46ki55.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">폐지 줍는 노인과 자원재생 활동가</h3><time class="card-date">2023/05/29</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
