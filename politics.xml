@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-08-17T23:03:44.947Z</updated>
+    <updated>2023-08-18T00:27:54.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://newneek.co/post/Y4YEjn</id>
         <link href="https://newneek.co/post/Y4YEjn"/>
         <updated>2023-08-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JHZukzy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금국제공항 건설 논란</h3><time class="card-date">2023/08/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JHZukzy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금국제공항 건설 논란</h3><time class="card-date">2023/08/16</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 뉴웨이즈 드래프트 2024: 신인 젊치인 선발전]]></title>

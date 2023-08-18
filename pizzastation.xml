@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2023-08-17T23:03:44.952Z</updated>
+    <updated>2023-08-18T00:27:54.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -52,14 +52,14 @@
         <id>https://newneek.co/post/Y4YEjn</id>
         <link href="https://newneek.co/post/Y4YEjn"/>
         <updated>2023-08-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JHZukzy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금국제공항 건설 논란</h3><time class="card-date">2023/08/16</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JHZukzy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금국제공항 건설 논란</h3><time class="card-date">2023/08/16</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대한항공-아시아나항공 인수합병 지연]]></title>
         <id>https://newneek.co/post/vljEm4</id>
         <link href="https://newneek.co/post/vljEm4"/>
         <updated>2023-08-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_gCXlkCz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대한항공-아시아나항공 인수합병 지연</h3><time class="card-date">2023/08/16</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_gCXlkCz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대한항공-아시아나항공 인수합병 지연</h3><time class="card-date">2023/08/16</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국, 중국 첨단 기술 투자 제한]]></title>
