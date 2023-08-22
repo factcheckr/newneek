@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-22T19:03:53.122Z</updated>
+    <updated>2023-08-22T20:03:14.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[초장기 주택담보대출 규제 논란 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/Fm8GfH</id>
+        <link href="https://newneek.co/post/Fm8GfH"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_ZWlQXy3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">초장기 주택담보대출 규제 논란</h3><time class="card-date">2023/08/23</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 개시 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/PED5Np</id>
+        <link href="https://newneek.co/post/PED5Np"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류 개시</h3><time class="card-date">2023/08/23</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민연금 길을 잃었다, 어딜 가야 할까 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/1dGa05</id>
@@ -73,20 +87,6 @@
         <link href="https://newneek.co/post/BIel8z"/>
         <updated>2023-08-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_1_DOytdM2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">중국 부동산 불황과 영향</h3><time class="card-date">2023/08/17</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔔띵동! ‘특별사면’ 피자가 도착했습니다! (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/KLkQpu</id>
-        <link href="https://newneek.co/post/KLkQpu"/>
-        <updated>2023-08-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230815_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘특별사면’ 피자가 도착했습니다!</h3><time class="card-date">2023/08/17</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새만금국제공항 건설 논란 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/Y4YEjn</id>
-        <link href="https://newneek.co/post/Y4YEjn"/>
-        <updated>2023-08-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JHZukzy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금국제공항 건설 논란</h3><time class="card-date">2023/08/16</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘을지 자유의 방패’ 한미 연합연습 (뉴닉 ─ 정치)]]></title>
@@ -183,6 +183,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230720_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘킬러 문항 배제’ 피자가 도착했습니다!</h3><time class="card-date">2023/07/20</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 개시 (뉴닉 ─ 세계)]]></title>
+        <id>https://newneek.co/post/PED5Np</id>
+        <link href="https://newneek.co/post/PED5Np"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류 개시</h3><time class="card-date">2023/08/23</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아르헨티나 대선 여론과 경제 상황 (뉴닉 ─ 세계)]]></title>
         <id>https://newneek.co/post/mJ3vqv</id>
         <link href="https://newneek.co/post/mJ3vqv"/>
@@ -258,13 +265,6 @@
         <link href="https://newneek.co/post/8jBslA"/>
         <updated>2023-07-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_OuN2aqr.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">IAEA 보고서와 후쿠시마 오염수 방류</h3><time class="card-date">2023/07/06</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘 팔레스타인 갈등과 서안지구 (뉴닉 ─ 세계)]]></title>
-        <id>https://newneek.co/post/HSQoTu</id>
-        <link href="https://newneek.co/post/HSQoTu"/>
-        <updated>2023-07-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5_WvdwHBa.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘 팔레스타인 갈등과 서안지구</h3><time class="card-date">2023/07/05</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 쉬워야지 편해야지 카톡easy 📱 (뉴닉 ─ 테크)]]></title>
@@ -511,6 +511,13 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_D02PaS8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">타다 경영진 무죄 판결</h3><time class="card-date">2023/06/07</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[초장기 주택담보대출 규제 논란 (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/Fm8GfH</id>
+        <link href="https://newneek.co/post/Fm8GfH"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_ZWlQXy3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">초장기 주택담보대출 규제 논란</h3><time class="card-date">2023/08/23</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[국민연금 길을 잃었다, 어딜 가야 할까 (뉴닉 ─ 경제)]]></title>
         <id>https://newneek.co/post/1dGa05</id>
         <link href="https://newneek.co/post/1dGa05"/>
@@ -597,13 +604,6 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <link href="https://newneek.co/post/Daqap5"/>
         <updated>2023-07-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_CQzjqwm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">HMM 인수전: HMM 빅세일?</h3><time class="card-date">2023/07/26</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후위기의 경제적 영향 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/yM2jDo</id>
-        <link href="https://newneek.co/post/yM2jDo"/>
-        <updated>2023-07-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_5_F9x7Onr.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">기후위기의 경제적 영향</h3><time class="card-date">2023/07/25</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인공지능 노동 시장 영향 (뉴닉 ─ 노동)]]></title>
@@ -911,6 +911,20 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_5Xb0DBJ.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">바다의 날과 바다숲 지키기</h3><time class="card-date">2023/05/31</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[초장기 주택담보대출 규제 논란 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/Fm8GfH</id>
+        <link href="https://newneek.co/post/Fm8GfH"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_ZWlQXy3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">초장기 주택담보대출 규제 논란</h3><time class="card-date">2023/08/23</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 개시 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/PED5Np</id>
+        <link href="https://newneek.co/post/PED5Np"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류 개시</h3><time class="card-date">2023/08/23</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[국민연금 길을 잃었다, 어딜 가야 할까 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/1dGa05</id>
         <link href="https://newneek.co/post/1dGa05"/>
@@ -981,18 +995,18 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_1_DOytdM2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">중국 부동산 불황과 영향</h3><time class="card-date">2023/08/17</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔔띵동! ‘특별사면’ 피자가 도착했습니다! (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/KLkQpu</id>
-        <link href="https://newneek.co/post/KLkQpu"/>
-        <updated>2023-08-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230815_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘특별사면’ 피자가 도착했습니다!</h3><time class="card-date">2023/08/17</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[초장기 주택담보대출 규제 논란 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/Fm8GfH</id>
+        <link href="https://newneek.co/post/Fm8GfH"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_ZWlQXy3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">초장기 주택담보대출 규제 논란</h3><time class="card-date">2023/08/23</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새만금국제공항 건설 논란 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/Y4YEjn</id>
-        <link href="https://newneek.co/post/Y4YEjn"/>
-        <updated>2023-08-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JHZukzy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금국제공항 건설 논란</h3><time class="card-date">2023/08/16</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 개시 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/PED5Np</id>
+        <link href="https://newneek.co/post/PED5Np"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류 개시</h3><time class="card-date">2023/08/23</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국민연금 길을 잃었다, 어딜 가야 할까 (뉴닉 ─ 코로나19)]]></title>
@@ -1065,18 +1079,18 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_1_DOytdM2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">중국 부동산 불황과 영향</h3><time class="card-date">2023/08/17</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔔띵동! ‘특별사면’ 피자가 도착했습니다! (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/KLkQpu</id>
-        <link href="https://newneek.co/post/KLkQpu"/>
-        <updated>2023-08-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230815_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘특별사면’ 피자가 도착했습니다!</h3><time class="card-date">2023/08/17</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[초장기 주택담보대출 규제 논란 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/Fm8GfH</id>
+        <link href="https://newneek.co/post/Fm8GfH"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_ZWlQXy3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">초장기 주택담보대출 규제 논란</h3><time class="card-date">2023/08/23</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새만금국제공항 건설 논란 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/Y4YEjn</id>
-        <link href="https://newneek.co/post/Y4YEjn"/>
-        <updated>2023-08-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JHZukzy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금국제공항 건설 논란</h3><time class="card-date">2023/08/16</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 개시 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/PED5Np</id>
+        <link href="https://newneek.co/post/PED5Np"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류 개시</h3><time class="card-date">2023/08/23</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국민연금 길을 잃었다, 어딜 가야 할까 (뉴닉 ─ 피자스테이션)]]></title>
@@ -1147,19 +1161,5 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <link href="https://newneek.co/post/BIel8z"/>
         <updated>2023-08-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_1_DOytdM2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">중국 부동산 불황과 영향</h3><time class="card-date">2023/08/17</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔔띵동! ‘특별사면’ 피자가 도착했습니다! (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/KLkQpu</id>
-        <link href="https://newneek.co/post/KLkQpu"/>
-        <updated>2023-08-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230815_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘특별사면’ 피자가 도착했습니다!</h3><time class="card-date">2023/08/17</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새만금국제공항 건설 논란 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/Y4YEjn</id>
-        <link href="https://newneek.co/post/Y4YEjn"/>
-        <updated>2023-08-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_JHZukzy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">새만금국제공항 건설 논란</h3><time class="card-date">2023/08/16</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
