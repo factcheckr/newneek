@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-08-23T19:03:42.106Z</updated>
+    <updated>2023-08-23T20:03:29.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🔔'정치 현수막' 피자가 도착했어요!]]></title>
+        <id>https://newneek.co/post/TJwDLA</id>
+        <link href="https://newneek.co/post/TJwDLA"/>
+        <updated>2023-08-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230821_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔'정치 현수막' 피자가 도착했어요!</h3><time class="card-date">2023/08/24</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘을지 자유의 방패’ 한미 연합연습]]></title>
         <id>https://newneek.co/post/FwkoqY</id>
@@ -91,12 +98,5 @@
         <link href="https://newneek.co/post/amcxh9"/>
         <updated>2023-07-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">오송 지하차도 참사 감찰조사 결과</h3><time class="card-date">2023/07/31</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔔띵동! ‘킬러 문항 배제’ 피자가 도착했습니다!]]></title>
-        <id>https://newneek.co/post/H7nOnm</id>
-        <link href="https://newneek.co/post/H7nOnm"/>
-        <updated>2023-07-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230720_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘킬러 문항 배제’ 피자가 도착했습니다!</h3><time class="card-date">2023/07/20</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
