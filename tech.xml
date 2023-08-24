@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-08-24T19:03:09.995Z</updated>
+    <updated>2023-08-24T20:03:30.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[인도 찬드라얀 3호 달 남극 착륙]]></title>
+        <id>https://newneek.co/post/uB1c8V</id>
+        <link href="https://newneek.co/post/uB1c8V"/>
+        <updated>2023-08-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_M49PxeJ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">인도 찬드라얀 3호 달 남극 착륙</h3><time class="card-date">2023/08/25</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 쉬워야지 편해야지 카톡easy 📱]]></title>
         <id>https://newneek.co/post/JA5kuQ</id>
@@ -241,12 +248,5 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <link href="https://newneek.co/post/zNE0xr"/>
         <updated>2023-07-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_3_2usWPra.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 올여름 AWS 시원하게 마스터하는 법</h3><time class="card-date">2023/07/04</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타다 경영진 무죄 판결]]></title>
-        <id>https://newneek.co/post/HtLJwn</id>
-        <link href="https://newneek.co/post/HtLJwn"/>
-        <updated>2023-06-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_D02PaS8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">타다 경영진 무죄 판결</h3><time class="card-date">2023/06/07</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>

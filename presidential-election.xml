@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2023-08-24T19:03:09.986Z</updated>
+    <updated>2023-08-24T20:03:30.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[북한 2차 정찰위성 발사 실패]]></title>
+        <id>https://newneek.co/post/4OfQt4</id>
+        <link href="https://newneek.co/post/4OfQt4"/>
+        <updated>2023-08-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3_JvscK3L.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한 2차 정찰위성 발사 실패</h3><time class="card-date">2023/08/25</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인도 찬드라얀 3호 달 남극 착륙]]></title>
+        <id>https://newneek.co/post/uB1c8V</id>
+        <link href="https://newneek.co/post/uB1c8V"/>
+        <updated>2023-08-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_M49PxeJ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">인도 찬드라얀 3호 달 남극 착륙</h3><time class="card-date">2023/08/25</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국경제인연합회 부활과 논란]]></title>
         <id>https://newneek.co/post/6L6ZUr</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/mJ3vqv"/>
         <updated>2023-08-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1_lKoMtef.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아르헨티나 대선 여론과 경제 상황</h3><time class="card-date">2023/08/21</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한미일 정상회의 결과]]></title>
-        <id>https://newneek.co/post/xVahFe</id>
-        <link href="https://newneek.co/post/xVahFe"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1_q9dgprH.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한미일 정상회의 결과</h3><time class="card-date">2023/08/21</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백현동 개발사업 의혹 총정리]]></title>
-        <id>https://newneek.co/post/Mb3lNx</id>
-        <link href="https://newneek.co/post/Mb3lNx"/>
-        <updated>2023-08-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_bmPDIgD.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">백현동 개발사업 의혹 총정리</h3><time class="card-date">2023/08/18</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
