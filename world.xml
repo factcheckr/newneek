@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-08-24T23:03:22.064Z</updated>
+    <updated>2023-08-25T00:25:42.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://newneek.co/post/PED5Np</id>
         <link href="https://newneek.co/post/PED5Np"/>
         <updated>2023-08-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류 개시</h3><time class="card-date">2023/08/23</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류 개시</h3><time class="card-date">2023/08/23</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아르헨티나 대선 여론과 경제 상황]]></title>
