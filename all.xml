@@ -2,8 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-27T19:03:02.369Z</updated>
+    <updated>2023-08-27T20:03:27.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[(광고) 셀프스토리지 미니창고 다락 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/GODVAK</id>
+        <link href="https://newneek.co/post/GODVAK"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[* 이 콘텐츠는 다락으로부터 광고비를 받아 작성되었습니다.
+뉴니커, ‘셀프스토리지’ 들어봤나요? 개인 창고를 빌려 물건을 보관하는 서비스인데요. 공간을 빌려 쓴다는 뜻에서 ‘공간 아웃소싱’, ‘공간 구독경제’라고 부르기도 해요. 요즘 이게 1인가구 사이에서 인기라고. 캠핑·패션 등 각양각색 취미로 짐은 늘어나는데, 이걸 다 집에 두기에는 방세가 너무 비싸기 때문. 집을 한 평 늘리는 것보다 셀프스토리지가 훨씬 간편하고 저렴하다고.
+우리나라 셀프스토리지 1등은 전국에 74개 지점이 있는 ‘다락'이에요. 소비자만족지수는 6년 연속 1등이고, 2022년에는 올해의 브랜드파워 1위였다고. 뭐가 특히 좋냐면:
+
+
+내게 딱 맞는 서비스 📦: 1인가구를 위한 큐브 유닛부터 원룸 이삿짐도 보관할 수 있는 대형 유닛까지 원하는 만큼 보관 가능해요. 물건을 대신 옮겨주는 픽업 서비스, 안 쓰는 물건을 대신 처분·기부해주는 서비스도 있고요.
+
+
+믿고 맡기는 보관 퀄리티 📹: 실시간으로 온도·습도를 관리해서 물건을 소중하게 보관해요. 보안 업체를 통해 365일 24시간 철저하게 물건을 지키고요.&nbsp;
+
+
+써보면 얼마나 편한지 회원수는 약 4만 5000명, 재이용률은 91.5%에 달해요. 현재는 더 편한 서비스를 제공하기 위해 여러 기능들을 자동화하고 있는데요. 뉴니커도 내 집은 넓게 쓰고, 골프·캠핑 용품은 다락에 맡겨 보면 어때요?
+다락으로 와요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 상황 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/P3KMRV</id>
+        <link href="https://newneek.co/post/P3KMRV"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_3_TU5i4vm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류 상황</h3><time class="card-date">2023/08/28</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브릭스 정상회의 결과 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/yPMtRs</id>
+        <link href="https://newneek.co/post/yPMtRs"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_3_v44k4uj.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">브릭스 정상회의 결과</h3><time class="card-date">2023/08/28</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한 2차 정찰위성 발사 실패 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/4OfQt4</id>
@@ -66,27 +99,6 @@
         <link href="https://newneek.co/post/1dGa05"/>
         <updated>2023-08-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_2_WZHneWx.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민연금 길을 잃었다, 어딜 가야 할까</h3><time class="card-date">2023/08/22</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘을지 자유의 방패’ 한미 연합연습 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/FwkoqY</id>
-        <link href="https://newneek.co/post/FwkoqY"/>
-        <updated>2023-08-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2_kxqDx5C.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘을지 자유의 방패’ 한미 연합연습</h3><time class="card-date">2023/08/22</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 쉬워야지 편해야지 카톡easy 📱 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/JA5kuQ</id>
-        <link href="https://newneek.co/post/JA5kuQ"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_1_paqAjS2.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 쉬워야지 편해야지 카톡easy 📱</h3><time class="card-date">2023/08/21</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아르헨티나 대선 여론과 경제 상황 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/mJ3vqv</id>
-        <link href="https://newneek.co/post/mJ3vqv"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1_lKoMtef.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아르헨티나 대선 여론과 경제 상황</h3><time class="card-date">2023/08/21</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북한 2차 정찰위성 발사 실패 (뉴닉 ─ 정치)]]></title>
@@ -183,6 +195,20 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2023년 세법개정안 발표</h3><time class="card-date">2023/07/31</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 상황 (뉴닉 ─ 세계)]]></title>
+        <id>https://newneek.co/post/P3KMRV</id>
+        <link href="https://newneek.co/post/P3KMRV"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_3_TU5i4vm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류 상황</h3><time class="card-date">2023/08/28</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브릭스 정상회의 결과 (뉴닉 ─ 세계)]]></title>
+        <id>https://newneek.co/post/yPMtRs</id>
+        <link href="https://newneek.co/post/yPMtRs"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_3_v44k4uj.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">브릭스 정상회의 결과</h3><time class="card-date">2023/08/28</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 개시 (뉴닉 ─ 세계)]]></title>
         <id>https://newneek.co/post/PED5Np</id>
         <link href="https://newneek.co/post/PED5Np"/>
@@ -251,20 +277,6 @@
         <link href="https://newneek.co/post/qTBq41"/>
         <updated>2023-07-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_67OE5JB.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">EU 후쿠시마산 수입 규제 철폐</h3><time class="card-date">2023/07/17</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NATO 정상회의 미리보기 (뉴닉 ─ 세계)]]></title>
-        <id>https://newneek.co/post/3MC32B</id>
-        <link href="https://newneek.co/post/3MC32B"/>
-        <updated>2023-07-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_15.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">NATO 정상회의 미리보기</h3><time class="card-date">2023/07/11</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IAEA 보고서와 후쿠시마 오염수 방류 (뉴닉 ─ 세계)]]></title>
-        <id>https://newneek.co/post/8jBslA</id>
-        <link href="https://newneek.co/post/8jBslA"/>
-        <updated>2023-07-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_OuN2aqr.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">IAEA 보고서와 후쿠시마 오염수 방류</h3><time class="card-date">2023/07/06</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인도 찬드라얀 3호 달 남극 착륙 (뉴닉 ─ 테크)]]></title>
@@ -511,6 +523,25 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_3_2usWPra.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 올여름 AWS 시원하게 마스터하는 법</h3><time class="card-date">2023/07/04</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(광고) 셀프스토리지 미니창고 다락 (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/GODVAK</id>
+        <link href="https://newneek.co/post/GODVAK"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[* 이 콘텐츠는 다락으로부터 광고비를 받아 작성되었습니다.
+뉴니커, ‘셀프스토리지’ 들어봤나요? 개인 창고를 빌려 물건을 보관하는 서비스인데요. 공간을 빌려 쓴다는 뜻에서 ‘공간 아웃소싱’, ‘공간 구독경제’라고 부르기도 해요. 요즘 이게 1인가구 사이에서 인기라고. 캠핑·패션 등 각양각색 취미로 짐은 늘어나는데, 이걸 다 집에 두기에는 방세가 너무 비싸기 때문. 집을 한 평 늘리는 것보다 셀프스토리지가 훨씬 간편하고 저렴하다고.
+우리나라 셀프스토리지 1등은 전국에 74개 지점이 있는 ‘다락'이에요. 소비자만족지수는 6년 연속 1등이고, 2022년에는 올해의 브랜드파워 1위였다고. 뭐가 특히 좋냐면:
+
+
+내게 딱 맞는 서비스 📦: 1인가구를 위한 큐브 유닛부터 원룸 이삿짐도 보관할 수 있는 대형 유닛까지 원하는 만큼 보관 가능해요. 물건을 대신 옮겨주는 픽업 서비스, 안 쓰는 물건을 대신 처분·기부해주는 서비스도 있고요.
+
+
+믿고 맡기는 보관 퀄리티 📹: 실시간으로 온도·습도를 관리해서 물건을 소중하게 보관해요. 보안 업체를 통해 365일 24시간 철저하게 물건을 지키고요.&nbsp;
+
+
+써보면 얼마나 편한지 회원수는 약 4만 5000명, 재이용률은 91.5%에 달해요. 현재는 더 편한 서비스를 제공하기 위해 여러 기능들을 자동화하고 있는데요. 뉴니커도 내 집은 넓게 쓰고, 골프·캠핑 용품은 다락에 맡겨 보면 어때요?
+다락으로 와요]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[전국경제인연합회 부활과 논란 (뉴닉 ─ 경제)]]></title>
         <id>https://newneek.co/post/6L6ZUr</id>
         <link href="https://newneek.co/post/6L6ZUr"/>
@@ -597,13 +628,6 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
 
 박람회는 8월 21일 월요일부터 22일 화요일까지, 서울 코엑스 C홀과 컨퍼런스 룸에서 열리는데요(참가비 무료). 아래 홈페이지에서 사전 신청하면 인기 프로그램 마감되기 전에 내 자리 찜꽁할 수 있어요.
 홈페이지 보러가기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세사기 대책 진행 상황 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/oEEptt</id>
-        <link href="https://newneek.co/post/oEEptt"/>
-        <updated>2023-07-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전세사기 대책 진행 상황</h3><time class="card-date">2023/07/27</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인공지능 노동 시장 영향 (뉴닉 ─ 노동)]]></title>
@@ -827,6 +851,13 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230424_%EC%95%B1%ED%94%BC%EB%93%9C_A.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🍕실업급여, 어떻게 생각해?</h3><time class="card-date">2023/04/24</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 상황 (뉴닉 ─ 환경)]]></title>
+        <id>https://newneek.co/post/P3KMRV</id>
+        <link href="https://newneek.co/post/P3KMRV"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_3_TU5i4vm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류 상황</h3><time class="card-date">2023/08/28</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미국 하와이 산불 원인 (뉴닉 ─ 환경)]]></title>
         <id>https://newneek.co/post/AjN2w9</id>
         <link href="https://newneek.co/post/AjN2w9"/>
@@ -904,11 +935,37 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_VibvppK.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">동물 안식처 생추어리</h3><time class="card-date">2023/06/02</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바다의 날과 바다숲 지키기 (뉴닉 ─ 환경)]]></title>
-        <id>https://newneek.co/post/DzwGfw</id>
-        <link href="https://newneek.co/post/DzwGfw"/>
-        <updated>2023-05-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_5Xb0DBJ.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">바다의 날과 바다숲 지키기</h3><time class="card-date">2023/05/31</time><i class="card-category">환경</i></div></div>]]></content>
+        <title type="html"><![CDATA[(광고) 셀프스토리지 미니창고 다락 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/GODVAK</id>
+        <link href="https://newneek.co/post/GODVAK"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[* 이 콘텐츠는 다락으로부터 광고비를 받아 작성되었습니다.
+뉴니커, ‘셀프스토리지’ 들어봤나요? 개인 창고를 빌려 물건을 보관하는 서비스인데요. 공간을 빌려 쓴다는 뜻에서 ‘공간 아웃소싱’, ‘공간 구독경제’라고 부르기도 해요. 요즘 이게 1인가구 사이에서 인기라고. 캠핑·패션 등 각양각색 취미로 짐은 늘어나는데, 이걸 다 집에 두기에는 방세가 너무 비싸기 때문. 집을 한 평 늘리는 것보다 셀프스토리지가 훨씬 간편하고 저렴하다고.
+우리나라 셀프스토리지 1등은 전국에 74개 지점이 있는 ‘다락'이에요. 소비자만족지수는 6년 연속 1등이고, 2022년에는 올해의 브랜드파워 1위였다고. 뭐가 특히 좋냐면:
+
+
+내게 딱 맞는 서비스 📦: 1인가구를 위한 큐브 유닛부터 원룸 이삿짐도 보관할 수 있는 대형 유닛까지 원하는 만큼 보관 가능해요. 물건을 대신 옮겨주는 픽업 서비스, 안 쓰는 물건을 대신 처분·기부해주는 서비스도 있고요.
+
+
+믿고 맡기는 보관 퀄리티 📹: 실시간으로 온도·습도를 관리해서 물건을 소중하게 보관해요. 보안 업체를 통해 365일 24시간 철저하게 물건을 지키고요.&nbsp;
+
+
+써보면 얼마나 편한지 회원수는 약 4만 5000명, 재이용률은 91.5%에 달해요. 현재는 더 편한 서비스를 제공하기 위해 여러 기능들을 자동화하고 있는데요. 뉴니커도 내 집은 넓게 쓰고, 골프·캠핑 용품은 다락에 맡겨 보면 어때요?
+다락으로 와요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 상황 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/P3KMRV</id>
+        <link href="https://newneek.co/post/P3KMRV"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_3_TU5i4vm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류 상황</h3><time class="card-date">2023/08/28</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브릭스 정상회의 결과 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/yPMtRs</id>
+        <link href="https://newneek.co/post/yPMtRs"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_3_v44k4uj.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">브릭스 정상회의 결과</h3><time class="card-date">2023/08/28</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북한 2차 정찰위성 발사 실패 (뉴닉 ─ 여성)]]></title>
@@ -974,25 +1031,37 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_2_WZHneWx.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민연금 길을 잃었다, 어딜 가야 할까</h3><time class="card-date">2023/08/22</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘을지 자유의 방패’ 한미 연합연습 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/FwkoqY</id>
-        <link href="https://newneek.co/post/FwkoqY"/>
-        <updated>2023-08-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2_kxqDx5C.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘을지 자유의 방패’ 한미 연합연습</h3><time class="card-date">2023/08/22</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[(광고) 셀프스토리지 미니창고 다락 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/GODVAK</id>
+        <link href="https://newneek.co/post/GODVAK"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[* 이 콘텐츠는 다락으로부터 광고비를 받아 작성되었습니다.
+뉴니커, ‘셀프스토리지’ 들어봤나요? 개인 창고를 빌려 물건을 보관하는 서비스인데요. 공간을 빌려 쓴다는 뜻에서 ‘공간 아웃소싱’, ‘공간 구독경제’라고 부르기도 해요. 요즘 이게 1인가구 사이에서 인기라고. 캠핑·패션 등 각양각색 취미로 짐은 늘어나는데, 이걸 다 집에 두기에는 방세가 너무 비싸기 때문. 집을 한 평 늘리는 것보다 셀프스토리지가 훨씬 간편하고 저렴하다고.
+우리나라 셀프스토리지 1등은 전국에 74개 지점이 있는 ‘다락'이에요. 소비자만족지수는 6년 연속 1등이고, 2022년에는 올해의 브랜드파워 1위였다고. 뭐가 특히 좋냐면:
+
+
+내게 딱 맞는 서비스 📦: 1인가구를 위한 큐브 유닛부터 원룸 이삿짐도 보관할 수 있는 대형 유닛까지 원하는 만큼 보관 가능해요. 물건을 대신 옮겨주는 픽업 서비스, 안 쓰는 물건을 대신 처분·기부해주는 서비스도 있고요.
+
+
+믿고 맡기는 보관 퀄리티 📹: 실시간으로 온도·습도를 관리해서 물건을 소중하게 보관해요. 보안 업체를 통해 365일 24시간 철저하게 물건을 지키고요.&nbsp;
+
+
+써보면 얼마나 편한지 회원수는 약 4만 5000명, 재이용률은 91.5%에 달해요. 현재는 더 편한 서비스를 제공하기 위해 여러 기능들을 자동화하고 있는데요. 뉴니커도 내 집은 넓게 쓰고, 골프·캠핑 용품은 다락에 맡겨 보면 어때요?
+다락으로 와요]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 쉬워야지 편해야지 카톡easy 📱 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/JA5kuQ</id>
-        <link href="https://newneek.co/post/JA5kuQ"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_1_paqAjS2.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 쉬워야지 편해야지 카톡easy 📱</h3><time class="card-date">2023/08/21</time><i class="card-category">테크</i></div></div>]]></content>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 상황 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/P3KMRV</id>
+        <link href="https://newneek.co/post/P3KMRV"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_3_TU5i4vm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류 상황</h3><time class="card-date">2023/08/28</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아르헨티나 대선 여론과 경제 상황 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/mJ3vqv</id>
-        <link href="https://newneek.co/post/mJ3vqv"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1_lKoMtef.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아르헨티나 대선 여론과 경제 상황</h3><time class="card-date">2023/08/21</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[브릭스 정상회의 결과 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/yPMtRs</id>
+        <link href="https://newneek.co/post/yPMtRs"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_3_v44k4uj.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">브릭스 정상회의 결과</h3><time class="card-date">2023/08/28</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북한 2차 정찰위성 발사 실패 (뉴닉 ─ 코로나19)]]></title>
@@ -1058,25 +1127,37 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_2_WZHneWx.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민연금 길을 잃었다, 어딜 가야 할까</h3><time class="card-date">2023/08/22</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘을지 자유의 방패’ 한미 연합연습 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/FwkoqY</id>
-        <link href="https://newneek.co/post/FwkoqY"/>
-        <updated>2023-08-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2_kxqDx5C.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘을지 자유의 방패’ 한미 연합연습</h3><time class="card-date">2023/08/22</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[(광고) 셀프스토리지 미니창고 다락 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/GODVAK</id>
+        <link href="https://newneek.co/post/GODVAK"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[* 이 콘텐츠는 다락으로부터 광고비를 받아 작성되었습니다.
+뉴니커, ‘셀프스토리지’ 들어봤나요? 개인 창고를 빌려 물건을 보관하는 서비스인데요. 공간을 빌려 쓴다는 뜻에서 ‘공간 아웃소싱’, ‘공간 구독경제’라고 부르기도 해요. 요즘 이게 1인가구 사이에서 인기라고. 캠핑·패션 등 각양각색 취미로 짐은 늘어나는데, 이걸 다 집에 두기에는 방세가 너무 비싸기 때문. 집을 한 평 늘리는 것보다 셀프스토리지가 훨씬 간편하고 저렴하다고.
+우리나라 셀프스토리지 1등은 전국에 74개 지점이 있는 ‘다락'이에요. 소비자만족지수는 6년 연속 1등이고, 2022년에는 올해의 브랜드파워 1위였다고. 뭐가 특히 좋냐면:
+
+
+내게 딱 맞는 서비스 📦: 1인가구를 위한 큐브 유닛부터 원룸 이삿짐도 보관할 수 있는 대형 유닛까지 원하는 만큼 보관 가능해요. 물건을 대신 옮겨주는 픽업 서비스, 안 쓰는 물건을 대신 처분·기부해주는 서비스도 있고요.
+
+
+믿고 맡기는 보관 퀄리티 📹: 실시간으로 온도·습도를 관리해서 물건을 소중하게 보관해요. 보안 업체를 통해 365일 24시간 철저하게 물건을 지키고요.&nbsp;
+
+
+써보면 얼마나 편한지 회원수는 약 4만 5000명, 재이용률은 91.5%에 달해요. 현재는 더 편한 서비스를 제공하기 위해 여러 기능들을 자동화하고 있는데요. 뉴니커도 내 집은 넓게 쓰고, 골프·캠핑 용품은 다락에 맡겨 보면 어때요?
+다락으로 와요]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 쉬워야지 편해야지 카톡easy 📱 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/JA5kuQ</id>
-        <link href="https://newneek.co/post/JA5kuQ"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_1_paqAjS2.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 쉬워야지 편해야지 카톡easy 📱</h3><time class="card-date">2023/08/21</time><i class="card-category">테크</i></div></div>]]></content>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 상황 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/P3KMRV</id>
+        <link href="https://newneek.co/post/P3KMRV"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_3_TU5i4vm.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">후쿠시마 원전 오염수 방류 상황</h3><time class="card-date">2023/08/28</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아르헨티나 대선 여론과 경제 상황 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/mJ3vqv</id>
-        <link href="https://newneek.co/post/mJ3vqv"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1_lKoMtef.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아르헨티나 대선 여론과 경제 상황</h3><time class="card-date">2023/08/21</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[브릭스 정상회의 결과 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/yPMtRs</id>
+        <link href="https://newneek.co/post/yPMtRs"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_3_v44k4uj.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">브릭스 정상회의 결과</h3><time class="card-date">2023/08/28</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북한 2차 정찰위성 발사 실패 (뉴닉 ─ 피자스테이션)]]></title>
@@ -1140,26 +1221,5 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <link href="https://newneek.co/post/1dGa05"/>
         <updated>2023-08-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_2_WZHneWx.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민연금 길을 잃었다, 어딜 가야 할까</h3><time class="card-date">2023/08/22</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘을지 자유의 방패’ 한미 연합연습 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/FwkoqY</id>
-        <link href="https://newneek.co/post/FwkoqY"/>
-        <updated>2023-08-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2_kxqDx5C.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘을지 자유의 방패’ 한미 연합연습</h3><time class="card-date">2023/08/22</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 쉬워야지 편해야지 카톡easy 📱 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/JA5kuQ</id>
-        <link href="https://newneek.co/post/JA5kuQ"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_1_paqAjS2.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 쉬워야지 편해야지 카톡easy 📱</h3><time class="card-date">2023/08/21</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아르헨티나 대선 여론과 경제 상황 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/mJ3vqv</id>
-        <link href="https://newneek.co/post/mJ3vqv"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1_lKoMtef.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아르헨티나 대선 여론과 경제 상황</h3><time class="card-date">2023/08/21</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
