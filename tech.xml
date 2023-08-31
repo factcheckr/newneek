@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-08-31T07:03:35.441Z</updated>
+    <updated>2023-08-31T08:03:20.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_M49PxeJ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">인도 찬드라얀 3호 달 남극 착륙</h3><time class="card-date">2023/08/25</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 쉬워야지 편해야지 카톡easy 📱]]></title>
+        <title type="html"><![CDATA[(광고) 카카오톡 카톡이지 프로젝트]]></title>
         <id>https://newneek.co/post/JA5kuQ</id>
         <link href="https://newneek.co/post/JA5kuQ"/>
         <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_1_paqAjS2.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 쉬워야지 편해야지 카톡easy 📱</h3><time class="card-date">2023/08/21</time><i class="card-category">테크</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_1_paqAjS2.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 카카오톡 카톡이지 프로젝트</h3><time class="card-date">2023/08/21</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) AWS 무료 온라인 컨퍼런스 – AWS Innovate]]></title>
