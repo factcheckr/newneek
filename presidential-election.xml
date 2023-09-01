@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2023-08-31T23:03:46.142Z</updated>
+    <updated>2023-09-01T00:28:24.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -129,13 +129,13 @@
         <id>https://newneek.co/post/5Vx93m</id>
         <link href="https://newneek.co/post/5Vx93m"/>
         <updated>2023-08-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_4_GEBEnKN.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">스페인 축구 강제 추행 논란</h3><time class="card-date">2023/08/30</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_4_GEBEnKN.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">스페인 축구 강제 추행 논란</h3><time class="card-date">2023/08/30</time><i class="card-category">인권</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위워크 위기와 시장 영향]]></title>
         <id>https://newneek.co/post/8wt0SV</id>
         <link href="https://newneek.co/post/8wt0SV"/>
         <updated>2023-08-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_4_b73OaId.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">위워크 위기와 시장 영향</h3><time class="card-date">2023/08/30</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_4_b73OaId.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">위워크 위기와 시장 영향</h3><time class="card-date">2023/08/30</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
