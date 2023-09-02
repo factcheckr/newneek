@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/labor</id>
     <title>뉴닉 ─ 노동</title>
-    <updated>2023-09-01T23:03:04.389Z</updated>
+    <updated>2023-09-02T00:25:12.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://newneek.co/post/FTAvLu</id>
         <link href="https://newneek.co/post/FTAvLu"/>
         <updated>2023-08-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230831_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘팁 문화’ 피자가 도착했습니다!</h3><time class="card-date">2023/08/31</time><i class="card-category">노동</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230831_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘팁 문화’ 피자가 도착했습니다!</h3><time class="card-date">2023/08/31</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인공지능 노동 시장 영향]]></title>
