@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-09-02T23:03:00.793Z</updated>
+    <updated>2023-09-03T00:30:17.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://newneek.co/post/s62Yd6</id>
         <link href="https://newneek.co/post/s62Yd6"/>
         <updated>2023-09-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_6_1YdrcOs.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">시리아 반정부 시위</h3><time class="card-date">2023/09/01</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_6_1YdrcOs.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">시리아 반정부 시위</h3><time class="card-date">2023/09/01</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파나마운하 가뭄과 물류난]]></title>
