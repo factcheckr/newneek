@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-09-04T19:03:14.815Z</updated>
+    <updated>2023-09-04T20:03:38.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘공교육 멈춤의 날’ 집회]]></title>
+        <id>https://newneek.co/post/vwxAOp</id>
+        <link href="https://newneek.co/post/vwxAOp"/>
+        <updated>2023-09-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_8_abudJCg.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘공교육 멈춤의 날’ 집회</h3><time class="card-date">2023/09/05</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘홍범도 지우기’ 논란과 이유]]></title>
         <id>https://newneek.co/post/kUz88r</id>
@@ -91,12 +98,5 @@
 뉴웨이즈의 ‘드래프트 2024’는 내년 4월 10일 국회의원 선거에서 젊치인 30명을 당선시키는 프로젝트인데요 🗳️. 8월부터 유권자 1000명과 함께 우리에게 꼭 필요한 젊치인 선발 기준을 세우고, 이에 맞는 후보 선수를 발굴해요. 지금 드래프트 선발전에 입장하면 이 과정에 직접 참여하고, 한정 혜택도 받을 수 있다고: (1) 선착순 1000명 한정판 입장 티켓 받기. (2) 내년 선거 끝나고 명예의 전당에 내 이름 올리기.
 무엇보다 최고의 혜택은... 내년부터 ASAP 내 반쪽 아니 완전 COPY 💖인 젊치인을 국회에서 만나볼 수 있다는 것! 진짜 우리 얘기 하는 정치, 더 젊은 정치 보고 싶다면 지금 바로 드래프트에 입장하세요!
 선착순 1000명 한정 티켓 받기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해병대 병사 사망 수사 외압 의혹]]></title>
-        <id>https://newneek.co/post/9aXuoo</id>
-        <link href="https://newneek.co/post/9aXuoo"/>
-        <updated>2023-08-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해병대 병사 사망 수사 외압 의혹</h3><time class="card-date">2023/08/10</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
