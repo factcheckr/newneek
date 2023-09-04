@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2023-09-04T05:04:20.136Z</updated>
+    <updated>2023-09-04T06:10:12.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -80,7 +80,7 @@
         <id>https://newneek.co/post/oxGqqW</id>
         <link href="https://newneek.co/post/oxGqqW"/>
         <updated>2023-09-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/IMG_7289.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">IM N. 오브젝트 전시 보러 오세요!</h3><time class="card-date">2023/09/01</time><i class="card-category"></i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/imnpopup_appbanner.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">IM N. 오브젝트 전시 보러 오세요!</h3><time class="card-date">2023/09/01</time><i class="card-category"></i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시리아 반정부 시위]]></title>
