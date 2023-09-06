@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-09-06T19:03:14.371Z</updated>
+    <updated>2023-09-06T20:03:21.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[북중러 밀착과 신냉전]]></title>
+        <id>https://newneek.co/post/vKpjeo</id>
+        <link href="https://newneek.co/post/vKpjeo"/>
+        <updated>2023-09-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북중러 밀착과 신냉전</h3><time class="card-date">2023/09/07</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나 ‘대반격 작전’ 상황]]></title>
         <id>https://newneek.co/post/0hRcvV</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/18650W"/>
         <updated>2023-08-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_aHxTvoI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 경제 연착륙 전망</h3><time class="card-date">2023/08/11</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채권 개념과 미국 국채 금리]]></title>
-        <id>https://newneek.co/post/vNCI0g</id>
-        <link href="https://newneek.co/post/vNCI0g"/>
-        <updated>2023-08-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_6_31dczmX.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">채권 개념과 미국 국채 금리</h3><time class="card-date">2023/08/09</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
