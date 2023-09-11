@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-11T19:03:17.235Z</updated>
+    <updated>2023-09-11T20:03:28.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023 G20 정상회의 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/1UfcL9</id>
+        <link href="https://newneek.co/post/1UfcL9"/>
+        <updated>2023-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_asFi6Ox.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2023 G20 정상회의</h3><time class="card-date">2023/09/12</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모로코를 뒤흔든 대지진 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/Jg0lie</id>
+        <link href="https://newneek.co/post/Jg0lie"/>
+        <updated>2023-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_pmXC8UO.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">모로코를 뒤흔든 대지진</h3><time class="card-date">2023/09/12</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 신형 반도체 개발과 국제 전망 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/1sVPfv</id>
@@ -100,20 +114,6 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북중러 밀착과 신냉전</h3><time class="card-date">2023/09/07</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이균용 대법원장 후보자를 소개합니다 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/Tc1ZRC</id>
-        <link href="https://newneek.co/post/Tc1ZRC"/>
-        <updated>2023-09-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_NaCvxkW.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이균용 대법원장 후보자를 소개합니다</h3><time class="card-date">2023/09/06</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤미향 의원 조총련 행사 참석 논란 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/j3TeWH</id>
-        <link href="https://newneek.co/post/j3TeWH"/>
-        <updated>2023-09-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_VYXlRWu.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">윤미향 의원 조총련 행사 참석 논란</h3><time class="card-date">2023/09/06</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[김만배 허위 인터뷰 의혹과 파장 (뉴닉 ─ 정치)]]></title>
         <id>https://newneek.co/post/kiIlpt</id>
         <link href="https://newneek.co/post/kiIlpt"/>
@@ -198,6 +198,20 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_bmPDIgD.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">백현동 개발사업 의혹 총정리</h3><time class="card-date">2023/08/18</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2023 G20 정상회의 (뉴닉 ─ 세계)]]></title>
+        <id>https://newneek.co/post/1UfcL9</id>
+        <link href="https://newneek.co/post/1UfcL9"/>
+        <updated>2023-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_asFi6Ox.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2023 G20 정상회의</h3><time class="card-date">2023/09/12</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모로코를 뒤흔든 대지진 (뉴닉 ─ 세계)]]></title>
+        <id>https://newneek.co/post/Jg0lie</id>
+        <link href="https://newneek.co/post/Jg0lie"/>
+        <updated>2023-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_pmXC8UO.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">모로코를 뒤흔든 대지진</h3><time class="card-date">2023/09/12</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[중국 신형 반도체 개발과 국제 전망 (뉴닉 ─ 세계)]]></title>
         <id>https://newneek.co/post/1sVPfv</id>
         <link href="https://newneek.co/post/1sVPfv"/>
@@ -266,20 +280,6 @@
         <link href="https://newneek.co/post/mJ3vqv"/>
         <updated>2023-08-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1_lKoMtef.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아르헨티나 대선 여론과 경제 상황</h3><time class="card-date">2023/08/21</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 부동산 불황과 영향 (뉴닉 ─ 세계)]]></title>
-        <id>https://newneek.co/post/BIel8z</id>
-        <link href="https://newneek.co/post/BIel8z"/>
-        <updated>2023-08-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_1_DOytdM2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">중국 부동산 불황과 영향</h3><time class="card-date">2023/08/17</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국, 중국 첨단 기술 투자 제한 (뉴닉 ─ 세계)]]></title>
-        <id>https://newneek.co/post/2GteDV</id>
-        <link href="https://newneek.co/post/2GteDV"/>
-        <updated>2023-08-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_JaTweQZ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국, 중국 첨단 기술 투자 제한</h3><time class="card-date">2023/08/14</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 이길 싸움만 하는 삼성전자 오디세이 Neo G9 (뉴닉 ─ 테크)]]></title>
@@ -952,6 +952,20 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_VibvppK.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">동물 안식처 생추어리</h3><time class="card-date">2023/06/02</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2023 G20 정상회의 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/1UfcL9</id>
+        <link href="https://newneek.co/post/1UfcL9"/>
+        <updated>2023-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_asFi6Ox.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2023 G20 정상회의</h3><time class="card-date">2023/09/12</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모로코를 뒤흔든 대지진 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/Jg0lie</id>
+        <link href="https://newneek.co/post/Jg0lie"/>
+        <updated>2023-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_pmXC8UO.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">모로코를 뒤흔든 대지진</h3><time class="card-date">2023/09/12</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[중국 신형 반도체 개발과 국제 전망 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/1sVPfv</id>
         <link href="https://newneek.co/post/1sVPfv"/>
@@ -1047,18 +1061,18 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북중러 밀착과 신냉전</h3><time class="card-date">2023/09/07</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이균용 대법원장 후보자를 소개합니다 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/Tc1ZRC</id>
-        <link href="https://newneek.co/post/Tc1ZRC"/>
-        <updated>2023-09-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_NaCvxkW.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이균용 대법원장 후보자를 소개합니다</h3><time class="card-date">2023/09/06</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[2023 G20 정상회의 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/1UfcL9</id>
+        <link href="https://newneek.co/post/1UfcL9"/>
+        <updated>2023-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_asFi6Ox.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2023 G20 정상회의</h3><time class="card-date">2023/09/12</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤미향 의원 조총련 행사 참석 논란 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/j3TeWH</id>
-        <link href="https://newneek.co/post/j3TeWH"/>
-        <updated>2023-09-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_VYXlRWu.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">윤미향 의원 조총련 행사 참석 논란</h3><time class="card-date">2023/09/06</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[모로코를 뒤흔든 대지진 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/Jg0lie</id>
+        <link href="https://newneek.co/post/Jg0lie"/>
+        <updated>2023-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_pmXC8UO.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">모로코를 뒤흔든 대지진</h3><time class="card-date">2023/09/12</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국 신형 반도체 개발과 국제 전망 (뉴닉 ─ 코로나19)]]></title>
@@ -1156,18 +1170,18 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북중러 밀착과 신냉전</h3><time class="card-date">2023/09/07</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이균용 대법원장 후보자를 소개합니다 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/Tc1ZRC</id>
-        <link href="https://newneek.co/post/Tc1ZRC"/>
-        <updated>2023-09-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_NaCvxkW.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이균용 대법원장 후보자를 소개합니다</h3><time class="card-date">2023/09/06</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[2023 G20 정상회의 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/1UfcL9</id>
+        <link href="https://newneek.co/post/1UfcL9"/>
+        <updated>2023-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_asFi6Ox.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2023 G20 정상회의</h3><time class="card-date">2023/09/12</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤미향 의원 조총련 행사 참석 논란 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/j3TeWH</id>
-        <link href="https://newneek.co/post/j3TeWH"/>
-        <updated>2023-09-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_VYXlRWu.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">윤미향 의원 조총련 행사 참석 논란</h3><time class="card-date">2023/09/06</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[모로코를 뒤흔든 대지진 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/Jg0lie</id>
+        <link href="https://newneek.co/post/Jg0lie"/>
+        <updated>2023-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_pmXC8UO.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">모로코를 뒤흔든 대지진</h3><time class="card-date">2023/09/12</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국 신형 반도체 개발과 국제 전망 (뉴닉 ─ 피자스테이션)]]></title>
@@ -1263,19 +1277,5 @@ TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 
         <link href="https://newneek.co/post/vKpjeo"/>
         <updated>2023-09-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북중러 밀착과 신냉전</h3><time class="card-date">2023/09/07</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이균용 대법원장 후보자를 소개합니다 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/Tc1ZRC</id>
-        <link href="https://newneek.co/post/Tc1ZRC"/>
-        <updated>2023-09-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_NaCvxkW.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이균용 대법원장 후보자를 소개합니다</h3><time class="card-date">2023/09/06</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤미향 의원 조총련 행사 참석 논란 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/j3TeWH</id>
-        <link href="https://newneek.co/post/j3TeWH"/>
-        <updated>2023-09-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_VYXlRWu.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">윤미향 의원 조총련 행사 참석 논란</h3><time class="card-date">2023/09/06</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
