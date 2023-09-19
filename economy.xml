@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-09-19T19:03:14.828Z</updated>
+    <updated>2023-09-19T20:03:19.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) 케이뱅크 생활통장]]></title>
+        <id>https://newneek.co/post/uemUW5</id>
+        <link href="https://newneek.co/post/uemUW5"/>
+        <updated>2023-09-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_6.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 케이뱅크 생활통장</h3><time class="card-date">2023/09/20</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하반기 경기 침체 우려]]></title>
+        <id>https://newneek.co/post/lRgynJ</id>
+        <link href="https://newneek.co/post/lRgynJ"/>
+        <updated>2023-09-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_15_POTSE9Y.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">하반기 경기 침체 우려</h3><time class="card-date">2023/09/20</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인터넷은행 건전성 악화]]></title>
         <id>https://newneek.co/post/Awxkm1</id>
@@ -86,19 +100,5 @@
         <link href="https://newneek.co/post/6L6ZUr"/>
         <updated>2023-08-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_2_ZN7LGF1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전국경제인연합회 부활과 논란</h3><time class="card-date">2023/08/24</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초장기 주택담보대출 규제 논란]]></title>
-        <id>https://newneek.co/post/Fm8GfH</id>
-        <link href="https://newneek.co/post/Fm8GfH"/>
-        <updated>2023-08-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_ZWlQXy3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">초장기 주택담보대출 규제 논란</h3><time class="card-date">2023/08/23</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민연금 길을 잃었다, 어딜 가야 할까]]></title>
-        <id>https://newneek.co/post/1dGa05</id>
-        <link href="https://newneek.co/post/1dGa05"/>
-        <updated>2023-08-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_2_WZHneWx.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민연금 길을 잃었다, 어딜 가야 할까</h3><time class="card-date">2023/08/22</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>

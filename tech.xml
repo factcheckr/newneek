@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-09-19T19:03:14.836Z</updated>
+    <updated>2023-09-19T20:03:19.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[SK브로드밴드 넷플릭스 망 사용료 합의]]></title>
+        <id>https://newneek.co/post/wH875Y</id>
+        <link href="https://newneek.co/post/wH875Y"/>
+        <updated>2023-09-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_15_RLDuLDi.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">SK브로드밴드 넷플릭스 망 사용료 합의</h3><time class="card-date">2023/09/20</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 이길 싸움만 하는 삼성전자 오디세이 Neo G9]]></title>
         <id>https://newneek.co/post/LkUT8B</id>
@@ -266,12 +273,5 @@ AI 활용 창작물이 널리 쓰이면 사람이 고르거나 만든 작품에 
 
 
 TV 수신료 분리징수 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 가기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타 ‘스레드’ 돌풍]]></title>
-        <id>https://newneek.co/post/ZwoJDa</id>
-        <link href="https://newneek.co/post/ZwoJDa"/>
-        <updated>2023-07-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_XSmUEUz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">메타 ‘스레드’ 돌풍</h3><time class="card-date">2023/07/10</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
