@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-09-20T19:03:12.098Z</updated>
+    <updated>2023-09-20T20:03:31.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[고금리 예금과 금융권 영향]]></title>
+        <id>https://newneek.co/post/h0NWDW</id>
+        <link href="https://newneek.co/post/h0NWDW"/>
+        <updated>2023-09-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_ysSSdDY.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">고금리 예금과 금융권 영향</h3><time class="card-date">2023/09/21</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 케이뱅크 생활통장]]></title>
         <id>https://newneek.co/post/uemUW5</id>
@@ -93,12 +100,5 @@
 
 써보면 얼마나 편한지 회원수는 약 4만 5000명, 재이용률은 91.5%에 달해요. 현재는 더 편한 서비스를 제공하기 위해 여러 기능들을 자동화하고 있는데요. 뉴니커도 내 집은 넓게 쓰고, 골프·캠핑 용품은 다락에 맡겨 보면 어때요?
 다락으로 와요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국경제인연합회 부활과 논란]]></title>
-        <id>https://newneek.co/post/6L6ZUr</id>
-        <link href="https://newneek.co/post/6L6ZUr"/>
-        <updated>2023-08-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_2_ZN7LGF1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전국경제인연합회 부활과 논란</h3><time class="card-date">2023/08/24</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>

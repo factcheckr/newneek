@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-09-20T19:03:12.096Z</updated>
+    <updated>2023-09-20T20:03:31.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🔔띵동! ‘대통령 배우자 정치 참여’ 피자가 도착했습니다!]]></title>
+        <id>https://newneek.co/post/JYp88X</id>
+        <link href="https://newneek.co/post/JYp88X"/>
+        <updated>2023-09-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230921_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘대통령 배우자 정치 참여’ 피자가 도착했습니다!</h3><time class="card-date">2023/09/21</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부 인사 논란]]></title>
+        <id>https://newneek.co/post/Xl13G5</id>
+        <link href="https://newneek.co/post/Xl13G5"/>
+        <updated>2023-09-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_gzmkXBd.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">윤석열 정부 인사 논란</h3><time class="card-date">2023/09/21</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 단식과 정치 국면]]></title>
         <id>https://newneek.co/post/a1piB6</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/k4zJkO"/>
         <updated>2023-08-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_4.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">독립운동가 흉상을 옮긴다?</h3><time class="card-date">2023/08/29</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한 2차 정찰위성 발사 실패]]></title>
-        <id>https://newneek.co/post/4OfQt4</id>
-        <link href="https://newneek.co/post/4OfQt4"/>
-        <updated>2023-08-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3_JvscK3L.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한 2차 정찰위성 발사 실패</h3><time class="card-date">2023/08/25</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔔띵동! '정치 현수막' 피자가 도착했습니다!]]></title>
-        <id>https://newneek.co/post/TJwDLA</id>
-        <link href="https://newneek.co/post/TJwDLA"/>
-        <updated>2023-08-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230821_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! '정치 현수막' 피자가 도착했습니다!</h3><time class="card-date">2023/08/24</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
