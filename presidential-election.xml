@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2023-10-04T19:03:03.857Z</updated>
+    <updated>2023-10-04T20:03:16.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[성장하는 베트남 시장과 유통 업계]]></title>
+        <id>https://newneek.co/post/1iYYi5</id>
+        <link href="https://newneek.co/post/1iYYi5"/>
+        <updated>2023-10-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_eI8tDRd.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">성장하는 베트남 시장과 유통 업계</h3><time class="card-date">2023/10/05</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강서구 재보궐선거: “잘 봐, 민심 확인 싸움이다”]]></title>
+        <id>https://newneek.co/post/WK45mg</id>
+        <link href="https://newneek.co/post/WK45mg"/>
+        <updated>2023-10-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_jY11Zxv.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">강서구 재보궐선거: “잘 봐, 민심 확인 싸움이다”</h3><time class="card-date">2023/10/05</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아제르바이잔-아르메니아 갈등과 전망]]></title>
         <id>https://newneek.co/post/OBzv9E</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/WgJKMh"/>
         <updated>2023-09-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_8_BcxtTWt.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 삼양식품그룹의 새 이름, 삼양라운드스퀘어</h3><time class="card-date">2023/09/25</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경찰 ‘집회·시위 문화 개선 방안’ 발표]]></title>
-        <id>https://newneek.co/post/iw16K3</id>
-        <link href="https://newneek.co/post/iw16K3"/>
-        <updated>2023-09-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_17.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">경찰 ‘집회·시위 문화 개선 방안’ 발표</h3><time class="card-date">2023/09/25</time><i class="card-category">노동</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 체포동의안 가결과 정치권 전망]]></title>
-        <id>https://newneek.co/post/rSMBEs</id>
-        <link href="https://newneek.co/post/rSMBEs"/>
-        <updated>2023-09-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_17.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이재명 체포동의안 가결과 정치권 전망</h3><time class="card-date">2023/09/25</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
