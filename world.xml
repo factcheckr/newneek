@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-10-05T19:03:18.979Z</updated>
+    <updated>2023-10-05T20:03:23.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 셧다운 위기, 하원의장 해임]]></title>
+        <id>https://newneek.co/post/TSN0g6</id>
+        <link href="https://newneek.co/post/TSN0g6"/>
+        <updated>2023-10-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_18.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 셧다운 위기, 하원의장 해임</h3><time class="card-date">2023/10/06</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아제르바이잔-아르메니아 갈등과 전망]]></title>
         <id>https://newneek.co/post/OBzv9E</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/0hRcvV"/>
         <updated>2023-09-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_8_5g8tRfC.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">우크라이나 ‘대반격 작전’ 상황</h3><time class="card-date">2023/09/05</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가봉 쿠데타와 쿠데타 벨트]]></title>
-        <id>https://newneek.co/post/jpQJV3</id>
-        <link href="https://newneek.co/post/jpQJV3"/>
-        <updated>2023-09-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7_WuPugbO.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">가봉 쿠데타와 쿠데타 벨트</h3><time class="card-date">2023/09/04</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
