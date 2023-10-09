@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2023-10-09T19:03:55.877Z</updated>
+    <updated>2023-10-09T20:03:14.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전쟁 상황: 이스라엘 vs. 팔레스타인]]></title>
+        <id>https://newneek.co/post/Fr5cNm</id>
+        <link href="https://newneek.co/post/Fr5cNm"/>
+        <updated>2023-10-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_NCCak3d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전쟁 상황: 이스라엘 vs. 팔레스타인</h3><time class="card-date">2023/10/10</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부 인사청문회 결과]]></title>
+        <id>https://newneek.co/post/qMD7AN</id>
+        <link href="https://newneek.co/post/qMD7AN"/>
+        <updated>2023-10-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ekEotRz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">윤석열 정부 인사청문회 결과</h3><time class="card-date">2023/10/10</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 토스 머니스토리 공모전 DRAFT]]></title>
         <id>https://newneek.co/post/PgEiq0</id>
@@ -80,19 +94,5 @@
         <link href="https://newneek.co/post/OhdcSy"/>
         <updated>2023-09-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ILAPEfk.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">가짜뉴스 근절 대책과 논란</h3><time class="card-date">2023/09/27</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 뉴닉 오렌지 챌린지 X 한경BP]]></title>
-        <id>https://newneek.co/post/STLwIJ</id>
-        <link href="https://newneek.co/post/STLwIJ"/>
-        <updated>2023-09-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%80%E1%85%AA%E1%86%BC%E1%84%80%E1%85%A9%E1%84%89%E1%85%A9%E1%84%8C%E1%85%A2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 뉴닉 오렌지 챌린지 X 한경BP</h3><time class="card-date">2023/09/27</time><i class="card-category">문화</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꽁꽁 얼어붙은 인도와 캐나다 사이 🧊]]></title>
-        <id>https://newneek.co/post/5LQ4CL</id>
-        <link href="https://newneek.co/post/5LQ4CL"/>
-        <updated>2023-09-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_BMOtsG3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">꽁꽁 얼어붙은 인도와 캐나다 사이 🧊</h3><time class="card-date">2023/09/26</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
