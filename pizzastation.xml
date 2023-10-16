@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2023-10-16T19:03:18.985Z</updated>
+    <updated>2023-10-16T20:03:32.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[의대 정원 확대 논란]]></title>
+        <id>https://newneek.co/post/ItXwYa</id>
+        <link href="https://newneek.co/post/ItXwYa"/>
+        <updated>2023-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_21.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">의대 정원 확대 논란</h3><time class="card-date">2023/10/17</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이스라엘 팔레스타인 하마스 전쟁 (4): 확전 가능성과 미국]]></title>
+        <id>https://newneek.co/post/brZ65T</id>
+        <link href="https://newneek.co/post/brZ65T"/>
+        <updated>2023-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_21.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘 팔레스타인 하마스 전쟁 (4): 확전 가능성과 미국</h3><time class="card-date">2023/10/17</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿠팡 하청 택배 기사 사망과 책임 논란]]></title>
         <id>https://newneek.co/post/JXkyeb</id>
@@ -90,19 +104,5 @@
         <link href="https://newneek.co/post/UAz1xp"/>
         <updated>2023-10-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_19.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한국은행 CBDC 테스트 계획</h3><time class="card-date">2023/10/11</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘-팔레스타인 하마스 전쟁 (2): 경제·국제정치 영향]]></title>
-        <id>https://newneek.co/post/kNuLnS</id>
-        <link href="https://newneek.co/post/kNuLnS"/>
-        <updated>2023-10-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_19.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 하마스 전쟁 (2): 경제·국제정치 영향</h3><time class="card-date">2023/10/11</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘-팔레스타인 하마스 전쟁 (1): 전쟁 발발]]></title>
-        <id>https://newneek.co/post/Fr5cNm</id>
-        <link href="https://newneek.co/post/Fr5cNm"/>
-        <updated>2023-10-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_NCCak3d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 하마스 전쟁 (1): 전쟁 발발</h3><time class="card-date">2023/10/10</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
