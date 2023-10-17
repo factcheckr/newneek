@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-10-17T19:03:24.180Z</updated>
+    <updated>2023-10-17T20:03:20.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이스라엘 팔레스타인 하마스 전쟁 (5): 세계 경제편]]></title>
+        <id>https://newneek.co/post/Vu5KSs</id>
+        <link href="https://newneek.co/post/Vu5KSs"/>
+        <updated>2023-10-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_nTn6MGB.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘 팔레스타인 하마스 전쟁 (5): 세계 경제편</h3><time class="card-date">2023/10/18</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국은행 CBDC 테스트 계획]]></title>
         <id>https://newneek.co/post/UAz1xp</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/nUAw40"/>
         <updated>2023-09-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">삼성전자 주가와 차세대 메모리</h3><time class="card-date">2023/09/07</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔔띵동! ‘카페 이용 제한’ 피자가 도착했습니다!]]></title>
-        <id>https://newneek.co/post/jhmv9z</id>
-        <link href="https://newneek.co/post/jhmv9z"/>
-        <updated>2023-09-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230907_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘카페 이용 제한’ 피자가 도착했습니다!</h3><time class="card-date">2023/09/07</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
