@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-10-19T19:03:08.466Z</updated>
+    <updated>2023-10-19T20:03:09.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 자동차 대기업 중고차 시장 진입]]></title>
+        <id>https://newneek.co/post/6swR7D</id>
+        <link href="https://newneek.co/post/6swR7D"/>
+        <updated>2023-10-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-11.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국내 자동차 대기업 중고차 시장 진입</h3><time class="card-date">2023/10/20</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘 팔레스타인 하마스 전쟁 (5): 세계 경제편]]></title>
         <id>https://newneek.co/post/Vu5KSs</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/I2Hh2D"/>
         <updated>2023-09-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘포스트 차이나’와 인도의 부상</h3><time class="card-date">2023/09/13</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자 주가와 차세대 메모리]]></title>
-        <id>https://newneek.co/post/nUAw40</id>
-        <link href="https://newneek.co/post/nUAw40"/>
-        <updated>2023-09-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">삼성전자 주가와 차세대 메모리</h3><time class="card-date">2023/09/07</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
