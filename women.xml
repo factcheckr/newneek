@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2023-10-22T19:03:11.537Z</updated>
+    <updated>2023-10-22T20:03:11.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[헌법재판소장 이종석 후보자 지명]]></title>
+        <id>https://newneek.co/post/FJVw9M</id>
+        <link href="https://newneek.co/post/FJVw9M"/>
+        <updated>2023-10-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_gCdQjYu.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">헌법재판소장 이종석 후보자 지명</h3><time class="card-date">2023/10/23</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오→SM 주가조작 의혹]]></title>
+        <id>https://newneek.co/post/Ol6ubO</id>
+        <link href="https://newneek.co/post/Ol6ubO"/>
+        <updated>2023-10-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_6Vd82BU.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">카카오→SM 주가조작 의혹</h3><time class="card-date">2023/10/23</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 자동차 대기업 중고차 시장 진입]]></title>
         <id>https://newneek.co/post/6swR7D</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/JXkyeb"/>
         <updated>2023-10-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_mOVHDcA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">쿠팡 하청 택배 기사 사망과 책임 논란</h3><time class="card-date">2023/10/16</time><i class="card-category">노동</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시각장애인의 날과 영상 콘텐츠 접근성]]></title>
-        <id>https://newneek.co/post/oCneM7</id>
-        <link href="https://newneek.co/post/oCneM7"/>
-        <updated>2023-10-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_20.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">시각장애인의 날과 영상 콘텐츠 접근성</h3><time class="card-date">2023/10/16</time><i class="card-category">인권</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비만 치료제 위고비 유행과 부작용]]></title>
-        <id>https://newneek.co/post/UwQchA</id>
-        <link href="https://newneek.co/post/UwQchA"/>
-        <updated>2023-10-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_8DK1uFS.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">비만 치료제 위고비 유행과 부작용</h3><time class="card-date">2023/10/13</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
