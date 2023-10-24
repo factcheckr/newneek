@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-24T19:03:37.584Z</updated>
+    <updated>2023-10-24T20:03:26.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[고금리 장기화 원인과 영향 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/heP5QM</id>
+        <link href="https://newneek.co/post/heP5QM"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_FavznHi.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">고금리 장기화 원인과 영향</h3><time class="card-date">2023/10/25</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/j0ChgB</id>
+        <link href="https://newneek.co/post/j0ChgB"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ZxBOiM6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸</h3><time class="card-date">2023/10/25</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국회에 민생 바람이 솔솔~ 총선카솔 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/m43Vna</id>
@@ -75,18 +89,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_n3LEe30.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민의힘: 길을 잃었다, 어딜 가야 할까</h3><time class="card-date">2023/10/18</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이스라엘 팔레스타인 하마스 전쟁 (5): 세계 경제편 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/Vu5KSs</id>
-        <link href="https://newneek.co/post/Vu5KSs"/>
-        <updated>2023-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_nTn6MGB.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘 팔레스타인 하마스 전쟁 (5): 세계 경제편</h3><time class="card-date">2023/10/18</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의대 정원 확대 논란 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/ItXwYa</id>
-        <link href="https://newneek.co/post/ItXwYa"/>
-        <updated>2023-10-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_21.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">의대 정원 확대 논란</h3><time class="card-date">2023/10/17</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸 (뉴닉 ─ 정치)]]></title>
+        <id>https://newneek.co/post/j0ChgB</id>
+        <link href="https://newneek.co/post/j0ChgB"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ZxBOiM6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸</h3><time class="card-date">2023/10/25</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국회에 민생 바람이 솔솔~ 총선카솔 (뉴닉 ─ 정치)]]></title>
@@ -164,13 +171,6 @@
         <link href="https://newneek.co/post/okeKHf"/>
         <updated>2023-09-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_13_zC9PRmL.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">감사원 ‘통계 조작 의혹’ 중간 발표</h3><time class="card-date">2023/09/18</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS·MBC 이사장 해임 효력정지 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/sP8le5</id>
-        <link href="https://newneek.co/post/sP8le5"/>
-        <updated>2023-09-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-4.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">KBS·MBC 이사장 해임 효력정지</h3><time class="card-date">2023/09/13</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘e스포츠 올림픽 종목 채택’ 피자가 도착했습니다! (뉴닉 ─ 세계)]]></title>
@@ -366,6 +366,20 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_9.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) SK엔무브와 고슴이의 에너제틱 (2)</h3><time class="card-date">2023/07/25</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸 (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/j0ChgB</id>
+        <link href="https://newneek.co/post/j0ChgB"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ZxBOiM6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸</h3><time class="card-date">2023/10/25</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고금리 장기화 원인과 영향 (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/heP5QM</id>
+        <link href="https://newneek.co/post/heP5QM"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_FavznHi.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">고금리 장기화 원인과 영향</h3><time class="card-date">2023/10/25</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[카카오→SM 주가조작 의혹 (뉴닉 ─ 경제)]]></title>
         <id>https://newneek.co/post/Ol6ubO</id>
         <link href="https://newneek.co/post/Ol6ubO"/>
@@ -434,20 +448,6 @@
         <link href="https://newneek.co/post/lRgynJ"/>
         <updated>2023-09-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_15_POTSE9Y.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">하반기 경기 침체 우려</h3><time class="card-date">2023/09/20</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인터넷은행 건전성 악화 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/Awxkm1</id>
-        <link href="https://newneek.co/post/Awxkm1"/>
-        <updated>2023-09-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_14_seTp5ZG.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">인터넷은행 건전성 악화</h3><time class="card-date">2023/09/19</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU 디지털시장법 발표 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/YMPl6M</id>
-        <link href="https://newneek.co/post/YMPl6M"/>
-        <updated>2023-09-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_12_zzJpvsM.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">EU 디지털시장법 발표</h3><time class="card-date">2023/09/14</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쿠팡 하청 택배 기사 사망과 책임 논란 (뉴닉 ─ 노동)]]></title>
@@ -758,6 +758,20 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_11.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">우크라이나 댐 파괴와 식량 위기</h3><time class="card-date">2023/06/12</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[고금리 장기화 원인과 영향 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/heP5QM</id>
+        <link href="https://newneek.co/post/heP5QM"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_FavznHi.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">고금리 장기화 원인과 영향</h3><time class="card-date">2023/10/25</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/j0ChgB</id>
+        <link href="https://newneek.co/post/j0ChgB"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ZxBOiM6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸</h3><time class="card-date">2023/10/25</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[국회에 민생 바람이 솔솔~ 총선카솔 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/m43Vna</id>
         <link href="https://newneek.co/post/m43Vna"/>
@@ -828,18 +842,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_n3LEe30.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민의힘: 길을 잃었다, 어딜 가야 할까</h3><time class="card-date">2023/10/18</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이스라엘 팔레스타인 하마스 전쟁 (5): 세계 경제편 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/Vu5KSs</id>
-        <link href="https://newneek.co/post/Vu5KSs"/>
-        <updated>2023-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_nTn6MGB.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘 팔레스타인 하마스 전쟁 (5): 세계 경제편</h3><time class="card-date">2023/10/18</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[고금리 장기화 원인과 영향 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/heP5QM</id>
+        <link href="https://newneek.co/post/heP5QM"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_FavznHi.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">고금리 장기화 원인과 영향</h3><time class="card-date">2023/10/25</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[의대 정원 확대 논란 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/ItXwYa</id>
-        <link href="https://newneek.co/post/ItXwYa"/>
-        <updated>2023-10-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_21.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">의대 정원 확대 논란</h3><time class="card-date">2023/10/17</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/j0ChgB</id>
+        <link href="https://newneek.co/post/j0ChgB"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ZxBOiM6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸</h3><time class="card-date">2023/10/25</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국회에 민생 바람이 솔솔~ 총선카솔 (뉴닉 ─ 코로나19)]]></title>
@@ -912,18 +926,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_n3LEe30.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민의힘: 길을 잃었다, 어딜 가야 할까</h3><time class="card-date">2023/10/18</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이스라엘 팔레스타인 하마스 전쟁 (5): 세계 경제편 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/Vu5KSs</id>
-        <link href="https://newneek.co/post/Vu5KSs"/>
-        <updated>2023-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_nTn6MGB.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘 팔레스타인 하마스 전쟁 (5): 세계 경제편</h3><time class="card-date">2023/10/18</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[고금리 장기화 원인과 영향 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/heP5QM</id>
+        <link href="https://newneek.co/post/heP5QM"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_FavznHi.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">고금리 장기화 원인과 영향</h3><time class="card-date">2023/10/25</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[의대 정원 확대 논란 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/ItXwYa</id>
-        <link href="https://newneek.co/post/ItXwYa"/>
-        <updated>2023-10-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_21.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">의대 정원 확대 논란</h3><time class="card-date">2023/10/17</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/j0ChgB</id>
+        <link href="https://newneek.co/post/j0ChgB"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ZxBOiM6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸</h3><time class="card-date">2023/10/25</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국회에 민생 바람이 솔솔~ 총선카솔 (뉴닉 ─ 피자스테이션)]]></title>
@@ -994,19 +1008,5 @@
         <link href="https://newneek.co/post/At7Uwe"/>
         <updated>2023-10-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_n3LEe30.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민의힘: 길을 잃었다, 어딜 가야 할까</h3><time class="card-date">2023/10/18</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘 팔레스타인 하마스 전쟁 (5): 세계 경제편 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/Vu5KSs</id>
-        <link href="https://newneek.co/post/Vu5KSs"/>
-        <updated>2023-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_nTn6MGB.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘 팔레스타인 하마스 전쟁 (5): 세계 경제편</h3><time class="card-date">2023/10/18</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의대 정원 확대 논란 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/ItXwYa</id>
-        <link href="https://newneek.co/post/ItXwYa"/>
-        <updated>2023-10-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_21.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">의대 정원 확대 논란</h3><time class="card-date">2023/10/17</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
