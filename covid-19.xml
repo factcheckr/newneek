@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2023-10-26T19:03:27.183Z</updated>
+    <updated>2023-10-26T20:03:12.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10·29 이태원 참사와 사회적 애도]]></title>
+        <id>https://newneek.co/post/RiOAho</id>
+        <link href="https://newneek.co/post/RiOAho"/>
+        <updated>2023-10-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_0QEdGjG.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">10·29 이태원 참사와 사회적 애도</h3><time class="card-date">2023/10/27</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘다시 놀고 싶다, 이태원’ 인터뷰]]></title>
+        <id>https://newneek.co/post/jurJSb</id>
+        <link href="https://newneek.co/post/jurJSb"/>
+        <updated>2023-10-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5_1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘다시 놀고 싶다, 이태원’ 인터뷰</h3><time class="card-date">2023/10/27</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“빈대가 돌아왔다!” 예방 및 대처법]]></title>
+        <id>https://newneek.co/post/qsSrQs</id>
+        <link href="https://newneek.co/post/qsSrQs"/>
+        <updated>2023-10-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_zy2wO3k.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">“빈대가 돌아왔다!” 예방 및 대처법</h3><time class="card-date">2023/10/27</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘바디프로필’ 피자가 도착했습니다!]]></title>
         <id>https://newneek.co/post/PNx7Nn</id>
@@ -67,26 +88,5 @@
         <link href="https://newneek.co/post/Ol6ubO"/>
         <updated>2023-10-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_6Vd82BU.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">카카오→SM 주가조작 의혹</h3><time class="card-date">2023/10/23</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 자동차 대기업 중고차 시장 진입]]></title>
-        <id>https://newneek.co/post/6swR7D</id>
-        <link href="https://newneek.co/post/6swR7D"/>
-        <updated>2023-10-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-11.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국내 자동차 대기업 중고차 시장 진입</h3><time class="card-date">2023/10/20</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수소=친환경? 그건 제 잔상입니다만]]></title>
-        <id>https://newneek.co/post/VEFtAd</id>
-        <link href="https://newneek.co/post/VEFtAd"/>
-        <updated>2023-10-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1bEu1fX.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">수소=친환경? 그건 제 잔상입니다만</h3><time class="card-date">2023/10/20</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔔띵동! ‘e스포츠 올림픽 종목 채택’ 피자가 도착했습니다!]]></title>
-        <id>https://newneek.co/post/UFdT11</id>
-        <link href="https://newneek.co/post/UFdT11"/>
-        <updated>2023-10-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/231019_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘e스포츠 올림픽 종목 채택’ 피자가 도착했습니다!</h3><time class="card-date">2023/10/19</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
