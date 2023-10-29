@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-10-29T19:03:47.687Z</updated>
+    <updated>2023-10-29T20:04:07.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이스라엘-팔레스타인 하마스 전쟁(7): 시오니즘]]></title>
+        <id>https://newneek.co/post/asZw41</id>
+        <link href="https://newneek.co/post/asZw41"/>
+        <updated>2023-10-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_kPJUzLx.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 하마스 전쟁(7): 시오니즘</h3><time class="card-date">2023/10/30</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘e스포츠 올림픽 종목 채택’ 피자가 도착했습니다!]]></title>
         <id>https://newneek.co/post/UFdT11</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/aPShVp"/>
         <updated>2023-09-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1_1y4fcUu.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아프리카 영향력 확대</h3><time class="card-date">2023/09/15</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리비아 홍수와 피해 원인]]></title>
-        <id>https://newneek.co/post/tVYWj6</id>
-        <link href="https://newneek.co/post/tVYWj6"/>
-        <updated>2023-09-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_12_fJ9ko1D.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">리비아 홍수와 피해 원인</h3><time class="card-date">2023/09/14</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
