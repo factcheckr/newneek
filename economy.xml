@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-10-30T19:03:49.254Z</updated>
+    <updated>2023-10-30T21:03:06.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[공매도 전면 허용 vs. 전면 금지]]></title>
+        <id>https://newneek.co/post/wLvDIq</id>
+        <link href="https://newneek.co/post/wLvDIq"/>
+        <updated>2023-10-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_iCdN8TX.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공매도 전면 허용 vs. 전면 금지</h3><time class="card-date">2023/10/31</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부 연금개혁안 발표: 404 Not Found]]></title>
         <id>https://newneek.co/post/NgIRe9</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/h0NWDW"/>
         <updated>2023-09-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_ysSSdDY.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">고금리 예금과 금융권 영향</h3><time class="card-date">2023/09/21</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 케이뱅크 생활통장]]></title>
-        <id>https://newneek.co/post/uemUW5</id>
-        <link href="https://newneek.co/post/uemUW5"/>
-        <updated>2023-09-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_6.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 케이뱅크 생활통장</h3><time class="card-date">2023/09/20</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
