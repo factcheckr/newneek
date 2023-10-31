@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2023-10-31T19:03:45.078Z</updated>
+    <updated>2023-10-31T20:03:14.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[반대매매와 키움증권-영풍제지 사태]]></title>
+        <id>https://newneek.co/post/2efd4y</id>
+        <link href="https://newneek.co/post/2efd4y"/>
+        <updated>2023-11-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_F9D7fc6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">반대매매와 키움증권-영풍제지 사태</h3><time class="card-date">2023/11/01</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민의힘 김포시 → 서울시 편입 추진]]></title>
+        <id>https://newneek.co/post/3VYV80</id>
+        <link href="https://newneek.co/post/3VYV80"/>
+        <updated>2023-11-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_E1LwdiN.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민의힘 김포시 → 서울시 편입 추진</h3><time class="card-date">2023/11/01</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 안보 정상회담: 위험한 나라의 인공지능 🤖]]></title>
         <id>https://newneek.co/post/cgBwiq</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/PNx7Nn"/>
         <updated>2023-10-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/231026_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘바디프로필’ 피자가 도착했습니다!</h3><time class="card-date">2023/10/26</time><i class="card-category">문화</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원주 아카데미극장 철거 갈등]]></title>
-        <id>https://newneek.co/post/RzF8q4</id>
-        <link href="https://newneek.co/post/RzF8q4"/>
-        <updated>2023-10-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-10.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">원주 아카데미극장 철거 갈등</h3><time class="card-date">2023/10/26</time><i class="card-category">문화</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노동시장 이중구조와 청년 니트족]]></title>
-        <id>https://newneek.co/post/rsgXN7</id>
-        <link href="https://newneek.co/post/rsgXN7"/>
-        <updated>2023-10-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-12.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">노동시장 이중구조와 청년 니트족</h3><time class="card-date">2023/10/26</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
 </feed>
