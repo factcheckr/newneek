@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2023-10-31T23:03:14.841Z</updated>
+    <updated>2023-11-01T00:29:26.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://newneek.co/post/0qeQwg</id>
         <link href="https://newneek.co/post/0qeQwg"/>
         <updated>2023-10-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/41099293-E9E2-49DE-9D01-94D7E996DFEB.jpeg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 큐클리프 테크액세서리 라인업</h3><time class="card-date">2023/10/30</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/41099293-E9E2-49DE-9D01-94D7E996DFEB.jpeg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 큐클리프 테크액세서리 라인업</h3><time class="card-date">2023/10/30</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수소=친환경? 그건 제 잔상입니다만]]></title>
