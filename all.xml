@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-02T19:04:01.168Z</updated>
+    <updated>2023-11-02T20:02:56.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[(누군가에게는) 불편한 축제 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/FatY2y</id>
+        <link href="https://newneek.co/post/FatY2y"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_wAOvF5G.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(누군가에게는) 불편한 축제</h3><time class="card-date">2023/11/03</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 메가시티 논란 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/M5Vq83</id>
+        <link href="https://newneek.co/post/M5Vq83"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_cPgB3C2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">서울 메가시티 논란</h3><time class="card-date">2023/11/03</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예산안 긴축재정과 논란 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/Kk4PUo</id>
@@ -75,18 +89,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_kFdjWdv.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부 연금개혁안 발표: 404 Not Found</h3><time class="card-date">2023/10/30</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이스라엘-팔레스타인 하마스 전쟁(7): 시오니즘 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/asZw41</id>
-        <link href="https://newneek.co/post/asZw41"/>
-        <updated>2023-10-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_kPJUzLx.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 하마스 전쟁(7): 시오니즘</h3><time class="card-date">2023/10/30</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10·29 이태원 참사와 사회적 애도 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/RiOAho</id>
-        <link href="https://newneek.co/post/RiOAho"/>
-        <updated>2023-10-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_0QEdGjG.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">10·29 이태원 참사와 사회적 애도</h3><time class="card-date">2023/10/27</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[서울 메가시티 논란 (뉴닉 ─ 정치)]]></title>
+        <id>https://newneek.co/post/M5Vq83</id>
+        <link href="https://newneek.co/post/M5Vq83"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_cPgB3C2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">서울 메가시티 논란</h3><time class="card-date">2023/11/03</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예산안 긴축재정과 논란 (뉴닉 ─ 정치)]]></title>
@@ -164,13 +171,6 @@
         <link href="https://newneek.co/post/JYp88X"/>
         <updated>2023-09-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230921_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘대통령 배우자 정치 참여’ 피자가 도착했습니다!</h3><time class="card-date">2023/09/21</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부 인사 논란 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/Xl13G5</id>
-        <link href="https://newneek.co/post/Xl13G5"/>
-        <updated>2023-09-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_gzmkXBd.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">윤석열 정부 인사 논란</h3><time class="card-date">2023/09/21</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘-팔레스타인 하마스 전쟁(8): 지상전과 휴전 가능성 (뉴닉 ─ 세계)]]></title>
@@ -671,6 +671,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230529_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3_D.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🍕배달비, 어떻게 생각해?</h3><time class="card-date">2023/05/29</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(누군가에게는) 불편한 축제 (뉴닉 ─ 환경)]]></title>
+        <id>https://newneek.co/post/FatY2y</id>
+        <link href="https://newneek.co/post/FatY2y"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_wAOvF5G.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(누군가에게는) 불편한 축제</h3><time class="card-date">2023/11/03</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(광고) 큐클리프 테크액세서리 라인업 (뉴닉 ─ 환경)]]></title>
         <id>https://newneek.co/post/0qeQwg</id>
         <link href="https://newneek.co/post/0qeQwg"/>
@@ -751,11 +758,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_5_F9x7Onr.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">기후위기의 경제적 영향</h3><time class="card-date">2023/07/25</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[집중 호우 피해와 대비 방법 (뉴닉 ─ 환경)]]></title>
-        <id>https://newneek.co/post/0dhoRI</id>
-        <link href="https://newneek.co/post/0dhoRI"/>
-        <updated>2023-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1lDwiRW.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">집중 호우 피해와 대비 방법</h3><time class="card-date">2023/06/30</time><i class="card-category">환경</i></div></div>]]></content>
+        <title type="html"><![CDATA[(누군가에게는) 불편한 축제 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/FatY2y</id>
+        <link href="https://newneek.co/post/FatY2y"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_wAOvF5G.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(누군가에게는) 불편한 축제</h3><time class="card-date">2023/11/03</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 메가시티 논란 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/M5Vq83</id>
+        <link href="https://newneek.co/post/M5Vq83"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_cPgB3C2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">서울 메가시티 논란</h3><time class="card-date">2023/11/03</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예산안 긴축재정과 논란 (뉴닉 ─ 여성)]]></title>
@@ -828,18 +842,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_kFdjWdv.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부 연금개혁안 발표: 404 Not Found</h3><time class="card-date">2023/10/30</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이스라엘-팔레스타인 하마스 전쟁(7): 시오니즘 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/asZw41</id>
-        <link href="https://newneek.co/post/asZw41"/>
-        <updated>2023-10-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_kPJUzLx.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 하마스 전쟁(7): 시오니즘</h3><time class="card-date">2023/10/30</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[(누군가에게는) 불편한 축제 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/FatY2y</id>
+        <link href="https://newneek.co/post/FatY2y"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_wAOvF5G.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(누군가에게는) 불편한 축제</h3><time class="card-date">2023/11/03</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10·29 이태원 참사와 사회적 애도 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/RiOAho</id>
-        <link href="https://newneek.co/post/RiOAho"/>
-        <updated>2023-10-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_0QEdGjG.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">10·29 이태원 참사와 사회적 애도</h3><time class="card-date">2023/10/27</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[서울 메가시티 논란 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/M5Vq83</id>
+        <link href="https://newneek.co/post/M5Vq83"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_cPgB3C2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">서울 메가시티 논란</h3><time class="card-date">2023/11/03</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예산안 긴축재정과 논란 (뉴닉 ─ 코로나19)]]></title>
@@ -912,18 +926,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_kFdjWdv.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부 연금개혁안 발표: 404 Not Found</h3><time class="card-date">2023/10/30</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이스라엘-팔레스타인 하마스 전쟁(7): 시오니즘 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/asZw41</id>
-        <link href="https://newneek.co/post/asZw41"/>
-        <updated>2023-10-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_kPJUzLx.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 하마스 전쟁(7): 시오니즘</h3><time class="card-date">2023/10/30</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[(누군가에게는) 불편한 축제 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/FatY2y</id>
+        <link href="https://newneek.co/post/FatY2y"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_wAOvF5G.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(누군가에게는) 불편한 축제</h3><time class="card-date">2023/11/03</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10·29 이태원 참사와 사회적 애도 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/RiOAho</id>
-        <link href="https://newneek.co/post/RiOAho"/>
-        <updated>2023-10-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_0QEdGjG.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">10·29 이태원 참사와 사회적 애도</h3><time class="card-date">2023/10/27</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[서울 메가시티 논란 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/M5Vq83</id>
+        <link href="https://newneek.co/post/M5Vq83"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_cPgB3C2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">서울 메가시티 논란</h3><time class="card-date">2023/11/03</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예산안 긴축재정과 논란 (뉴닉 ─ 피자스테이션)]]></title>
@@ -994,19 +1008,5 @@
         <link href="https://newneek.co/post/NgIRe9"/>
         <updated>2023-10-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_kFdjWdv.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부 연금개혁안 발표: 404 Not Found</h3><time class="card-date">2023/10/30</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘-팔레스타인 하마스 전쟁(7): 시오니즘 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/asZw41</id>
-        <link href="https://newneek.co/post/asZw41"/>
-        <updated>2023-10-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_kPJUzLx.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 하마스 전쟁(7): 시오니즘</h3><time class="card-date">2023/10/30</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10·29 이태원 참사와 사회적 애도 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/RiOAho</id>
-        <link href="https://newneek.co/post/RiOAho"/>
-        <updated>2023-10-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_0QEdGjG.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">10·29 이태원 참사와 사회적 애도</h3><time class="card-date">2023/10/27</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
