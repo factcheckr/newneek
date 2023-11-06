@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2023-11-06T19:03:36.304Z</updated>
+    <updated>2023-11-06T20:02:44.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) SK지오센트릭과 고슴이의 순환경제 (5)]]></title>
+        <id>https://newneek.co/post/3WSGLS</id>
+        <link href="https://newneek.co/post/3WSGLS"/>
+        <updated>2023-11-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_2_WuRxvaR.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) SK지오센트릭과 고슴이의 순환경제 (5)</h3><time class="card-date">2023/11/07</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(누군가에게는) 불편한 축제]]></title>
         <id>https://newneek.co/post/FatY2y</id>
@@ -84,12 +91,5 @@
         <link href="https://newneek.co/post/sV1v3X"/>
         <updated>2023-07-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_9.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) SK엔무브와 고슴이의 에너제틱 (2)</h3><time class="card-date">2023/07/25</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후위기의 경제적 영향]]></title>
-        <id>https://newneek.co/post/yM2jDo</id>
-        <link href="https://newneek.co/post/yM2jDo"/>
-        <updated>2023-07-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_5_F9x7Onr.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">기후위기의 경제적 영향</h3><time class="card-date">2023/07/25</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
