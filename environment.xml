@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2023-11-11T23:04:05.936Z</updated>
+    <updated>2023-11-12T00:29:35.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://newneek.co/post/AbBxJM</id>
         <link href="https://newneek.co/post/AbBxJM"/>
         <updated>2023-11-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_4HTzBgF.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">환경부 일회용품 규제 철회</h3><time class="card-date">2023/11/10</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_4HTzBgF.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">환경부 일회용품 규제 철회</h3><time class="card-date">2023/11/10</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가을철 모기 확산 이유와 영향]]></title>
