@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-12T19:03:18.819Z</updated>
+    <updated>2023-11-12T20:02:45.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[챗GPT 등장 1년, 현황과 전망 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/4X058J</id>
+        <link href="https://newneek.co/post/4X058J"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_P1E0Eok.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">챗GPT 등장 1년, 현황과 전망</h3><time class="card-date">2023/11/13</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노란봉투법·방송3법 국회 통과와 쟁점 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/DKnkMv</id>
+        <link href="https://newneek.co/post/DKnkMv"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_bh0iFDM.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">노란봉투법·방송3법 국회 통과와 쟁점</h3><time class="card-date">2023/11/13</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환경부 일회용품 규제 철회 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/AbBxJM</id>
@@ -93,18 +107,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3_Nl0lseA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공매도 전면 금지와 반응</h3><time class="card-date">2023/11/07</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민의힘: 혁신안 싫어요 👎...? (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/hMbyFA</id>
-        <link href="https://newneek.co/post/hMbyFA"/>
-        <updated>2023-11-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_dXUHKTS.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민의힘: 혁신안 싫어요 👎...?</h3><time class="card-date">2023/11/07</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미얀마 쿠데타와 무장투쟁 상황 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/72ms3z</id>
-        <link href="https://newneek.co/post/72ms3z"/>
-        <updated>2023-11-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3tnMDSp.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미얀마 쿠데타와 무장투쟁 상황</h3><time class="card-date">2023/11/06</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[노란봉투법·방송3법 국회 통과와 쟁점 (뉴닉 ─ 정치)]]></title>
+        <id>https://newneek.co/post/DKnkMv</id>
+        <link href="https://newneek.co/post/DKnkMv"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_bh0iFDM.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">노란봉투법·방송3법 국회 통과와 쟁점</h3><time class="card-date">2023/11/13</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘: 혁신안 싫어요 👎...? (뉴닉 ─ 정치)]]></title>
@@ -182,13 +189,6 @@
         <link href="https://newneek.co/post/OhdcSy"/>
         <updated>2023-09-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ILAPEfk.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">가짜뉴스 근절 대책과 논란</h3><time class="card-date">2023/09/27</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 체포동의안 가결과 정치권 전망 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/rSMBEs</id>
-        <link href="https://newneek.co/post/rSMBEs"/>
-        <updated>2023-09-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_17.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이재명 체포동의안 가결과 정치권 전망</h3><time class="card-date">2023/09/25</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 미국 대선 전망 (뉴닉 ─ 세계)]]></title>
@@ -273,6 +273,13 @@
         <link href="https://newneek.co/post/TSN0g6"/>
         <updated>2023-10-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_18.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 셧다운 위기, 하원의장 해임</h3><time class="card-date">2023/10/06</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[챗GPT 등장 1년, 현황과 전망 (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/4X058J</id>
+        <link href="https://newneek.co/post/4X058J"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_P1E0Eok.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">챗GPT 등장 1년, 현황과 전망</h3><time class="card-date">2023/11/13</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI 안보 정상회담: 위험한 나라의 인공지능 🤖 (뉴닉 ─ 테크)]]></title>
@@ -377,13 +384,6 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1_RL5ztzC.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">상온상압 초전도체 LK-99 열풍</h3><time class="card-date">2023/08/04</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 삼성전자 갤럭시 탭 S9 (뉴닉 ─ 테크)]]></title>
-        <id>https://newneek.co/post/i9jNm6</id>
-        <link href="https://newneek.co/post/i9jNm6"/>
-        <updated>2023-07-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_10.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 삼성전자 갤럭시 탭 S9</h3><time class="card-date">2023/07/27</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[은행권 횡재세 논란 (뉴닉 ─ 경제)]]></title>
         <id>https://newneek.co/post/wcO4bA</id>
         <link href="https://newneek.co/post/wcO4bA"/>
@@ -466,6 +466,13 @@
         <link href="https://newneek.co/post/Vu5KSs"/>
         <updated>2023-10-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_nTn6MGB.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘 팔레스타인 하마스 전쟁 (5): 세계 경제편</h3><time class="card-date">2023/10/18</time><i class="card-category">경제</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노란봉투법·방송3법 국회 통과와 쟁점 (뉴닉 ─ 노동)]]></title>
+        <id>https://newneek.co/post/DKnkMv</id>
+        <link href="https://newneek.co/post/DKnkMv"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_bh0iFDM.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">노란봉투법·방송3법 국회 통과와 쟁점</h3><time class="card-date">2023/11/13</time><i class="card-category">노동</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노동시장 이중구조와 청년 니트족 (뉴닉 ─ 노동)]]></title>
@@ -682,13 +689,6 @@
 전세제도 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 가기]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🍕배달비, 어떻게 생각해? (뉴닉 ─ 노동)]]></title>
-        <id>https://newneek.co/post/BQzdXw</id>
-        <link href="https://newneek.co/post/BQzdXw"/>
-        <updated>2023-05-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/230529_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3_D.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🍕배달비, 어떻게 생각해?</h3><time class="card-date">2023/05/29</time><i class="card-category">노동</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[환경부 일회용품 규제 철회 (뉴닉 ─ 환경)]]></title>
         <id>https://newneek.co/post/AbBxJM</id>
         <link href="https://newneek.co/post/AbBxJM"/>
@@ -774,6 +774,20 @@
         <link href="https://newneek.co/post/OSoVRL"/>
         <updated>2023-08-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_13_6kuOXjQ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해수면 온도 상승과 영향</h3><time class="card-date">2023/08/09</time><i class="card-category">환경</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[챗GPT 등장 1년, 현황과 전망 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/4X058J</id>
+        <link href="https://newneek.co/post/4X058J"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_P1E0Eok.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">챗GPT 등장 1년, 현황과 전망</h3><time class="card-date">2023/11/13</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노란봉투법·방송3법 국회 통과와 쟁점 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/DKnkMv</id>
+        <link href="https://newneek.co/post/DKnkMv"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_bh0iFDM.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">노란봉투법·방송3법 국회 통과와 쟁점</h3><time class="card-date">2023/11/13</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[환경부 일회용품 규제 철회 (뉴닉 ─ 여성)]]></title>
@@ -864,18 +878,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3_Nl0lseA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공매도 전면 금지와 반응</h3><time class="card-date">2023/11/07</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민의힘: 혁신안 싫어요 👎...? (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/hMbyFA</id>
-        <link href="https://newneek.co/post/hMbyFA"/>
-        <updated>2023-11-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_dXUHKTS.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민의힘: 혁신안 싫어요 👎...?</h3><time class="card-date">2023/11/07</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[챗GPT 등장 1년, 현황과 전망 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/4X058J</id>
+        <link href="https://newneek.co/post/4X058J"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_P1E0Eok.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">챗GPT 등장 1년, 현황과 전망</h3><time class="card-date">2023/11/13</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미얀마 쿠데타와 무장투쟁 상황 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/72ms3z</id>
-        <link href="https://newneek.co/post/72ms3z"/>
-        <updated>2023-11-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3tnMDSp.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미얀마 쿠데타와 무장투쟁 상황</h3><time class="card-date">2023/11/06</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[노란봉투법·방송3법 국회 통과와 쟁점 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/DKnkMv</id>
+        <link href="https://newneek.co/post/DKnkMv"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_bh0iFDM.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">노란봉투법·방송3법 국회 통과와 쟁점</h3><time class="card-date">2023/11/13</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[환경부 일회용품 규제 철회 (뉴닉 ─ 코로나19)]]></title>
@@ -966,18 +980,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3_Nl0lseA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공매도 전면 금지와 반응</h3><time class="card-date">2023/11/07</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민의힘: 혁신안 싫어요 👎...? (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/hMbyFA</id>
-        <link href="https://newneek.co/post/hMbyFA"/>
-        <updated>2023-11-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_dXUHKTS.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민의힘: 혁신안 싫어요 👎...?</h3><time class="card-date">2023/11/07</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[챗GPT 등장 1년, 현황과 전망 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/4X058J</id>
+        <link href="https://newneek.co/post/4X058J"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_P1E0Eok.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">챗GPT 등장 1년, 현황과 전망</h3><time class="card-date">2023/11/13</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미얀마 쿠데타와 무장투쟁 상황 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/72ms3z</id>
-        <link href="https://newneek.co/post/72ms3z"/>
-        <updated>2023-11-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3tnMDSp.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미얀마 쿠데타와 무장투쟁 상황</h3><time class="card-date">2023/11/06</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[노란봉투법·방송3법 국회 통과와 쟁점 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/DKnkMv</id>
+        <link href="https://newneek.co/post/DKnkMv"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_bh0iFDM.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">노란봉투법·방송3법 국회 통과와 쟁점</h3><time class="card-date">2023/11/13</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[환경부 일회용품 규제 철회 (뉴닉 ─ 피자스테이션)]]></title>
@@ -1066,19 +1080,5 @@
         <link href="https://newneek.co/post/fZUnMa"/>
         <updated>2023-11-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3_Nl0lseA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공매도 전면 금지와 반응</h3><time class="card-date">2023/11/07</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민의힘: 혁신안 싫어요 👎...? (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/hMbyFA</id>
-        <link href="https://newneek.co/post/hMbyFA"/>
-        <updated>2023-11-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_dXUHKTS.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민의힘: 혁신안 싫어요 👎...?</h3><time class="card-date">2023/11/07</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미얀마 쿠데타와 무장투쟁 상황 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/72ms3z</id>
-        <link href="https://newneek.co/post/72ms3z"/>
-        <updated>2023-11-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3tnMDSp.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미얀마 쿠데타와 무장투쟁 상황</h3><time class="card-date">2023/11/06</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>

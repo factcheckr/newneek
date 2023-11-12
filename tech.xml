@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-11-12T19:03:18.804Z</updated>
+    <updated>2023-11-12T20:02:45.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[챗GPT 등장 1년, 현황과 전망]]></title>
+        <id>https://newneek.co/post/4X058J</id>
+        <link href="https://newneek.co/post/4X058J"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_P1E0Eok.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">챗GPT 등장 1년, 현황과 전망</h3><time class="card-date">2023/11/13</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 안보 정상회담: 위험한 나라의 인공지능 🤖]]></title>
         <id>https://newneek.co/post/cgBwiq</id>
@@ -106,12 +113,5 @@
         <link href="https://newneek.co/post/8DfiKS"/>
         <updated>2023-08-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1_RL5ztzC.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">상온상압 초전도체 LK-99 열풍</h3><time class="card-date">2023/08/04</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 삼성전자 갤럭시 탭 S9]]></title>
-        <id>https://newneek.co/post/i9jNm6</id>
-        <link href="https://newneek.co/post/i9jNm6"/>
-        <updated>2023-07-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_10.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 삼성전자 갤럭시 탭 S9</h3><time class="card-date">2023/07/27</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
