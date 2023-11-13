@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2023-11-13T19:02:52.108Z</updated>
+    <updated>2023-11-13T20:02:55.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미등록 이주민 단속과 인권 문제]]></title>
+        <id>https://newneek.co/post/EFf6n6</id>
+        <link href="https://newneek.co/post/EFf6n6"/>
+        <updated>2023-11-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1_YDs04Ln.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미등록 이주민 단속과 인권 문제</h3><time class="card-date">2023/11/14</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대주주 기준 완화 논란]]></title>
+        <id>https://newneek.co/post/S0XnRr</id>
+        <link href="https://newneek.co/post/S0XnRr"/>
+        <updated>2023-11-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1_EXLavMq.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대주주 기준 완화 논란</h3><time class="card-date">2023/11/14</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[챗GPT 등장 1년, 현황과 전망]]></title>
         <id>https://newneek.co/post/4X058J</id>
@@ -92,19 +106,5 @@
         <link href="https://newneek.co/post/wcO4bA"/>
         <updated>2023-11-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_nwXlCxf.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">은행권 횡재세 논란</h3><time class="card-date">2023/11/08</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) SK지오센트릭과 고슴이의 순환경제 (5)]]></title>
-        <id>https://newneek.co/post/3WSGLS</id>
-        <link href="https://newneek.co/post/3WSGLS"/>
-        <updated>2023-11-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_2_WuRxvaR.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) SK지오센트릭과 고슴이의 순환경제 (5)</h3><time class="card-date">2023/11/07</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공매도 전면 금지와 반응]]></title>
-        <id>https://newneek.co/post/fZUnMa</id>
-        <link href="https://newneek.co/post/fZUnMa"/>
-        <updated>2023-11-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3_Nl0lseA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공매도 전면 금지와 반응</h3><time class="card-date">2023/11/07</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
