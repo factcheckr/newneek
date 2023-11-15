@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-11-15T19:02:48.940Z</updated>
+    <updated>2023-11-15T20:02:53.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연구개발에도 아침이 올까요 ☀️]]></title>
+        <id>https://newneek.co/post/P50bo4</id>
+        <link href="https://newneek.co/post/P50bo4"/>
+        <updated>2023-11-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_IGOMgQA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">연구개발에도 아침이 올까요 ☀️</h3><time class="card-date">2023/11/16</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[챗GPT 등장 1년, 현황과 전망]]></title>
         <id>https://newneek.co/post/4X058J</id>
@@ -106,12 +113,5 @@
         <link href="https://newneek.co/post/Aa4wyX"/>
         <updated>2023-08-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_Kte6hnB.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) AWS 무료 온라인 컨퍼런스 – AWS Innovate</h3><time class="card-date">2023/08/17</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상온상압 초전도체 LK-99 열풍]]></title>
-        <id>https://newneek.co/post/8DfiKS</id>
-        <link href="https://newneek.co/post/8DfiKS"/>
-        <updated>2023-08-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_1_RL5ztzC.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">상온상압 초전도체 LK-99 열풍</h3><time class="card-date">2023/08/04</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
