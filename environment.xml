@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2023-11-16T19:02:39.576Z</updated>
+    <updated>2023-11-16T20:02:56.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제1회 고슴배 기후위기 국감 시상식 🏆]]></title>
+        <id>https://newneek.co/post/nZ5get</id>
+        <link href="https://newneek.co/post/nZ5get"/>
+        <updated>2023-11-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3_dJ1Wk7c.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">제1회 고슴배 기후위기 국감 시상식 🏆</h3><time class="card-date">2023/11/17</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환경부 일회용품 규제 철회]]></title>
         <id>https://newneek.co/post/AbBxJM</id>
@@ -84,12 +91,5 @@
         <link href="https://newneek.co/post/AjN2w9"/>
         <updated>2023-08-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_1_mcGCT54.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 하와이 산불 원인</h3><time class="card-date">2023/08/17</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해수면 온도 상승과 영향]]></title>
-        <id>https://newneek.co/post/OSoVRL</id>
-        <link href="https://newneek.co/post/OSoVRL"/>
-        <updated>2023-08-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_13_6kuOXjQ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해수면 온도 상승과 영향</h3><time class="card-date">2023/08/09</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
