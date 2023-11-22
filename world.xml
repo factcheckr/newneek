@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2023-11-22T19:02:46.953Z</updated>
+    <updated>2023-11-22T20:02:45.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[중국 인구 수 줄어든 사연과 그 영향]]></title>
+        <id>https://newneek.co/post/5ENuA2</id>
+        <link href="https://newneek.co/post/5ENuA2"/>
+        <updated>2023-11-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_5_eVWOyYk.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">중국 인구 수 줄어든 사연과 그 영향</h3><time class="card-date">2023/11/23</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 미국 대선 전망]]></title>
         <id>https://newneek.co/post/CU8u4E</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/Fr5cNm"/>
         <updated>2023-10-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_NCCak3d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 하마스 전쟁 (1): 전쟁 발발</h3><time class="card-date">2023/10/10</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 셧다운 위기, 하원의장 해임]]></title>
-        <id>https://newneek.co/post/TSN0g6</id>
-        <link href="https://newneek.co/post/TSN0g6"/>
-        <updated>2023-10-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_18.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 셧다운 위기, 하원의장 해임</h3><time class="card-date">2023/10/06</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
