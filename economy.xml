@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-11-26T19:02:39.149Z</updated>
+    <updated>2023-11-26T20:02:46.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[청년 위한 청약통장 Ver.2 등장]]></title>
+        <id>https://newneek.co/post/XVrjyv</id>
+        <link href="https://newneek.co/post/XVrjyv"/>
+        <updated>2023-11-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">청년 위한 청약통장 Ver.2 등장</h3><time class="card-date">2023/11/27</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[물가 내리고 금리 내려 🏳️]]></title>
         <id>https://newneek.co/post/hLO6DC</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/Kk4PUo"/>
         <updated>2023-11-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_0hk1vVQ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">예산안 긴축재정과 논란</h3><time class="card-date">2023/11/02</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반대매매와 키움증권-영풍제지 사태]]></title>
-        <id>https://newneek.co/post/2efd4y</id>
-        <link href="https://newneek.co/post/2efd4y"/>
-        <updated>2023-11-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_F9D7fc6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">반대매매와 키움증권-영풍제지 사태</h3><time class="card-date">2023/11/01</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
