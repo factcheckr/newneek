@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-11-30T19:02:43.643Z</updated>
+    <updated>2023-11-30T20:02:50.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[기프티콘 불공정 행위 제재]]></title>
+        <id>https://newneek.co/post/I52ROV</id>
+        <link href="https://newneek.co/post/I52ROV"/>
+        <updated>2023-12-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_TdNspH2.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">기프티콘 불공정 행위 제재</h3><time class="card-date">2023/12/01</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘국민연금 보험료 인상’ 피자가 도착했습니다!]]></title>
         <id>https://newneek.co/post/OYzz9E</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/QYP9Ac"/>
         <updated>2023-11-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2_tKJYalJ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부 특별물가관리체계 시행</h3><time class="card-date">2023/11/15</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대주주 기준 완화 논란]]></title>
-        <id>https://newneek.co/post/S0XnRr</id>
-        <link href="https://newneek.co/post/S0XnRr"/>
-        <updated>2023-11-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1_EXLavMq.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대주주 기준 완화 논란</h3><time class="card-date">2023/11/14</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>

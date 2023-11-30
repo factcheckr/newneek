@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2023-11-30T19:02:43.642Z</updated>
+    <updated>2023-11-30T20:02:50.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[그린래시와 포퓰리즘: “친환경에 반대합니다”]]></title>
+        <id>https://newneek.co/post/Fcff8x</id>
+        <link href="https://newneek.co/post/Fcff8x"/>
+        <updated>2023-12-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">그린래시와 포퓰리즘: “친환경에 반대합니다”</h3><time class="card-date">2023/12/01</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기프티콘 불공정 행위 제재]]></title>
+        <id>https://newneek.co/post/I52ROV</id>
+        <link href="https://newneek.co/post/I52ROV"/>
+        <updated>2023-12-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_TdNspH2.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">기프티콘 불공정 행위 제재</h3><time class="card-date">2023/12/01</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 바다와 바람만 있다면 환경·경제 걱정 없어!]]></title>
+        <id>https://newneek.co/post/mXyKMW</id>
+        <link href="https://newneek.co/post/mXyKMW"/>
+        <updated>2023-12-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_64i0yLE.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 바다와 바람만 있다면 환경·경제 걱정 없어!</h3><time class="card-date">2023/12/01</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔저현상과 일학개미 엔테크 열풍]]></title>
         <id>https://newneek.co/post/Jpwt88</id>
@@ -67,26 +88,5 @@
         <link href="https://newneek.co/post/XVrjyv"/>
         <updated>2023-11-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">청년 위한 청약통장 Ver.2 등장</h3><time class="card-date">2023/11/27</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한 군사정찰위성 발사와 의미]]></title>
-        <id>https://newneek.co/post/b6SZ4B</id>
-        <link href="https://newneek.co/post/b6SZ4B"/>
-        <updated>2023-11-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한 군사정찰위성 발사와 의미</h3><time class="card-date">2023/11/27</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제 여성폭력 추방의 날과 강제추행죄 개정]]></title>
-        <id>https://newneek.co/post/Z9gxZN</id>
-        <link href="https://newneek.co/post/Z9gxZN"/>
-        <updated>2023-11-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_WRYbJOW.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국제 여성폭력 추방의 날과 강제추행죄 개정</h3><time class="card-date">2023/11/24</time><i class="card-category">인권</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물가 내리고 금리 내려 🏳️]]></title>
-        <id>https://newneek.co/post/hLO6DC</id>
-        <link href="https://newneek.co/post/hLO6DC"/>
-        <updated>2023-11-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_PK2rvlR.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">물가 내리고 금리 내려 🏳️</h3><time class="card-date">2023/11/24</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
