@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2023-12-03T19:02:41.071Z</updated>
+    <updated>2023-12-03T20:03:04.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방송통신위원장 전격 사퇴 배경]]></title>
+        <id>https://newneek.co/post/6ooe9L</id>
+        <link href="https://newneek.co/post/6ooe9L"/>
+        <updated>2023-12-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_2_RudASKL.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">방송통신위원장 전격 사퇴 배경</h3><time class="card-date">2023/12/04</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2030 엑스포 부산 유치 실패]]></title>
         <id>https://newneek.co/post/r7jttP</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/3VYV80"/>
         <updated>2023-11-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_E1LwdiN.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민의힘 김포시 → 서울시 편입 추진</h3><time class="card-date">2023/11/01</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸]]></title>
-        <id>https://newneek.co/post/j0ChgB</id>
-        <link href="https://newneek.co/post/j0ChgB"/>
-        <updated>2023-10-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_ZxBOiM6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한·사우디 정상회담: 제2의 중동붐, 오는 거니? 💸</h3><time class="card-date">2023/10/25</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
