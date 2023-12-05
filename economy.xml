@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-12-05T19:02:43.518Z</updated>
+    <updated>2023-12-05T20:02:58.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[피크코리아: 한국 경제 내리막길?]]></title>
+        <id>https://newneek.co/post/FTIeVd</id>
+        <link href="https://newneek.co/post/FTIeVd"/>
+        <updated>2023-12-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-17.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">피크코리아: 한국 경제 내리막길?</h3><time class="card-date">2023/12/06</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스엔 주식 오를까?]]></title>
+        <id>https://newneek.co/post/5hOj2b</id>
+        <link href="https://newneek.co/post/5hOj2b"/>
+        <updated>2023-12-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-13.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">크리스마스엔 주식 오를까?</h3><time class="card-date">2023/12/06</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘한동훈 테마주’ 유행과 정치인 테마주]]></title>
         <id>https://newneek.co/post/3uux5m</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/XVrjyv"/>
         <updated>2023-11-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">청년 위한 청약통장 Ver.2 등장</h3><time class="card-date">2023/11/27</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물가 내리고 금리 내려 🏳️]]></title>
-        <id>https://newneek.co/post/hLO6DC</id>
-        <link href="https://newneek.co/post/hLO6DC"/>
-        <updated>2023-11-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_PK2rvlR.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">물가 내리고 금리 내려 🏳️</h3><time class="card-date">2023/11/24</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈링크플레이션과 스킴플레이션, 왜 그럴까?]]></title>
-        <id>https://newneek.co/post/KW4XDe</id>
-        <link href="https://newneek.co/post/KW4XDe"/>
-        <updated>2023-11-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_4_x9gmWuH.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">슈링크플레이션과 스킴플레이션, 왜 그럴까?</h3><time class="card-date">2023/11/22</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
