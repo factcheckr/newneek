@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2023-12-07T19:02:40.761Z</updated>
+    <updated>2023-12-07T20:02:47.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고)기후솔루션 <고슴이의 그린뉴월드 #3>]]></title>
+        <id>https://newneek.co/post/n7IUn1</id>
+        <link href="https://newneek.co/post/n7IUn1"/>
+        <updated>2023-12-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/10535_1701943101.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고)기후솔루션 &lt;고슴이의 그린뉴월드 #3&gt;</h3><time class="card-date">2023/12/08</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그린래시와 포퓰리즘: “친환경에 반대합니다”]]></title>
         <id>https://newneek.co/post/Fcff8x</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/VEFtAd"/>
         <updated>2023-10-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1bEu1fX.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">수소=친환경? 그건 제 잔상입니다만</h3><time class="card-date">2023/10/20</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🇪🇺: “탄소국경세 준비운동 시~작!”]]></title>
-        <id>https://newneek.co/post/qXzFDZ</id>
-        <link href="https://newneek.co/post/qXzFDZ"/>
-        <updated>2023-10-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_o9ExmAE.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🇪🇺: “탄소국경세 준비운동 시~작!”</h3><time class="card-date">2023/10/19</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
