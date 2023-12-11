@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-12-11T19:02:49.605Z</updated>
+    <updated>2023-12-11T20:03:28.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[주거용 오피스텔 주택 수에서 제외]]></title>
+        <id>https://newneek.co/post/F7pDfe</id>
+        <link href="https://newneek.co/post/F7pDfe"/>
+        <updated>2023-12-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_4_G1pQOlK.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">주거용 오피스텔 주택 수에서 제외</h3><time class="card-date">2023/12/12</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오타니 쇼헤이와 스포츠경제학]]></title>
+        <id>https://newneek.co/post/OxHcRU</id>
+        <link href="https://newneek.co/post/OxHcRU"/>
+        <updated>2023-12-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_shrkMFY.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">오타니 쇼헤이와 스포츠경제학</h3><time class="card-date">2023/12/12</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금값이 오른다고? 나도 투자해볼까?]]></title>
         <id>https://newneek.co/post/EKDCmg</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/OYzz9E"/>
         <updated>2023-11-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/231130_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘국민연금 보험료 인상’ 피자가 도착했습니다!</h3><time class="card-date">2023/11/30</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔저현상과 일학개미 엔테크 열풍]]></title>
-        <id>https://newneek.co/post/Jpwt88</id>
-        <link href="https://newneek.co/post/Jpwt88"/>
-        <updated>2023-11-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_1_IIAhUHJ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">엔저현상과 일학개미 엔테크 열풍</h3><time class="card-date">2023/11/30</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주노동자 고용허가제 인력 확대]]></title>
-        <id>https://newneek.co/post/0bH9Fl</id>
-        <link href="https://newneek.co/post/0bH9Fl"/>
-        <updated>2023-11-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_sf3dd7D.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이주노동자 고용허가제 인력 확대</h3><time class="card-date">2023/11/29</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
