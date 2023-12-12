@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2023-12-12T19:02:45.474Z</updated>
+    <updated>2023-12-12T20:03:02.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) 세일즈포스 Trusted AI CRM 솔루션]]></title>
+        <id>https://newneek.co/post/KaIqOA</id>
+        <link href="https://newneek.co/post/KaIqOA"/>
+        <updated>2023-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_2_kATACcZ.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 세일즈포스 Trusted AI CRM 솔루션</h3><time class="card-date">2023/12/13</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트위치 철수와 망 사용료 문제]]></title>
         <id>https://newneek.co/post/XBFGZC</id>
@@ -106,12 +113,5 @@
 
 질래야 질 수 없는 최고의 장비 ‘오디세이 Neo G9’과 함께 이기는 게임만 하는 플레이어가 되어보세요!
 승리를 향한 폭넓은 플레이, 가보자고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) AWS Builders Korea 2023 9월 세미나]]></title>
-        <id>https://newneek.co/post/SdEgUJ</id>
-        <link href="https://newneek.co/post/SdEgUJ"/>
-        <updated>2023-09-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_4.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) AWS Builders Korea 2023 9월 세미나</h3><time class="card-date">2023/09/05</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>

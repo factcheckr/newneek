@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2023-12-12T19:02:45.470Z</updated>
+    <updated>2023-12-12T20:03:02.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[부동산 침체: 강남 불패신화도 이제 끝?]]></title>
+        <id>https://newneek.co/post/8v7PNB</id>
+        <link href="https://newneek.co/post/8v7PNB"/>
+        <updated>2023-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_4_taKzc9S.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">부동산 침체: 강남 불패신화도 이제 끝?</h3><time class="card-date">2023/12/13</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 경제전망: 가계·기업부채]]></title>
+        <id>https://newneek.co/post/AJDBZR</id>
+        <link href="https://newneek.co/post/AJDBZR"/>
+        <updated>2023-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_5_q0OuWxZ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024 경제전망: 가계·기업부채</h3><time class="card-date">2023/12/13</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 세일즈포스 Trusted AI CRM 솔루션]]></title>
+        <id>https://newneek.co/post/KaIqOA</id>
+        <link href="https://newneek.co/post/KaIqOA"/>
+        <updated>2023-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1_2_kATACcZ.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 세일즈포스 Trusted AI CRM 솔루션</h3><time class="card-date">2023/12/13</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주거용 오피스텔 주택 수에서 제외]]></title>
         <id>https://newneek.co/post/F7pDfe</id>
@@ -67,26 +88,5 @@
         <link href="https://newneek.co/post/EKDCmg"/>
         <updated>2023-12-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-18.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금값이 오른다고? 나도 투자해볼까?</h3><time class="card-date">2023/12/07</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔔띵동! ‘SNS 아이 사진 공유’ 피자가 도착했습니다!]]></title>
-        <id>https://newneek.co/post/sYmWsT</id>
-        <link href="https://newneek.co/post/sYmWsT"/>
-        <updated>2023-12-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/231207_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘SNS 아이 사진 공유’ 피자가 도착했습니다!</h3><time class="card-date">2023/12/07</time><i class="card-category">문화</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스엔 주식 오를까?]]></title>
-        <id>https://newneek.co/post/5hOj2b</id>
-        <link href="https://newneek.co/post/5hOj2b"/>
-        <updated>2023-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-13.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">크리스마스엔 주식 오를까?</h3><time class="card-date">2023/12/06</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피크코리아: 한국 경제 내리막길?]]></title>
-        <id>https://newneek.co/post/FTIeVd</id>
-        <link href="https://newneek.co/post/FTIeVd"/>
-        <updated>2023-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-17.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">피크코리아: 한국 경제 내리막길?</h3><time class="card-date">2023/12/06</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
