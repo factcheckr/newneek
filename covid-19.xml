@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2023-12-14T00:28:38.824Z</updated>
+    <updated>2023-12-14T01:45:57.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -123,6 +123,20 @@
 SNS 아이 사진 공유 피자, 무슨 내용이었는데? 👉 지난 피자 바로 보러 가기]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024년 스태그플레이션 주의보 발령 🚨]]></title>
+        <id>https://newneek.co/post/jvrgs4</id>
+        <link href="https://newneek.co/post/jvrgs4"/>
+        <updated>2023-12-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_6_2a2DGsc.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024년 스태그플레이션 주의보 발령 🚨</h3><time class="card-date">2023/12/14</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 총선, 이렇게 된 이상 신당으로 간다]]></title>
+        <id>https://newneek.co/post/ygco05</id>
+        <link href="https://newneek.co/post/ygco05"/>
+        <updated>2023-12-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_5_foBpOKI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024 총선, 이렇게 된 이상 신당으로 간다</h3><time class="card-date">2023/12/14</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[부동산 침체: 강남 불패신화도 이제 끝?]]></title>
         <id>https://newneek.co/post/8v7PNB</id>
         <link href="https://newneek.co/post/8v7PNB"/>
@@ -184,19 +198,5 @@ SNS 아이 사진 공유 피자, 무슨 내용이었는데? 👉 지난 피자 �
         <link href="https://newneek.co/post/ulqOve"/>
         <updated>2023-12-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_zKs5bxu.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">집게손 ‘논란’이 반복되는 이유</h3><time class="card-date">2023/12/08</time><i class="card-category">문화</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 최초 자율주행버스 in 서울]]></title>
-        <id>https://newneek.co/post/z5k18R</id>
-        <link href="https://newneek.co/post/z5k18R"/>
-        <updated>2023-12-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_AKOurhX.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">세계 최초 자율주행버스 in 서울</h3><time class="card-date">2023/12/08</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소비 양극화와 '앰비슈머'의 등장]]></title>
-        <id>https://newneek.co/post/51Vj0e</id>
-        <link href="https://newneek.co/post/51Vj0e"/>
-        <updated>2023-12-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-14.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">소비 양극화와 '앰비슈머'의 등장</h3><time class="card-date">2023/12/07</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>

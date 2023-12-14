@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-12-14T00:28:38.816Z</updated>
+    <updated>2023-12-14T01:45:57.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 스태그플레이션 주의보 발령 🚨]]></title>
+        <id>https://newneek.co/post/jvrgs4</id>
+        <link href="https://newneek.co/post/jvrgs4"/>
+        <updated>2023-12-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_6_2a2DGsc.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024년 스태그플레이션 주의보 발령 🚨</h3><time class="card-date">2023/12/14</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 경제전망: 가계·기업부채]]></title>
         <id>https://newneek.co/post/AJDBZR</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/yRl74T"/>
         <updated>2023-12-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_12.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) LG에너지솔루션과 함께하는 N가지 질문</h3><time class="card-date">2023/12/05</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티빙·웨이브 합병과 OTT 시장 영향]]></title>
-        <id>https://newneek.co/post/DLsp3B</id>
-        <link href="https://newneek.co/post/DLsp3B"/>
-        <updated>2023-12-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_2_eTikVAB.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">티빙·웨이브 합병과 OTT 시장 영향</h3><time class="card-date">2023/12/04</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
