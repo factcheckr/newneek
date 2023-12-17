@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2023-12-17T19:02:49.347Z</updated>
+    <updated>2023-12-17T20:02:38.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오 신임 대표 발표와 경영 혁신]]></title>
+        <id>https://newneek.co/post/L6XGV8</id>
+        <link href="https://newneek.co/post/L6XGV8"/>
+        <updated>2023-12-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">카카오 신임 대표 발표와 경영 혁신</h3><time class="card-date">2023/12/18</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계 이주민의 날과 고용허가제]]></title>
+        <id>https://newneek.co/post/UJSoU9</id>
+        <link href="https://newneek.co/post/UJSoU9"/>
+        <updated>2023-12-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">세계 이주민의 날과 고용허가제</h3><time class="card-date">2023/12/18</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 기후솔루션 <고슴이의 그린뉴월드 #4> - 태양광 발전 이격거리 규제 개선]]></title>
         <id>https://newneek.co/post/8M48fl</id>
@@ -184,19 +198,5 @@ SNS 아이 사진 공유 피자, 무슨 내용이었는데? 👉 지난 피자 �
         <link href="https://newneek.co/post/F7pDfe"/>
         <updated>2023-12-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_4_G1pQOlK.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">주거용 오피스텔 주택 수에서 제외</h3><time class="card-date">2023/12/12</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오타니 쇼헤이와 스포츠경제학]]></title>
-        <id>https://newneek.co/post/OxHcRU</id>
-        <link href="https://newneek.co/post/OxHcRU"/>
-        <updated>2023-12-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_shrkMFY.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">오타니 쇼헤이와 스포츠경제학</h3><time class="card-date">2023/12/12</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트위치 철수와 망 사용료 문제]]></title>
-        <id>https://newneek.co/post/XBFGZC</id>
-        <link href="https://newneek.co/post/XBFGZC"/>
-        <updated>2023-12-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3_pzaOtcr.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">트위치 철수와 망 사용료 문제</h3><time class="card-date">2023/12/11</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
