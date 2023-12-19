@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-12-19T19:02:41.840Z</updated>
+    <updated>2023-12-19T20:02:53.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[공인중개사법 개정안 찬반 논란]]></title>
+        <id>https://newneek.co/post/GWEUfx</id>
+        <link href="https://newneek.co/post/GWEUfx"/>
+        <updated>2023-12-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/DDF14E50-FF07-4AE0-87D2-9C75DAC46A45.jpeg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공인중개사법 개정안 찬반 논란</h3><time class="card-date">2023/12/20</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 경제전망: 부동산 PF 위험]]></title>
         <id>https://newneek.co/post/Im9QQj</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/FTIeVd"/>
         <updated>2023-12-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-17.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">피크코리아: 한국 경제 내리막길?</h3><time class="card-date">2023/12/06</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스엔 주식 오를까?]]></title>
-        <id>https://newneek.co/post/5hOj2b</id>
-        <link href="https://newneek.co/post/5hOj2b"/>
-        <updated>2023-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-13.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">크리스마스엔 주식 오를까?</h3><time class="card-date">2023/12/06</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
