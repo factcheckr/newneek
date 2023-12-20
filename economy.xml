@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2023-12-20T19:02:38.920Z</updated>
+    <updated>2023-12-20T20:03:21.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠팡 파페치 인수]]></title>
+        <id>https://newneek.co/post/6mJYEJ</id>
+        <link href="https://newneek.co/post/6mJYEJ"/>
+        <updated>2023-12-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">쿠팡 파페치 인수</h3><time class="card-date">2023/12/21</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공인중개사법 개정안 찬반 논란]]></title>
         <id>https://newneek.co/post/GWEUfx</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/51Vj0e"/>
         <updated>2023-12-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-14.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">소비 양극화와 '앰비슈머'의 등장</h3><time class="card-date">2023/12/07</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피크코리아: 한국 경제 내리막길?]]></title>
-        <id>https://newneek.co/post/FTIeVd</id>
-        <link href="https://newneek.co/post/FTIeVd"/>
-        <updated>2023-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-17.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">피크코리아: 한국 경제 내리막길?</h3><time class="card-date">2023/12/06</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
