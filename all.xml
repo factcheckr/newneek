@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-01T19:03:41.330Z</updated>
+    <updated>2024-01-01T20:02:47.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 새해, 어떤 것들이 달라질까? 🐉 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/MQtU2L</id>
+        <link href="https://newneek.co/post/MQtU2L"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-19.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024 새해, 어떤 것들이 달라질까? 🐉</h3><time class="card-date">2024/01/02</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태영건설 워크아웃과 부동산 PF (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/fMZvs9</id>
+        <link href="https://newneek.co/post/fMZvs9"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-16.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">태영건설 워크아웃과 부동산 PF</h3><time class="card-date">2024/01/02</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 예산안 최종 합의 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/IJyzVa</id>
@@ -89,20 +103,6 @@
         <link href="https://newneek.co/post/RHzo4O"/>
         <updated>2023-12-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_24.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 하마스 전쟁(10): 전쟁의 현재와 미래</h3><time class="card-date">2023/12/19</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 서울윈터페스타 2023 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/RhBAEA</id>
-        <link href="https://newneek.co/post/RhBAEA"/>
-        <updated>2023-12-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_13.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 서울윈터페스타 2023</h3><time class="card-date">2023/12/19</time><i class="card-category">문화</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 신임 대표 발표와 경영 혁신 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/L6XGV8</id>
-        <link href="https://newneek.co/post/L6XGV8"/>
-        <updated>2023-12-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">카카오 신임 대표 발표와 경영 혁신</h3><time class="card-date">2023/12/18</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 예산안 최종 합의 (뉴닉 ─ 정치)]]></title>
@@ -357,6 +357,20 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_15_RLDuLDi.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">SK브로드밴드 넷플릭스 망 사용료 합의</h3><time class="card-date">2023/09/20</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[태영건설 워크아웃과 부동산 PF (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/fMZvs9</id>
+        <link href="https://newneek.co/post/fMZvs9"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-16.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">태영건설 워크아웃과 부동산 PF</h3><time class="card-date">2024/01/02</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 새해, 어떤 것들이 달라질까? 🐉 (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/MQtU2L</id>
+        <link href="https://newneek.co/post/MQtU2L"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-19.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024 새해, 어떤 것들이 달라질까? 🐉</h3><time class="card-date">2024/01/02</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[쿠팡 파페치 인수 (뉴닉 ─ 경제)]]></title>
         <id>https://newneek.co/post/6mJYEJ</id>
         <link href="https://newneek.co/post/6mJYEJ"/>
@@ -425,20 +439,6 @@
         <link href="https://newneek.co/post/OxHcRU"/>
         <updated>2023-12-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3_shrkMFY.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">오타니 쇼헤이와 스포츠경제학</h3><time class="card-date">2023/12/12</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금값이 오른다고? 나도 투자해볼까? (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/EKDCmg</id>
-        <link href="https://newneek.co/post/EKDCmg"/>
-        <updated>2023-12-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-18.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금값이 오른다고? 나도 투자해볼까?</h3><time class="card-date">2023/12/07</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소비 양극화와 '앰비슈머'의 등장 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/51Vj0e</id>
-        <link href="https://newneek.co/post/51Vj0e"/>
-        <updated>2023-12-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-14.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">소비 양극화와 '앰비슈머'의 등장</h3><time class="card-date">2023/12/07</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 아름다운재단 청년여성산재회복지원사업 (뉴닉 ─ 노동)]]></title>
@@ -625,6 +625,20 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/41099293-E9E2-49DE-9D01-94D7E996DFEB.jpeg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 큐클리프 테크액세서리 라인업</h3><time class="card-date">2023/10/30</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024 새해, 어떤 것들이 달라질까? 🐉 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/MQtU2L</id>
+        <link href="https://newneek.co/post/MQtU2L"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-19.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024 새해, 어떤 것들이 달라질까? 🐉</h3><time class="card-date">2024/01/02</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태영건설 워크아웃과 부동산 PF (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/fMZvs9</id>
+        <link href="https://newneek.co/post/fMZvs9"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-16.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">태영건설 워크아웃과 부동산 PF</h3><time class="card-date">2024/01/02</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024 예산안 최종 합의 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/IJyzVa</id>
         <link href="https://newneek.co/post/IJyzVa"/>
@@ -711,18 +725,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_24.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 하마스 전쟁(10): 전쟁의 현재와 미래</h3><time class="card-date">2023/12/19</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 서울윈터페스타 2023 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/RhBAEA</id>
-        <link href="https://newneek.co/post/RhBAEA"/>
-        <updated>2023-12-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_13.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 서울윈터페스타 2023</h3><time class="card-date">2023/12/19</time><i class="card-category">문화</i></div></div>]]></content>
+        <title type="html"><![CDATA[2024 새해, 어떤 것들이 달라질까? 🐉 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/MQtU2L</id>
+        <link href="https://newneek.co/post/MQtU2L"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-19.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024 새해, 어떤 것들이 달라질까? 🐉</h3><time class="card-date">2024/01/02</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오 신임 대표 발표와 경영 혁신 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/L6XGV8</id>
-        <link href="https://newneek.co/post/L6XGV8"/>
-        <updated>2023-12-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">카카오 신임 대표 발표와 경영 혁신</h3><time class="card-date">2023/12/18</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[태영건설 워크아웃과 부동산 PF (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/fMZvs9</id>
+        <link href="https://newneek.co/post/fMZvs9"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-16.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">태영건설 워크아웃과 부동산 PF</h3><time class="card-date">2024/01/02</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 예산안 최종 합의 (뉴닉 ─ 코로나19)]]></title>
@@ -811,18 +825,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_24.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 하마스 전쟁(10): 전쟁의 현재와 미래</h3><time class="card-date">2023/12/19</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 서울윈터페스타 2023 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/RhBAEA</id>
-        <link href="https://newneek.co/post/RhBAEA"/>
-        <updated>2023-12-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_13.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 서울윈터페스타 2023</h3><time class="card-date">2023/12/19</time><i class="card-category">문화</i></div></div>]]></content>
+        <title type="html"><![CDATA[2024 새해, 어떤 것들이 달라질까? 🐉 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/MQtU2L</id>
+        <link href="https://newneek.co/post/MQtU2L"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-19.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024 새해, 어떤 것들이 달라질까? 🐉</h3><time class="card-date">2024/01/02</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오 신임 대표 발표와 경영 혁신 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/L6XGV8</id>
-        <link href="https://newneek.co/post/L6XGV8"/>
-        <updated>2023-12-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">카카오 신임 대표 발표와 경영 혁신</h3><time class="card-date">2023/12/18</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[태영건설 워크아웃과 부동산 PF (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/fMZvs9</id>
+        <link href="https://newneek.co/post/fMZvs9"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-16.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">태영건설 워크아웃과 부동산 PF</h3><time class="card-date">2024/01/02</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 예산안 최종 합의 (뉴닉 ─ 피자스테이션)]]></title>
@@ -909,19 +923,5 @@
         <link href="https://newneek.co/post/RHzo4O"/>
         <updated>2023-12-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_24.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 하마스 전쟁(10): 전쟁의 현재와 미래</h3><time class="card-date">2023/12/19</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 서울윈터페스타 2023 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/RhBAEA</id>
-        <link href="https://newneek.co/post/RhBAEA"/>
-        <updated>2023-12-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_13.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 서울윈터페스타 2023</h3><time class="card-date">2023/12/19</time><i class="card-category">문화</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 신임 대표 발표와 경영 혁신 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/L6XGV8</id>
-        <link href="https://newneek.co/post/L6XGV8"/>
-        <updated>2023-12-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">카카오 신임 대표 발표와 경영 혁신</h3><time class="card-date">2023/12/18</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
