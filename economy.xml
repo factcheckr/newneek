@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2024-01-03T19:02:48.873Z</updated>
+    <updated>2024-01-03T20:02:48.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[금융투자소득세 폐지 논란]]></title>
+        <id>https://newneek.co/post/DY1oZX</id>
+        <link href="https://newneek.co/post/DY1oZX"/>
+        <updated>2024-01-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_11.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금융투자소득세 폐지 논란</h3><time class="card-date">2024/01/04</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 저출생 대책 총정리]]></title>
         <id>https://newneek.co/post/b2bHcS</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/AJDBZR"/>
         <updated>2023-12-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_5_q0OuWxZ.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024 경제전망: 가계·기업부채</h3><time class="card-date">2023/12/13</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산 침체: 강남 불패신화도 이제 끝?]]></title>
-        <id>https://newneek.co/post/8v7PNB</id>
-        <link href="https://newneek.co/post/8v7PNB"/>
-        <updated>2023-12-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_4_taKzc9S.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">부동산 침체: 강남 불패신화도 이제 끝?</h3><time class="card-date">2023/12/13</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
