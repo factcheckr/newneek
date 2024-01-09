@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-09T19:02:53.307Z</updated>
+    <updated>2024-01-09T20:03:18.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[전 세계 이상기후와 기후재난 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/HoMYHF</id>
+        <link href="https://newneek.co/post/HoMYHF"/>
+        <updated>2024-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3B0lnp7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전 세계 이상기후와 기후재난</h3><time class="card-date">2024/01/10</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태영건설 워크아웃 상황 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/nCIRWU</id>
+        <link href="https://newneek.co/post/nCIRWU"/>
+        <updated>2024-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_rPY4DYF.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">태영건설 워크아웃 상황</h3><time class="card-date">2024/01/10</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대만 총통 선거와 미국-중국 관계 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/Mf5qWs</id>
@@ -103,20 +117,6 @@
         <link href="https://newneek.co/post/DY1oZX"/>
         <updated>2024-01-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_11.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금융투자소득세 폐지 논란</h3><time class="card-date">2024/01/04</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 대표 흉기 피습 사건과 정치권 영향 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/MB6ZgX</id>
-        <link href="https://newneek.co/post/MB6ZgX"/>
-        <updated>2024-01-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_11.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이재명 대표 흉기 피습 사건과 정치권 영향</h3><time class="card-date">2024/01/04</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 세계 경제 전망 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/b18jN9</id>
-        <link href="https://newneek.co/post/b18jN9"/>
-        <updated>2024-01-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_10.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024년 세계 경제 전망</h3><time class="card-date">2024/01/03</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북한 해상완충구역 무력 도발과 남북관계 여파 (뉴닉 ─ 정치)]]></title>
@@ -401,6 +401,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_19.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한국은행 CBDC 테스트 계획</h3><time class="card-date">2023/10/11</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[태영건설 워크아웃 상황 (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/nCIRWU</id>
+        <link href="https://newneek.co/post/nCIRWU"/>
+        <updated>2024-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_rPY4DYF.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">태영건설 워크아웃 상황</h3><time class="card-date">2024/01/10</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플 주가 하락: “애플 폼 떨어진다” 📱🍎 (뉴닉 ─ 경제)]]></title>
         <id>https://newneek.co/post/p1VVaD</id>
         <link href="https://newneek.co/post/p1VVaD"/>
@@ -476,13 +483,6 @@
         <link href="https://newneek.co/post/L6XGV8"/>
         <updated>2023-12-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">카카오 신임 대표 발표와 경영 혁신</h3><time class="card-date">2023/12/18</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 경제 전망: 폴리코노미 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/9SaZwW</id>
-        <link href="https://newneek.co/post/9SaZwW"/>
-        <updated>2023-12-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_l7NeWJD.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024 경제 전망: 폴리코노미</h3><time class="card-date">2023/12/15</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 아름다운재단 청년여성산재회복지원사업 (뉴닉 ─ 노동)]]></title>
@@ -585,6 +585,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_1_Ujd0Glg.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">실업급여 제도 개선 논란</h3><time class="card-date">2023/07/18</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전 세계 이상기후와 기후재난 (뉴닉 ─ 환경)]]></title>
+        <id>https://newneek.co/post/HoMYHF</id>
+        <link href="https://newneek.co/post/HoMYHF"/>
+        <updated>2024-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3B0lnp7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전 세계 이상기후와 기후재난</h3><time class="card-date">2024/01/10</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[COP28 총정리: 나 COP쓰, 28살인디 🌿🎂 (뉴닉 ─ 환경)]]></title>
         <id>https://newneek.co/post/v8dGMS</id>
         <link href="https://newneek.co/post/v8dGMS"/>
@@ -662,11 +669,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_wAOvF5G.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(누군가에게는) 불편한 축제</h3><time class="card-date">2023/11/03</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 큐클리프 테크액세서리 라인업 (뉴닉 ─ 환경)]]></title>
-        <id>https://newneek.co/post/0qeQwg</id>
-        <link href="https://newneek.co/post/0qeQwg"/>
-        <updated>2023-10-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/41099293-E9E2-49DE-9D01-94D7E996DFEB.jpeg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 큐클리프 테크액세서리 라인업</h3><time class="card-date">2023/10/30</time><i class="card-category">환경</i></div></div>]]></content>
+        <title type="html"><![CDATA[전 세계 이상기후와 기후재난 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/HoMYHF</id>
+        <link href="https://newneek.co/post/HoMYHF"/>
+        <updated>2024-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3B0lnp7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전 세계 이상기후와 기후재난</h3><time class="card-date">2024/01/10</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태영건설 워크아웃 상황 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/nCIRWU</id>
+        <link href="https://newneek.co/post/nCIRWU"/>
+        <updated>2024-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_rPY4DYF.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">태영건설 워크아웃 상황</h3><time class="card-date">2024/01/10</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대만 총통 선거와 미국-중국 관계 (뉴닉 ─ 여성)]]></title>
@@ -769,18 +783,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_11.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금융투자소득세 폐지 논란</h3><time class="card-date">2024/01/04</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 대표 흉기 피습 사건과 정치권 영향 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/MB6ZgX</id>
-        <link href="https://newneek.co/post/MB6ZgX"/>
-        <updated>2024-01-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_11.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이재명 대표 흉기 피습 사건과 정치권 영향</h3><time class="card-date">2024/01/04</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[전 세계 이상기후와 기후재난 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/HoMYHF</id>
+        <link href="https://newneek.co/post/HoMYHF"/>
+        <updated>2024-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3B0lnp7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전 세계 이상기후와 기후재난</h3><time class="card-date">2024/01/10</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024년 세계 경제 전망 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/b18jN9</id>
-        <link href="https://newneek.co/post/b18jN9"/>
-        <updated>2024-01-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_10.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024년 세계 경제 전망</h3><time class="card-date">2024/01/03</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[태영건설 워크아웃 상황 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/nCIRWU</id>
+        <link href="https://newneek.co/post/nCIRWU"/>
+        <updated>2024-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_rPY4DYF.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">태영건설 워크아웃 상황</h3><time class="card-date">2024/01/10</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대만 총통 선거와 미국-중국 관계 (뉴닉 ─ 코로나19)]]></title>
@@ -883,18 +897,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_11.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금융투자소득세 폐지 논란</h3><time class="card-date">2024/01/04</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 대표 흉기 피습 사건과 정치권 영향 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/MB6ZgX</id>
-        <link href="https://newneek.co/post/MB6ZgX"/>
-        <updated>2024-01-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_11.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이재명 대표 흉기 피습 사건과 정치권 영향</h3><time class="card-date">2024/01/04</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[전 세계 이상기후와 기후재난 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/HoMYHF</id>
+        <link href="https://newneek.co/post/HoMYHF"/>
+        <updated>2024-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3B0lnp7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전 세계 이상기후와 기후재난</h3><time class="card-date">2024/01/10</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024년 세계 경제 전망 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/b18jN9</id>
-        <link href="https://newneek.co/post/b18jN9"/>
-        <updated>2024-01-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_10.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024년 세계 경제 전망</h3><time class="card-date">2024/01/03</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[태영건설 워크아웃 상황 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/nCIRWU</id>
+        <link href="https://newneek.co/post/nCIRWU"/>
+        <updated>2024-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_rPY4DYF.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">태영건설 워크아웃 상황</h3><time class="card-date">2024/01/10</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대만 총통 선거와 미국-중국 관계 (뉴닉 ─ 피자스테이션)]]></title>
@@ -995,19 +1009,5 @@
         <link href="https://newneek.co/post/DY1oZX"/>
         <updated>2024-01-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_11.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금융투자소득세 폐지 논란</h3><time class="card-date">2024/01/04</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 대표 흉기 피습 사건과 정치권 영향 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/MB6ZgX</id>
-        <link href="https://newneek.co/post/MB6ZgX"/>
-        <updated>2024-01-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_11.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이재명 대표 흉기 피습 사건과 정치권 영향</h3><time class="card-date">2024/01/04</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 세계 경제 전망 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/b18jN9</id>
-        <link href="https://newneek.co/post/b18jN9"/>
-        <updated>2024-01-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_10.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024년 세계 경제 전망</h3><time class="card-date">2024/01/03</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2024-01-09T19:02:53.304Z</updated>
+    <updated>2024-01-09T20:03:18.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전 세계 이상기후와 기후재난]]></title>
+        <id>https://newneek.co/post/HoMYHF</id>
+        <link href="https://newneek.co/post/HoMYHF"/>
+        <updated>2024-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3B0lnp7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전 세계 이상기후와 기후재난</h3><time class="card-date">2024/01/10</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COP28 총정리: 나 COP쓰, 28살인디 🌿🎂]]></title>
         <id>https://newneek.co/post/v8dGMS</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/FatY2y"/>
         <updated>2023-11-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_wAOvF5G.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(누군가에게는) 불편한 축제</h3><time class="card-date">2023/11/03</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 큐클리프 테크액세서리 라인업]]></title>
-        <id>https://newneek.co/post/0qeQwg</id>
-        <link href="https://newneek.co/post/0qeQwg"/>
-        <updated>2023-10-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/41099293-E9E2-49DE-9D01-94D7E996DFEB.jpeg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 큐클리프 테크액세서리 라인업</h3><time class="card-date">2023/10/30</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
