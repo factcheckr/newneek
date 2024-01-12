@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2024-01-12T19:02:52.938Z</updated>
+    <updated>2024-01-12T20:03:01.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[MS, 1위 터치 👋]]></title>
+        <id>https://newneek.co/post/fiFF1s</id>
+        <link href="https://newneek.co/post/fiFF1s"/>
+        <updated>2024-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마이크로소프트(MS)가 미국 뉴욕 증시에서 한때 애플을 제치고 세계 시가총액 1위에 올랐어요. MS가 애플에 1위를 뺏긴 지 2년 2개월 만에 MS의 시총(2조 9030억 달러)이 애플의 시총(2조 8710억 달러)를 다시 앞지른 건데요. 챗GPT를 만든 오픈AI와 손잡는 등 인공지능(AI) 분야에 투자한 것이 MS의 주가를 올린 것 같다고. 최근 애플의 주가가 떨어진 것도 한몫했고요. 다만 애플은 장 마감 전 다시 1위를 되찾았어요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재개발·재건축 규제 완화 대책]]></title>
         <id>https://newneek.co/post/LYs15q</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/6mJYEJ"/>
         <updated>2023-12-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_9.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">쿠팡 파페치 인수</h3><time class="card-date">2023/12/21</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공인중개사법 개정안 찬반 논란]]></title>
-        <id>https://newneek.co/post/GWEUfx</id>
-        <link href="https://newneek.co/post/GWEUfx"/>
-        <updated>2023-12-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/DDF14E50-FF07-4AE0-87D2-9C75DAC46A45.jpeg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">공인중개사법 개정안 찬반 논란</h3><time class="card-date">2023/12/20</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
