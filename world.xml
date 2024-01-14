@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/world</id>
     <title>뉴닉 ─ 세계</title>
-    <updated>2024-01-14T19:02:53.275Z</updated>
+    <updated>2024-01-14T20:02:47.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[대만 총통 선거 결과와 국제 영향]]></title>
+        <id>https://newneek.co/post/ALXSgR</id>
+        <link href="https://newneek.co/post/ALXSgR"/>
+        <updated>2024-01-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-18.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대만 총통 선거 결과와 국제 영향</h3><time class="card-date">2024/01/15</time><i class="card-category">세계</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대만 총통 선거와 미국-중국 관계]]></title>
         <id>https://newneek.co/post/Mf5qWs</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/HjH4f5"/>
         <updated>2023-11-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_zwIVGds.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이스라엘-팔레스타인 하마스 전쟁(9): 전쟁 한 달 상황</h3><time class="card-date">2023/11/06</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미얀마 쿠데타와 무장투쟁 상황]]></title>
-        <id>https://newneek.co/post/72ms3z</id>
-        <link href="https://newneek.co/post/72ms3z"/>
-        <updated>2023-11-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_3tnMDSp.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미얀마 쿠데타와 무장투쟁 상황</h3><time class="card-date">2023/11/06</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
