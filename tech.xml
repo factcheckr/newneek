@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2024-02-15T23:03:26.724Z</updated>
+    <updated>2024-02-16T00:27:03.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://newneek.co/post/2ktXEx</id>
         <link href="https://newneek.co/post/2ktXEx"/>
         <updated>2024-02-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8-5.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) AI에 숨 트이는 딥 다이브 🌊</h3><time class="card-date">2024/02/14</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8-5.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) AI에 숨 트이는 딥 다이브 🌊</h3><time class="card-date">2024/02/14</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 비전 프로 출시]]></title>
