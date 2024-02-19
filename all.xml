@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-19T10:03:16.303Z</updated>
+    <updated>2024-02-19T11:02:59.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[(광고) 이마트 2024 ‘생활의 격’ (뉴닉 ─ 2022 대선)]]></title>
@@ -387,6 +387,29 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3_pzaOtcr.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">트위치 철수와 망 사용료 문제</h3><time class="card-date">2023/12/11</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(광고) 이마트 2024 ‘생활의 격’ (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/VuUGbm</id>
+        <link href="https://newneek.co/post/VuUGbm"/>
+        <updated>2024-02-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[* 이 콘텐츠는 이마트로부터 광고비를 받아 제작되었습니다.
+마트에서 쇼핑할 때 제일 중요하게 생각하는 게 뭔가요? 요즘은 물가도 너무 비싸고, 아무래도 필요한 거 저렴하게 사는 게 제일이잖아요. 2024년을 맞아 이마트가 고객의 지갑을 지켜주겠다며 올해의 슬로건으로 ‘생활의 격’을 내걸었어요. ‘가격의 파격’과 ‘상품의 품격’까지 모두 챙겨 ‘본격’ 행사를 진행하겠다는 뜻이라고.
+잠깐, 생활의 격? 게다가 가격 파격? 얼마나 파격?
+1년 동안 월별로 3대 식품과 40개 가공·일상용품을 뽑아 한 달 내내 초저가로 판매해요. 자세히 살펴보면:
+
+
+식품 핵심 3대 품목 🧅: 매월 핵심 식품을 3개 골라 초저가로 제공해요. 2월은 대파 소불고기, 냉동만두, 양파예요. 핵심 품목은 시기별로 사람들이 얼마나 찾는지, 채소·가공식품 등 식품 균형까지 꼼꼼히 따져 정한다고.
+
+
+가공·일상 40대 품목 🧻: 식용유·즉석밥부터 휴지·치약·세제 등 실제 고객들이 가장 많이 사는 생필품 40개를 뽑았어요. 1월의 제품들은 정상가 대비 10~60% 저렴했다고.
+
+
+가격역주행 상시 판매 🥛: 물가는 올라도 이마트의 가격만은 거꾸로 내리겠다는 뜻인데요. 차돌박이, 파래김, 파스타소스, 우유, 라면 등을 정상가 대비 30~50% 저렴하게 판매해요.
+
+
+특가 찾아 여러 군데 발품 팔며 애쓰기 싫다면, 일 년 내내 초저가 상품을 만날 수 있는 이마트에 들러봐요. 지난주 시작한 ‘가격역주행’부터 둘러볼까요?
+'가격역주행' 둘러보기]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[중국 이커머스 플랫폼 본격 상륙 (뉴닉 ─ 경제)]]></title>
         <id>https://newneek.co/post/N8UFPs</id>
         <link href="https://newneek.co/post/N8UFPs"/>
@@ -462,13 +485,6 @@
         <link href="https://newneek.co/post/ZyVPiO"/>
         <updated>2024-01-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_n3RuYY1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">청년희망적금-청년도약계좌 연계 가입</h3><time class="card-date">2024/01/23</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 다보스포럼 총정리 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/zB9XRm</id>
-        <link href="https://newneek.co/post/zB9XRm"/>
-        <updated>2024-01-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_10_G6gpJte.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024 다보스포럼 총정리</h3><time class="card-date">2024/01/22</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IT 업계 노조 설립 바람 (뉴닉 ─ 노동)]]></title>
