@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-02-20T19:02:51.301Z</updated>
+    <updated>2024-02-20T20:03:09.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전공의가 병원을 떠나자 벌어진 일]]></title>
+        <id>https://newneek.co/post/1U2qsa</id>
+        <link href="https://newneek.co/post/1U2qsa"/>
+        <updated>2024-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_DhvPCDu.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전공의가 병원을 떠나자 벌어진 일</h3><time class="card-date">2024/02/21</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 인도 증시가 뜨는 이유]]></title>
+        <id>https://newneek.co/post/EybNuu</id>
+        <link href="https://newneek.co/post/EybNuu"/>
+        <updated>2024-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_HyhYAl2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">요즘 인도 증시가 뜨는 이유</h3><time class="card-date">2024/02/21</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘소라’와 멀티모달 인공지능(AI)]]></title>
         <id>https://newneek.co/post/dccw2Y</id>
@@ -90,19 +104,5 @@
         <link href="https://newneek.co/post/3nhfqR"/>
         <updated>2024-02-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_27.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대한항공·아시아나항공 합병 EU 승인</h3><time class="card-date">2024/02/15</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 물가 상승과 금리 인하 가능성]]></title>
-        <id>https://newneek.co/post/ISs4Th</id>
-        <link href="https://newneek.co/post/ISs4Th"/>
-        <updated>2024-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_28.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 물가 상승과 금리 인하 가능성</h3><time class="card-date">2024/02/15</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) AI에 숨 트이는 딥 다이브 🌊]]></title>
-        <id>https://newneek.co/post/2ktXEx</id>
-        <link href="https://newneek.co/post/2ktXEx"/>
-        <updated>2024-02-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8-5.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) AI에 숨 트이는 딥 다이브 🌊</h3><time class="card-date">2024/02/14</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
