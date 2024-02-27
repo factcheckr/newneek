@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/environment</id>
     <title>뉴닉 ─ 환경</title>
-    <updated>2024-02-27T19:04:16.646Z</updated>
+    <updated>2024-02-27T20:03:16.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) SK E&S의 Green Portfolio #2: 블루수소]]></title>
+        <id>https://newneek.co/post/fMkhKm</id>
+        <link href="https://newneek.co/post/fMkhKm"/>
+        <updated>2024-02-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%85%E1%85%A6%E1%84%90%E1%85%A5-40.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) SK E&amp;S의 Green Portfolio #2: 블루수소</h3><time class="card-date">2024/02/28</time><i class="card-category">환경</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부의 그린벨트 해제와 논란]]></title>
         <id>https://newneek.co/post/Xo3fxB</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/nZ5get"/>
         <updated>2023-11-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3_dJ1Wk7c.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">제1회 고슴배 기후위기 국감 시상식 🏆</h3><time class="card-date">2023/11/17</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환경부 일회용품 규제 철회]]></title>
-        <id>https://newneek.co/post/AbBxJM</id>
-        <link href="https://newneek.co/post/AbBxJM"/>
-        <updated>2023-11-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_4HTzBgF.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">환경부 일회용품 규제 철회</h3><time class="card-date">2023/11/10</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
