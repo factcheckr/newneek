@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2024-03-10T19:02:58.300Z</updated>
+    <updated>2024-03-10T20:02:46.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[LCK 디도스 공격 사태]]></title>
+        <id>https://newneek.co/post/l47R71</id>
+        <link href="https://newneek.co/post/l47R71"/>
+        <updated>2024-03-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_35.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">LCK 디도스 공격 사태</h3><time class="card-date">2024/03/11</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) SK E&S의 Green Portfolio #2: 블루수소]]></title>
         <id>https://newneek.co/post/fMkhKm</id>
@@ -111,12 +118,5 @@
 
 특히 1인 스타트업을 꿈꾸는 뉴니커에게 추천! 서비스의 작동 원리를 설계하는 법부터, 운영 상태를 파악하는 방법까지 싹 소개해준다고. AWS Builders 온라인 시리즈에 대해 더 알고 싶다면 아래 링크를 참고하세요!
 2024년, 스펙도 레벨업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 2023년에도 우리랑 함께한 카톡이지 💛]]></title>
-        <id>https://newneek.co/post/gBz3YL</id>
-        <link href="https://newneek.co/post/gBz3YL"/>
-        <updated>2024-01-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EC%95%B1-02.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 2023년에도 우리랑 함께한 카톡이지 💛</h3><time class="card-date">2024/01/03</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
