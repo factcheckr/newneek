@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2024-03-11T19:02:44.449Z</updated>
+    <updated>2024-03-11T20:02:34.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단통법 폐지: ‘공짜폰’은 돌아오는 거야...?!]]></title>
+        <id>https://newneek.co/post/3TxpeD</id>
+        <link href="https://newneek.co/post/3TxpeD"/>
+        <updated>2024-03-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-24.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">단통법 폐지: ‘공짜폰’은 돌아오는 거야...?!</h3><time class="card-date">2024/03/12</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PA 간호사 업무 범위 확대]]></title>
+        <id>https://newneek.co/post/WbAWd2</id>
+        <link href="https://newneek.co/post/WbAWd2"/>
+        <updated>2024-03-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-27.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">PA 간호사 업무 범위 확대</h3><time class="card-date">2024/03/12</time><i class="card-category">사회</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LCK 디도스 공격 사태]]></title>
         <id>https://newneek.co/post/l47R71</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/bnCSW0"/>
         <updated>2024-03-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_15.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 츄파춥스 화이트데이 캠페인</h3><time class="card-date">2024/03/06</time><i class="card-category">라이프</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밸류업 프로그램 효과와 반응]]></title>
-        <id>https://newneek.co/post/gPeMz7</id>
-        <link href="https://newneek.co/post/gPeMz7"/>
-        <updated>2024-03-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_33.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">밸류업 프로그램 효과와 반응</h3><time class="card-date">2024/03/06</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성의 날 인터뷰 3️⃣: 젠더 사건 전문 변호사 이은의]]></title>
-        <id>https://newneek.co/post/on0mrw</id>
-        <link href="https://newneek.co/post/on0mrw"/>
-        <updated>2024-03-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%8B%E1%85%A7%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%82%E1%85%A1%E1%86%AF_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%8B%E1%85%B4%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A1_1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">여성의 날 인터뷰 3️⃣: 젠더 사건 전문 변호사 이은의</h3><time class="card-date">2024/03/06</time><i class="card-category">인권</i></div></div>]]></content>
     </entry>
 </feed>
