@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/economy</id>
     <title>뉴닉 ─ 경제</title>
-    <updated>2024-03-13T19:03:06.651Z</updated>
+    <updated>2024-03-13T20:03:03.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🔔띵동! ‘아이돌 팬덤 구조’ 피자가 도착했습니다!]]></title>
+        <id>https://newneek.co/post/Ei1mT8</id>
+        <link href="https://newneek.co/post/Ei1mT8"/>
+        <updated>2024-03-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/240314_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘아이돌 팬덤 구조’ 피자가 도착했습니다!</h3><time class="card-date">2024/03/14</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스캠코인 피해와 대책]]></title>
         <id>https://newneek.co/post/g25vXl</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/EybNuu"/>
         <updated>2024-02-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_HyhYAl2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">요즘 인도 증시가 뜨는 이유</h3><time class="card-date">2024/02/21</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) PAYCO ‘알뜰족이 추천하는 PAYCO 포인트카드’]]></title>
-        <id>https://newneek.co/post/t0BzFo</id>
-        <link href="https://newneek.co/post/t0BzFo"/>
-        <updated>2024-02-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_14.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) PAYCO ‘알뜰족이 추천하는 PAYCO 포인트카드’</h3><time class="card-date">2024/02/20</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
