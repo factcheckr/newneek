@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2024-03-14T19:03:11.528Z</updated>
+    <updated>2024-03-14T20:02:54.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[일잘러되는 AI 활용법 모음.zip]]></title>
+        <id>https://newneek.co/post/BU6YwY</id>
+        <link href="https://newneek.co/post/BU6YwY"/>
+        <updated>2024-03-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">일잘러되는 AI 활용법 모음.zip</h3><time class="card-date">2024/03/15</time><i class="card-category">라이프</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 양회와 중국 경제 전망]]></title>
+        <id>https://newneek.co/post/VfqCW2</id>
+        <link href="https://newneek.co/post/VfqCW2"/>
+        <updated>2024-03-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6_DVVPqwI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">중국 양회와 중국 경제 전망</h3><time class="card-date">2024/03/15</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이종섭 전 국방부 장관 출국 논란]]></title>
         <id>https://newneek.co/post/5mwQZk</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/sSo1at"/>
         <updated>2024-03-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_32.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">비트코인 가격 급등 원인과 전망</h3><time class="card-date">2024/03/11</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숫자로 보는 여성 인권의 오늘]]></title>
-        <id>https://newneek.co/post/JejF3d</id>
-        <link href="https://newneek.co/post/JejF3d"/>
-        <updated>2024-03-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%8B%E1%85%A7%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%82%E1%85%A1%E1%86%AF_%E1%84%90%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8_ldyBXHu.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">숫자로 보는 여성 인권의 오늘</h3><time class="card-date">2024/03/08</time><i class="card-category">인권</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과일·채소 물가와 대책]]></title>
-        <id>https://newneek.co/post/PQxTAK</id>
-        <link href="https://newneek.co/post/PQxTAK"/>
-        <updated>2024-03-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_34.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">과일·채소 물가와 대책</h3><time class="card-date">2024/03/08</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
