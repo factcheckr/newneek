@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-03-20T14:03:05.221Z</updated>
+    <updated>2024-03-20T20:03:30.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[일본의 잃어버린 30년을 찾아서]]></title>
+        <id>https://newneek.co/post/FKi4co</id>
+        <link href="https://newneek.co/post/FKi4co"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_Iu60Z2H.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">일본의 잃어버린 30년을 찾아서</h3><time class="card-date">2024/03/21</time><i class="card-category"></i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부, 공시가격 현실화 로드맵 폐지 발표]]></title>
+        <id>https://newneek.co/post/NCxjgl</id>
+        <link href="https://newneek.co/post/NCxjgl"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_SriJ9VA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부, 공시가격 현실화 로드맵 폐지 발표</h3><time class="card-date">2024/03/21</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[총선에 부는 조국혁신당 바람]]></title>
         <id>https://newneek.co/post/nAqPko</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/BU6YwY"/>
         <updated>2024-03-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">일잘러되는 AI 활용법 모음.zip</h3><time class="card-date">2024/03/15</time><i class="card-category">라이프</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 양회와 중국 경제 전망]]></title>
-        <id>https://newneek.co/post/VfqCW2</id>
-        <link href="https://newneek.co/post/VfqCW2"/>
-        <updated>2024-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6_DVVPqwI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">중국 양회와 중국 경제 전망</h3><time class="card-date">2024/03/15</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종섭 전 국방부 장관 출국 논란]]></title>
-        <id>https://newneek.co/post/5mwQZk</id>
-        <link href="https://newneek.co/post/5mwQZk"/>
-        <updated>2024-03-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7_hvPhAgh.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이종섭 전 국방부 장관 출국 논란</h3><time class="card-date">2024/03/14</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>

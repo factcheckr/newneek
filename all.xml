@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-20T14:03:05.216Z</updated>
+    <updated>2024-03-20T20:03:30.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[일본의 잃어버린 30년을 찾아서 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/FKi4co</id>
+        <link href="https://newneek.co/post/FKi4co"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_Iu60Z2H.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">일본의 잃어버린 30년을 찾아서</h3><time class="card-date">2024/03/21</time><i class="card-category"></i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부, 공시가격 현실화 로드맵 폐지 발표 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/NCxjgl</id>
+        <link href="https://newneek.co/post/NCxjgl"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_SriJ9VA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부, 공시가격 현실화 로드맵 폐지 발표</h3><time class="card-date">2024/03/21</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[총선에 부는 조국혁신당 바람 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/nAqPko</id>
@@ -73,20 +87,6 @@
         <link href="https://newneek.co/post/BU6YwY"/>
         <updated>2024-03-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">일잘러되는 AI 활용법 모음.zip</h3><time class="card-date">2024/03/15</time><i class="card-category">라이프</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 양회와 중국 경제 전망 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/VfqCW2</id>
-        <link href="https://newneek.co/post/VfqCW2"/>
-        <updated>2024-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6_DVVPqwI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">중국 양회와 중국 경제 전망</h3><time class="card-date">2024/03/15</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종섭 전 국방부 장관 출국 논란 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/5mwQZk</id>
-        <link href="https://newneek.co/post/5mwQZk"/>
-        <updated>2024-03-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7_hvPhAgh.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이종섭 전 국방부 장관 출국 논란</h3><time class="card-date">2024/03/14</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[총선에 부는 조국혁신당 바람 (뉴닉 ─ 정치)]]></title>
@@ -341,6 +341,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_5_4VHzVSe.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">IT 업계 노조 설립 바람</h3><time class="card-date">2024/02/01</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[정부, 공시가격 현실화 로드맵 폐지 발표 (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/NCxjgl</id>
+        <link href="https://newneek.co/post/NCxjgl"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_SriJ9VA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부, 공시가격 현실화 로드맵 폐지 발표</h3><time class="card-date">2024/03/21</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에브리 자산 쭉쭉 상승 올 앳 원스 (뉴닉 ─ 경제)]]></title>
         <id>https://newneek.co/post/o1VDi2</id>
         <link href="https://newneek.co/post/o1VDi2"/>
@@ -416,13 +423,6 @@
         <link href="https://newneek.co/post/mfyQ2M"/>
         <updated>2024-03-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_30mrbJe.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">OPEC+ 감산 연장과 물가∙금리 영향</h3><time class="card-date">2024/03/05</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단기 투자 상품이 인기인 이유 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/IhUcn6</id>
-        <link href="https://newneek.co/post/IhUcn6"/>
-        <updated>2024-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-23.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">단기 투자 상품이 인기인 이유</h3><time class="card-date">2024/02/28</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘취업 제한’ 피자가 도착했습니다! (뉴닉 ─ 노동)]]></title>
@@ -609,6 +609,20 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3_dJ1Wk7c.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">제1회 고슴배 기후위기 국감 시상식 🏆</h3><time class="card-date">2023/11/17</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[일본의 잃어버린 30년을 찾아서 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/FKi4co</id>
+        <link href="https://newneek.co/post/FKi4co"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_Iu60Z2H.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">일본의 잃어버린 30년을 찾아서</h3><time class="card-date">2024/03/21</time><i class="card-category"></i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부, 공시가격 현실화 로드맵 폐지 발표 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/NCxjgl</id>
+        <link href="https://newneek.co/post/NCxjgl"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_SriJ9VA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부, 공시가격 현실화 로드맵 폐지 발표</h3><time class="card-date">2024/03/21</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[총선에 부는 조국혁신당 바람 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/nAqPko</id>
         <link href="https://newneek.co/post/nAqPko"/>
@@ -679,18 +693,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">일잘러되는 AI 활용법 모음.zip</h3><time class="card-date">2024/03/15</time><i class="card-category">라이프</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중국 양회와 중국 경제 전망 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/VfqCW2</id>
-        <link href="https://newneek.co/post/VfqCW2"/>
-        <updated>2024-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6_DVVPqwI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">중국 양회와 중국 경제 전망</h3><time class="card-date">2024/03/15</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[일본의 잃어버린 30년을 찾아서 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/FKi4co</id>
+        <link href="https://newneek.co/post/FKi4co"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_Iu60Z2H.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">일본의 잃어버린 30년을 찾아서</h3><time class="card-date">2024/03/21</time><i class="card-category"></i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이종섭 전 국방부 장관 출국 논란 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/5mwQZk</id>
-        <link href="https://newneek.co/post/5mwQZk"/>
-        <updated>2024-03-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7_hvPhAgh.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이종섭 전 국방부 장관 출국 논란</h3><time class="card-date">2024/03/14</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[정부, 공시가격 현실화 로드맵 폐지 발표 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/NCxjgl</id>
+        <link href="https://newneek.co/post/NCxjgl"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_SriJ9VA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부, 공시가격 현실화 로드맵 폐지 발표</h3><time class="card-date">2024/03/21</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[총선에 부는 조국혁신당 바람 (뉴닉 ─ 코로나19)]]></title>
@@ -763,18 +777,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">일잘러되는 AI 활용법 모음.zip</h3><time class="card-date">2024/03/15</time><i class="card-category">라이프</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중국 양회와 중국 경제 전망 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/VfqCW2</id>
-        <link href="https://newneek.co/post/VfqCW2"/>
-        <updated>2024-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6_DVVPqwI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">중국 양회와 중국 경제 전망</h3><time class="card-date">2024/03/15</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[일본의 잃어버린 30년을 찾아서 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/FKi4co</id>
+        <link href="https://newneek.co/post/FKi4co"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_Iu60Z2H.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">일본의 잃어버린 30년을 찾아서</h3><time class="card-date">2024/03/21</time><i class="card-category"></i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이종섭 전 국방부 장관 출국 논란 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/5mwQZk</id>
-        <link href="https://newneek.co/post/5mwQZk"/>
-        <updated>2024-03-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7_hvPhAgh.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이종섭 전 국방부 장관 출국 논란</h3><time class="card-date">2024/03/14</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[정부, 공시가격 현실화 로드맵 폐지 발표 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/NCxjgl</id>
+        <link href="https://newneek.co/post/NCxjgl"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_SriJ9VA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부, 공시가격 현실화 로드맵 폐지 발표</h3><time class="card-date">2024/03/21</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[총선에 부는 조국혁신당 바람 (뉴닉 ─ 피자스테이션)]]></title>
@@ -845,19 +859,5 @@
         <link href="https://newneek.co/post/BU6YwY"/>
         <updated>2024-03-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">일잘러되는 AI 활용법 모음.zip</h3><time class="card-date">2024/03/15</time><i class="card-category">라이프</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 양회와 중국 경제 전망 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/VfqCW2</id>
-        <link href="https://newneek.co/post/VfqCW2"/>
-        <updated>2024-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_6_DVVPqwI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">중국 양회와 중국 경제 전망</h3><time class="card-date">2024/03/15</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종섭 전 국방부 장관 출국 논란 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/5mwQZk</id>
-        <link href="https://newneek.co/post/5mwQZk"/>
-        <updated>2024-03-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_7_hvPhAgh.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이종섭 전 국방부 장관 출국 논란</h3><time class="card-date">2024/03/14</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
