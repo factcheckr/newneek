@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-03-21T00:28:44.291Z</updated>
+    <updated>2024-03-21T01:41:01.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://newneek.co/post/FKi4co"/>
         <updated>2024-03-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_Iu60Z2H.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">일본의 잃어버린 30년을 찾아서</h3><time class="card-date">2024/03/21</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔔띵동! ‘키오스크 확산’ 피자가 도착했습니다!]]></title>
+        <id>https://newneek.co/post/McapP3</id>
+        <link href="https://newneek.co/post/McapP3"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/240321_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘키오스크 확산’ 피자가 도착했습니다!</h3><time class="card-date">2024/03/21</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정부, 공시가격 현실화 로드맵 폐지 발표]]></title>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/l7IxQY"/>
         <updated>2024-03-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_39.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">긴 야구 경기에 피치클락의 등장이라</h3><time class="card-date">2024/03/18</time><i class="card-category">문화</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일잘러되는 AI 활용법 모음.zip]]></title>
-        <id>https://newneek.co/post/BU6YwY</id>
-        <link href="https://newneek.co/post/BU6YwY"/>
-        <updated>2024-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">일잘러되는 AI 활용법 모음.zip</h3><time class="card-date">2024/03/15</time><i class="card-category">라이프</i></div></div>]]></content>
     </entry>
 </feed>
