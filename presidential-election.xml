@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-03-24T19:03:03.101Z</updated>
+    <updated>2024-03-24T20:03:05.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 총선 후보자 등록 현황]]></title>
+        <id>https://newneek.co/post/8yK8QE</id>
+        <link href="https://newneek.co/post/8yK8QE"/>
+        <updated>2024-03-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_37.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024 총선 후보자 등록 현황</h3><time class="card-date">2024/03/25</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 반독점 소송 배경과 전망]]></title>
+        <id>https://newneek.co/post/HXiOd4</id>
+        <link href="https://newneek.co/post/HXiOd4"/>
+        <updated>2024-03-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_41.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">애플 반독점 소송 배경과 전망</h3><time class="card-date">2024/03/25</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지역 의대가 서울 의대보다 커진다고?]]></title>
         <id>https://newneek.co/post/2AOhRJ</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/EjPUg0"/>
         <updated>2024-03-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-27.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">푸틴: 보여줄게 더 강력한 러시아</h3><time class="card-date">2024/03/19</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사과, 비싸면 수입하면 되...는 게 아니라고?]]></title>
-        <id>https://newneek.co/post/LmpCJ3</id>
-        <link href="https://newneek.co/post/LmpCJ3"/>
-        <updated>2024-03-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-30.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">사과, 비싸면 수입하면 되...는 게 아니라고?</h3><time class="card-date">2024/03/19</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 나만의 ‘진짜’ 미라클모닝을 찾아서]]></title>
-        <id>https://newneek.co/post/6ueZAf</id>
-        <link href="https://newneek.co/post/6ueZAf"/>
-        <updated>2024-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/240317_%E1%84%8B%E1%85%A9%E1%84%85%E1%85%A6%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%8E%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B5.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 나만의 ‘진짜’ 미라클모닝을 찾아서</h3><time class="card-date">2024/03/18</time><i class="card-category">문화</i></div></div>]]></content>
     </entry>
 </feed>
