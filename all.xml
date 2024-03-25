@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-25T14:03:32.342Z</updated>
+    <updated>2024-03-25T15:03:57.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 2024 총선 뽀개기: “정보가 왜 어려워야 하나요?” (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/9S7yzw</id>
+        <link href="https://newneek.co/post/9S7yzw"/>
+        <updated>2024-03-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%87%E1%85%B2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">[인터뷰] 2024 총선 뽀개기: “정보가 왜 어려워야 하나요?”</h3><time class="card-date">2024/03/26</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 총선 후보자 등록 현황 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/8yK8QE</id>
@@ -82,11 +89,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8-6.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) AWS TechCamp</h3><time class="card-date">2024/03/19</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[푸틴: 보여줄게 더 강력한 러시아 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/EjPUg0</id>
-        <link href="https://newneek.co/post/EjPUg0"/>
-        <updated>2024-03-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-27.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">푸틴: 보여줄게 더 강력한 러시아</h3><time class="card-date">2024/03/19</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[[인터뷰] 2024 총선 뽀개기: “정보가 왜 어려워야 하나요?” (뉴닉 ─ 정치)]]></title>
+        <id>https://newneek.co/post/9S7yzw</id>
+        <link href="https://newneek.co/post/9S7yzw"/>
+        <updated>2024-03-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%87%E1%85%B2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">[인터뷰] 2024 총선 뽀개기: “정보가 왜 어려워야 하나요?”</h3><time class="card-date">2024/03/26</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 총선 후보자 등록 현황 (뉴닉 ─ 정치)]]></title>
@@ -164,13 +171,6 @@
         <link href="https://newneek.co/post/lp13IQ"/>
         <updated>2024-02-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_28.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한국-쿠바 65년 만의 수교</h3><time class="card-date">2024/02/16</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 총선 선거제도 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/mwtSG2</id>
-        <link href="https://newneek.co/post/mwtSG2"/>
-        <updated>2024-02-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_1_zzVy4b6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">2024 총선 선거제도</h3><time class="card-date">2024/02/07</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 반독점 소송 배경과 전망 (뉴닉 ─ 세계)]]></title>
@@ -609,6 +609,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_3_dJ1Wk7c.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">제1회 고슴배 기후위기 국감 시상식 🏆</h3><time class="card-date">2023/11/17</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[인터뷰] 2024 총선 뽀개기: “정보가 왜 어려워야 하나요?” (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/9S7yzw</id>
+        <link href="https://newneek.co/post/9S7yzw"/>
+        <updated>2024-03-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%87%E1%85%B2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">[인터뷰] 2024 총선 뽀개기: “정보가 왜 어려워야 하나요?”</h3><time class="card-date">2024/03/26</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024 총선 후보자 등록 현황 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/8yK8QE</id>
         <link href="https://newneek.co/post/8yK8QE"/>
@@ -686,11 +693,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8-6.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) AWS TechCamp</h3><time class="card-date">2024/03/19</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[푸틴: 보여줄게 더 강력한 러시아 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/EjPUg0</id>
-        <link href="https://newneek.co/post/EjPUg0"/>
-        <updated>2024-03-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-27.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">푸틴: 보여줄게 더 강력한 러시아</h3><time class="card-date">2024/03/19</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[[인터뷰] 2024 총선 뽀개기: “정보가 왜 어려워야 하나요?” (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/9S7yzw</id>
+        <link href="https://newneek.co/post/9S7yzw"/>
+        <updated>2024-03-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%87%E1%85%B2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">[인터뷰] 2024 총선 뽀개기: “정보가 왜 어려워야 하나요?”</h3><time class="card-date">2024/03/26</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 총선 후보자 등록 현황 (뉴닉 ─ 코로나19)]]></title>
@@ -770,11 +777,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8-6.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) AWS TechCamp</h3><time class="card-date">2024/03/19</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[푸틴: 보여줄게 더 강력한 러시아 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/EjPUg0</id>
-        <link href="https://newneek.co/post/EjPUg0"/>
-        <updated>2024-03-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-27.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">푸틴: 보여줄게 더 강력한 러시아</h3><time class="card-date">2024/03/19</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[[인터뷰] 2024 총선 뽀개기: “정보가 왜 어려워야 하나요?” (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/9S7yzw</id>
+        <link href="https://newneek.co/post/9S7yzw"/>
+        <updated>2024-03-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%87%E1%85%B2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">[인터뷰] 2024 총선 뽀개기: “정보가 왜 어려워야 하나요?”</h3><time class="card-date">2024/03/26</time><i class="card-category">정치</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 총선 후보자 등록 현황 (뉴닉 ─ 피자스테이션)]]></title>
@@ -852,12 +859,5 @@
         <link href="https://newneek.co/post/7306FL"/>
         <updated>2024-03-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8-6.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) AWS TechCamp</h3><time class="card-date">2024/03/19</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸틴: 보여줄게 더 강력한 러시아 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/EjPUg0</id>
-        <link href="https://newneek.co/post/EjPUg0"/>
-        <updated>2024-03-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2-27.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">푸틴: 보여줄게 더 강력한 러시아</h3><time class="card-date">2024/03/19</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
