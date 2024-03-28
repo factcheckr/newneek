@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/labor</id>
     <title>뉴닉 ─ 노동</title>
-    <updated>2024-03-28T19:02:48.287Z</updated>
+    <updated>2024-03-28T20:02:58.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 시내버스 파업 이유]]></title>
+        <id>https://newneek.co/post/Uqgnpk</id>
+        <link href="https://newneek.co/post/Uqgnpk"/>
+        <updated>2024-03-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_7_JNLUP5w.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">서울 시내버스 파업 이유</h3><time class="card-date">2024/03/29</time><i class="card-category">노동</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘취업 제한’ 피자가 도착했습니다!]]></title>
         <id>https://newneek.co/post/a1q6fA</id>
@@ -97,12 +104,5 @@
         <link href="https://newneek.co/post/B5MDkA"/>
         <updated>2023-10-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_hdoDJ4t.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">원스 어폰 어 파업 인 할리우드</h3><time class="card-date">2023/10/12</time><i class="card-category">노동</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경찰 ‘집회·시위 문화 개선 방안’ 발표]]></title>
-        <id>https://newneek.co/post/iw16K3</id>
-        <link href="https://newneek.co/post/iw16K3"/>
-        <updated>2023-09-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_17.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">경찰 ‘집회·시위 문화 개선 방안’ 발표</h3><time class="card-date">2023/09/25</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
 </feed>
