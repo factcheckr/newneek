@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2024-03-28T23:03:27.915Z</updated>
+    <updated>2024-03-29T00:29:16.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://newneek.co/post/9UzjEj</id>
         <link href="https://newneek.co/post/9UzjEj"/>
         <updated>2024-03-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_6i1BKIZ.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) IT·테크 새싹부터 리더까지 여기여기 모여라 🙋</h3><time class="card-date">2024/03/27</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_6i1BKIZ.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) IT·테크 새싹부터 리더까지 여기여기 모여라 🙋</h3><time class="card-date">2024/03/27</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘키오스크 확산’ 피자가 도착했습니다!]]></title>
