@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2024-04-03T19:02:54.139Z</updated>
+    <updated>2024-04-03T20:02:45.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[거대언어모델과 휴머노이드]]></title>
+        <id>https://newneek.co/post/HV2nlG</id>
+        <link href="https://newneek.co/post/HV2nlG"/>
+        <updated>2024-04-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_SJBdMEo.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">거대언어모델과 휴머노이드</h3><time class="card-date">2024/04/04</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤오미 전기차 SU7 출시]]></title>
         <id>https://newneek.co/post/qnp632</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/2ktXEx"/>
         <updated>2024-02-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8-5.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) AI에 숨 트이는 딥 다이브 🌊</h3><time class="card-date">2024/02/14</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 비전 프로 출시]]></title>
-        <id>https://newneek.co/post/9c2I8v</id>
-        <link href="https://newneek.co/post/9c2I8v"/>
-        <updated>2024-02-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_27.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">애플 비전 프로 출시</h3><time class="card-date">2024/02/05</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
