@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2024-04-13T23:09:10.004Z</updated>
+    <updated>2024-04-14T00:32:27.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://newneek.co/post/C0Hsty</id>
         <link href="https://newneek.co/post/C0Hsty"/>
         <updated>2024-04-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%85%E1%85%A6%E1%84%90%E1%85%A52.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 국내 최초 포토샵 팝업스토어</h3><time class="card-date">2024/04/12</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%85%E1%85%A6%E1%84%90%E1%85%A52.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 국내 최초 포토샵 팝업스토어</h3><time class="card-date">2024/04/12</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거대언어모델과 휴머노이드]]></title>
