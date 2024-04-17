@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2024-04-17T19:02:50.746Z</updated>
+    <updated>2024-04-17T20:02:55.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🔔띵동! ‘AI 노래 커버’ 피자가 도착했습니다!]]></title>
+        <id>https://newneek.co/post/XfGvoL</id>
+        <link href="https://newneek.co/post/XfGvoL"/>
+        <updated>2024-04-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/240418_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘AI 노래 커버’ 피자가 도착했습니다!</h3><time class="card-date">2024/04/18</time><i class="card-category">테크</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 국내 최초 포토샵 팝업스토어]]></title>
         <id>https://newneek.co/post/C0Hsty</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/Qn7Vqz"/>
         <updated>2024-02-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_qEXqdpT.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">MWC 2024와 인공지능</h3><time class="card-date">2024/02/27</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소라’와 멀티모달 인공지능(AI)]]></title>
-        <id>https://newneek.co/post/dccw2Y</id>
-        <link href="https://newneek.co/post/dccw2Y"/>
-        <updated>2024-02-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_30.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘소라’와 멀티모달 인공지능(AI)</h3><time class="card-date">2024/02/20</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
