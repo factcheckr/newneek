@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-28T19:02:55.345Z</updated>
+    <updated>2024-04-28T20:02:57.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[미국 스태그플레이션 우려 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/UlkiBi</id>
+        <link href="https://newneek.co/post/UlkiBi"/>
+        <updated>2024-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_j9FENPI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 스태그플레이션 우려</h3><time class="card-date">2024/04/29</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울시 학생인권조례 폐지의 갈등과 전망 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/post/mAE0aX</id>
+        <link href="https://newneek.co/post/mAE0aX"/>
+        <updated>2024-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_XehnOlf.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">서울시 학생인권조례 폐지의 갈등과 전망</h3><time class="card-date">2024/04/29</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스페셜 DJ 코너 🎙️] 남의 연애에 과몰입하는 영상이 100만 조회수 찍는 이유 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/post/3nhRPB</id>
@@ -73,20 +87,6 @@
         <link href="https://newneek.co/post/LoWABG"/>
         <updated>2024-04-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Wb0W4Gt.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">내가 살고 싶은 곳에서 살 권리 🏡</h3><time class="card-date">2024/04/22</time><i class="card-category">인권</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테슬라 구조조정과 전기차 시장 부진 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/nLtTpe</id>
-        <link href="https://newneek.co/post/nLtTpe"/>
-        <updated>2024-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_HYZXtrl.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">테슬라 구조조정과 전기차 시장 부진</h3><time class="card-date">2024/04/22</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 한국P&G X 네이버 해피빈 환경 지속가능성 캠페인 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/post/sxRViJ</id>
-        <link href="https://newneek.co/post/sxRViJ"/>
-        <updated>2024-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8-8.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 한국P&amp;G X 네이버 해피빈 환경 지속가능성 캠페인</h3><time class="card-date">2024/04/22</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[21대 국회 법안 처리 상황 (뉴닉 ─ 정치)]]></title>
@@ -341,6 +341,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%85%E1%85%A6%E1%84%90%E1%85%A5-40.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) SK E&amp;S의 Green Portfolio #2: 블루수소</h3><time class="card-date">2024/02/28</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[미국 스태그플레이션 우려 (뉴닉 ─ 경제)]]></title>
+        <id>https://newneek.co/post/UlkiBi</id>
+        <link href="https://newneek.co/post/UlkiBi"/>
+        <updated>2024-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_j9FENPI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 스태그플레이션 우려</h3><time class="card-date">2024/04/29</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[하이브-어도어 갈등 배경과 전망 (뉴닉 ─ 경제)]]></title>
         <id>https://newneek.co/post/HLhqP5</id>
         <link href="https://newneek.co/post/HLhqP5"/>
@@ -416,13 +423,6 @@
         <link href="https://newneek.co/post/Zy0L3F"/>
         <updated>2024-04-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/240404_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘구독제 상품 소비’ 피자가 도착했습니다!</h3><time class="card-date">2024/04/04</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 봐, 이젠 무료 배달 싸움이다 🥊 (뉴닉 ─ 경제)]]></title>
-        <id>https://newneek.co/post/NA6s2i</id>
-        <link href="https://newneek.co/post/NA6s2i"/>
-        <updated>2024-04-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-35.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">잘 봐, 이젠 무료 배달 싸움이다 🥊</h3><time class="card-date">2024/04/03</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[2024 총선뽀개기] 공약 뽀개기 (3): 노동 분야 (뉴닉 ─ 노동)]]></title>
@@ -618,6 +618,20 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6_ZpP5V7u.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">COP28 총정리: 나 COP쓰, 28살인디 🌿🎂</h3><time class="card-date">2023/12/15</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[미국 스태그플레이션 우려 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/UlkiBi</id>
+        <link href="https://newneek.co/post/UlkiBi"/>
+        <updated>2024-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_j9FENPI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 스태그플레이션 우려</h3><time class="card-date">2024/04/29</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울시 학생인권조례 폐지의 갈등과 전망 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/post/mAE0aX</id>
+        <link href="https://newneek.co/post/mAE0aX"/>
+        <updated>2024-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_XehnOlf.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">서울시 학생인권조례 폐지의 갈등과 전망</h3><time class="card-date">2024/04/29</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[스페셜 DJ 코너 🎙️] 남의 연애에 과몰입하는 영상이 100만 조회수 찍는 이유 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/post/3nhRPB</id>
         <link href="https://newneek.co/post/3nhRPB"/>
@@ -688,18 +702,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Wb0W4Gt.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">내가 살고 싶은 곳에서 살 권리 🏡</h3><time class="card-date">2024/04/22</time><i class="card-category">인권</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[테슬라 구조조정과 전기차 시장 부진 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/nLtTpe</id>
-        <link href="https://newneek.co/post/nLtTpe"/>
-        <updated>2024-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_HYZXtrl.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">테슬라 구조조정과 전기차 시장 부진</h3><time class="card-date">2024/04/22</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[미국 스태그플레이션 우려 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/UlkiBi</id>
+        <link href="https://newneek.co/post/UlkiBi"/>
+        <updated>2024-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_j9FENPI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 스태그플레이션 우려</h3><time class="card-date">2024/04/29</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 한국P&G X 네이버 해피빈 환경 지속가능성 캠페인 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/post/sxRViJ</id>
-        <link href="https://newneek.co/post/sxRViJ"/>
-        <updated>2024-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8-8.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 한국P&amp;G X 네이버 해피빈 환경 지속가능성 캠페인</h3><time class="card-date">2024/04/22</time><i class="card-category">환경</i></div></div>]]></content>
+        <title type="html"><![CDATA[서울시 학생인권조례 폐지의 갈등과 전망 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/post/mAE0aX</id>
+        <link href="https://newneek.co/post/mAE0aX"/>
+        <updated>2024-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_XehnOlf.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">서울시 학생인권조례 폐지의 갈등과 전망</h3><time class="card-date">2024/04/29</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스페셜 DJ 코너 🎙️] 남의 연애에 과몰입하는 영상이 100만 조회수 찍는 이유 (뉴닉 ─ 코로나19)]]></title>
@@ -772,18 +786,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Wb0W4Gt.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">내가 살고 싶은 곳에서 살 권리 🏡</h3><time class="card-date">2024/04/22</time><i class="card-category">인권</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[테슬라 구조조정과 전기차 시장 부진 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/nLtTpe</id>
-        <link href="https://newneek.co/post/nLtTpe"/>
-        <updated>2024-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_HYZXtrl.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">테슬라 구조조정과 전기차 시장 부진</h3><time class="card-date">2024/04/22</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[미국 스태그플레이션 우려 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/UlkiBi</id>
+        <link href="https://newneek.co/post/UlkiBi"/>
+        <updated>2024-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_j9FENPI.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 스태그플레이션 우려</h3><time class="card-date">2024/04/29</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 한국P&G X 네이버 해피빈 환경 지속가능성 캠페인 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/post/sxRViJ</id>
-        <link href="https://newneek.co/post/sxRViJ"/>
-        <updated>2024-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8-8.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 한국P&amp;G X 네이버 해피빈 환경 지속가능성 캠페인</h3><time class="card-date">2024/04/22</time><i class="card-category">환경</i></div></div>]]></content>
+        <title type="html"><![CDATA[서울시 학생인권조례 폐지의 갈등과 전망 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/post/mAE0aX</id>
+        <link href="https://newneek.co/post/mAE0aX"/>
+        <updated>2024-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_XehnOlf.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">서울시 학생인권조례 폐지의 갈등과 전망</h3><time class="card-date">2024/04/29</time><i class="card-category">인권</i><div class="card-newtag">NEW</div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스페셜 DJ 코너 🎙️] 남의 연애에 과몰입하는 영상이 100만 조회수 찍는 이유 (뉴닉 ─ 피자스테이션)]]></title>
@@ -854,19 +868,5 @@
         <link href="https://newneek.co/post/LoWABG"/>
         <updated>2024-04-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_Wb0W4Gt.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">내가 살고 싶은 곳에서 살 권리 🏡</h3><time class="card-date">2024/04/22</time><i class="card-category">인권</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테슬라 구조조정과 전기차 시장 부진 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/nLtTpe</id>
-        <link href="https://newneek.co/post/nLtTpe"/>
-        <updated>2024-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_HYZXtrl.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">테슬라 구조조정과 전기차 시장 부진</h3><time class="card-date">2024/04/22</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 한국P&G X 네이버 해피빈 환경 지속가능성 캠페인 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/post/sxRViJ</id>
-        <link href="https://newneek.co/post/sxRViJ"/>
-        <updated>2024-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8-8.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 한국P&amp;G X 네이버 해피빈 환경 지속가능성 캠페인</h3><time class="card-date">2024/04/22</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
 </feed>
