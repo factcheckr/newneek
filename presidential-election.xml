@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-04-30T19:02:36.544Z</updated>
+    <updated>2024-04-30T20:03:57.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[노동절과 법 밖의 노동자]]></title>
+        <id>https://newneek.co/post/EE68li</id>
+        <link href="https://newneek.co/post/EE68li"/>
+        <updated>2024-05-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_DHxlwJf.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">노동절과 법 밖의 노동자</h3><time class="card-date">2024/05/01</time><i class="card-category">노동</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알파벳 주가 상승세 이유와 전망]]></title>
+        <id>https://newneek.co/post/TWOdGj</id>
+        <link href="https://newneek.co/post/TWOdGj"/>
+        <updated>2024-05-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_1_NtHXe3Q.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">알파벳 주가 상승세 이유와 전망</h3><time class="card-date">2024/05/01</time><i class="card-category">경제</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 가자전쟁 반대 시위]]></title>
         <id>https://newneek.co/post/0LmP5z</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/post/CvK5t6"/>
         <updated>2024-04-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2-2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국민연금 개혁 시민대표의 선택</h3><time class="card-date">2024/04/25</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브-어도어 갈등 배경과 전망]]></title>
-        <id>https://newneek.co/post/HLhqP5</id>
-        <link href="https://newneek.co/post/HLhqP5"/>
-        <updated>2024-04-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1-2.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">하이브-어도어 갈등 배경과 전망</h3><time class="card-date">2024/04/25</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21대 국회 법안 처리 상황]]></title>
-        <id>https://newneek.co/post/bufqRr</id>
-        <link href="https://newneek.co/post/bufqRr"/>
-        <updated>2024-04-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_10_URsKlSR.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">21대 국회 법안 처리 상황</h3><time class="card-date">2024/04/24</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>

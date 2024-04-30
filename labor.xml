@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/labor</id>
     <title>뉴닉 ─ 노동</title>
-    <updated>2024-04-30T19:02:36.539Z</updated>
+    <updated>2024-04-30T20:03:57.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[노동절과 법 밖의 노동자]]></title>
+        <id>https://newneek.co/post/EE68li</id>
+        <link href="https://newneek.co/post/EE68li"/>
+        <updated>2024-05-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_DHxlwJf.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">노동절과 법 밖의 노동자</h3><time class="card-date">2024/05/01</time><i class="card-category">노동</i><div class="card-newtag">NEW</div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2024 총선뽀개기] 공약 뽀개기 (3): 노동 분야]]></title>
         <id>https://newneek.co/post/TPSqgu</id>
@@ -97,12 +104,5 @@
         <link href="https://newneek.co/post/rsgXN7"/>
         <updated>2023-10-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1-12.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">노동시장 이중구조와 청년 니트족</h3><time class="card-date">2023/10/26</time><i class="card-category">노동</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠팡 하청 택배 기사 사망과 책임 논란]]></title>
-        <id>https://newneek.co/post/JXkyeb</id>
-        <link href="https://newneek.co/post/JXkyeb"/>
-        <updated>2023-10-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_mOVHDcA.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">쿠팡 하청 택배 기사 사망과 책임 논란</h3><time class="card-date">2023/10/16</time><i class="card-category">노동</i></div></div>]]></content>
     </entry>
 </feed>
