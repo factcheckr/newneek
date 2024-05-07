@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/politics</id>
     <title>뉴닉 ─ 정치</title>
-    <updated>2024-05-07T19:02:50.766Z</updated>
+    <updated>2024-05-07T20:04:08.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘김건희 특검법’과 검찰 수사]]></title>
+        <id>https://newneek.co/post/udn3z0</id>
+        <link href="https://newneek.co/post/udn3z0"/>
+        <updated>2024-05-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_47.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘김건희 특검법’과 검찰 수사</h3><time class="card-date">2024/05/08</time><i class="card-category">정치</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10·29 이태원 참사 특별법 본회의 통과]]></title>
         <id>https://newneek.co/post/ci4nQa</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/7F2DcM"/>
         <updated>2024-04-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A3%E1%86%A8%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8C%E1%85%A5%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A2%E1%86%BC_aVbqXF3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">[2024 총선뽀개기] 공약 뽀개기 (4): 저출생 분야</h3><time class="card-date">2024/04/03</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2024 총선뽀개기] 공약 뽀개기 (3): 노동 분야]]></title>
-        <id>https://newneek.co/post/TPSqgu</id>
-        <link href="https://newneek.co/post/TPSqgu"/>
-        <updated>2024-04-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A3%E1%86%A8%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%82%E1%85%A9%E1%84%83%E1%85%A9%E1%86%BC_QRv7zaY.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">[2024 총선뽀개기] 공약 뽀개기 (3): 노동 분야</h3><time class="card-date">2024/04/02</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
