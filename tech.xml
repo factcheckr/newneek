@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/tech</id>
     <title>뉴닉 ─ 테크</title>
-    <updated>2024-05-16T19:02:32.228Z</updated>
+    <updated>2024-05-16T20:02:37.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[GPT-4o의 등장과 AI 기술 경쟁]]></title>
+        <id>https://newneek.co/post/kD2pxB</id>
+        <link href="https://newneek.co/post/kD2pxB"/>
+        <updated>2024-05-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2-6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">GPT-4o의 등장과 AI 기술 경쟁</h3><time class="card-date">2024/05/17</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 가짜 정보 생성과 대책]]></title>
         <id>https://newneek.co/post/XDdrpv</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/post/l47R71"/>
         <updated>2024-03-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_35.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">LCK 디도스 공격 사태</h3><time class="card-date">2024/03/11</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) SK E&S의 Green Portfolio #2: 블루수소]]></title>
-        <id>https://newneek.co/post/fMkhKm</id>
-        <link href="https://newneek.co/post/fMkhKm"/>
-        <updated>2024-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%85%E1%85%A6%E1%84%90%E1%85%A5-40.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) SK E&amp;S의 Green Portfolio #2: 블루수소</h3><time class="card-date">2024/02/28</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
