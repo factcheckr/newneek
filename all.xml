@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-19T20:02:46.177Z</updated>
+    <updated>2024-05-19T21:02:53.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[최저임금, 사람마다 다르게 주자고? (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/8780</id>
+        <link href="https://newneek.co/@newneek/article/8780"/>
+        <updated>2024-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a5e1441c1fac4cc4b5d9e04509542789.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">최저임금, 사람마다 다르게 주자고?</h3><time class="card-date">2024/05/19</time><i class="card-category">노동</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피할 수 없으면 내라! 찐부자 세금 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/8781</id>
+        <link href="https://newneek.co/@newneek/article/8781"/>
+        <updated>2024-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/ca023a3f0462444f8d2cd882f1707832.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">피할 수 없으면 내라! 찐부자 세금</h3><time class="card-date">2024/05/19</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 헤어지긴 좀 이른 것 같아 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/8782</id>
+        <link href="https://newneek.co/@newneek/article/8782"/>
+        <updated>2024-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/be8e0af306fa4b9b875fc4e60278cb91.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">우리 헤어지긴 좀 이른 것 같아</h3><time class="card-date">2024/05/19</time><i class="card-category">환경</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라인야후 지분 갈등 상황 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/@newneek/article/7821</id>
@@ -66,27 +87,6 @@
         <link href="https://newneek.co/@newneek/article/7817"/>
         <updated>2024-05-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_48.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국, 중국산 커넥티드 카 규제 예고</h3><time class="card-date">2024/05/13</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 ‘활화산’ 초대권 이벤트 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/8667</id>
-        <link href="https://newneek.co/@newneek/article/8667"/>
-        <updated>2024-05-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A5%E1%86%BA%E1%84%82%E1%85%B5_48.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">연극 ‘활화산’ 초대권 이벤트</h3><time class="card-date">2024/05/13</time><i class="card-category">문화</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교제폭력 증가와 대책 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/7814</id>
-        <link href="https://newneek.co/@newneek/article/7814"/>
-        <updated>2024-05-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_CHvvT2a.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">교제폭력 증가와 대책</h3><time class="card-date">2024/05/12</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아르헨티나 밀레이 대통령 취임 후 상황과 전망 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/7815</id>
-        <link href="https://newneek.co/@newneek/article/7815"/>
-        <updated>2024-05-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_TVAdaTf.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아르헨티나 밀레이 대통령 취임 후 상황과 전망</h3><time class="card-date">2024/05/12</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰 지휘부 인사 논란 (뉴닉 ─ 정치)]]></title>
