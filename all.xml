@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-20T11:02:47.330Z</updated>
+    <updated>2024-05-20T12:14:35.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[하이브-민희진 법정 갈등의 쟁점 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/8794</id>
+        <link href="https://newneek.co/@newneek/article/8794"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a6403c3e5ddd4edb989c0bb3fa0ecfed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">하이브-민희진 법정 갈등의 쟁점</h3><time class="card-date">2024/05/20</time><i class="card-category">경제</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찬란한 내일을 기다리며 ✨ (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/8795</id>
+        <link href="https://newneek.co/@newneek/article/8795"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/5bb0c92806c34bb6a60ff88e84554637.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">찬란한 내일을 기다리며 ✨</h3><time class="card-date">2024/05/20</time><i class="card-category">예술</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외 직구 금지 논란의 전말 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/8793</id>
+        <link href="https://newneek.co/@newneek/article/8793"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c34a80a95dd6485cb4ff868f3c1eeaed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해외 직구 금지 논란의 전말</h3><time class="card-date">2024/05/20</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최저임금, 사람마다 다르게 주자고? (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/@newneek/article/8780</id>
@@ -66,27 +87,6 @@
         <link href="https://newneek.co/@newneek/article/8668"/>
         <updated>2024-05-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/240516_%E1%84%83%E1%85%A5%E1%86%BA%E1%84%82%E1%85%B5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 보이지 않던 것들을 통해 보이게 되는 세계</h3><time class="card-date">2024/05/15</time><i class="card-category">예술</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한 해킹 그룹 ‘라자루스’ 사법부 해킹 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/7816</id>
-        <link href="https://newneek.co/@newneek/article/7816"/>
-        <updated>2024-05-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_53_okEnmU8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한 해킹 그룹 ‘라자루스’ 사법부 해킹</h3><time class="card-date">2024/05/13</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국, 중국산 커넥티드 카 규제 예고 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/7817</id>
-        <link href="https://newneek.co/@newneek/article/7817"/>
-        <updated>2024-05-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_48.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국, 중국산 커넥티드 카 규제 예고</h3><time class="card-date">2024/05/13</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 ‘활화산’ 초대권 이벤트 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/8667</id>
-        <link href="https://newneek.co/@newneek/article/8667"/>
-        <updated>2024-05-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A5%E1%86%BA%E1%84%82%E1%85%B5_48.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">연극 ‘활화산’ 초대권 이벤트</h3><time class="card-date">2024/05/13</time><i class="card-category">문화</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰 지휘부 인사 논란 (뉴닉 ─ 정치)]]></title>
@@ -618,6 +618,20 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6_ZpP5V7u.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">COP28 총정리: 나 COP쓰, 28살인디 🌿🎂</h3><time class="card-date">2023/12/15</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[하이브-민희진 법정 갈등의 쟁점 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/8794</id>
+        <link href="https://newneek.co/@newneek/article/8794"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a6403c3e5ddd4edb989c0bb3fa0ecfed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">하이브-민희진 법정 갈등의 쟁점</h3><time class="card-date">2024/05/20</time><i class="card-category">경제</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찬란한 내일을 기다리며 ✨ (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/8795</id>
+        <link href="https://newneek.co/@newneek/article/8795"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/5bb0c92806c34bb6a60ff88e84554637.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">찬란한 내일을 기다리며 ✨</h3><time class="card-date">2024/05/20</time><i class="card-category">예술</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[해외 직구 금지 논란의 전말 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/@newneek/article/8793</id>
         <link href="https://newneek.co/@newneek/article/8793"/>
@@ -688,18 +702,25 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/240516_%E1%84%83%E1%85%A5%E1%86%BA%E1%84%82%E1%85%B5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 보이지 않던 것들을 통해 보이게 되는 세계</h3><time class="card-date">2024/05/15</time><i class="card-category">예술</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북한 해킹 그룹 ‘라자루스’ 사법부 해킹 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/7816</id>
-        <link href="https://newneek.co/@newneek/article/7816"/>
-        <updated>2024-05-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_53_okEnmU8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한 해킹 그룹 ‘라자루스’ 사법부 해킹</h3><time class="card-date">2024/05/13</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[하이브-민희진 법정 갈등의 쟁점 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/8794</id>
+        <link href="https://newneek.co/@newneek/article/8794"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a6403c3e5ddd4edb989c0bb3fa0ecfed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">하이브-민희진 법정 갈등의 쟁점</h3><time class="card-date">2024/05/20</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국, 중국산 커넥티드 카 규제 예고 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/7817</id>
-        <link href="https://newneek.co/@newneek/article/7817"/>
-        <updated>2024-05-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_48.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국, 중국산 커넥티드 카 규제 예고</h3><time class="card-date">2024/05/13</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[찬란한 내일을 기다리며 ✨ (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/8795</id>
+        <link href="https://newneek.co/@newneek/article/8795"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/5bb0c92806c34bb6a60ff88e84554637.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">찬란한 내일을 기다리며 ✨</h3><time class="card-date">2024/05/20</time><i class="card-category">예술</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외 직구 금지 논란의 전말 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/8793</id>
+        <link href="https://newneek.co/@newneek/article/8793"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c34a80a95dd6485cb4ff868f3c1eeaed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해외 직구 금지 논란의 전말</h3><time class="card-date">2024/05/20</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최저임금, 사람마다 다르게 주자고? (뉴닉 ─ 코로나19)]]></title>
@@ -765,25 +786,25 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/240516_%E1%84%83%E1%85%A5%E1%86%BA%E1%84%82%E1%85%B5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 보이지 않던 것들을 통해 보이게 되는 세계</h3><time class="card-date">2024/05/15</time><i class="card-category">예술</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북한 해킹 그룹 ‘라자루스’ 사법부 해킹 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/7816</id>
-        <link href="https://newneek.co/@newneek/article/7816"/>
-        <updated>2024-05-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_53_okEnmU8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한 해킹 그룹 ‘라자루스’ 사법부 해킹</h3><time class="card-date">2024/05/13</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[하이브-민희진 법정 갈등의 쟁점 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/8794</id>
+        <link href="https://newneek.co/@newneek/article/8794"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a6403c3e5ddd4edb989c0bb3fa0ecfed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">하이브-민희진 법정 갈등의 쟁점</h3><time class="card-date">2024/05/20</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국, 중국산 커넥티드 카 규제 예고 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/7817</id>
-        <link href="https://newneek.co/@newneek/article/7817"/>
-        <updated>2024-05-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_48.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국, 중국산 커넥티드 카 규제 예고</h3><time class="card-date">2024/05/13</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[찬란한 내일을 기다리며 ✨ (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/8795</id>
+        <link href="https://newneek.co/@newneek/article/8795"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/5bb0c92806c34bb6a60ff88e84554637.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">찬란한 내일을 기다리며 ✨</h3><time class="card-date">2024/05/20</time><i class="card-category">예술</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 ‘활화산’ 초대권 이벤트 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/8667</id>
-        <link href="https://newneek.co/@newneek/article/8667"/>
-        <updated>2024-05-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A5%E1%86%BA%E1%84%82%E1%85%B5_48.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">연극 ‘활화산’ 초대권 이벤트</h3><time class="card-date">2024/05/13</time><i class="card-category">문화</i></div></div>]]></content>
+        <title type="html"><![CDATA[해외 직구 금지 논란의 전말 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/8793</id>
+        <link href="https://newneek.co/@newneek/article/8793"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c34a80a95dd6485cb4ff868f3c1eeaed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해외 직구 금지 논란의 전말</h3><time class="card-date">2024/05/20</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최저임금, 사람마다 다르게 주자고? (뉴닉 ─ 피자스테이션)]]></title>
@@ -847,26 +868,5 @@
         <link href="https://newneek.co/@newneek/article/8668"/>
         <updated>2024-05-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/240516_%E1%84%83%E1%85%A5%E1%86%BA%E1%84%82%E1%85%B5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 보이지 않던 것들을 통해 보이게 되는 세계</h3><time class="card-date">2024/05/15</time><i class="card-category">예술</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한 해킹 그룹 ‘라자루스’ 사법부 해킹 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/7816</id>
-        <link href="https://newneek.co/@newneek/article/7816"/>
-        <updated>2024-05-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_53_okEnmU8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한 해킹 그룹 ‘라자루스’ 사법부 해킹</h3><time class="card-date">2024/05/13</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국, 중국산 커넥티드 카 규제 예고 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/7817</id>
-        <link href="https://newneek.co/@newneek/article/7817"/>
-        <updated>2024-05-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_48.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국, 중국산 커넥티드 카 규제 예고</h3><time class="card-date">2024/05/13</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 ‘활화산’ 초대권 이벤트 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/8667</id>
-        <link href="https://newneek.co/@newneek/article/8667"/>
-        <updated>2024-05-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A5%E1%86%BA%E1%84%82%E1%85%B5_48.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">연극 ‘활화산’ 초대권 이벤트</h3><time class="card-date">2024/05/13</time><i class="card-category">문화</i></div></div>]]></content>
     </entry>
 </feed>
