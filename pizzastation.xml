@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2024-05-20T02:24:58.251Z</updated>
+    <updated>2024-05-20T04:09:58.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/240516_%E1%84%83%E1%85%A5%E1%86%BA%E1%84%82%E1%85%B5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 보이지 않던 것들을 통해 보이게 되는 세계</h3><time class="card-date">2024/05/15</time><i class="card-category">예술</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공지] 5월 15일(수) 휴재 안내]]></title>
-        <id>https://newneek.co/@newneek/article/7818</id>
-        <link href="https://newneek.co/@newneek/article/7818"/>
-        <updated>2024-05-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">[공지] 5월 15일(수) 휴재 안내</h3><time class="card-date">2024/05/14</time><i class="card-category"></i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[북한 해킹 그룹 ‘라자루스’ 사법부 해킹]]></title>
         <id>https://newneek.co/@newneek/article/7816</id>
         <link href="https://newneek.co/@newneek/article/7816"/>
@@ -88,5 +81,12 @@
         <link href="https://newneek.co/@newneek/article/7817"/>
         <updated>2024-05-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_48.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국, 중국산 커넥티드 카 규제 예고</h3><time class="card-date">2024/05/13</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 ‘활화산’ 초대권 이벤트]]></title>
+        <id>https://newneek.co/@newneek/article/8667</id>
+        <link href="https://newneek.co/@newneek/article/8667"/>
+        <updated>2024-05-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A5%E1%86%BA%E1%84%82%E1%85%B5_48.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">연극 ‘활화산’ 초대권 이벤트</h3><time class="card-date">2024/05/13</time><i class="card-category">문화</i></div></div>]]></content>
     </entry>
 </feed>
