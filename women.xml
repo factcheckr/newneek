@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2024-05-21T22:04:07.383Z</updated>
+    <updated>2024-05-22T00:29:45.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) 다양한 존재들이 어울려 사는 사회를 위해, 동구밭]]></title>
+        <id>https://newneek.co/@newneek/article/8821</id>
+        <link href="https://newneek.co/@newneek/article/8821"/>
+        <updated>2024-05-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 다양한 존재들이 어울려 사는 사회를 위해, 동구밭</h3><time class="card-date">2024/05/22</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 안의 다양한 가족을 찾아서]]></title>
         <id>https://newneek.co/@newneek/article/8824</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/7821"/>
         <updated>2024-05-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1-5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">라인야후 지분 갈등 상황</h3><time class="card-date">2024/05/16</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4o의 등장과 AI 기술 경쟁]]></title>
-        <id>https://newneek.co/@newneek/article/7822</id>
-        <link href="https://newneek.co/@newneek/article/7822"/>
-        <updated>2024-05-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2-6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">GPT-4o의 등장과 AI 기술 경쟁</h3><time class="card-date">2024/05/16</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
