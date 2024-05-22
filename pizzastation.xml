@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2024-05-22T10:02:30.706Z</updated>
+    <updated>2024-05-22T11:02:55.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 찾은 ‘유애나 할아버지’ 🇰🇷👴]]></title>
+        <id>https://newneek.co/@newneek/article/8855</id>
+        <link href="https://newneek.co/@newneek/article/8855"/>
+        <updated>2024-05-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">한국 찾은 ‘유애나 할아버지’ 🇰🇷👴</h3><time class="card-date">2024/05/22</time><i class="card-category">여행</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이란이 갑자기 혼란에 빠진 이유]]></title>
         <id>https://newneek.co/@newneek/article/8854</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/8780"/>
         <updated>2024-05-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a5e1441c1fac4cc4b5d9e04509542789.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">최저임금, 사람마다 다르게 주자고?</h3><time class="card-date">2024/05/19</time><i class="card-category">노동</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피할 수 없으면 내라! 찐부자 세금]]></title>
-        <id>https://newneek.co/@newneek/article/8781</id>
-        <link href="https://newneek.co/@newneek/article/8781"/>
-        <updated>2024-05-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/ca023a3f0462444f8d2cd882f1707832.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">피할 수 없으면 내라! 찐부자 세금</h3><time class="card-date">2024/05/19</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
