@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2024-05-23T09:09:33.964Z</updated>
+    <updated>2024-05-23T10:02:33.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이러다 우리나라에 서울만 남을 수도 있다고?]]></title>
+        <id>https://newneek.co/@newneek/article/8872</id>
+        <link href="https://newneek.co/@newneek/article/8872"/>
+        <updated>2024-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/e074d711d0f24983a504967a41ddd89e.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이러다 우리나라에 서울만 남을 수도 있다고?</h3><time class="card-date">2024/05/23</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국회 원 구성은 너무 어.려.워. 😩]]></title>
         <id>https://newneek.co/@newneek/article/8870</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/8797"/>
         <updated>2024-05-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/37d8faf2ed2049d982d65f2075506043.gif" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) SK E&amp;S의 Green Portfolio #3: 액화수소</h3><time class="card-date">2024/05/20</time><i class="card-category">환경</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브-민희진 법정 갈등의 쟁점]]></title>
-        <id>https://newneek.co/@newneek/article/8794</id>
-        <link href="https://newneek.co/@newneek/article/8794"/>
-        <updated>2024-05-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a6403c3e5ddd4edb989c0bb3fa0ecfed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">하이브-민희진 법정 갈등의 쟁점</h3><time class="card-date">2024/05/20</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
