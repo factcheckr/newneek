@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2024-05-23T07:03:03.000Z</updated>
+    <updated>2024-05-23T08:10:03.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국회 원 구성은 너무 어.려.워. 😩]]></title>
+        <id>https://newneek.co/@newneek/article/8870</id>
+        <link href="https://newneek.co/@newneek/article/8870"/>
+        <updated>2024-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a41d7b25193a4a89964995fd59698545.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">국회 원 구성은 너무 어.려.워. 😩</h3><time class="card-date">2024/05/23</time><i class="card-category">정치</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화려한 조명이 강아지들을 감싸네 🐶]]></title>
         <id>https://newneek.co/@newneek/article/8865</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/8794"/>
         <updated>2024-05-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a6403c3e5ddd4edb989c0bb3fa0ecfed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">하이브-민희진 법정 갈등의 쟁점</h3><time class="card-date">2024/05/20</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찬란한 내일을 기다리며 ✨]]></title>
-        <id>https://newneek.co/@newneek/article/8795</id>
-        <link href="https://newneek.co/@newneek/article/8795"/>
-        <updated>2024-05-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/5bb0c92806c34bb6a60ff88e84554637.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">찬란한 내일을 기다리며 ✨</h3><time class="card-date">2024/05/20</time><i class="card-category">예술</i></div></div>]]></content>
     </entry>
 </feed>
