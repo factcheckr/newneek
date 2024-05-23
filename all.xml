@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-23T04:12:42.752Z</updated>
+    <updated>2024-05-23T05:11:27.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[화려한 조명이 강아지들을 감싸네 🐶 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/8865</id>
+        <link href="https://newneek.co/@newneek/article/8865"/>
+        <updated>2024-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/99cc4e0586be46c6b398f95fafcda7a5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">화려한 조명이 강아지들을 감싸네 🐶</h3><time class="card-date">2024/05/23</time><i class="card-category">패션</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘동물 박제’ 피자가 도착했습니다! (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/@newneek/article/8852</id>
         <link href="https://newneek.co/@newneek/article/8852"/>
         <updated>2024-05-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">🔔띵동! ‘동물 박제’ 피자가 도착했습니다!</h3><time class="card-date">2024/05/22</time><i class="card-category">사회</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f06c54f6559d4b748b35ac2ea9ed2558.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘동물 박제’ 피자가 도착했습니다!</h3><time class="card-date">2024/05/22</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 찾은 ‘유애나 할아버지’ 🇰🇷👴 (뉴닉 ─ 2022 대선)]]></title>
@@ -80,13 +87,6 @@
         <link href="https://newneek.co/@newneek/article/8795"/>
         <updated>2024-05-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/5bb0c92806c34bb6a60ff88e84554637.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">찬란한 내일을 기다리며 ✨</h3><time class="card-date">2024/05/20</time><i class="card-category">예술</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 직구 금지 논란의 전말 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/8793</id>
-        <link href="https://newneek.co/@newneek/article/8793"/>
-        <updated>2024-05-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c34a80a95dd6485cb4ff868f3c1eeaed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해외 직구 금지 논란의 전말</h3><time class="card-date">2024/05/20</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰 지휘부 인사 논란 (뉴닉 ─ 정치)]]></title>
@@ -255,6 +255,90 @@
         <link href="https://newneek.co/post/Um44gW"/>
         <updated>2024-04-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_WbRms60.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">주가 폭등, 겟 셋 ‘레딧’ 고~ 🚀</h3><time class="card-date">2024/04/03</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-4o의 등장과 AI 기술 경쟁 (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/kD2pxB</id>
+        <link href="https://newneek.co/post/kD2pxB"/>
+        <updated>2024-05-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2-6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">GPT-4o의 등장과 AI 기술 경쟁</h3><time class="card-date">2024/05/17</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 가짜 정보 생성과 대책 (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/XDdrpv</id>
+        <link href="https://newneek.co/post/XDdrpv"/>
+        <updated>2024-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_44.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">AI 가짜 정보 생성과 대책</h3><time class="card-date">2024/04/26</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔔띵동! ‘AI 노래 커버’ 피자가 도착했습니다! (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/XfGvoL</id>
+        <link href="https://newneek.co/post/XfGvoL"/>
+        <updated>2024-04-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/240418_%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘AI 노래 커버’ 피자가 도착했습니다!</h3><time class="card-date">2024/04/18</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 국내 최초 포토샵 팝업스토어 (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/C0Hsty</id>
+        <link href="https://newneek.co/post/C0Hsty"/>
+        <updated>2024-04-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%85%E1%85%A6%E1%84%90%E1%85%A52.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 국내 최초 포토샵 팝업스토어</h3><time class="card-date">2024/04/12</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거대언어모델과 휴머노이드 (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/HV2nlG</id>
+        <link href="https://newneek.co/post/HV2nlG"/>
+        <updated>2024-04-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_SJBdMEo.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">거대언어모델과 휴머노이드</h3><time class="card-date">2024/04/04</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샤오미 전기차 SU7 출시 (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/qnp632</id>
+        <link href="https://newneek.co/post/qnp632"/>
+        <updated>2024-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_43.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">샤오미 전기차 SU7 출시</h3><time class="card-date">2024/04/01</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) IT·테크 새싹부터 리더까지 여기여기 모여라 🙋 (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/9UzjEj</id>
+        <link href="https://newneek.co/post/9UzjEj"/>
+        <updated>2024-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_6i1BKIZ.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) IT·테크 새싹부터 리더까지 여기여기 모여라 🙋</h3><time class="card-date">2024/03/27</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔔띵동! ‘키오스크 확산’ 피자가 도착했습니다! (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/McapP3</id>
+        <link href="https://newneek.co/post/McapP3"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/240321_%EC%95%B1%ED%94%BC%EB%93%9C_1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘키오스크 확산’ 피자가 도착했습니다!</h3><time class="card-date">2024/03/21</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) AWS TechCamp (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/7306FL</id>
+        <link href="https://newneek.co/post/7306FL"/>
+        <updated>2024-03-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8-6.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) AWS TechCamp</h3><time class="card-date">2024/03/19</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인류 최강 로켓 타고 화성 간다? (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/MmM2Ft</id>
+        <link href="https://newneek.co/post/MmM2Ft"/>
+        <updated>2024-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_35.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">인류 최강 로켓 타고 화성 간다?</h3><time class="card-date">2024/03/18</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 구글 ‘제미나이(Gemini)’ (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/YLHbJR</id>
+        <link href="https://newneek.co/post/YLHbJR"/>
+        <updated>2024-03-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8B%E1%85%A2%E1%86%B8_16.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 구글 ‘제미나이(Gemini)’</h3><time class="card-date">2024/03/13</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LCK 디도스 공격 사태 (뉴닉 ─ 테크)]]></title>
+        <id>https://newneek.co/post/l47R71</id>
+        <link href="https://newneek.co/post/l47R71"/>
+        <updated>2024-03-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_35.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">LCK 디도스 공격 사태</h3><time class="card-date">2024/03/11</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[라인야후 지분 갈등 상황 (뉴닉 ─ 경제)]]></title>
@@ -534,11 +618,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6_ZpP5V7u.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">COP28 총정리: 나 COP쓰, 28살인디 🌿🎂</h3><time class="card-date">2023/12/15</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[화려한 조명이 강아지들을 감싸네 🐶 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/8865</id>
+        <link href="https://newneek.co/@newneek/article/8865"/>
+        <updated>2024-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/99cc4e0586be46c6b398f95fafcda7a5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">화려한 조명이 강아지들을 감싸네 🐶</h3><time class="card-date">2024/05/23</time><i class="card-category">패션</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🔔띵동! ‘동물 박제’ 피자가 도착했습니다! (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/@newneek/article/8852</id>
         <link href="https://newneek.co/@newneek/article/8852"/>
         <updated>2024-05-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">🔔띵동! ‘동물 박제’ 피자가 도착했습니다!</h3><time class="card-date">2024/05/22</time><i class="card-category">사회</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f06c54f6559d4b748b35ac2ea9ed2558.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘동물 박제’ 피자가 도착했습니다!</h3><time class="card-date">2024/05/22</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 찾은 ‘유애나 할아버지’ 🇰🇷👴 (뉴닉 ─ 여성)]]></title>
@@ -611,18 +702,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/5bb0c92806c34bb6a60ff88e84554637.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">찬란한 내일을 기다리며 ✨</h3><time class="card-date">2024/05/20</time><i class="card-category">예술</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[해외 직구 금지 논란의 전말 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/8793</id>
-        <link href="https://newneek.co/@newneek/article/8793"/>
-        <updated>2024-05-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c34a80a95dd6485cb4ff868f3c1eeaed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해외 직구 금지 논란의 전말</h3><time class="card-date">2024/05/20</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[화려한 조명이 강아지들을 감싸네 🐶 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/8865</id>
+        <link href="https://newneek.co/@newneek/article/8865"/>
+        <updated>2024-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/99cc4e0586be46c6b398f95fafcda7a5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">화려한 조명이 강아지들을 감싸네 🐶</h3><time class="card-date">2024/05/23</time><i class="card-category">패션</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘동물 박제’ 피자가 도착했습니다! (뉴닉 ─ 코로나19)]]></title>
         <id>https://newneek.co/@newneek/article/8852</id>
         <link href="https://newneek.co/@newneek/article/8852"/>
         <updated>2024-05-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">🔔띵동! ‘동물 박제’ 피자가 도착했습니다!</h3><time class="card-date">2024/05/22</time><i class="card-category">사회</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f06c54f6559d4b748b35ac2ea9ed2558.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘동물 박제’ 피자가 도착했습니다!</h3><time class="card-date">2024/05/22</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 찾은 ‘유애나 할아버지’ 🇰🇷👴 (뉴닉 ─ 코로나19)]]></title>
@@ -695,18 +786,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/5bb0c92806c34bb6a60ff88e84554637.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">찬란한 내일을 기다리며 ✨</h3><time class="card-date">2024/05/20</time><i class="card-category">예술</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[해외 직구 금지 논란의 전말 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/8793</id>
-        <link href="https://newneek.co/@newneek/article/8793"/>
-        <updated>2024-05-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c34a80a95dd6485cb4ff868f3c1eeaed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해외 직구 금지 논란의 전말</h3><time class="card-date">2024/05/20</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[화려한 조명이 강아지들을 감싸네 🐶 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/8865</id>
+        <link href="https://newneek.co/@newneek/article/8865"/>
+        <updated>2024-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/99cc4e0586be46c6b398f95fafcda7a5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">화려한 조명이 강아지들을 감싸네 🐶</h3><time class="card-date">2024/05/23</time><i class="card-category">패션</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘동물 박제’ 피자가 도착했습니다! (뉴닉 ─ 피자스테이션)]]></title>
         <id>https://newneek.co/@newneek/article/8852</id>
         <link href="https://newneek.co/@newneek/article/8852"/>
         <updated>2024-05-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">🔔띵동! ‘동물 박제’ 피자가 도착했습니다!</h3><time class="card-date">2024/05/22</time><i class="card-category">사회</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f06c54f6559d4b748b35ac2ea9ed2558.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘동물 박제’ 피자가 도착했습니다!</h3><time class="card-date">2024/05/22</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 찾은 ‘유애나 할아버지’ 🇰🇷👴 (뉴닉 ─ 피자스테이션)]]></title>
@@ -777,12 +868,5 @@
         <link href="https://newneek.co/@newneek/article/8795"/>
         <updated>2024-05-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/5bb0c92806c34bb6a60ff88e84554637.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">찬란한 내일을 기다리며 ✨</h3><time class="card-date">2024/05/20</time><i class="card-category">예술</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 직구 금지 논란의 전말 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/8793</id>
-        <link href="https://newneek.co/@newneek/article/8793"/>
-        <updated>2024-05-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c34a80a95dd6485cb4ff868f3c1eeaed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해외 직구 금지 논란의 전말</h3><time class="card-date">2024/05/20</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>

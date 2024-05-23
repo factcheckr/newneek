@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2024-05-23T04:12:42.756Z</updated>
+    <updated>2024-05-23T05:11:27.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[화려한 조명이 강아지들을 감싸네 🐶]]></title>
+        <id>https://newneek.co/@newneek/article/8865</id>
+        <link href="https://newneek.co/@newneek/article/8865"/>
+        <updated>2024-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/99cc4e0586be46c6b398f95fafcda7a5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">화려한 조명이 강아지들을 감싸네 🐶</h3><time class="card-date">2024/05/23</time><i class="card-category">패션</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔔띵동! ‘동물 박제’ 피자가 도착했습니다!]]></title>
         <id>https://newneek.co/@newneek/article/8852</id>
         <link href="https://newneek.co/@newneek/article/8852"/>
         <updated>2024-05-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">🔔띵동! ‘동물 박제’ 피자가 도착했습니다!</h3><time class="card-date">2024/05/22</time><i class="card-category">사회</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f06c54f6559d4b748b35ac2ea9ed2558.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘동물 박제’ 피자가 도착했습니다!</h3><time class="card-date">2024/05/22</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 찾은 ‘유애나 할아버지’ 🇰🇷👴]]></title>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/8795"/>
         <updated>2024-05-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/5bb0c92806c34bb6a60ff88e84554637.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">찬란한 내일을 기다리며 ✨</h3><time class="card-date">2024/05/20</time><i class="card-category">예술</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 직구 금지 논란의 전말]]></title>
-        <id>https://newneek.co/@newneek/article/8793</id>
-        <link href="https://newneek.co/@newneek/article/8793"/>
-        <updated>2024-05-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c34a80a95dd6485cb4ff868f3c1eeaed.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">해외 직구 금지 논란의 전말</h3><time class="card-date">2024/05/20</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
