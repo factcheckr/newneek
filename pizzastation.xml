@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2024-05-26T10:03:23.016Z</updated>
+    <updated>2024-05-26T11:02:50.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴니커들이 꿈꾸는 가족의 모습은?]]></title>
+        <id>https://newneek.co/@newneek/article/8969</id>
+        <link href="https://newneek.co/@newneek/article/8969"/>
+        <updated>2024-05-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/22ccd7239fc244c1a125eb350a1e3b07.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">뉴니커들이 꿈꾸는 가족의 모습은?</h3><time class="card-date">2024/05/26</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 다양성은 패션의 핵심 가치가 될 수 있을까?]]></title>
         <id>https://newneek.co/@newneek/article/8970</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/8826"/>
         <updated>2024-05-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/ec29746507064f8fb792fcf2fc7cd8a1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한국은행, 기준금리 이번에도 동결?</h3><time class="card-date">2024/05/21</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명예 박사가 된 고양이 🐱🎓]]></title>
-        <id>https://newneek.co/@newneek/article/8828</id>
-        <link href="https://newneek.co/@newneek/article/8828"/>
-        <updated>2024-05-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/ff36ea075dd94421b2870137149a10c3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">명예 박사가 된 고양이 🐱🎓</h3><time class="card-date">2024/05/21</time><i class="card-category">동물</i></div></div>]]></content>
     </entry>
 </feed>
