@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2024-05-27T19:02:29.742Z</updated>
+    <updated>2024-05-27T20:03:23.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) 인류의 절반이 10년 동안 하는 것]]></title>
+        <id>https://newneek.co/@newneek/article/8815</id>
+        <link href="https://newneek.co/@newneek/article/8815"/>
+        <updated>2024-05-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f513c4a818214cca92feceb135932ca1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 인류의 절반이 10년 동안 하는 것</h3><time class="card-date">2024/05/27</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장기·고정금리 주담대 살려줘 본드]]></title>
         <id>https://newneek.co/@newneek/article/8982</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/8855"/>
         <updated>2024-05-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/e6d52ac8d15c4786b64d076aefcec2aa.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한국 찾은 ‘유애나 할아버지’ 🇰🇷👴</h3><time class="card-date">2024/05/22</time><i class="card-category">여행</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이란이 갑자기 혼란에 빠진 이유]]></title>
-        <id>https://newneek.co/@newneek/article/8854</id>
-        <link href="https://newneek.co/@newneek/article/8854"/>
-        <updated>2024-05-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/725fae7428ad4c07963c6303bfbd48ff.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이란이 갑자기 혼란에 빠진 이유</h3><time class="card-date">2024/05/22</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
