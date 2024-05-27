@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2024-05-27T09:09:43.533Z</updated>
+    <updated>2024-05-27T10:03:10.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[장기·고정금리 주담대 살려줘 본드]]></title>
+        <id>https://newneek.co/@newneek/article/8982</id>
+        <link href="https://newneek.co/@newneek/article/8982"/>
+        <updated>2024-05-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/4be52e70a98746caaa97c71b8f3e781a.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">장기·고정금리 주담대 살려줘 본드</h3><time class="card-date">2024/05/27</time><i class="card-category">경제</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령을 향해 가는 채 상병 수사]]></title>
         <id>https://newneek.co/@newneek/article/8978</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/8854"/>
         <updated>2024-05-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/725fae7428ad4c07963c6303bfbd48ff.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이란이 갑자기 혼란에 빠진 이유</h3><time class="card-date">2024/05/22</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 거부권 시즌 10이 온다]]></title>
-        <id>https://newneek.co/@newneek/article/8853</id>
-        <link href="https://newneek.co/@newneek/article/8853"/>
-        <updated>2024-05-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/db2644889d2d440ea94a57119d747de7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대통령 거부권 시즌 10이 온다</h3><time class="card-date">2024/05/22</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
