@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-05-27T06:11:17.835Z</updated>
+    <updated>2024-05-27T07:09:02.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[산책 아니고 순찰이다멍 🐕!]]></title>
+        <id>https://newneek.co/@newneek/article/8977</id>
+        <link href="https://newneek.co/@newneek/article/8977"/>
+        <updated>2024-05-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c542337953c4428b8c0b031178d83beb.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">산책 아니고 순찰이다멍 🐕!</h3><time class="card-date">2024/05/27</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국, 나랏빚 감당 가능? 🤑]]></title>
         <id>https://newneek.co/@newneek/article/8971</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/8821"/>
         <updated>2024-05-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/b407458881e345539ee8466ede910fc4.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 다양한 존재들이 어울려 사는 사회를 위해, 동구밭</h3><time class="card-date">2024/05/22</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 안의 다양한 가족을 찾아서]]></title>
-        <id>https://newneek.co/@newneek/article/8824</id>
-        <link href="https://newneek.co/@newneek/article/8824"/>
-        <updated>2024-05-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/1fec9eb05dce47619abbeb6a2b5dbfb7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">우리 안의 다양한 가족을 찾아서</h3><time class="card-date">2024/05/21</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
