@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-30T16:05:11.108Z</updated>
+    <updated>2024-05-30T17:03:05.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[(광고) 뉴닉 오렌지 챌린지 X 디플롯 (뉴닉 ─ 2022 대선)]]></title>
@@ -702,6 +702,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f513c4a818214cca92feceb135932ca1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">인류의 절반이 10년 동안 하는 것 (🦔:쿠폰 이벤트도 있슴!)</h3><time class="card-date">2024/05/27</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(광고) 뉴닉 오렌지 챌린지 X 디플롯 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9033</id>
+        <link href="https://newneek.co/@newneek/article/9033"/>
+        <updated>2024-05-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 뉴닉 오렌지 챌린지 X 디플롯</h3><time class="card-date">2024/05/30</time><i class="card-category">문화</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[광장은 누구의 것일까 🌈 (뉴닉 ─ 코로나19)]]></title>
         <id>https://newneek.co/@newneek/article/9031</id>
         <link href="https://newneek.co/@newneek/article/9031"/>
@@ -777,13 +784,6 @@
         <link href="https://newneek.co/@newneek/article/8815"/>
         <updated>2024-05-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f513c4a818214cca92feceb135932ca1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">인류의 절반이 10년 동안 하는 것 (🦔:쿠폰 이벤트도 있슴!)</h3><time class="card-date">2024/05/27</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장기·고정금리 주담대 살려줘 본드 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/8982</id>
-        <link href="https://newneek.co/@newneek/article/8982"/>
-        <updated>2024-05-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/4be52e70a98746caaa97c71b8f3e781a.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">장기·고정금리 주담대 살려줘 본드</h3><time class="card-date">2024/05/27</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 뉴닉 오렌지 챌린지 X 디플롯 (뉴닉 ─ 피자스테이션)]]></title>
