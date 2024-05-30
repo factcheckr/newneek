@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-05-30T11:02:43.549Z</updated>
+    <updated>2024-05-30T12:11:50.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[광장은 누구의 것일까 🌈]]></title>
+        <id>https://newneek.co/@newneek/article/9031</id>
+        <link href="https://newneek.co/@newneek/article/9031"/>
+        <updated>2024-05-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f4c1dbc7dae6499a9784b4eec2ea6f82.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">광장은 누구의 것일까 🌈</h3><time class="card-date">2024/05/30</time><i class="card-category">인권</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“또 대상혁이슴. 그를 숭배해야만 하슴” 🙇]]></title>
         <id>https://newneek.co/@newneek/article/9027</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/8982"/>
         <updated>2024-05-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/4be52e70a98746caaa97c71b8f3e781a.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">장기·고정금리 주담대 살려줘 본드</h3><time class="card-date">2024/05/27</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령을 향해 가는 채 상병 수사]]></title>
-        <id>https://newneek.co/@newneek/article/8978</id>
-        <link href="https://newneek.co/@newneek/article/8978"/>
-        <updated>2024-05-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/24a3b8ce73fa429698c242494d471e05.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대통령을 향해 가는 채 상병 수사</h3><time class="card-date">2024/05/27</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
