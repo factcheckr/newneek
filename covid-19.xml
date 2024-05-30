@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2024-05-30T07:03:42.548Z</updated>
+    <updated>2024-05-30T08:10:46.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[“또 대상혁이슴. 그를 숭배해야만 하슴” 🙇]]></title>
+        <id>https://newneek.co/@newneek/article/9027</id>
+        <link href="https://newneek.co/@newneek/article/9027"/>
+        <updated>2024-05-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/8fad66862b7e4ea9b0520952e65f9fe5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">“또 대상혁이슴. 그를 숭배해야만 하슴” 🙇</h3><time class="card-date">2024/05/30</time><i class="card-category">스포츠</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연금개혁: 꽝 다음 기회에... 👋]]></title>
+        <id>https://newneek.co/@newneek/article/9024</id>
+        <link href="https://newneek.co/@newneek/article/9024"/>
+        <updated>2024-05-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/21edc66132094b2bba555441a7b0c9a1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">연금개혁: 꽝 다음 기회에... 👋</h3><time class="card-date">2024/05/30</time><i class="card-category">정치</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오픈AI: 요한슨 미안해 🥲]]></title>
         <id>https://newneek.co/@newneek/article/9009</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/@newneek/article/8978"/>
         <updated>2024-05-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/24a3b8ce73fa429698c242494d471e05.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대통령을 향해 가는 채 상병 수사</h3><time class="card-date">2024/05/27</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산책 아니고 순찰이다멍 🐕!]]></title>
-        <id>https://newneek.co/@newneek/article/8977</id>
-        <link href="https://newneek.co/@newneek/article/8977"/>
-        <updated>2024-05-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c542337953c4428b8c0b031178d83beb.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">산책 아니고 순찰이다멍 🐕!</h3><time class="card-date">2024/05/27</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국, 나랏빚 감당 가능? 🤑]]></title>
-        <id>https://newneek.co/@newneek/article/8971</id>
-        <link href="https://newneek.co/@newneek/article/8971"/>
-        <updated>2024-05-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f61ddf28d8de4108af6767c8716e4e22.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국, 나랏빚 감당 가능? 🤑</h3><time class="card-date">2024/05/26</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
