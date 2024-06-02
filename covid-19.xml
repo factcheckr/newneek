@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2024-06-02T07:03:09.007Z</updated>
+    <updated>2024-06-02T08:08:37.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유죄 34개 인정된 미국 대선 후보의 등장]]></title>
+        <id>https://newneek.co/@newneek/article/9165</id>
+        <link href="https://newneek.co/@newneek/article/9165"/>
+        <updated>2024-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/beb09c4760d34702a8ffd491ef90d3dd.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">유죄 34개 인정된 미국 대선 후보의 등장</h3><time class="card-date">2024/06/02</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이브와 민희진은 화해할 수 있을까 🤝]]></title>
         <id>https://newneek.co/@newneek/article/9164</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9006"/>
         <updated>2024-05-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9e9a7c8b05cc4a1fbdc749e4585588ea.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">양털 업고 튀어 🐑</h3><time class="card-date">2024/05/29</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한일중 정상회의 🇰🇷🇯🇵🇨🇳: “우리 또 봐, 안녕”]]></title>
-        <id>https://newneek.co/@newneek/article/8996</id>
-        <link href="https://newneek.co/@newneek/article/8996"/>
-        <updated>2024-05-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f533b269dbee418a8cf76318b8a65bc5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한일중 정상회의 🇰🇷🇯🇵🇨🇳: “우리 또 봐, 안녕”</h3><time class="card-date">2024/05/28</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
