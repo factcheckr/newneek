@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-02T23:03:14.993Z</updated>
+    <updated>2024-06-03T00:30:57.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[(광고) 박재범이 손대는 사업마다 성공한 비결은? 🤑 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/9171</id>
+        <link href="https://newneek.co/@newneek/article/9171"/>
+        <updated>2024-06-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 박재범이 손대는 사업마다 성공한 비결은? 🤑</h3><time class="card-date">2024/06/03</time><i class="card-category">생활경제</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유죄 34개 인정된 미국 대선 후보의 등장 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/@newneek/article/9165</id>
@@ -80,13 +87,6 @@
         <link href="https://newneek.co/@newneek/article/9008"/>
         <updated>2024-05-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/4ee0e27ecbee4908bd50d61a3afc8118.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">군대 내 비극이 되풀이되지 않도록</h3><time class="card-date">2024/05/29</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양털 업고 튀어 🐑 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/9006</id>
-        <link href="https://newneek.co/@newneek/article/9006"/>
-        <updated>2024-05-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9e9a7c8b05cc4a1fbdc749e4585588ea.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">양털 업고 튀어 🐑</h3><time class="card-date">2024/05/29</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰 지휘부 인사 논란 (뉴닉 ─ 정치)]]></title>
@@ -618,6 +618,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6_ZpP5V7u.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">COP28 총정리: 나 COP쓰, 28살인디 🌿🎂</h3><time class="card-date">2023/12/15</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(광고) 박재범이 손대는 사업마다 성공한 비결은? 🤑 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/9171</id>
+        <link href="https://newneek.co/@newneek/article/9171"/>
+        <updated>2024-06-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 박재범이 손대는 사업마다 성공한 비결은? 🤑</h3><time class="card-date">2024/06/03</time><i class="card-category">생활경제</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[유죄 34개 인정된 미국 대선 후보의 등장 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/@newneek/article/9165</id>
         <link href="https://newneek.co/@newneek/article/9165"/>
@@ -695,11 +702,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/4ee0e27ecbee4908bd50d61a3afc8118.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">군대 내 비극이 되풀이되지 않도록</h3><time class="card-date">2024/05/29</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[양털 업고 튀어 🐑 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/9006</id>
-        <link href="https://newneek.co/@newneek/article/9006"/>
-        <updated>2024-05-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9e9a7c8b05cc4a1fbdc749e4585588ea.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">양털 업고 튀어 🐑</h3><time class="card-date">2024/05/29</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[(광고) 박재범이 손대는 사업마다 성공한 비결은? 🤑 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9171</id>
+        <link href="https://newneek.co/@newneek/article/9171"/>
+        <updated>2024-06-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 박재범이 손대는 사업마다 성공한 비결은? 🤑</h3><time class="card-date">2024/06/03</time><i class="card-category">생활경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유죄 34개 인정된 미국 대선 후보의 등장 (뉴닉 ─ 코로나19)]]></title>
@@ -779,11 +786,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/4ee0e27ecbee4908bd50d61a3afc8118.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">군대 내 비극이 되풀이되지 않도록</h3><time class="card-date">2024/05/29</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[양털 업고 튀어 🐑 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9006</id>
-        <link href="https://newneek.co/@newneek/article/9006"/>
-        <updated>2024-05-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9e9a7c8b05cc4a1fbdc749e4585588ea.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">양털 업고 튀어 🐑</h3><time class="card-date">2024/05/29</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[(광고) 박재범이 손대는 사업마다 성공한 비결은? 🤑 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/9171</id>
+        <link href="https://newneek.co/@newneek/article/9171"/>
+        <updated>2024-06-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 박재범이 손대는 사업마다 성공한 비결은? 🤑</h3><time class="card-date">2024/06/03</time><i class="card-category">생활경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유죄 34개 인정된 미국 대선 후보의 등장 (뉴닉 ─ 피자스테이션)]]></title>
@@ -861,12 +868,5 @@
         <link href="https://newneek.co/@newneek/article/9008"/>
         <updated>2024-05-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/4ee0e27ecbee4908bd50d61a3afc8118.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">군대 내 비극이 되풀이되지 않도록</h3><time class="card-date">2024/05/29</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양털 업고 튀어 🐑 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/9006</id>
-        <link href="https://newneek.co/@newneek/article/9006"/>
-        <updated>2024-05-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9e9a7c8b05cc4a1fbdc749e4585588ea.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">양털 업고 튀어 🐑</h3><time class="card-date">2024/05/29</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
