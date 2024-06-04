@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-04T06:10:31.339Z</updated>
+    <updated>2024-06-04T07:03:07.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[달러 전하 납시오~ 💲👑 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/9199</id>
+        <link href="https://newneek.co/@newneek/article/9199"/>
+        <updated>2024-06-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/0e3dac33886343a6b1be7a2338fddbe3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">달러 전하 납시오~ 💲👑</h3><time class="card-date">2024/06/04</time><i class="card-category">경제</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인도 총리 모디 모디 또 모디? (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/@newneek/article/9198</id>
@@ -80,13 +87,6 @@
         <link href="https://newneek.co/@newneek/article/9162"/>
         <updated>2024-06-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9e794381631c497296b03990a2aa9d4d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘박수 금지’ 원칙 깬 영국 의회 👏</h3><time class="card-date">2024/06/02</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 뉴닉 오렌지 챌린지 X 디플롯 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/9033</id>
-        <link href="https://newneek.co/@newneek/article/9033"/>
-        <updated>2024-05-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 뉴닉 오렌지 챌린지 X 디플롯</h3><time class="card-date">2024/05/30</time><i class="card-category">문화</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰 지휘부 인사 논란 (뉴닉 ─ 정치)]]></title>
@@ -618,6 +618,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6_ZpP5V7u.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">COP28 총정리: 나 COP쓰, 28살인디 🌿🎂</h3><time class="card-date">2023/12/15</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[달러 전하 납시오~ 💲👑 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/9199</id>
+        <link href="https://newneek.co/@newneek/article/9199"/>
+        <updated>2024-06-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/0e3dac33886343a6b1be7a2338fddbe3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">달러 전하 납시오~ 💲👑</h3><time class="card-date">2024/06/04</time><i class="card-category">경제</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[인도 총리 모디 모디 또 모디? (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/@newneek/article/9198</id>
         <link href="https://newneek.co/@newneek/article/9198"/>
@@ -695,11 +702,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9e794381631c497296b03990a2aa9d4d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘박수 금지’ 원칙 깬 영국 의회 👏</h3><time class="card-date">2024/06/02</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 뉴닉 오렌지 챌린지 X 디플롯 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/9033</id>
-        <link href="https://newneek.co/@newneek/article/9033"/>
-        <updated>2024-05-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 뉴닉 오렌지 챌린지 X 디플롯</h3><time class="card-date">2024/05/30</time><i class="card-category">문화</i></div></div>]]></content>
+        <title type="html"><![CDATA[달러 전하 납시오~ 💲👑 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9199</id>
+        <link href="https://newneek.co/@newneek/article/9199"/>
+        <updated>2024-06-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/0e3dac33886343a6b1be7a2338fddbe3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">달러 전하 납시오~ 💲👑</h3><time class="card-date">2024/06/04</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인도 총리 모디 모디 또 모디? (뉴닉 ─ 코로나19)]]></title>
@@ -779,11 +786,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9e794381631c497296b03990a2aa9d4d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘박수 금지’ 원칙 깬 영국 의회 👏</h3><time class="card-date">2024/06/02</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(광고) 뉴닉 오렌지 챌린지 X 디플롯 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9033</id>
-        <link href="https://newneek.co/@newneek/article/9033"/>
-        <updated>2024-05-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 뉴닉 오렌지 챌린지 X 디플롯</h3><time class="card-date">2024/05/30</time><i class="card-category">문화</i></div></div>]]></content>
+        <title type="html"><![CDATA[달러 전하 납시오~ 💲👑 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/9199</id>
+        <link href="https://newneek.co/@newneek/article/9199"/>
+        <updated>2024-06-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/0e3dac33886343a6b1be7a2338fddbe3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">달러 전하 납시오~ 💲👑</h3><time class="card-date">2024/06/04</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인도 총리 모디 모디 또 모디? (뉴닉 ─ 피자스테이션)]]></title>
@@ -861,12 +868,5 @@
         <link href="https://newneek.co/@newneek/article/9162"/>
         <updated>2024-06-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9e794381631c497296b03990a2aa9d4d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘박수 금지’ 원칙 깬 영국 의회 👏</h3><time class="card-date">2024/06/02</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(광고) 뉴닉 오렌지 챌린지 X 디플롯 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/9033</id>
-        <link href="https://newneek.co/@newneek/article/9033"/>
-        <updated>2024-05-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 뉴닉 오렌지 챌린지 X 디플롯</h3><time class="card-date">2024/05/30</time><i class="card-category">문화</i></div></div>]]></content>
     </entry>
 </feed>
