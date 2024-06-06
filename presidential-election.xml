@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-06-06T07:02:40.498Z</updated>
+    <updated>2024-06-06T08:11:03.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[달 뒷면에 꽂힌 중국 국기 🌓🇨🇳]]></title>
+        <title type="html"><![CDATA[아프리카 업고 튀어 🌍]]></title>
+        <id>https://newneek.co/@newneek/article/9218</id>
+        <link href="https://newneek.co/@newneek/article/9218"/>
+        <updated>2024-06-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/71d7e0b1b80949288fa379edd9869191.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아프리카 업고 튀어 🌍</h3><time class="card-date">2024/06/06</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달 뒷면에 꽂힌 중국 국기 🌗🇨🇳]]></title>
         <id>https://newneek.co/@newneek/article/9220</id>
         <link href="https://newneek.co/@newneek/article/9220"/>
         <updated>2024-06-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bc71c9a3c43344a082612b16545f93b1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">달 뒷면에 꽂힌 중국 국기 🌓🇨🇳</h3><time class="card-date">2024/06/06</time><i class="card-category">세계</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bc71c9a3c43344a082612b16545f93b1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">달 뒷면에 꽂힌 중국 국기 🌗🇨🇳</h3><time class="card-date">2024/06/06</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우표를 문지르면 바게트 냄새가 솔솔 🥖]]></title>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9183"/>
         <updated>2024-06-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/efea25dcb9814ac9858305e87e5f45ad.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">우리나라에 석유가 묻혀 있을 수도 있다고?</h3><time class="card-date">2024/06/03</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오물 풍선 vs. 대북 방송, 위태로운 남북관계]]></title>
-        <id>https://newneek.co/@newneek/article/9184</id>
-        <link href="https://newneek.co/@newneek/article/9184"/>
-        <updated>2024-06-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c138b4ecc95047f7ba6fb47af71e63ff.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">오물 풍선 vs. 대북 방송, 위태로운 남북관계</h3><time class="card-date">2024/06/03</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
