@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-06-09T07:02:50.276Z</updated>
+    <updated>2024-06-09T08:09:12.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전국 의사들 집단 휴직 시작]]></title>
+        <id>https://newneek.co/@newneek/article/9268</id>
+        <link href="https://newneek.co/@newneek/article/9268"/>
+        <updated>2024-06-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/37b5715b4b5149c58600d327d80a1db5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전국 의사들 집단 휴직 시작</h3><time class="card-date">2024/06/09</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마침표 뒤의 새로운 시작 🤾]]></title>
         <id>https://newneek.co/@newneek/article/9267</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9199"/>
         <updated>2024-06-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/0e3dac33886343a6b1be7a2338fddbe3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">달러 전하 납시오~ 💲👑</h3><time class="card-date">2024/06/04</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인도 총리 모디 모디 또 모디?]]></title>
-        <id>https://newneek.co/@newneek/article/9198</id>
-        <link href="https://newneek.co/@newneek/article/9198"/>
-        <updated>2024-06-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f79782ecabac4dd798a8ca2d6a0321f3.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">인도 총리 모디 모디 또 모디?</h3><time class="card-date">2024/06/04</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
