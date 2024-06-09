@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2024-06-09T03:09:24.457Z</updated>
+    <updated>2024-06-09T04:09:12.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[245일 만에 돌아온 4명의 인질]]></title>
+        <id>https://newneek.co/@newneek/article/9257</id>
+        <link href="https://newneek.co/@newneek/article/9257"/>
+        <updated>2024-06-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/67b338d007244321a056c195b5d15901.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">245일 만에 돌아온 4명의 인질</h3><time class="card-date">2024/06/09</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴닉 레터가 새로운 모습으로 찾아와요 📢]]></title>
         <id>https://newneek.co/@newneek/article/9226</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9182"/>
         <updated>2024-06-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/4d7b2bd6d08c4ceebeec81e3c9a8bc11.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 모두에서 소외되는 사람이 없도록, 모두를 위한 ‘더 쉬운 카톡설명서’</h3><time class="card-date">2024/06/04</time><i class="card-category">인권</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원자력발전소를 더 짓겠다고요?]]></title>
-        <id>https://newneek.co/@newneek/article/9189</id>
-        <link href="https://newneek.co/@newneek/article/9189"/>
-        <updated>2024-06-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/31656e5664574e5197622859bb384988.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">원자력발전소를 더 짓겠다고요?</h3><time class="card-date">2024/06/03</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
