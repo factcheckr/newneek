@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2024-06-11T08:10:44.992Z</updated>
+    <updated>2024-06-11T09:03:50.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://newneek.co/@newneek/article/9319</id>
         <link href="https://newneek.co/@newneek/article/9319"/>
         <updated>2024-06-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">원 구성 갈등...ing 💥</h3><time class="card-date">2024/06/11</time><i class="card-category">정치</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c5fe6a56cd194cc5ba21901d6774b2fa.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">원 구성 갈등...ing 💥</h3><time class="card-date">2024/06/11</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EU 증시가 잘나가는 이유 😎🇪🇺]]></title>
