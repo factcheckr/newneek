@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2024-06-12T08:10:23.660Z</updated>
+    <updated>2024-06-12T09:04:45.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[피해자를 위한 사이다 맞나요?]]></title>
+        <id>https://newneek.co/@newneek/article/9355</id>
+        <link href="https://newneek.co/@newneek/article/9355"/>
+        <updated>2024-06-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/663f028a15f94cad89665c4f4122bc6d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">피해자를 위한 사이다 맞나요?</h3><time class="card-date">2024/06/12</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전북 부안 4.8 규모 지진 발생]]></title>
+        <id>https://newneek.co/@newneek/article/9358</id>
+        <link href="https://newneek.co/@newneek/article/9358"/>
+        <updated>2024-06-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/e3d7f86bb8be4124b3c06be21d7baf1e.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전북 부안 4.8 규모 지진 발생</h3><time class="card-date">2024/06/12</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이든 아들도 피해갈 수 없었던 유죄 판결 🧑‍⚖️]]></title>
         <id>https://newneek.co/@newneek/article/9342</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9273"/>
         <updated>2024-06-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/2facf71fdf114320aaccd97b12997eb7.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">다시 날아온 오물풍선, 6년 만에 켜진 대북 확성기</h3><time class="card-date">2024/06/10</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동해에 석유 있다, 없다 ⁉️]]></title>
-        <id>https://newneek.co/@newneek/article/9270</id>
-        <link href="https://newneek.co/@newneek/article/9270"/>
-        <updated>2024-06-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a618d94639fc4a27ab00816830b77174.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">동해에 석유 있다, 없다 ⁉️</h3><time class="card-date">2024/06/09</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국 의사들 집단 휴직 시작]]></title>
-        <id>https://newneek.co/@newneek/article/9268</id>
-        <link href="https://newneek.co/@newneek/article/9268"/>
-        <updated>2024-06-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/37b5715b4b5149c58600d327d80a1db5.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">전국 의사들 집단 휴직 시작</h3><time class="card-date">2024/06/09</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
