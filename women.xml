@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2024-06-12T20:02:43.395Z</updated>
+    <updated>2024-06-12T21:04:42.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(이벤트) 풀코스로 즐기는 미식 로맨스 ‘프렌치 수프’ 🍽️]]></title>
+        <id>https://newneek.co/@newneek/article/9295</id>
+        <link href="https://newneek.co/@newneek/article/9295"/>
+        <updated>2024-06-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/2def744fb950402ea10b0fe6322a8fa0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(이벤트) 풀코스로 즐기는 미식 로맨스 ‘프렌치 수프’ 🍽️</h3><time class="card-date">2024/06/12</time><i class="card-category">영화</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피해자를 위한 사이다 맞나요?]]></title>
         <id>https://newneek.co/@newneek/article/9355</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9278"/>
         <updated>2024-06-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/d0b65a9446954ba6adfa1060a75823e6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">우주선 고장 난 김에 우주에서 1000일 지낸 썰 푼다 🧑‍🚀</h3><time class="card-date">2024/06/10</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 날아온 오물풍선, 6년 만에 켜진 대북 확성기]]></title>
-        <id>https://newneek.co/@newneek/article/9273</id>
-        <link href="https://newneek.co/@newneek/article/9273"/>
-        <updated>2024-06-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/2facf71fdf114320aaccd97b12997eb7.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">다시 날아온 오물풍선, 6년 만에 켜진 대북 확성기</h3><time class="card-date">2024/06/10</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
