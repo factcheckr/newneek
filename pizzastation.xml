@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2024-06-12T22:03:07.648Z</updated>
+    <updated>2024-06-12T23:03:58.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 '제미나이(Gemini)' 맞춤형 사용 가이드]]></title>
+        <id>https://newneek.co/@newneek/article/9361</id>
+        <link href="https://newneek.co/@newneek/article/9361"/>
+        <updated>2024-06-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/66d14fef52434fb6a1957bd7db6c52cc.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">구글 '제미나이(Gemini)' 맞춤형 사용 가이드</h3><time class="card-date">2024/06/12</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(이벤트) 풀코스로 즐기는 미식 로맨스 ‘프렌치 수프’ 🍽️]]></title>
         <id>https://newneek.co/@newneek/article/9295</id>
@@ -55,18 +62,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f36cc8ddfab8441ba8df2b94ee67bcdd.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한 손의 탁구 천재 🏓</h3><time class="card-date">2024/06/11</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이폰에 챗GPT가 들어간다고? 🍎+🤖]]></title>
-        <id>https://newneek.co/@newneek/article/9303</id>
-        <link href="https://newneek.co/@newneek/article/9303"/>
-        <updated>2024-06-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a9f7bd5d46144cab8d7cd312712fe4d8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아이폰에 챗GPT가 들어간다고? 🍎+🤖</h3><time class="card-date">2024/06/11</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🍕회사의 업무용 메신저 열람, 어떻게 생각해?]]></title>
         <id>https://newneek.co/@newneek/article/9274</id>
         <link href="https://newneek.co/@newneek/article/9274"/>
         <updated>2024-06-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/7e8e1be7c5fe4a90bfac9e44d9fa7178.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🍕회사의 업무용 메신저 열람, 어떻게 생각해?</h3><time class="card-date">2024/06/11</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이폰에 챗GPT가 들어간다고? 🍎+🤖]]></title>
+        <id>https://newneek.co/@newneek/article/9303</id>
+        <link href="https://newneek.co/@newneek/article/9303"/>
+        <updated>2024-06-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a9f7bd5d46144cab8d7cd312712fe4d8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아이폰에 챗GPT가 들어간다고? 🍎+🤖</h3><time class="card-date">2024/06/11</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유럽은 오른쪽으로 갑니다 👋]]></title>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9296"/>
         <updated>2024-06-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/045a9ac7c510469fa27a644ef1c655f0.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">제조사: “급발진이라는 할머니 측 주장은 틀렸습니다”</h3><time class="card-date">2024/06/10</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주선 고장 난 김에 우주에서 1000일 지낸 썰 푼다 🧑‍🚀]]></title>
-        <id>https://newneek.co/@newneek/article/9278</id>
-        <link href="https://newneek.co/@newneek/article/9278"/>
-        <updated>2024-06-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/d0b65a9446954ba6adfa1060a75823e6.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">우주선 고장 난 김에 우주에서 1000일 지낸 썰 푼다 🧑‍🚀</h3><time class="card-date">2024/06/10</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
