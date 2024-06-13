@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-13T06:10:45.438Z</updated>
+    <updated>2024-06-13T07:02:44.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[만화·웹툰 계약서 새로 써요. (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/9367</id>
+        <link href="https://newneek.co/@newneek/article/9367"/>
+        <updated>2024-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/30445633e8974d1bb8f78442ab23c875.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">만화·웹툰 계약서 새로 써요.</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자영업자: “배민 이건 선 넘었어!” (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/9370</id>
+        <link href="https://newneek.co/@newneek/article/9370"/>
+        <updated>2024-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/16b9ad3471534374bb0c66445ebe1c45.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">자영업자: “배민 이건 선 넘었어!”</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금리 또 동결했는데 주식이 오른 이유는? (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/@newneek/article/9366</id>
@@ -73,20 +87,6 @@
         <link href="https://newneek.co/@newneek/article/9274"/>
         <updated>2024-06-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/7e8e1be7c5fe4a90bfac9e44d9fa7178.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🍕회사의 업무용 메신저 열람, 어떻게 생각해?</h3><time class="card-date">2024/06/11</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰에 챗GPT가 들어간다고? 🍎+🤖 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/9303</id>
-        <link href="https://newneek.co/@newneek/article/9303"/>
-        <updated>2024-06-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a9f7bd5d46144cab8d7cd312712fe4d8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아이폰에 챗GPT가 들어간다고? 🍎+🤖</h3><time class="card-date">2024/06/11</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽은 오른쪽으로 갑니다 👋 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/9299</id>
-        <link href="https://newneek.co/@newneek/article/9299"/>
-        <updated>2024-06-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f6f9eb0453eb4fc7bd09f956911159fd.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">유럽은 오른쪽으로 갑니다 👋</h3><time class="card-date">2024/06/10</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰 지휘부 인사 논란 (뉴닉 ─ 정치)]]></title>
@@ -618,6 +618,20 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6_ZpP5V7u.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">COP28 총정리: 나 COP쓰, 28살인디 🌿🎂</h3><time class="card-date">2023/12/15</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[만화·웹툰 계약서 새로 써요. (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/9367</id>
+        <link href="https://newneek.co/@newneek/article/9367"/>
+        <updated>2024-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/30445633e8974d1bb8f78442ab23c875.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">만화·웹툰 계약서 새로 써요.</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자영업자: “배민 이건 선 넘었어!” (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/9370</id>
+        <link href="https://newneek.co/@newneek/article/9370"/>
+        <updated>2024-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/16b9ad3471534374bb0c66445ebe1c45.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">자영업자: “배민 이건 선 넘었어!”</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[금리 또 동결했는데 주식이 오른 이유는? (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/@newneek/article/9366</id>
         <link href="https://newneek.co/@newneek/article/9366"/>
@@ -688,18 +702,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/7e8e1be7c5fe4a90bfac9e44d9fa7178.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🍕회사의 업무용 메신저 열람, 어떻게 생각해?</h3><time class="card-date">2024/06/11</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이폰에 챗GPT가 들어간다고? 🍎+🤖 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/9303</id>
-        <link href="https://newneek.co/@newneek/article/9303"/>
-        <updated>2024-06-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a9f7bd5d46144cab8d7cd312712fe4d8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아이폰에 챗GPT가 들어간다고? 🍎+🤖</h3><time class="card-date">2024/06/11</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[만화·웹툰 계약서 새로 써요. (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9367</id>
+        <link href="https://newneek.co/@newneek/article/9367"/>
+        <updated>2024-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/30445633e8974d1bb8f78442ab23c875.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">만화·웹툰 계약서 새로 써요.</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유럽은 오른쪽으로 갑니다 👋 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/9299</id>
-        <link href="https://newneek.co/@newneek/article/9299"/>
-        <updated>2024-06-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f6f9eb0453eb4fc7bd09f956911159fd.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">유럽은 오른쪽으로 갑니다 👋</h3><time class="card-date">2024/06/10</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[자영업자: “배민 이건 선 넘었어!” (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9370</id>
+        <link href="https://newneek.co/@newneek/article/9370"/>
+        <updated>2024-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/16b9ad3471534374bb0c66445ebe1c45.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">자영업자: “배민 이건 선 넘었어!”</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금리 또 동결했는데 주식이 오른 이유는? (뉴닉 ─ 코로나19)]]></title>
@@ -772,18 +786,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/7e8e1be7c5fe4a90bfac9e44d9fa7178.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🍕회사의 업무용 메신저 열람, 어떻게 생각해?</h3><time class="card-date">2024/06/11</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이폰에 챗GPT가 들어간다고? 🍎+🤖 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9303</id>
-        <link href="https://newneek.co/@newneek/article/9303"/>
-        <updated>2024-06-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a9f7bd5d46144cab8d7cd312712fe4d8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아이폰에 챗GPT가 들어간다고? 🍎+🤖</h3><time class="card-date">2024/06/11</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[만화·웹툰 계약서 새로 써요. (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/9367</id>
+        <link href="https://newneek.co/@newneek/article/9367"/>
+        <updated>2024-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/30445633e8974d1bb8f78442ab23c875.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">만화·웹툰 계약서 새로 써요.</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유럽은 오른쪽으로 갑니다 👋 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9299</id>
-        <link href="https://newneek.co/@newneek/article/9299"/>
-        <updated>2024-06-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f6f9eb0453eb4fc7bd09f956911159fd.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">유럽은 오른쪽으로 갑니다 👋</h3><time class="card-date">2024/06/10</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[자영업자: “배민 이건 선 넘었어!” (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/9370</id>
+        <link href="https://newneek.co/@newneek/article/9370"/>
+        <updated>2024-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/16b9ad3471534374bb0c66445ebe1c45.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">자영업자: “배민 이건 선 넘었어!”</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금리 또 동결했는데 주식이 오른 이유는? (뉴닉 ─ 피자스테이션)]]></title>
@@ -854,19 +868,5 @@
         <link href="https://newneek.co/@newneek/article/9274"/>
         <updated>2024-06-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/7e8e1be7c5fe4a90bfac9e44d9fa7178.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🍕회사의 업무용 메신저 열람, 어떻게 생각해?</h3><time class="card-date">2024/06/11</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰에 챗GPT가 들어간다고? 🍎+🤖 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/9303</id>
-        <link href="https://newneek.co/@newneek/article/9303"/>
-        <updated>2024-06-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a9f7bd5d46144cab8d7cd312712fe4d8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">아이폰에 챗GPT가 들어간다고? 🍎+🤖</h3><time class="card-date">2024/06/11</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽은 오른쪽으로 갑니다 👋 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/9299</id>
-        <link href="https://newneek.co/@newneek/article/9299"/>
-        <updated>2024-06-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f6f9eb0453eb4fc7bd09f956911159fd.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">유럽은 오른쪽으로 갑니다 👋</h3><time class="card-date">2024/06/10</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
