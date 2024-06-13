@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2024-06-13T10:05:51.633Z</updated>
+    <updated>2024-06-13T11:02:56.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/0502d4b1f8c54442bb82b283e189864d.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">무엇이 인간을 인간답게 만들어주는 걸까?</h3><time class="card-date">2024/06/13</time><i class="card-category">과학</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만화·웹툰 계약서 새로 써요.]]></title>
+        <title type="html"><![CDATA[만화·웹툰 계약서 새로 써요]]></title>
         <id>https://newneek.co/@newneek/article/9367</id>
         <link href="https://newneek.co/@newneek/article/9367"/>
         <updated>2024-06-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/30445633e8974d1bb8f78442ab23c875.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">만화·웹툰 계약서 새로 써요.</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/30445633e8974d1bb8f78442ab23c875.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">만화·웹툰 계약서 새로 써요</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자영업자: “배민 이건 선 넘었어!”]]></title>
