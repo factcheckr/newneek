@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2024-06-13T02:26:43.881Z</updated>
+    <updated>2024-06-13T03:08:43.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[금리 또 동결했는데 주식이 오른 이유는?]]></title>
+        <id>https://newneek.co/@newneek/article/9366</id>
+        <link href="https://newneek.co/@newneek/article/9366"/>
+        <updated>2024-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bbfed5ff78f9459094b5c46a599223ae.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금리 또 동결했는데 주식이 오른 이유는?</h3><time class="card-date">2024/06/13</time><i class="card-category">경제</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 '제미나이(Gemini)' 맞춤형 사용 가이드]]></title>
         <id>https://newneek.co/@newneek/article/9361</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9299"/>
         <updated>2024-06-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f6f9eb0453eb4fc7bd09f956911159fd.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">유럽은 오른쪽으로 갑니다 👋</h3><time class="card-date">2024/06/10</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제조사: “급발진이라는 할머니 측 주장은 틀렸습니다”]]></title>
-        <id>https://newneek.co/@newneek/article/9296</id>
-        <link href="https://newneek.co/@newneek/article/9296"/>
-        <updated>2024-06-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/045a9ac7c510469fa27a644ef1c655f0.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">제조사: “급발진이라는 할머니 측 주장은 틀렸습니다”</h3><time class="card-date">2024/06/10</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
