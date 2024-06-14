@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-14T05:05:19.447Z</updated>
+    <updated>2024-06-14T06:10:51.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[업계 최고가 직접 알려주는 AWS 클라우드 활용법 ☁️ (뉴닉 ─ 2022 대선)]]></title>
@@ -786,6 +786,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f8a51714c7434d7b969ccd65ccb99245.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">EU 증시가 잘나가는 이유 😎🇪🇺</h3><time class="card-date">2024/06/11</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한동훈 is Back? (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/9390</id>
+        <link href="https://newneek.co/@newneek/article/9390"/>
+        <updated>2024-06-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/6b7f51129cc74a8a9a150b7e8cfd7a73.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한동훈 is Back?</h3><time class="card-date">2024/06/14</time><i class="card-category">정치</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[업계 최고가 직접 알려주는 AWS 클라우드 활용법 ☁️ (뉴닉 ─ 피자스테이션)]]></title>
         <id>https://newneek.co/@newneek/article/9311</id>
         <link href="https://newneek.co/@newneek/article/9311"/>
@@ -861,12 +868,5 @@
         <link href="https://newneek.co/@newneek/article/9319"/>
         <updated>2024-06-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c5fe6a56cd194cc5ba21901d6774b2fa.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">원 구성 갈등...ing</h3><time class="card-date">2024/06/11</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU 증시가 잘나가는 이유 😎🇪🇺 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/9310</id>
-        <link href="https://newneek.co/@newneek/article/9310"/>
-        <updated>2024-06-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f8a51714c7434d7b969ccd65ccb99245.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">EU 증시가 잘나가는 이유 😎🇪🇺</h3><time class="card-date">2024/06/11</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
