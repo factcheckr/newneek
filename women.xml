@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2024-06-13T23:04:24.882Z</updated>
+    <updated>2024-06-14T00:30:39.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[업계 최고가 직접 알려주는 AWS 클라우드 활용법 ☁️]]></title>
+        <id>https://newneek.co/@newneek/article/9311</id>
+        <link href="https://newneek.co/@newneek/article/9311"/>
+        <updated>2024-06-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/23e2edc329884e7089ef51baac9ab804.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">업계 최고가 직접 알려주는 AWS 클라우드 활용법 ☁️</h3><time class="card-date">2024/06/14</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무엇이 인간을 인간답게 만들어주는 걸까?]]></title>
         <id>https://newneek.co/@newneek/article/9375</id>
@@ -13,18 +20,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/0502d4b1f8c54442bb82b283e189864d.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">무엇이 인간을 인간답게 만들어주는 걸까?</h3><time class="card-date">2024/06/13</time><i class="card-category">과학</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만화·웹툰 계약서 새로 써요]]></title>
-        <id>https://newneek.co/@newneek/article/9367</id>
-        <link href="https://newneek.co/@newneek/article/9367"/>
-        <updated>2024-06-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/30445633e8974d1bb8f78442ab23c875.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">만화·웹툰 계약서 새로 써요</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[자영업자: “배민 이건 선 넘었어!”]]></title>
         <id>https://newneek.co/@newneek/article/9370</id>
         <link href="https://newneek.co/@newneek/article/9370"/>
         <updated>2024-06-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/16b9ad3471534374bb0c66445ebe1c45.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">자영업자: “배민 이건 선 넘었어!”</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만화·웹툰 계약서 새로 써요]]></title>
+        <id>https://newneek.co/@newneek/article/9367</id>
+        <link href="https://newneek.co/@newneek/article/9367"/>
+        <updated>2024-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/30445633e8974d1bb8f78442ab23c875.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">만화·웹툰 계약서 새로 써요</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금리 또 동결했는데 주식이 오른 이유는?]]></title>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9310"/>
         <updated>2024-06-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f8a51714c7434d7b969ccd65ccb99245.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">EU 증시가 잘나가는 이유 😎🇪🇺</h3><time class="card-date">2024/06/11</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 손의 탁구 천재 🏓]]></title>
-        <id>https://newneek.co/@newneek/article/9308</id>
-        <link href="https://newneek.co/@newneek/article/9308"/>
-        <updated>2024-06-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f36cc8ddfab8441ba8df2b94ee67bcdd.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한 손의 탁구 천재 🏓</h3><time class="card-date">2024/06/11</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
