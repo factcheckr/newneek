@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2024-06-17T03:10:03.128Z</updated>
+    <updated>2024-06-17T04:11:38.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아쉬움 속에 막 내린 우크라 평화회의]]></title>
+        <id>https://newneek.co/@newneek/article/9425</id>
+        <link href="https://newneek.co/@newneek/article/9425"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">아쉬움 속에 막 내린 우크라 평화회의</h3><time class="card-date">2024/06/17</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성교육·성평등 책이 학교 도서관에서 사라진 이유]]></title>
         <id>https://newneek.co/@newneek/article/9411</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9361"/>
         <updated>2024-06-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/66d14fef52434fb6a1957bd7db6c52cc.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">구글 '제미나이(Gemini)' 맞춤형 사용 가이드</h3><time class="card-date">2024/06/12</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(이벤트) 풀코스로 즐기는 미식 로맨스 ‘프렌치 수프’ 🍽️]]></title>
-        <id>https://newneek.co/@newneek/article/9295</id>
-        <link href="https://newneek.co/@newneek/article/9295"/>
-        <updated>2024-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/2def744fb950402ea10b0fe6322a8fa0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(이벤트) 풀코스로 즐기는 미식 로맨스 ‘프렌치 수프’ 🍽️</h3><time class="card-date">2024/06/12</time><i class="card-category">영화</i></div></div>]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-17T03:10:03.155Z</updated>
+    <updated>2024-06-17T04:11:38.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[아쉬움 속에 막 내린 우크라 평화회의 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/9425</id>
+        <link href="https://newneek.co/@newneek/article/9425"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">아쉬움 속에 막 내린 우크라 평화회의</h3><time class="card-date">2024/06/17</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성교육·성평등 책이 학교 도서관에서 사라진 이유 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/@newneek/article/9411</id>
@@ -80,13 +87,6 @@
         <link href="https://newneek.co/@newneek/article/9361"/>
         <updated>2024-06-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/66d14fef52434fb6a1957bd7db6c52cc.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">구글 '제미나이(Gemini)' 맞춤형 사용 가이드</h3><time class="card-date">2024/06/12</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(이벤트) 풀코스로 즐기는 미식 로맨스 ‘프렌치 수프’ 🍽️ (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/9295</id>
-        <link href="https://newneek.co/@newneek/article/9295"/>
-        <updated>2024-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/2def744fb950402ea10b0fe6322a8fa0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(이벤트) 풀코스로 즐기는 미식 로맨스 ‘프렌치 수프’ 🍽️</h3><time class="card-date">2024/06/12</time><i class="card-category">영화</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰 지휘부 인사 논란 (뉴닉 ─ 정치)]]></title>
@@ -618,6 +618,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6_ZpP5V7u.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">COP28 총정리: 나 COP쓰, 28살인디 🌿🎂</h3><time class="card-date">2023/12/15</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아쉬움 속에 막 내린 우크라 평화회의 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/9425</id>
+        <link href="https://newneek.co/@newneek/article/9425"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">아쉬움 속에 막 내린 우크라 평화회의</h3><time class="card-date">2024/06/17</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[성교육·성평등 책이 학교 도서관에서 사라진 이유 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/@newneek/article/9411</id>
         <link href="https://newneek.co/@newneek/article/9411"/>
@@ -695,11 +702,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/66d14fef52434fb6a1957bd7db6c52cc.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">구글 '제미나이(Gemini)' 맞춤형 사용 가이드</h3><time class="card-date">2024/06/12</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(이벤트) 풀코스로 즐기는 미식 로맨스 ‘프렌치 수프’ 🍽️ (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/9295</id>
-        <link href="https://newneek.co/@newneek/article/9295"/>
-        <updated>2024-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/2def744fb950402ea10b0fe6322a8fa0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(이벤트) 풀코스로 즐기는 미식 로맨스 ‘프렌치 수프’ 🍽️</h3><time class="card-date">2024/06/12</time><i class="card-category">영화</i></div></div>]]></content>
+        <title type="html"><![CDATA[아쉬움 속에 막 내린 우크라 평화회의 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9425</id>
+        <link href="https://newneek.co/@newneek/article/9425"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">아쉬움 속에 막 내린 우크라 평화회의</h3><time class="card-date">2024/06/17</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[성교육·성평등 책이 학교 도서관에서 사라진 이유 (뉴닉 ─ 코로나19)]]></title>
@@ -779,11 +786,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/66d14fef52434fb6a1957bd7db6c52cc.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">구글 '제미나이(Gemini)' 맞춤형 사용 가이드</h3><time class="card-date">2024/06/12</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(이벤트) 풀코스로 즐기는 미식 로맨스 ‘프렌치 수프’ 🍽️ (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9295</id>
-        <link href="https://newneek.co/@newneek/article/9295"/>
-        <updated>2024-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/2def744fb950402ea10b0fe6322a8fa0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(이벤트) 풀코스로 즐기는 미식 로맨스 ‘프렌치 수프’ 🍽️</h3><time class="card-date">2024/06/12</time><i class="card-category">영화</i></div></div>]]></content>
+        <title type="html"><![CDATA[아쉬움 속에 막 내린 우크라 평화회의 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/9425</id>
+        <link href="https://newneek.co/@newneek/article/9425"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">아쉬움 속에 막 내린 우크라 평화회의</h3><time class="card-date">2024/06/17</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[성교육·성평등 책이 학교 도서관에서 사라진 이유 (뉴닉 ─ 피자스테이션)]]></title>
@@ -861,12 +868,5 @@
         <link href="https://newneek.co/@newneek/article/9361"/>
         <updated>2024-06-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/66d14fef52434fb6a1957bd7db6c52cc.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">구글 '제미나이(Gemini)' 맞춤형 사용 가이드</h3><time class="card-date">2024/06/12</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(이벤트) 풀코스로 즐기는 미식 로맨스 ‘프렌치 수프’ 🍽️ (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/9295</id>
-        <link href="https://newneek.co/@newneek/article/9295"/>
-        <updated>2024-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/2def744fb950402ea10b0fe6322a8fa0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(이벤트) 풀코스로 즐기는 미식 로맨스 ‘프렌치 수프’ 🍽️</h3><time class="card-date">2024/06/12</time><i class="card-category">영화</i></div></div>]]></content>
     </entry>
 </feed>
