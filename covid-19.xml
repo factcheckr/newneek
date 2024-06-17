@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2024-06-17T07:08:31.253Z</updated>
+    <updated>2024-06-17T08:11:00.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[결국 시작된 집단 휴진]]></title>
+        <id>https://newneek.co/@newneek/article/9428</id>
+        <link href="https://newneek.co/@newneek/article/9428"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c1b015759816473fa438871c6e6a0e41.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">결국 시작된 집단 휴진</h3><time class="card-date">2024/06/17</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앗! 역사, 패션 잡지보다 재밌다! 📷]]></title>
         <id>https://newneek.co/@newneek/article/9426</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9367"/>
         <updated>2024-06-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/30445633e8974d1bb8f78442ab23c875.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">만화·웹툰 계약서 새로 써요</h3><time class="card-date">2024/06/13</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금리 또 동결했는데 주식이 오른 이유는?]]></title>
-        <id>https://newneek.co/@newneek/article/9366</id>
-        <link href="https://newneek.co/@newneek/article/9366"/>
-        <updated>2024-06-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bbfed5ff78f9459094b5c46a599223ae.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금리 또 동결했는데 주식이 오른 이유는?</h3><time class="card-date">2024/06/13</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
