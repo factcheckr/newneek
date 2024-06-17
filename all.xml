@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-17T05:09:31.351Z</updated>
+    <updated>2024-06-17T06:11:33.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[앗! 역사, 패션 잡지보다 재밌다! 📷 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/9426</id>
+        <link href="https://newneek.co/@newneek/article/9426"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/23bfc53c8a444bc8b41a69b21157ae05.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">앗! 역사, 패션 잡지보다 재밌다! 📷</h3><time class="card-date">2024/06/17</time><i class="card-category">역사</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아쉬움 속에 막 내린 우크라 평화회의 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/@newneek/article/9425</id>
@@ -80,13 +87,6 @@
         <link href="https://newneek.co/@newneek/article/9366"/>
         <updated>2024-06-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bbfed5ff78f9459094b5c46a599223ae.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금리 또 동결했는데 주식이 오른 이유는?</h3><time class="card-date">2024/06/13</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 '제미나이(Gemini)' 맞춤형 사용 가이드 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/9361</id>
-        <link href="https://newneek.co/@newneek/article/9361"/>
-        <updated>2024-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/66d14fef52434fb6a1957bd7db6c52cc.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">구글 '제미나이(Gemini)' 맞춤형 사용 가이드</h3><time class="card-date">2024/06/12</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰 지휘부 인사 논란 (뉴닉 ─ 정치)]]></title>
@@ -618,6 +618,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6_ZpP5V7u.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">COP28 총정리: 나 COP쓰, 28살인디 🌿🎂</h3><time class="card-date">2023/12/15</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[앗! 역사, 패션 잡지보다 재밌다! 📷 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/9426</id>
+        <link href="https://newneek.co/@newneek/article/9426"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/23bfc53c8a444bc8b41a69b21157ae05.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">앗! 역사, 패션 잡지보다 재밌다! 📷</h3><time class="card-date">2024/06/17</time><i class="card-category">역사</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아쉬움 속에 막 내린 우크라 평화회의 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/@newneek/article/9425</id>
         <link href="https://newneek.co/@newneek/article/9425"/>
@@ -695,11 +702,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bbfed5ff78f9459094b5c46a599223ae.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금리 또 동결했는데 주식이 오른 이유는?</h3><time class="card-date">2024/06/13</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 '제미나이(Gemini)' 맞춤형 사용 가이드 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/9361</id>
-        <link href="https://newneek.co/@newneek/article/9361"/>
-        <updated>2024-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/66d14fef52434fb6a1957bd7db6c52cc.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">구글 '제미나이(Gemini)' 맞춤형 사용 가이드</h3><time class="card-date">2024/06/12</time><i class="card-category">테크</i></div></div>]]></content>
+        <title type="html"><![CDATA[앗! 역사, 패션 잡지보다 재밌다! 📷 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9426</id>
+        <link href="https://newneek.co/@newneek/article/9426"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/23bfc53c8a444bc8b41a69b21157ae05.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">앗! 역사, 패션 잡지보다 재밌다! 📷</h3><time class="card-date">2024/06/17</time><i class="card-category">역사</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아쉬움 속에 막 내린 우크라 평화회의 (뉴닉 ─ 코로나19)]]></title>
@@ -779,11 +786,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bbfed5ff78f9459094b5c46a599223ae.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금리 또 동결했는데 주식이 오른 이유는?</h3><time class="card-date">2024/06/13</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 '제미나이(Gemini)' 맞춤형 사용 가이드 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9361</id>
-        <link href="https://newneek.co/@newneek/article/9361"/>
-        <updated>2024-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/66d14fef52434fb6a1957bd7db6c52cc.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">구글 '제미나이(Gemini)' 맞춤형 사용 가이드</h3><time class="card-date">2024/06/12</time><i class="card-category">테크</i></div></div>]]></content>
+        <title type="html"><![CDATA[앗! 역사, 패션 잡지보다 재밌다! 📷 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/9426</id>
+        <link href="https://newneek.co/@newneek/article/9426"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/23bfc53c8a444bc8b41a69b21157ae05.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">앗! 역사, 패션 잡지보다 재밌다! 📷</h3><time class="card-date">2024/06/17</time><i class="card-category">역사</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아쉬움 속에 막 내린 우크라 평화회의 (뉴닉 ─ 피자스테이션)]]></title>
@@ -861,12 +868,5 @@
         <link href="https://newneek.co/@newneek/article/9366"/>
         <updated>2024-06-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bbfed5ff78f9459094b5c46a599223ae.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금리 또 동결했는데 주식이 오른 이유는?</h3><time class="card-date">2024/06/13</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 '제미나이(Gemini)' 맞춤형 사용 가이드 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/9361</id>
-        <link href="https://newneek.co/@newneek/article/9361"/>
-        <updated>2024-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/66d14fef52434fb6a1957bd7db6c52cc.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">구글 '제미나이(Gemini)' 맞춤형 사용 가이드</h3><time class="card-date">2024/06/12</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>

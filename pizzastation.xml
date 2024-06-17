@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2024-06-17T05:09:31.366Z</updated>
+    <updated>2024-06-17T06:11:33.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[앗! 역사, 패션 잡지보다 재밌다! 📷]]></title>
+        <id>https://newneek.co/@newneek/article/9426</id>
+        <link href="https://newneek.co/@newneek/article/9426"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/23bfc53c8a444bc8b41a69b21157ae05.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">앗! 역사, 패션 잡지보다 재밌다! 📷</h3><time class="card-date">2024/06/17</time><i class="card-category">역사</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아쉬움 속에 막 내린 우크라 평화회의]]></title>
         <id>https://newneek.co/@newneek/article/9425</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9366"/>
         <updated>2024-06-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bbfed5ff78f9459094b5c46a599223ae.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">금리 또 동결했는데 주식이 오른 이유는?</h3><time class="card-date">2024/06/13</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 '제미나이(Gemini)' 맞춤형 사용 가이드]]></title>
-        <id>https://newneek.co/@newneek/article/9361</id>
-        <link href="https://newneek.co/@newneek/article/9361"/>
-        <updated>2024-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/66d14fef52434fb6a1957bd7db6c52cc.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">구글 '제미나이(Gemini)' 맞춤형 사용 가이드</h3><time class="card-date">2024/06/12</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
