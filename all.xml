@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-20T07:02:37.536Z</updated>
+    <updated>2024-06-20T08:10:41.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/9533</id>
+        <link href="https://newneek.co/@newneek/article/9533"/>
+        <updated>2024-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/47064ccc0b9c458b8527e098cc77fda0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺</h3><time class="card-date">2024/06/20</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대수술 시작하는 SK그룹 🩺 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/@newneek/article/9530</id>
@@ -80,13 +87,6 @@
         <link href="https://newneek.co/@newneek/article/9435"/>
         <updated>2024-06-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/1091fa0af35c410e8cd633b24dcb6f25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘회사의 업무용 메신저 열람’ 피자가 도착했습니다!</h3><time class="card-date">2024/06/18</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK: “세기의 이혼 소송은 끝나지 않아!” (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/9443</id>
-        <link href="https://newneek.co/@newneek/article/9443"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/7f27ce21c70e4d1c96bdb69e970175d1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">SK: “세기의 이혼 소송은 끝나지 않아!”</h3><time class="card-date">2024/06/18</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰 지휘부 인사 논란 (뉴닉 ─ 정치)]]></title>
@@ -618,6 +618,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6_ZpP5V7u.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">COP28 총정리: 나 COP쓰, 28살인디 🌿🎂</h3><time class="card-date">2023/12/15</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/9533</id>
+        <link href="https://newneek.co/@newneek/article/9533"/>
+        <updated>2024-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/47064ccc0b9c458b8527e098cc77fda0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺</h3><time class="card-date">2024/06/20</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[대수술 시작하는 SK그룹 🩺 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/@newneek/article/9530</id>
         <link href="https://newneek.co/@newneek/article/9530"/>
@@ -695,11 +702,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/1091fa0af35c410e8cd633b24dcb6f25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘회사의 업무용 메신저 열람’ 피자가 도착했습니다!</h3><time class="card-date">2024/06/18</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SK: “세기의 이혼 소송은 끝나지 않아!” (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/9443</id>
-        <link href="https://newneek.co/@newneek/article/9443"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/7f27ce21c70e4d1c96bdb69e970175d1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">SK: “세기의 이혼 소송은 끝나지 않아!”</h3><time class="card-date">2024/06/18</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9533</id>
+        <link href="https://newneek.co/@newneek/article/9533"/>
+        <updated>2024-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/47064ccc0b9c458b8527e098cc77fda0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺</h3><time class="card-date">2024/06/20</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대수술 시작하는 SK그룹 🩺 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9530</id>
+        <link href="https://newneek.co/@newneek/article/9530"/>
+        <updated>2024-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c14e832924fc43929380fae00a7dd27f.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대수술 시작하는 SK그룹 🩺</h3><time class="card-date">2024/06/20</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정부 “인구 국가비상사태입니다” 🚨 (뉴닉 ─ 코로나19)]]></title>
@@ -772,18 +786,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/1091fa0af35c410e8cd633b24dcb6f25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘회사의 업무용 메신저 열람’ 피자가 도착했습니다!</h3><time class="card-date">2024/06/18</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SK: “세기의 이혼 소송은 끝나지 않아!” (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9443</id>
-        <link href="https://newneek.co/@newneek/article/9443"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/7f27ce21c70e4d1c96bdb69e970175d1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">SK: “세기의 이혼 소송은 끝나지 않아!”</h3><time class="card-date">2024/06/18</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올림픽? 파리지앵은 안 절거워 😮‍💨 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9430</id>
-        <link href="https://newneek.co/@newneek/article/9430"/>
-        <updated>2024-06-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f9f3524de1094d0c94c8bf53259f69ad.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">올림픽? 파리지앵은 안 절거워 😮‍💨</h3><time class="card-date">2024/06/17</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/9533</id>
+        <link href="https://newneek.co/@newneek/article/9533"/>
+        <updated>2024-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/47064ccc0b9c458b8527e098cc77fda0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺</h3><time class="card-date">2024/06/20</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대수술 시작하는 SK그룹 🩺 (뉴닉 ─ 피자스테이션)]]></title>
@@ -861,12 +868,5 @@
         <link href="https://newneek.co/@newneek/article/9435"/>
         <updated>2024-06-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/1091fa0af35c410e8cd633b24dcb6f25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘회사의 업무용 메신저 열람’ 피자가 도착했습니다!</h3><time class="card-date">2024/06/18</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK: “세기의 이혼 소송은 끝나지 않아!” (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/9443</id>
-        <link href="https://newneek.co/@newneek/article/9443"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/7f27ce21c70e4d1c96bdb69e970175d1.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">SK: “세기의 이혼 소송은 끝나지 않아!”</h3><time class="card-date">2024/06/18</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
