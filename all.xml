@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-20T22:03:37.466Z</updated>
+    <updated>2024-06-20T23:02:46.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺 (뉴닉 ─ 2022 대선)]]></title>
@@ -702,6 +702,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/1091fa0af35c410e8cd633b24dcb6f25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘회사의 업무용 메신저 열람’ 피자가 도착했습니다!</h3><time class="card-date">2024/06/18</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[수학의 세계를 통해 열리는 위로 🫂 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9541</id>
+        <link href="https://newneek.co/@newneek/article/9541"/>
+        <updated>2024-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">수학의 세계를 통해 열리는 위로 🫂</h3><time class="card-date">2024/06/20</time><i class="card-category">심리</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺 (뉴닉 ─ 코로나19)]]></title>
         <id>https://newneek.co/@newneek/article/9533</id>
         <link href="https://newneek.co/@newneek/article/9533"/>
@@ -777,13 +784,6 @@
         <link href="https://newneek.co/@newneek/article/9445"/>
         <updated>2024-06-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c03e8ae1271542af9ec5e29b0be19f25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">브로드웨이 게 섰거라 K-뮤지컬이 간다 🎭</h3><time class="card-date">2024/06/18</time><i class="card-category">공연</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔔띵동! ‘회사의 업무용 메신저 열람’ 피자가 도착했습니다! (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9435</id>
-        <link href="https://newneek.co/@newneek/article/9435"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/1091fa0af35c410e8cd633b24dcb6f25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🔔띵동! ‘회사의 업무용 메신저 열람’ 피자가 도착했습니다!</h3><time class="card-date">2024/06/18</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺 (뉴닉 ─ 피자스테이션)]]></title>
