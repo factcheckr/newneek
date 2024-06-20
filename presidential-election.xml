@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-06-20T02:25:42.919Z</updated>
+    <updated>2024-06-20T03:09:15.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정부 “인구 국가비상사태입니다” 🚨]]></title>
+        <id>https://newneek.co/@newneek/article/9525</id>
+        <link href="https://newneek.co/@newneek/article/9525"/>
+        <updated>2024-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/733946575066429eaec822f56dbaadbb.jpeg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부 “인구 국가비상사태입니다” 🚨</h3><time class="card-date">2024/06/20</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 세계 난민의 날과 유엔난민기구 캠페인]]></title>
         <id>https://newneek.co/@newneek/article/9505</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9430"/>
         <updated>2024-06-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/f9f3524de1094d0c94c8bf53259f69ad.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">올림픽? 파리지앵은 안 절거워 😮‍💨</h3><time class="card-date">2024/06/17</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결국 시작된 집단 휴진]]></title>
-        <id>https://newneek.co/@newneek/article/9428</id>
-        <link href="https://newneek.co/@newneek/article/9428"/>
-        <updated>2024-06-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c1b015759816473fa438871c6e6a0e41.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">결국 시작된 집단 휴진</h3><time class="card-date">2024/06/17</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
