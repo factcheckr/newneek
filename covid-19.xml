@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2024-06-21T06:10:27.857Z</updated>
+    <updated>2024-06-21T07:09:20.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[푸틴: “코리아, 너희 실수하는 거야”]]></title>
+        <id>https://newneek.co/@newneek/article/9555</id>
+        <link href="https://newneek.co/@newneek/article/9555"/>
+        <updated>2024-06-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/75fe465744f94521a948790f0b5ebef1.JPG" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">푸틴: “코리아, 너희 실수하는 거야”</h3><time class="card-date">2024/06/21</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수학의 세계를 통해 열리는 위로 🫂]]></title>
         <id>https://newneek.co/@newneek/article/9541</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9485"/>
         <updated>2024-06-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/d87c09d87170462b993174272da0120b.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">빅테크: 휴가 아니고 투자하러 왔어요 🤑</h3><time class="card-date">2024/06/18</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브로드웨이 게 섰거라 K-뮤지컬이 간다 🎭]]></title>
-        <id>https://newneek.co/@newneek/article/9445</id>
-        <link href="https://newneek.co/@newneek/article/9445"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c03e8ae1271542af9ec5e29b0be19f25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">브로드웨이 게 섰거라 K-뮤지컬이 간다 🎭</h3><time class="card-date">2024/06/18</time><i class="card-category">공연</i></div></div>]]></content>
     </entry>
 </feed>
