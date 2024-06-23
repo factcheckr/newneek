@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2024-06-23T03:09:08.481Z</updated>
+    <updated>2024-06-23T04:08:59.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[다시 통과된 채상병 특검법]]></title>
+        <id>https://newneek.co/@newneek/article/9587</id>
+        <link href="https://newneek.co/@newneek/article/9587"/>
+        <updated>2024-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/db71e86845b8487388c50447ea441677.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">다시 통과된 채상병 특검법</h3><time class="card-date">2024/06/23</time><i class="card-category">정치</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[푸틴: “코리아, 너희 실수하는 거야”]]></title>
         <id>https://newneek.co/@newneek/article/9555</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9487"/>
         <updated>2024-06-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/d0677c9345f74c9ab251ef4c32c264ea.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">민주당: “방송3법·방통위법 받아라!”</h3><time class="card-date">2024/06/18</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅테크: 휴가 아니고 투자하러 왔어요 🤑]]></title>
-        <id>https://newneek.co/@newneek/article/9485</id>
-        <link href="https://newneek.co/@newneek/article/9485"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/d87c09d87170462b993174272da0120b.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">빅테크: 휴가 아니고 투자하러 왔어요 🤑</h3><time class="card-date">2024/06/18</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
