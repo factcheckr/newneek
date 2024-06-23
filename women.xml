@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2024-06-23T06:10:10.237Z</updated>
+    <updated>2024-06-23T07:02:57.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[기후위기로 몸살 앓는 세계 🌍]]></title>
+        <id>https://newneek.co/@newneek/article/9594</id>
+        <link href="https://newneek.co/@newneek/article/9594"/>
+        <updated>2024-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9893d75ddb734ff687a3dca2ee454b9d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">기후위기로 몸살 앓는 세계 🌍</h3><time class="card-date">2024/06/23</time><i class="card-category">환경</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상에서 가장 못생긴 강아지는? 🐶]]></title>
+        <id>https://newneek.co/@newneek/article/9595</id>
+        <link href="https://newneek.co/@newneek/article/9595"/>
+        <updated>2024-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/6e79fc0e4357446b9d840000bf0e9d25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">세상에서 가장 못생긴 강아지는? 🐶</h3><time class="card-date">2024/06/23</time><i class="card-category">동물</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 통과된 채상병 특검법]]></title>
         <id>https://newneek.co/@newneek/article/9587</id>
@@ -24,7 +38,7 @@
         <id>https://newneek.co/@newneek/article/9541</id>
         <link href="https://newneek.co/@newneek/article/9541"/>
         <updated>2024-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">수학의 세계를 통해 열리는 위로 🫂</h3><time class="card-date">2024/06/20</time><i class="card-category">심리</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/234c75ad971b4b789e508510ae666b37.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">수학의 세계를 통해 열리는 위로 🫂</h3><time class="card-date">2024/06/20</time><i class="card-category">심리</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺]]></title>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9501"/>
         <updated>2024-06-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c1c2716873ab49e7b4b00cf3a89892d8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">축구장에서 벌어진 음식 전쟁 ⚽🥘</h3><time class="card-date">2024/06/19</time><i class="card-category">스포츠</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 제친 진격의 티빙]]></title>
-        <id>https://newneek.co/@newneek/article/9499</id>
-        <link href="https://newneek.co/@newneek/article/9499"/>
-        <updated>2024-06-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/3c6aaf72d9ff44ce987e17ca09bb556d.webp" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">넷플릭스 제친 진격의 티빙</h3><time class="card-date">2024/06/19</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당: “방송3법·방통위법 받아라!”]]></title>
-        <id>https://newneek.co/@newneek/article/9487</id>
-        <link href="https://newneek.co/@newneek/article/9487"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/d0677c9345f74c9ab251ef4c32c264ea.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">민주당: “방송3법·방통위법 받아라!”</h3><time class="card-date">2024/06/18</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>

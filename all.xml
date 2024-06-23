@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-23T06:10:10.294Z</updated>
+    <updated>2024-06-23T07:02:57.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[세상에서 가장 못생긴 강아지는? 🐶 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/9595</id>
+        <link href="https://newneek.co/@newneek/article/9595"/>
+        <updated>2024-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/6e79fc0e4357446b9d840000bf0e9d25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">세상에서 가장 못생긴 강아지는? 🐶</h3><time class="card-date">2024/06/23</time><i class="card-category">동물</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 통과된 채상병 특검법 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/@newneek/article/9587</id>
@@ -23,7 +30,7 @@
         <id>https://newneek.co/@newneek/article/9541</id>
         <link href="https://newneek.co/@newneek/article/9541"/>
         <updated>2024-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">수학의 세계를 통해 열리는 위로 🫂</h3><time class="card-date">2024/06/20</time><i class="card-category">심리</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/234c75ad971b4b789e508510ae666b37.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">수학의 세계를 통해 열리는 위로 🫂</h3><time class="card-date">2024/06/20</time><i class="card-category">심리</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺 (뉴닉 ─ 2022 대선)]]></title>
@@ -80,97 +87,6 @@
         <link href="https://newneek.co/@newneek/article/9499"/>
         <updated>2024-06-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/3c6aaf72d9ff44ce987e17ca09bb556d.webp" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">넷플릭스 제친 진격의 티빙</h3><time class="card-date">2024/06/19</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당: “방송3법·방통위법 받아라!” (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/9487</id>
-        <link href="https://newneek.co/@newneek/article/9487"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/d0677c9345f74c9ab251ef4c32c264ea.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">민주당: “방송3법·방통위법 받아라!”</h3><time class="card-date">2024/06/18</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰 지휘부 인사 논란 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/eaayOl</id>
-        <link href="https://newneek.co/post/eaayOl"/>
-        <updated>2024-05-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_2_JPoPLxy.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">검찰 지휘부 인사 논란</h3><time class="card-date">2024/05/16</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[631일 만에 열린 대통령 기자회견 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/llCgRt</id>
-        <link href="https://newneek.co/post/llCgRt"/>
-        <updated>2024-05-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_wHHSEJh.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">631일 만에 열린 대통령 기자회견</h3><time class="card-date">2024/05/10</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채 상병 특별검사법 전망 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/ekVdXg</id>
-        <link href="https://newneek.co/post/ekVdXg"/>
-        <updated>2024-05-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1-4.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">채 상병 특별검사법 전망</h3><time class="card-date">2024/05/09</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘김건희 특검법’과 검찰 수사 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/udn3z0</id>
-        <link href="https://newneek.co/post/udn3z0"/>
-        <updated>2024-05-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_47.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">‘김건희 특검법’과 검찰 수사</h3><time class="card-date">2024/05/08</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10·29 이태원 참사 특별법 본회의 통과 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/ci4nQa</id>
-        <link href="https://newneek.co/post/ci4nQa"/>
-        <updated>2024-05-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_46.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">10·29 이태원 참사 특별법 본회의 통과</h3><time class="card-date">2024/05/03</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21대 국회 법안 처리 상황 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/bufqRr</id>
-        <link href="https://newneek.co/post/bufqRr"/>
-        <updated>2024-04-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_10_URsKlSR.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">21대 국회 법안 처리 상황</h3><time class="card-date">2024/04/24</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[총선 이후 원내 소수정당·녹색정의당 상황 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/3zrG84</id>
-        <link href="https://newneek.co/post/3zrG84"/>
-        <updated>2024-04-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_61G3REL.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">총선 이후 원내 소수정당·녹색정의당 상황</h3><time class="card-date">2024/04/19</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[총선 이후 대통령실∙주요 정당 상황 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/5QrwUc</id>
-        <link href="https://newneek.co/post/5QrwUc"/>
-        <updated>2024-04-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_11_i6EkZUz.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">총선 이후 대통령실∙주요 정당 상황</h3><time class="card-date">2024/04/18</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[총선에서 여당이 크게 진 이유 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/Hx5a3L</id>
-        <link href="https://newneek.co/post/Hx5a3L"/>
-        <updated>2024-04-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_1_VsGzXdb.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">총선에서 여당이 크게 진 이유</h3><time class="card-date">2024/04/12</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴닉 2024 총선뽀개기: 총선 D-1, 더 재밌게 즐기기 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/pAJ7A6</id>
-        <link href="https://newneek.co/post/pAJ7A6"/>
-        <updated>2024-04-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AB_2_45.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">뉴닉 2024 총선뽀개기: 총선 D-1, 더 재밌게 즐기기</h3><time class="card-date">2024/04/09</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[총선 사전투표 결과와 전망 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/syqYaO</id>
-        <link href="https://newneek.co/post/syqYaO"/>
-        <updated>2024-04-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_1_44lQKBs.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">총선 사전투표 결과와 전망</h3><time class="card-date">2024/04/08</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴닉 2024 총선뽀개기: 사전투표 (뉴닉 ─ 정치)]]></title>
-        <id>https://newneek.co/post/t7gbv1</id>
-        <link href="https://newneek.co/post/t7gbv1"/>
-        <updated>2024-04-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%90%E1%85%AE%E1%84%91%E1%85%AD.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">뉴닉 2024 총선뽀개기: 사전투표</h3><time class="card-date">2024/04/05</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국, 중국산 커넥티드 카 규제 예고 (뉴닉 ─ 세계)]]></title>
@@ -618,6 +534,20 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6_ZpP5V7u.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">COP28 총정리: 나 COP쓰, 28살인디 🌿🎂</h3><time class="card-date">2023/12/15</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[기후위기로 몸살 앓는 세계 🌍 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/9594</id>
+        <link href="https://newneek.co/@newneek/article/9594"/>
+        <updated>2024-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9893d75ddb734ff687a3dca2ee454b9d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">기후위기로 몸살 앓는 세계 🌍</h3><time class="card-date">2024/06/23</time><i class="card-category">환경</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상에서 가장 못생긴 강아지는? 🐶 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/9595</id>
+        <link href="https://newneek.co/@newneek/article/9595"/>
+        <updated>2024-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/6e79fc0e4357446b9d840000bf0e9d25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">세상에서 가장 못생긴 강아지는? 🐶</h3><time class="card-date">2024/06/23</time><i class="card-category">동물</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[다시 통과된 채상병 특검법 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/@newneek/article/9587</id>
         <link href="https://newneek.co/@newneek/article/9587"/>
@@ -636,7 +566,7 @@
         <id>https://newneek.co/@newneek/article/9541</id>
         <link href="https://newneek.co/@newneek/article/9541"/>
         <updated>2024-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">수학의 세계를 통해 열리는 위로 🫂</h3><time class="card-date">2024/06/20</time><i class="card-category">심리</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/234c75ad971b4b789e508510ae666b37.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">수학의 세계를 통해 열리는 위로 🫂</h3><time class="card-date">2024/06/20</time><i class="card-category">심리</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺 (뉴닉 ─ 여성)]]></title>
@@ -688,18 +618,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c1c2716873ab49e7b4b00cf3a89892d8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">축구장에서 벌어진 음식 전쟁 ⚽🥘</h3><time class="card-date">2024/06/19</time><i class="card-category">스포츠</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넷플릭스 제친 진격의 티빙 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/9499</id>
-        <link href="https://newneek.co/@newneek/article/9499"/>
-        <updated>2024-06-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/3c6aaf72d9ff44ce987e17ca09bb556d.webp" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">넷플릭스 제친 진격의 티빙</h3><time class="card-date">2024/06/19</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[기후위기로 몸살 앓는 세계 🌍 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9594</id>
+        <link href="https://newneek.co/@newneek/article/9594"/>
+        <updated>2024-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9893d75ddb734ff687a3dca2ee454b9d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">기후위기로 몸살 앓는 세계 🌍</h3><time class="card-date">2024/06/23</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주당: “방송3법·방통위법 받아라!” (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/9487</id>
-        <link href="https://newneek.co/@newneek/article/9487"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/d0677c9345f74c9ab251ef4c32c264ea.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">민주당: “방송3법·방통위법 받아라!”</h3><time class="card-date">2024/06/18</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[세상에서 가장 못생긴 강아지는? 🐶 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9595</id>
+        <link href="https://newneek.co/@newneek/article/9595"/>
+        <updated>2024-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/6e79fc0e4357446b9d840000bf0e9d25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">세상에서 가장 못생긴 강아지는? 🐶</h3><time class="card-date">2024/06/23</time><i class="card-category">동물</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다시 통과된 채상병 특검법 (뉴닉 ─ 코로나19)]]></title>
@@ -720,7 +650,7 @@
         <id>https://newneek.co/@newneek/article/9541</id>
         <link href="https://newneek.co/@newneek/article/9541"/>
         <updated>2024-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">수학의 세계를 통해 열리는 위로 🫂</h3><time class="card-date">2024/06/20</time><i class="card-category">심리</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/234c75ad971b4b789e508510ae666b37.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">수학의 세계를 통해 열리는 위로 🫂</h3><time class="card-date">2024/06/20</time><i class="card-category">심리</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺 (뉴닉 ─ 코로나19)]]></title>
@@ -772,18 +702,18 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c1c2716873ab49e7b4b00cf3a89892d8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">축구장에서 벌어진 음식 전쟁 ⚽🥘</h3><time class="card-date">2024/06/19</time><i class="card-category">스포츠</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넷플릭스 제친 진격의 티빙 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9499</id>
-        <link href="https://newneek.co/@newneek/article/9499"/>
-        <updated>2024-06-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/3c6aaf72d9ff44ce987e17ca09bb556d.webp" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">넷플릭스 제친 진격의 티빙</h3><time class="card-date">2024/06/19</time><i class="card-category">경제</i></div></div>]]></content>
+        <title type="html"><![CDATA[기후위기로 몸살 앓는 세계 🌍 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/9594</id>
+        <link href="https://newneek.co/@newneek/article/9594"/>
+        <updated>2024-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9893d75ddb734ff687a3dca2ee454b9d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">기후위기로 몸살 앓는 세계 🌍</h3><time class="card-date">2024/06/23</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주당: “방송3법·방통위법 받아라!” (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9487</id>
-        <link href="https://newneek.co/@newneek/article/9487"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/d0677c9345f74c9ab251ef4c32c264ea.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">민주당: “방송3법·방통위법 받아라!”</h3><time class="card-date">2024/06/18</time><i class="card-category">정치</i></div></div>]]></content>
+        <title type="html"><![CDATA[세상에서 가장 못생긴 강아지는? 🐶 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/9595</id>
+        <link href="https://newneek.co/@newneek/article/9595"/>
+        <updated>2024-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/6e79fc0e4357446b9d840000bf0e9d25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">세상에서 가장 못생긴 강아지는? 🐶</h3><time class="card-date">2024/06/23</time><i class="card-category">동물</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다시 통과된 채상병 특검법 (뉴닉 ─ 피자스테이션)]]></title>
@@ -804,7 +734,7 @@
         <id>https://newneek.co/@newneek/article/9541</id>
         <link href="https://newneek.co/@newneek/article/9541"/>
         <updated>2024-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">수학의 세계를 통해 열리는 위로 🫂</h3><time class="card-date">2024/06/20</time><i class="card-category">심리</i></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/234c75ad971b4b789e508510ae666b37.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">수학의 세계를 통해 열리는 위로 🫂</h3><time class="card-date">2024/06/20</time><i class="card-category">심리</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺 (뉴닉 ─ 피자스테이션)]]></title>
@@ -854,19 +784,5 @@
         <link href="https://newneek.co/@newneek/article/9501"/>
         <updated>2024-06-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c1c2716873ab49e7b4b00cf3a89892d8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">축구장에서 벌어진 음식 전쟁 ⚽🥘</h3><time class="card-date">2024/06/19</time><i class="card-category">스포츠</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 제친 진격의 티빙 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/9499</id>
-        <link href="https://newneek.co/@newneek/article/9499"/>
-        <updated>2024-06-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/3c6aaf72d9ff44ce987e17ca09bb556d.webp" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">넷플릭스 제친 진격의 티빙</h3><time class="card-date">2024/06/19</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당: “방송3법·방통위법 받아라!” (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/9487</id>
-        <link href="https://newneek.co/@newneek/article/9487"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/d0677c9345f74c9ab251ef4c32c264ea.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">민주당: “방송3법·방통위법 받아라!”</h3><time class="card-date">2024/06/18</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
