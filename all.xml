@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-24T07:03:01.987Z</updated>
+    <updated>2024-06-24T08:10:51.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[청소년의 40%가 겪고 있는 문제, 불법도박 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/9613</id>
+        <link href="https://newneek.co/@newneek/article/9613"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c601c832419248f48d35bc55b6aaa8ef.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">청소년의 40%가 겪고 있는 문제, 불법도박</h3><time class="card-date">2024/06/24</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플과 메타의 ‘선 넘은’ AI 동맹 🤝 (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/@newneek/article/9629</id>
@@ -80,13 +87,6 @@
         <link href="https://newneek.co/@newneek/article/9530"/>
         <updated>2024-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c14e832924fc43929380fae00a7dd27f.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대수술 시작하는 SK그룹 🩺</h3><time class="card-date">2024/06/20</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부 “인구 국가비상사태입니다” 🚨 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/9525</id>
-        <link href="https://newneek.co/@newneek/article/9525"/>
-        <updated>2024-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/733946575066429eaec822f56dbaadbb.jpeg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부 “인구 국가비상사태입니다” 🚨</h3><time class="card-date">2024/06/20</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰 지휘부 인사 논란 (뉴닉 ─ 정치)]]></title>
@@ -618,6 +618,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6_ZpP5V7u.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">COP28 총정리: 나 COP쓰, 28살인디 🌿🎂</h3><time class="card-date">2023/12/15</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[청소년의 40%가 겪고 있는 문제, 불법도박 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/9613</id>
+        <link href="https://newneek.co/@newneek/article/9613"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c601c832419248f48d35bc55b6aaa8ef.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">청소년의 40%가 겪고 있는 문제, 불법도박</h3><time class="card-date">2024/06/24</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플과 메타의 ‘선 넘은’ AI 동맹 🤝 (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/@newneek/article/9629</id>
         <link href="https://newneek.co/@newneek/article/9629"/>
@@ -695,11 +702,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c14e832924fc43929380fae00a7dd27f.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대수술 시작하는 SK그룹 🩺</h3><time class="card-date">2024/06/20</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부 “인구 국가비상사태입니다” 🚨 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/9525</id>
-        <link href="https://newneek.co/@newneek/article/9525"/>
-        <updated>2024-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/733946575066429eaec822f56dbaadbb.jpeg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부 “인구 국가비상사태입니다” 🚨</h3><time class="card-date">2024/06/20</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[청소년의 40%가 겪고 있는 문제, 불법도박 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9613</id>
+        <link href="https://newneek.co/@newneek/article/9613"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c601c832419248f48d35bc55b6aaa8ef.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">청소년의 40%가 겪고 있는 문제, 불법도박</h3><time class="card-date">2024/06/24</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플과 메타의 ‘선 넘은’ AI 동맹 🤝 (뉴닉 ─ 코로나19)]]></title>
@@ -779,11 +786,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c14e832924fc43929380fae00a7dd27f.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대수술 시작하는 SK그룹 🩺</h3><time class="card-date">2024/06/20</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부 “인구 국가비상사태입니다” 🚨 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9525</id>
-        <link href="https://newneek.co/@newneek/article/9525"/>
-        <updated>2024-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/733946575066429eaec822f56dbaadbb.jpeg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부 “인구 국가비상사태입니다” 🚨</h3><time class="card-date">2024/06/20</time><i class="card-category">사회</i></div></div>]]></content>
+        <title type="html"><![CDATA[청소년의 40%가 겪고 있는 문제, 불법도박 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/9613</id>
+        <link href="https://newneek.co/@newneek/article/9613"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c601c832419248f48d35bc55b6aaa8ef.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">청소년의 40%가 겪고 있는 문제, 불법도박</h3><time class="card-date">2024/06/24</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플과 메타의 ‘선 넘은’ AI 동맹 🤝 (뉴닉 ─ 피자스테이션)]]></title>
@@ -861,12 +868,5 @@
         <link href="https://newneek.co/@newneek/article/9530"/>
         <updated>2024-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c14e832924fc43929380fae00a7dd27f.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대수술 시작하는 SK그룹 🩺</h3><time class="card-date">2024/06/20</time><i class="card-category">경제</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부 “인구 국가비상사태입니다” 🚨 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/9525</id>
-        <link href="https://newneek.co/@newneek/article/9525"/>
-        <updated>2024-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/733946575066429eaec822f56dbaadbb.jpeg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">정부 “인구 국가비상사태입니다” 🚨</h3><time class="card-date">2024/06/20</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
