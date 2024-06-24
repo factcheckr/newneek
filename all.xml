@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-24T04:10:11.128Z</updated>
+    <updated>2024-06-24T05:02:42.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[미국 텍사스에 등장한 ‘태권도 영웅’ 가족 🦸 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/9615</id>
+        <link href="https://newneek.co/@newneek/article/9615"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/1c8e8adb16fb4df2b15d1f402a94e328.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 텍사스에 등장한 ‘태권도 영웅’ 가족 🦸</h3><time class="card-date">2024/06/24</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돌아온 한동훈: “윤석열 정부 👎” (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/@newneek/article/9608</id>
@@ -80,13 +87,6 @@
         <link href="https://newneek.co/@newneek/article/9505"/>
         <updated>2024-06-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 세계 난민의 날과 유엔난민기구 캠페인</h3><time class="card-date">2024/06/19</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한과 러시아의 전략적 만남 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/9503</id>
-        <link href="https://newneek.co/@newneek/article/9503"/>
-        <updated>2024-06-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/75315f66c258439c8c370dd848e30020.JPG" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한과 러시아의 전략적 만남</h3><time class="card-date">2024/06/19</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰 지휘부 인사 논란 (뉴닉 ─ 정치)]]></title>
@@ -618,6 +618,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6_ZpP5V7u.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">COP28 총정리: 나 COP쓰, 28살인디 🌿🎂</h3><time class="card-date">2023/12/15</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[미국 텍사스에 등장한 ‘태권도 영웅’ 가족 🦸 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/9615</id>
+        <link href="https://newneek.co/@newneek/article/9615"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/1c8e8adb16fb4df2b15d1f402a94e328.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 텍사스에 등장한 ‘태권도 영웅’ 가족 🦸</h3><time class="card-date">2024/06/24</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[돌아온 한동훈: “윤석열 정부 👎” (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/@newneek/article/9608</id>
         <link href="https://newneek.co/@newneek/article/9608"/>
@@ -695,11 +702,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 세계 난민의 날과 유엔난민기구 캠페인</h3><time class="card-date">2024/06/19</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북한과 러시아의 전략적 만남 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/9503</id>
-        <link href="https://newneek.co/@newneek/article/9503"/>
-        <updated>2024-06-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/75315f66c258439c8c370dd848e30020.JPG" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한과 러시아의 전략적 만남</h3><time class="card-date">2024/06/19</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[미국 텍사스에 등장한 ‘태권도 영웅’ 가족 🦸 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9615</id>
+        <link href="https://newneek.co/@newneek/article/9615"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/1c8e8adb16fb4df2b15d1f402a94e328.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 텍사스에 등장한 ‘태권도 영웅’ 가족 🦸</h3><time class="card-date">2024/06/24</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[돌아온 한동훈: “윤석열 정부 👎” (뉴닉 ─ 코로나19)]]></title>
@@ -779,11 +786,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 세계 난민의 날과 유엔난민기구 캠페인</h3><time class="card-date">2024/06/19</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북한과 러시아의 전략적 만남 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9503</id>
-        <link href="https://newneek.co/@newneek/article/9503"/>
-        <updated>2024-06-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/75315f66c258439c8c370dd848e30020.JPG" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한과 러시아의 전략적 만남</h3><time class="card-date">2024/06/19</time><i class="card-category">세계</i></div></div>]]></content>
+        <title type="html"><![CDATA[미국 텍사스에 등장한 ‘태권도 영웅’ 가족 🦸 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/9615</id>
+        <link href="https://newneek.co/@newneek/article/9615"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/1c8e8adb16fb4df2b15d1f402a94e328.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 텍사스에 등장한 ‘태권도 영웅’ 가족 🦸</h3><time class="card-date">2024/06/24</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[돌아온 한동훈: “윤석열 정부 👎” (뉴닉 ─ 피자스테이션)]]></title>
@@ -861,12 +868,5 @@
         <link href="https://newneek.co/@newneek/article/9505"/>
         <updated>2024-06-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 세계 난민의 날과 유엔난민기구 캠페인</h3><time class="card-date">2024/06/19</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한과 러시아의 전략적 만남 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/9503</id>
-        <link href="https://newneek.co/@newneek/article/9503"/>
-        <updated>2024-06-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/75315f66c258439c8c370dd848e30020.JPG" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">북한과 러시아의 전략적 만남</h3><time class="card-date">2024/06/19</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
