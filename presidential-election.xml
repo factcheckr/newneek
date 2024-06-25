@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-06-25T03:09:12.666Z</updated>
+    <updated>2024-06-25T04:09:31.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🍕디지털 단두대, 어떻게 생각해?]]></title>
+        <id>https://newneek.co/@newneek/article/9640</id>
+        <link href="https://newneek.co/@newneek/article/9640"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c381024cdcaf430984d514e6cc7320a9.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🍕디지털 단두대, 어떻게 생각해?</h3><time class="card-date">2024/06/25</time><i class="card-category">문화</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[22시간 만에 꺼진 화성 공장의 불]]></title>
         <id>https://newneek.co/@newneek/article/9654</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9541"/>
         <updated>2024-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/234c75ad971b4b789e508510ae666b37.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">수학의 세계를 통해 열리는 위로 🫂</h3><time class="card-date">2024/06/20</time><i class="card-category">심리</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺]]></title>
-        <id>https://newneek.co/@newneek/article/9533</id>
-        <link href="https://newneek.co/@newneek/article/9533"/>
-        <updated>2024-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/47064ccc0b9c458b8527e098cc77fda0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺</h3><time class="card-date">2024/06/20</time><i class="card-category">세계</i></div></div>]]></content>
     </entry>
 </feed>
