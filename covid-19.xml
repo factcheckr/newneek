@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2024-06-25T08:11:34.052Z</updated>
+    <updated>2024-06-25T09:06:30.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[러브버그: “사랑해요~” / 서울시민: “으아악”]]></title>
+        <id>https://newneek.co/@newneek/article/9678</id>
+        <link href="https://newneek.co/@newneek/article/9678"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/be530da9e2bd4e9f9ce4e8c25b21b249.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">러브버그: “사랑해요~” / 서울시민: “으아악”</h3><time class="card-date">2024/06/25</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마약 어떻게 뿌리뽑을 수 있을까]]></title>
         <id>https://newneek.co/@newneek/article/9676</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9595"/>
         <updated>2024-06-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/6e79fc0e4357446b9d840000bf0e9d25.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">세상 모든 강아지는 아름답다개! 🐶</h3><time class="card-date">2024/06/23</time><i class="card-category">동물</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 통과된 채상병 특검법]]></title>
-        <id>https://newneek.co/@newneek/article/9587</id>
-        <link href="https://newneek.co/@newneek/article/9587"/>
-        <updated>2024-06-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/db71e86845b8487388c50447ea441677.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">다시 통과된 채상병 특검법</h3><time class="card-date">2024/06/23</time><i class="card-category">정치</i></div></div>]]></content>
     </entry>
 </feed>
