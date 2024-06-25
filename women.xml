@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2024-06-25T01:55:16.968Z</updated>
+    <updated>2024-06-25T02:27:13.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[22시간 만에 꺼진 화성 공장의 불]]></title>
+        <id>https://newneek.co/@newneek/article/9654</id>
+        <link href="https://newneek.co/@newneek/article/9654"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bbb011bdcd734f79ab2d920c4cab83a8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">22시간 만에 꺼진 화성 공장의 불</h3><time class="card-date">2024/06/25</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청소년의 40%가 겪고 있는 문제, 불법도박]]></title>
         <id>https://newneek.co/@newneek/article/9613</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9533"/>
         <updated>2024-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/47064ccc0b9c458b8527e098cc77fda0.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한층 더 가까워진 우리 사이 🇰🇵🤝🇷🇺</h3><time class="card-date">2024/06/20</time><i class="card-category">세계</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대수술 시작하는 SK그룹 🩺]]></title>
-        <id>https://newneek.co/@newneek/article/9530</id>
-        <link href="https://newneek.co/@newneek/article/9530"/>
-        <updated>2024-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c14e832924fc43929380fae00a7dd27f.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대수술 시작하는 SK그룹 🩺</h3><time class="card-date">2024/06/20</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
 </feed>
