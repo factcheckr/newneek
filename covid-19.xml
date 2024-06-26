@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/covid-19</id>
     <title>뉴닉 ─ 코로나19</title>
-    <updated>2024-06-26T07:02:32.595Z</updated>
+    <updated>2024-06-26T08:10:21.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[EU: “마이크로소프트, 너도 문제야!”]]></title>
+        <id>https://newneek.co/@newneek/article/9703</id>
+        <link href="https://newneek.co/@newneek/article/9703"/>
+        <updated>2024-06-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/888c765197c0484fbddd638db5aa7602.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">EU: “마이크로소프트, 너도 문제야!”</h3><time class="card-date">2024/06/26</time><i class="card-category">테크</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이주노동자들의 비극이 반복되지 않으려면]]></title>
         <id>https://newneek.co/@newneek/article/9701</id>
         <link href="https://newneek.co/@newneek/article/9701"/>
         <updated>2024-06-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9c0de227ac724cff9341438d7534776a.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이주노동자들의 비극이 반복되지 않으려면</h3><time class="card-date">2024/06/26</time><i class="card-category">사회</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쐐기풀을 먹으라고요? 넘어갈게요 🌿]]></title>
+        <id>https://newneek.co/@newneek/article/9696</id>
+        <link href="https://newneek.co/@newneek/article/9696"/>
+        <updated>2024-06-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/b152b136b77641b8b58e0e6cc093883d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">쐐기풀을 먹으라고요? 넘어갈게요 🌿</h3><time class="card-date">2024/06/26</time><i class="card-category">문화</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[계속되는 북한의 도발]]></title>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9615"/>
         <updated>2024-06-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/1c8e8adb16fb4df2b15d1f402a94e328.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">미국 텍사스에 등장한 ‘태권도 영웅’ 가족 🦸</h3><time class="card-date">2024/06/24</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 한동훈: “윤석열 정부 👎”]]></title>
-        <id>https://newneek.co/@newneek/article/9608</id>
-        <link href="https://newneek.co/@newneek/article/9608"/>
-        <updated>2024-06-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c1fb5407abdc4029bf44fda9bba836c7.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">돌아온 한동훈: “윤석열 정부 👎”</h3><time class="card-date">2024/06/24</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만: 난 예전부터 AI 시대 준비했단 사실~🎵]]></title>
-        <id>https://newneek.co/@newneek/article/9599</id>
-        <link href="https://newneek.co/@newneek/article/9599"/>
-        <updated>2024-06-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/73f1a46d39254f8a909a1ddcce9006b8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">대만: 난 예전부터 AI 시대 준비했단 사실~🎵</h3><time class="card-date">2024/06/23</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
