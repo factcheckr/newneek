@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-06-27T02:26:43.807Z</updated>
+    <updated>2024-06-27T03:09:10.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) 일하면서 외로움을 느낀 적 있는 사람들을 위한 공간 🏠]]></title>
+        <id>https://newneek.co/@newneek/article/9718</id>
+        <link href="https://newneek.co/@newneek/article/9718"/>
+        <updated>2024-06-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/81ee0dc562c44e64a5d0427f48db1e4e.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 일하면서 외로움을 느낀 적 있는 사람들을 위한 공간 🏠</h3><time class="card-date">2024/06/27</time><i class="card-category">환경</i></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광고) 2024 YouTube Works Awards]]></title>
+        <id>https://newneek.co/@newneek/article/9719</id>
+        <link href="https://newneek.co/@newneek/article/9719"/>
+        <updated>2024-06-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><div class="card-body"><span role="img" class="card-emoji">📃</span><h3 class="card-title">(광고) 2024 YouTube Works Awards</h3><time class="card-date">2024/06/27</time><i class="card-category">문화</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손웅정 감독 피소: 사랑의 매일까 학대일까]]></title>
         <id>https://newneek.co/@newneek/article/9717</id>
@@ -74,19 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9654"/>
         <updated>2024-06-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bbb011bdcd734f79ab2d920c4cab83a8.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">22시간 만에 꺼진 화성 공장의 불</h3><time class="card-date">2024/06/25</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청소년의 40%가 겪고 있는 문제, 불법도박]]></title>
-        <id>https://newneek.co/@newneek/article/9613</id>
-        <link href="https://newneek.co/@newneek/article/9613"/>
-        <updated>2024-06-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c601c832419248f48d35bc55b6aaa8ef.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">청소년의 40%가 겪고 있는 문제, 불법도박</h3><time class="card-date">2024/06/24</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플과 메타의 ‘선 넘은’ AI 동맹 🤝]]></title>
-        <id>https://newneek.co/@newneek/article/9629</id>
-        <link href="https://newneek.co/@newneek/article/9629"/>
-        <updated>2024-06-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/1f317aaa6d084ec9baf935d5e2872687.JPG" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">애플과 메타의 ‘선 넘은’ AI 동맹 🤝</h3><time class="card-date">2024/06/24</time><i class="card-category">테크</i></div></div>]]></content>
     </entry>
 </feed>
