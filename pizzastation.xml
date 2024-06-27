@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2024-06-27T09:07:05.252Z</updated>
+    <updated>2024-06-27T10:02:41.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[핵무장 할 수 있는 거임? 우리나라도? 💣]]></title>
+        <id>https://newneek.co/@newneek/article/9809</id>
+        <link href="https://newneek.co/@newneek/article/9809"/>
+        <updated>2024-06-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/25455c644c2c4181a94b60f850d743ce.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">핵무장 할 수 있는 거임? 우리나라도? 💣</h3><time class="card-date">2024/06/27</time><i class="card-category">정치</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혁명 아닌 반역으로 끝난 볼리비아의 봄?]]></title>
         <id>https://newneek.co/@newneek/article/9807</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9676"/>
         <updated>2024-06-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/ca1978da9dcf452da17264fc3b32a936.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">마약, 어떻게 뿌리뽑을 수 있을까?</h3><time class="card-date">2024/06/25</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[75번의 도전만에 이뤄낸 첫 우승 🏆]]></title>
-        <id>https://newneek.co/@newneek/article/9656</id>
-        <link href="https://newneek.co/@newneek/article/9656"/>
-        <updated>2024-06-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/6af250c432cc4b889acbd86dd373d43f.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">75번의 도전만에 이뤄낸 첫 우승 🏆</h3><time class="card-date">2024/06/25</time><i class="card-category">스포츠</i></div></div>]]></content>
     </entry>
 </feed>
