@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/pizzastation</id>
     <title>뉴닉 ─ 피자스테이션</title>
-    <updated>2024-06-27T08:10:28.951Z</updated>
+    <updated>2024-06-27T09:07:05.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[혁명 아닌 반역으로 끝난 볼리비아의 봄?]]></title>
+        <id>https://newneek.co/@newneek/article/9807</id>
+        <link href="https://newneek.co/@newneek/article/9807"/>
+        <updated>2024-06-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/8379d6ee954542f1a8593ad1d5605f3d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">혁명 아닌 반역으로 끝난 볼리비아의 봄?</h3><time class="card-date">2024/06/27</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[56년 만에 주름진 손 맞잡은 남매의 사연 🙌]]></title>
         <id>https://newneek.co/@newneek/article/9724</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9656"/>
         <updated>2024-06-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/6af250c432cc4b889acbd86dd373d43f.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">75번의 도전만에 이뤄낸 첫 우승 🏆</h3><time class="card-date">2024/06/25</time><i class="card-category">스포츠</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍕디지털 단두대, 어떻게 생각해?]]></title>
-        <id>https://newneek.co/@newneek/article/9640</id>
-        <link href="https://newneek.co/@newneek/article/9640"/>
-        <updated>2024-06-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c381024cdcaf430984d514e6cc7320a9.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">🍕디지털 단두대, 어떻게 생각해?</h3><time class="card-date">2024/06/25</time><i class="card-category">문화</i></div></div>]]></content>
     </entry>
 </feed>
