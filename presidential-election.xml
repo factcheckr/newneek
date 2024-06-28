@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-06-28T07:03:25.931Z</updated>
+    <updated>2024-06-28T08:10:37.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[바이든 vs. 트럼프, “넌 최악이었어!”]]></title>
+        <id>https://newneek.co/@newneek/article/9857</id>
+        <link href="https://newneek.co/@newneek/article/9857"/>
+        <updated>2024-06-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bb412824192b42898a0b5f77bbfbfbb8.JPG" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">바이든 vs. 트럼프, “넌 최악이었어!”</h3><time class="card-date">2024/06/28</time><i class="card-category">세계</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 이번 여름, ‘컴포즈커피’의 여름이 특별한 이유 ☀️🍹]]></title>
         <id>https://newneek.co/@newneek/article/9743</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9694"/>
         <updated>2024-06-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/4f12597b066f4bf0b0c54fca9fe0a354.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">계속되는 북한의 도발</h3><time class="card-date">2024/06/26</time><i class="card-category">정치</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러브버그: “사랑해요~” / 시민들: “으아악”]]></title>
-        <id>https://newneek.co/@newneek/article/9678</id>
-        <link href="https://newneek.co/@newneek/article/9678"/>
-        <updated>2024-06-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/be530da9e2bd4e9f9ce4e8c25b21b249.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">러브버그: “사랑해요~” / 시민들: “으아악”</h3><time class="card-date">2024/06/25</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
