@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/women</id>
     <title>뉴닉 ─ 여성</title>
-    <updated>2024-06-27T23:03:16.073Z</updated>
+    <updated>2024-06-28T00:31:00.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(광고) 이번 여름, ‘컴포즈커피’의 여름이 특별한 이유 ☀️🍹]]></title>
+        <id>https://newneek.co/@newneek/article/9743</id>
+        <link href="https://newneek.co/@newneek/article/9743"/>
+        <updated>2024-06-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/c707813278c1453e84fc61c4c23fc6aa.png" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">(광고) 이번 여름, ‘컴포즈커피’의 여름이 특별한 이유 ☀️🍹</h3><time class="card-date">2024/06/28</time><i class="card-category">라이프</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[핵무장 할 수 있는 거임? 우리나라도? 💣]]></title>
         <id>https://newneek.co/@newneek/article/9809</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9678"/>
         <updated>2024-06-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/be530da9e2bd4e9f9ce4e8c25b21b249.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">러브버그: “사랑해요~” / 시민들: “으아악”</h3><time class="card-date">2024/06/25</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마약, 어떻게 뿌리뽑을 수 있을까?]]></title>
-        <id>https://newneek.co/@newneek/article/9676</id>
-        <link href="https://newneek.co/@newneek/article/9676"/>
-        <updated>2024-06-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/ca1978da9dcf452da17264fc3b32a936.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">마약, 어떻게 뿌리뽑을 수 있을까?</h3><time class="card-date">2024/06/25</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
