@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/newneek/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-30T05:02:55.366Z</updated>
+    <updated>2024-06-30T06:09:34.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한 시대의 끝에 선 사람들 🔨 (뉴닉 ─ 2022 대선)]]></title>
+        <id>https://newneek.co/@newneek/article/9979</id>
+        <link href="https://newneek.co/@newneek/article/9979"/>
+        <updated>2024-06-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bbabb47e9f8444c387ce7e66abfe2246.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한 시대의 끝에 선 사람들 🔨</h3><time class="card-date">2024/06/30</time><i class="card-category">경제</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[극에 달하는 ‘방통위 전쟁’ (뉴닉 ─ 2022 대선)]]></title>
         <id>https://newneek.co/@newneek/article/9976</id>
@@ -80,13 +87,6 @@
         <link href="https://newneek.co/@newneek/article/9701"/>
         <updated>2024-06-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9c0de227ac724cff9341438d7534776a.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이주노동자들의 비극이 반복되지 않으려면</h3><time class="card-date">2024/06/26</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쐐기풀을 먹으라고요? 넘어갈게요 🌿 (뉴닉 ─ 2022 대선)]]></title>
-        <id>https://newneek.co/@newneek/article/9696</id>
-        <link href="https://newneek.co/@newneek/article/9696"/>
-        <updated>2024-06-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/b152b136b77641b8b58e0e6cc093883d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">쐐기풀을 먹으라고요? 넘어갈게요 🌿</h3><time class="card-date">2024/06/26</time><i class="card-category">문화</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰 지휘부 인사 논란 (뉴닉 ─ 정치)]]></title>
@@ -618,6 +618,13 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/image/article/thumbnail/%EB%8B%A8%EC%8B%A0_2_6_ZpP5V7u.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">COP28 총정리: 나 COP쓰, 28살인디 🌿🎂</h3><time class="card-date">2023/12/15</time><i class="card-category">환경</i></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한 시대의 끝에 선 사람들 🔨 (뉴닉 ─ 여성)]]></title>
+        <id>https://newneek.co/@newneek/article/9979</id>
+        <link href="https://newneek.co/@newneek/article/9979"/>
+        <updated>2024-06-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bbabb47e9f8444c387ce7e66abfe2246.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한 시대의 끝에 선 사람들 🔨</h3><time class="card-date">2024/06/30</time><i class="card-category">경제</i></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[극에 달하는 ‘방통위 전쟁’ (뉴닉 ─ 여성)]]></title>
         <id>https://newneek.co/@newneek/article/9976</id>
         <link href="https://newneek.co/@newneek/article/9976"/>
@@ -695,11 +702,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9c0de227ac724cff9341438d7534776a.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이주노동자들의 비극이 반복되지 않으려면</h3><time class="card-date">2024/06/26</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쐐기풀을 먹으라고요? 넘어갈게요 🌿 (뉴닉 ─ 여성)]]></title>
-        <id>https://newneek.co/@newneek/article/9696</id>
-        <link href="https://newneek.co/@newneek/article/9696"/>
-        <updated>2024-06-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/b152b136b77641b8b58e0e6cc093883d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">쐐기풀을 먹으라고요? 넘어갈게요 🌿</h3><time class="card-date">2024/06/26</time><i class="card-category">문화</i></div></div>]]></content>
+        <title type="html"><![CDATA[한 시대의 끝에 선 사람들 🔨 (뉴닉 ─ 코로나19)]]></title>
+        <id>https://newneek.co/@newneek/article/9979</id>
+        <link href="https://newneek.co/@newneek/article/9979"/>
+        <updated>2024-06-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bbabb47e9f8444c387ce7e66abfe2246.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한 시대의 끝에 선 사람들 🔨</h3><time class="card-date">2024/06/30</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[극에 달하는 ‘방통위 전쟁’ (뉴닉 ─ 코로나19)]]></title>
@@ -779,11 +786,11 @@
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9c0de227ac724cff9341438d7534776a.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이주노동자들의 비극이 반복되지 않으려면</h3><time class="card-date">2024/06/26</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쐐기풀을 먹으라고요? 넘어갈게요 🌿 (뉴닉 ─ 코로나19)]]></title>
-        <id>https://newneek.co/@newneek/article/9696</id>
-        <link href="https://newneek.co/@newneek/article/9696"/>
-        <updated>2024-06-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/b152b136b77641b8b58e0e6cc093883d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">쐐기풀을 먹으라고요? 넘어갈게요 🌿</h3><time class="card-date">2024/06/26</time><i class="card-category">문화</i></div></div>]]></content>
+        <title type="html"><![CDATA[한 시대의 끝에 선 사람들 🔨 (뉴닉 ─ 피자스테이션)]]></title>
+        <id>https://newneek.co/@newneek/article/9979</id>
+        <link href="https://newneek.co/@newneek/article/9979"/>
+        <updated>2024-06-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/bbabb47e9f8444c387ce7e66abfe2246.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">한 시대의 끝에 선 사람들 🔨</h3><time class="card-date">2024/06/30</time><i class="card-category">경제</i></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[극에 달하는 ‘방통위 전쟁’ (뉴닉 ─ 피자스테이션)]]></title>
@@ -861,12 +868,5 @@
         <link href="https://newneek.co/@newneek/article/9701"/>
         <updated>2024-06-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9c0de227ac724cff9341438d7534776a.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이주노동자들의 비극이 반복되지 않으려면</h3><time class="card-date">2024/06/26</time><i class="card-category">사회</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쐐기풀을 먹으라고요? 넘어갈게요 🌿 (뉴닉 ─ 피자스테이션)]]></title>
-        <id>https://newneek.co/@newneek/article/9696</id>
-        <link href="https://newneek.co/@newneek/article/9696"/>
-        <updated>2024-06-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/b152b136b77641b8b58e0e6cc093883d.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">쐐기풀을 먹으라고요? 넘어갈게요 🌿</h3><time class="card-date">2024/06/26</time><i class="card-category">문화</i></div></div>]]></content>
     </entry>
 </feed>
