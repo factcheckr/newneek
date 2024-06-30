@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newneek.co/tag/2022-presidential-election</id>
     <title>뉴닉 ─ 2022 대선</title>
-    <updated>2024-06-30T07:02:58.572Z</updated>
+    <updated>2024-06-30T08:09:40.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newneek.co/assets/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오를 일만 남은 기름값]]></title>
+        <id>https://newneek.co/@newneek/article/9983</id>
+        <link href="https://newneek.co/@newneek/article/9983"/>
+        <updated>2024-06-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/a2852a696b844fe99e3d19b5036d1698.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">오를 일만 남은 기름값</h3><time class="card-date">2024/06/30</time><i class="card-category">경제</i></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한 시대의 끝에 선 사람들 🔨]]></title>
         <id>https://newneek.co/@newneek/article/9979</id>
@@ -81,12 +88,5 @@
         <link href="https://newneek.co/@newneek/article/9703"/>
         <updated>2024-06-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/888c765197c0484fbddd638db5aa7602.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">EU: “마이크로소프트, 너도 문제야!”</h3><time class="card-date">2024/06/26</time><i class="card-category">테크</i></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주노동자들의 비극이 반복되지 않으려면]]></title>
-        <id>https://newneek.co/@newneek/article/9701</id>
-        <link href="https://newneek.co/@newneek/article/9701"/>
-        <updated>2024-06-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="card-inner"><figure class="card-thumbnail"><img src="https://d2phebdq64jyfk.cloudfront.net/media/article/9c0de227ac724cff9341438d7534776a.jpg" alt="" loading="lazy"></figure><div class="card-body"><h3 class="card-title">이주노동자들의 비극이 반복되지 않으려면</h3><time class="card-date">2024/06/26</time><i class="card-category">사회</i></div></div>]]></content>
     </entry>
 </feed>
